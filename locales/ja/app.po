@@ -1,0 +1,132 @@
+# Translations template for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-02-23 10:00-0500\n"
+"PO-Revision-Date: 2017-02-23 23:30+0000\n"
+"Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.3.4\n"
+"X-Generator: Pontoon\n"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr "検索語またはアドレスを入力"
+
+msgctxt "teaser"
+msgid ""
+"Automatic private browsing.\n"
+"Browse. Erase. Repeat."
+msgstr ""
+"プライベートブラウジングを自動的に。\n"
+"ブラウズ、消去の繰り返し。"
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a browsing session
+msgctxt "feedback_erase"
+msgid "Your browsing history has been erased."
+msgstr "ページの表示履歴が消去されました。"
+
+#. This label is shown below the URL bar as soon as the user enters text.
+#. Clicking the label will perform a search
+#, c-format
+msgctxt "search_hint"
+msgid "Search for %1$s"
+msgstr "%1$s を検索"
+
+#. Menu item: Navigate back (in browser)
+msgctxt "menu_back"
+msgid "Back"
+msgstr "戻る"
+
+#. Menu item: Navigate forward (in browser)
+msgctxt "menu_forward"
+msgid "Forward"
+msgstr "進む"
+
+#. Menu item: Refresh / Reload the currently visible page
+msgctxt "menu_refresh"
+msgid "Refresh"
+msgstr "再読み込み"
+
+#. Menu item: Share the currently visible page
+msgctxt "menu_share"
+msgid "Share"
+msgstr "共有"
+
+#. Menu item: Open the currently visible page in another browser
+msgctxt "menu_open_with"
+msgid "Open with"
+msgstr "開く:"
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "設定"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "製品情報"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "ヘルプ"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr "あなたの権利"
+
+msgctxt "preference_category_privacy"
+msgid "Privacy"
+msgstr "プライバシー"
+
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "追跡広告をブロック"
+
+msgctxt "preference_privacy_block_analytics"
+msgid "Block analytic trackers"
+msgstr "アクセス解析をブロック"
+
+msgctxt "preference_privacy_block_social"
+msgid "Block social trackers"
+msgstr "ソーシャル追跡をブロック"
+
+msgctxt "preference_privacy_block_content"
+msgid "Block other content trackers"
+msgstr "他の追跡コンテンツをブロック"
+
+msgctxt "preference_privacy_block_content_summary"
+msgid "May break some videos and Web pages"
+msgstr "動画やウェブページが正常に表示されない場合があります"
+
+msgctxt "preference_category_performance"
+msgid "Performance"
+msgstr "パフォーマンス"
+
+msgctxt "preference_performance_block_webfonts"
+msgid "Block Web fonts"
+msgstr "ウェブフォントをブロック"
+
+msgctxt "preference_category_mozilla"
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgctxt "preference_mozilla_telemetry"
+msgid "Send anonymous usage data"
+msgstr "利用データを匿名で送信する"
+
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Learn more"
+msgstr "詳細情報"
