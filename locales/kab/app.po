@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-02-23 10:00-0500\n"
-"PO-Revision-Date: 2017-02-24 15:07+0000\n"
+"PO-Revision-Date: 2017-02-24 19:20+0000\n"
 "Last-Translator: Moḥend Belqasem <belkacem77@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kab\n"
@@ -23,26 +23,28 @@ msgstr ""
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Nadi neɣ sekcem tansa"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Tunigin tusligt tawurmant.\n"
+"Snirem. Kkes. Sniles."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Amazray-inek n unadi yettwasfed."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Nadi %1$s"
 
 #. Menu item: Navigate back (in browser)
 msgctxt "menu_back"
@@ -57,74 +59,74 @@ msgstr "Ɣer zdat"
 #. Menu item: Refresh / Reload the currently visible page
 msgctxt "menu_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "Smiren"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Bḍu"
 
 #. Menu item: Open the currently visible page in another browser
 msgctxt "menu_open_with"
 msgid "Open with"
-msgstr ""
+msgstr "Ldi s"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Iɣewwaṛen"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Ɣef"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Tallalt"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Izerfan-inek"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Tabaḍnit"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Sewḥel inedfaṛen"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Sewḥel inedfaṛen usliḍen"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Sewḥel inedfaṛen n tmetti"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Sewḥel ineḍfaṛen-nniḍen n ugbur"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Yezmer ad isewḥel kra n tvidyutin akked kra n isebtar Web ad d-banen akken iwata"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Tamellit"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Sewḥel tisefsiyin Web"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Azen isefka n useqdec udrigen"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Issin ugar"
