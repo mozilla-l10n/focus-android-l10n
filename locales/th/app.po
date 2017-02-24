@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-02-23 10:00-0500\n"
-"PO-Revision-Date: 2017-02-24 06:48+0000\n"
+"PO-Revision-Date: 2017-02-24 10:25+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
@@ -30,12 +30,14 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"การท่องเว็บแบบส่วนตัวอัตโนมัติ\n"
+"ท่องเว็บ ล้าง ทำซ้ำ"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "ล้างประวัติการท่องเว็บของคุณแล้ว"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -57,7 +59,7 @@ msgstr "เดินหน้า"
 #. Menu item: Refresh / Reload the currently visible page
 msgctxt "menu_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "เรียกใหม่"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -91,39 +93,39 @@ msgstr "ความเป็นส่วนตัว"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "ปิดกั้นตัวติดตามของโฆษณา"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "ปิดกั้นตัวติดตามของการวิเคราะห์"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "ปิดกั้นตัวติดตามทางสังคม"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "ปิดกั้นตัวติดตามของเนื้อหาอื่น ๆ"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "อาจทำให้บางวิดีโอและหน้าเว็บไม่สมบูรณ์"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "ประสิทธิภาพ"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "ปิดกั้นแบบอักษรเว็บ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "ส่งข้อมูลการใช้งานแบบไม่ระบุตัวตน"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
