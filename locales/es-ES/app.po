@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-02-23 10:00-0500\n"
-"PO-Revision-Date: 2017-02-24 13:50+0000\n"
+"PO-Revision-Date: 2017-02-24 13:54+0000\n"
 "Last-Translator: avelper <avelper@mozilla-hispano.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_ES\n"
@@ -30,101 +30,103 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Navegación privada automática.\n"
+"Navegar. Eliminar. Repetir."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Se ha eliminado tu historial de búsqueda."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Buscar %1$s"
 
 #. Menu item: Navigate back (in browser)
 msgctxt "menu_back"
 msgid "Back"
-msgstr ""
+msgstr "Atrás"
 
 #. Menu item: Navigate forward (in browser)
 msgctxt "menu_forward"
 msgid "Forward"
-msgstr ""
+msgstr "Siguiente"
 
 #. Menu item: Refresh / Reload the currently visible page
 msgctxt "menu_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "Actualizar"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Compartir"
 
 #. Menu item: Open the currently visible page in another browser
 msgctxt "menu_open_with"
 msgid "Open with"
-msgstr ""
+msgstr "Abrir con"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Ajustes"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Tus derechos"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Privacidad"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Bloquear rastreadores de publicidad"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Bloquear rastreadores analíticos"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Bloquear rastreadores sociales"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Bloquear rastreadores de otros contenidos"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Puede que algunos videos y páginas web no funcionen bien"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Rendimiento"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Bloquear fuentes web"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Enviar datos de uso anónimos"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Descubrir más"
