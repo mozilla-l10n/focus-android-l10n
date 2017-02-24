@@ -1,0 +1,132 @@
+# Translations template for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-02-23 10:00-0500\n"
+"PO-Revision-Date: 2017-02-24 11:12+0000\n"
+"Last-Translator: Tomer Cohen <tomer.mozilla@tomercohen.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.3.4\n"
+"X-Generator: Pontoon\n"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr "חיפוש או הכנסת כתובת"
+
+msgctxt "teaser"
+msgid ""
+"Automatic private browsing.\n"
+"Browse. Erase. Repeat."
+msgstr ""
+"גלישה פרטית אוטומטית.\n"
+"גלישה. מחיקה. חזרה להתחלה."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a browsing session
+msgctxt "feedback_erase"
+msgid "Your browsing history has been erased."
+msgstr "היסטוריית הגלישה שלך נמחקה."
+
+#. This label is shown below the URL bar as soon as the user enters text.
+#. Clicking the label will perform a search
+#, c-format
+msgctxt "search_hint"
+msgid "Search for %1$s"
+msgstr "חיפוש עבור %1$s"
+
+#. Menu item: Navigate back (in browser)
+msgctxt "menu_back"
+msgid "Back"
+msgstr "חזרה"
+
+#. Menu item: Navigate forward (in browser)
+msgctxt "menu_forward"
+msgid "Forward"
+msgstr "קדימה"
+
+#. Menu item: Refresh / Reload the currently visible page
+msgctxt "menu_refresh"
+msgid "Refresh"
+msgstr "רענון"
+
+#. Menu item: Share the currently visible page
+msgctxt "menu_share"
+msgid "Share"
+msgstr "שיתוף"
+
+#. Menu item: Open the currently visible page in another browser
+msgctxt "menu_open_with"
+msgid "Open with"
+msgstr "פתיחה באמצעות"
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "הגדרות"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "אודות"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "עזרה"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr "הזכויות שלך"
+
+msgctxt "preference_category_privacy"
+msgid "Privacy"
+msgstr "פרטיות"
+
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "חסימת רכיבי מעקב"
+
+msgctxt "preference_privacy_block_analytics"
+msgid "Block analytic trackers"
+msgstr "חסימת מעקב של כלי ניתוח"
+
+msgctxt "preference_privacy_block_social"
+msgid "Block social trackers"
+msgstr "חסימת רכיבי מעקב חברתיים"
+
+msgctxt "preference_privacy_block_content"
+msgid "Block other content trackers"
+msgstr "חסימת כלי מעקב אחרים"
+
+msgctxt "preference_privacy_block_content_summary"
+msgid "May break some videos and Web pages"
+msgstr "עלולה לשבש את פעילותם של דפי אינטרנט ומספר סרטונים"
+
+msgctxt "preference_category_performance"
+msgid "Performance"
+msgstr "ביצועים"
+
+msgctxt "preference_performance_block_webfonts"
+msgid "Block Web fonts"
+msgstr "חסימת גופני רשת"
+
+msgctxt "preference_category_mozilla"
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgctxt "preference_mozilla_telemetry"
+msgid "Send anonymous usage data"
+msgstr "שליחת נתוני שימוש אנונימיים"
+
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Learn more"
+msgstr "מידע נוסף"
