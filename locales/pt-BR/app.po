@@ -1,0 +1,132 @@
+# Translations template for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-02-23 10:00-0500\n"
+"PO-Revision-Date: 2017-02-26 13:31+0000\n"
+"Last-Translator: Marco Aurélio <fxhelp@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Generated-By: Babel 2.3.4\n"
+"X-Generator: Pontoon\n"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr "Pesquisar ou navegar"
+
+msgctxt "teaser"
+msgid ""
+"Automatic private browsing.\n"
+"Browse. Erase. Repeat."
+msgstr ""
+"Navegação privativa automatica.\n"
+"Navegar. Apagar. Repetir."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a browsing session
+msgctxt "feedback_erase"
+msgid "Your browsing history has been erased."
+msgstr "Seu histórico de navegação foi apagado."
+
+#. This label is shown below the URL bar as soon as the user enters text.
+#. Clicking the label will perform a search
+#, c-format
+msgctxt "search_hint"
+msgid "Search for %1$s"
+msgstr "Pesquisar por %1$s"
+
+#. Menu item: Navigate back (in browser)
+msgctxt "menu_back"
+msgid "Back"
+msgstr "Voltar"
+
+#. Menu item: Navigate forward (in browser)
+msgctxt "menu_forward"
+msgid "Forward"
+msgstr "Avançar"
+
+#. Menu item: Refresh / Reload the currently visible page
+msgctxt "menu_refresh"
+msgid "Refresh"
+msgstr "Atualizar"
+
+#. Menu item: Share the currently visible page
+msgctxt "menu_share"
+msgid "Share"
+msgstr "Compartilhar"
+
+#. Menu item: Open the currently visible page in another browser
+msgctxt "menu_open_with"
+msgid "Open with"
+msgstr "Abrir com"
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "Configurações"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "Sobre"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "Ajuda"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr "Seus direitos"
+
+msgctxt "preference_category_privacy"
+msgid "Privacy"
+msgstr "Privacidade"
+
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "Bloquear rastreadores de anúncio"
+
+msgctxt "preference_privacy_block_analytics"
+msgid "Block analytic trackers"
+msgstr "Bloquear rastreadores analíticos"
+
+msgctxt "preference_privacy_block_social"
+msgid "Block social trackers"
+msgstr "Bloquear rastreadores de mídias sociais"
+
+msgctxt "preference_privacy_block_content"
+msgid "Block other content trackers"
+msgstr "Bloquear outros rastreadores de conteúdo"
+
+msgctxt "preference_privacy_block_content_summary"
+msgid "May break some videos and Web pages"
+msgstr "Pode quebrar alguns vídeos e páginas Web"
+
+msgctxt "preference_category_performance"
+msgid "Performance"
+msgstr "Desempenho"
+
+msgctxt "preference_performance_block_webfonts"
+msgid "Block Web fonts"
+msgstr "Bloquear fontes Web"
+
+msgctxt "preference_category_mozilla"
+msgid "Mozilla"
+msgstr ""
+
+msgctxt "preference_mozilla_telemetry"
+msgid "Send anonymous usage data"
+msgstr ""
+
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Learn more"
+msgstr ""
