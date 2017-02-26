@@ -1,0 +1,133 @@
+# Translations template for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-02-23 10:00-0500\n"
+"PO-Revision-Date: 2017-02-26 16:07+0000\n"
+"Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
+"n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 2.3.4\n"
+"X-POOTLE-MTIME: 1488125227.000000\n"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr "ابحث أو أدخل عنوانا"
+
+msgctxt "teaser"
+msgid ""
+"Automatic private browsing.\n"
+"Browse. Erase. Repeat."
+msgstr ""
+"تصفح خاص تلقائي.\n"
+"تصفح. امسح. كرر."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a browsing session
+msgctxt "feedback_erase"
+msgid "Your browsing history has been erased."
+msgstr "لقد مسح تأريخ تصفحك."
+
+#. This label is shown below the URL bar as soon as the user enters text.
+#. Clicking the label will perform a search
+#, c-format
+msgctxt "search_hint"
+msgid "Search for %1$s"
+msgstr "ابحث عن %1$s"
+
+#. Menu item: Navigate back (in browser)
+msgctxt "menu_back"
+msgid "Back"
+msgstr "السابق"
+
+#. Menu item: Navigate forward (in browser)
+msgctxt "menu_forward"
+msgid "Forward"
+msgstr "التالي"
+
+#. Menu item: Refresh / Reload the currently visible page
+msgctxt "menu_refresh"
+msgid "Refresh"
+msgstr "أنعِش"
+
+#. Menu item: Share the currently visible page
+msgctxt "menu_share"
+msgid "Share"
+msgstr "شارك"
+
+#. Menu item: Open the currently visible page in another browser
+msgctxt "menu_open_with"
+msgid "Open with"
+msgstr "افتح باستخدام"
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "عن"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "مساعدة"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr "حقوقك"
+
+msgctxt "preference_category_privacy"
+msgid "Privacy"
+msgstr "الخصوصية"
+
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "احظر متعقبات الإعلانات"
+
+msgctxt "preference_privacy_block_analytics"
+msgid "Block analytic trackers"
+msgstr "احظر متعقبات التحليلات"
+
+msgctxt "preference_privacy_block_social"
+msgid "Block social trackers"
+msgstr "احظر المتعقبات الاجتماعية"
+
+msgctxt "preference_privacy_block_content"
+msgid "Block other content trackers"
+msgstr "احظر متعقبات المحتوى الأخرى"
+
+msgctxt "preference_privacy_block_content_summary"
+msgid "May break some videos and Web pages"
+msgstr "قد يعطل بعض الڤديو و صفحات الوب"
+
+msgctxt "preference_category_performance"
+msgid "Performance"
+msgstr "الأداء"
+
+msgctxt "preference_performance_block_webfonts"
+msgid "Block Web fonts"
+msgstr "احظر خطوط الوب"
+
+msgctxt "preference_category_mozilla"
+msgid "Mozilla"
+msgstr "موزيلا"
+
+msgctxt "preference_mozilla_telemetry"
+msgid "Send anonymous usage data"
+msgstr "أرسل بيانات استخدام مجهّلة"
+
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Learn more"
+msgstr "اطّلع على المزيد"
