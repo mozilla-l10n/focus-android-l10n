@@ -1,0 +1,132 @@
+# Translations template for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-02-23 10:00-0500\n"
+"PO-Revision-Date: 2017-02-27 14:44+0000\n"
+"Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Generated-By: Babel 2.3.4\n"
+"X-Generator: Pontoon\n"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr "Zadajte hľadanie alebo adresu"
+
+msgctxt "teaser"
+msgid ""
+"Automatic private browsing.\n"
+"Browse. Erase. Repeat."
+msgstr ""
+"Automatické súkromné prehliadanie.\n"
+"Prehliadajte. Vymažte históriu. Opakujte."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a browsing session
+msgctxt "feedback_erase"
+msgid "Your browsing history has been erased."
+msgstr "Vaša história prehliadania bola vymazaná."
+
+#. This label is shown below the URL bar as soon as the user enters text.
+#. Clicking the label will perform a search
+#, c-format
+msgctxt "search_hint"
+msgid "Search for %1$s"
+msgstr "Vyhľadať %1$s"
+
+#. Menu item: Navigate back (in browser)
+msgctxt "menu_back"
+msgid "Back"
+msgstr "Naspäť"
+
+#. Menu item: Navigate forward (in browser)
+msgctxt "menu_forward"
+msgid "Forward"
+msgstr "Dopredu"
+
+#. Menu item: Refresh / Reload the currently visible page
+msgctxt "menu_refresh"
+msgid "Refresh"
+msgstr "Obnoviť"
+
+#. Menu item: Share the currently visible page
+msgctxt "menu_share"
+msgid "Share"
+msgstr "Zdieľať"
+
+#. Menu item: Open the currently visible page in another browser
+msgctxt "menu_open_with"
+msgid "Open with"
+msgstr "Otvoriť pomocou"
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "O aplikácii"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "Pomocník"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr "Vaše práva"
+
+msgctxt "preference_category_privacy"
+msgid "Privacy"
+msgstr "Súkromie"
+
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "Blokovať reklamné sledovacie prvky"
+
+msgctxt "preference_privacy_block_analytics"
+msgid "Block analytic trackers"
+msgstr "Blokovať analytické sledovacie prvky"
+
+msgctxt "preference_privacy_block_social"
+msgid "Block social trackers"
+msgstr "Blokovať sledovacie prvky sociálnych sietí"
+
+msgctxt "preference_privacy_block_content"
+msgid "Block other content trackers"
+msgstr "Blokovať ostatné sledovacie prvky"
+
+msgctxt "preference_privacy_block_content_summary"
+msgid "May break some videos and Web pages"
+msgstr "Toto môže rozbiť niektoré videá a webové stránky"
+
+msgctxt "preference_category_performance"
+msgid "Performance"
+msgstr "Výkon"
+
+msgctxt "preference_performance_block_webfonts"
+msgid "Block Web fonts"
+msgstr "Blokovať webové písma"
+
+msgctxt "preference_category_mozilla"
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgctxt "preference_mozilla_telemetry"
+msgid "Send anonymous usage data"
+msgstr "Odosielať anonymné údaje o používaní"
+
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Learn more"
+msgstr "Ďalšie informácie"
