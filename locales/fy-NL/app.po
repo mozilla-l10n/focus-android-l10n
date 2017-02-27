@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-02-23 10:00-0500\n"
-"PO-Revision-Date: 2017-02-27 11:26+0000\n"
+"PO-Revision-Date: 2017-02-27 11:44+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fy_NL\n"
@@ -30,101 +30,103 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Automatysk privee sneupe.\n"
+"Sneupe. Wiskje. Werhelje."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Jo sneupskiednis is wiske."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Sykje nei %1$s"
 
 #. Menu item: Navigate back (in browser)
 msgctxt "menu_back"
 msgid "Back"
-msgstr ""
+msgstr "Tebek"
 
 #. Menu item: Navigate forward (in browser)
 msgctxt "menu_forward"
 msgid "Forward"
-msgstr ""
+msgstr "Foarút"
 
 #. Menu item: Refresh / Reload the currently visible page
 msgctxt "menu_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "Fernije"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Diele"
 
 #. Menu item: Open the currently visible page in another browser
 msgctxt "menu_open_with"
 msgid "Open with"
-msgstr ""
+msgstr "Iepenje mei"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Ynstellingen"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Oer"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Jo rjochten"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Advertinsjetrackers blokkearje"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Analysetrackers blokkearje"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Sosjale trackers blokkearje"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Oare ynhâldstrackers blokkearje"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Kin guon fideo’s en websiden fersteure"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Prestaasjes"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Weblettertypen blokkearje"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Anonime brûksgegevens ferstjoere"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Lês mear"
