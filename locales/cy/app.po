@@ -2,126 +2,130 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-02-23 10:00-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-03-01 14:21+0000\n"
+"Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.0.0\n"
+"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.3.4\n"
+"X-POOTLE-MTIME: 1488378110.000000\n"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Chwilio neu gyfeiriad"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Pori preifat awtomatig.\n"
+"Pori. Dileu. Ailadrodd."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Mae eich hanes pori wedi cael ei ddileu."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Chwilio am %1$s"
 
 #. Menu item: Navigate back (in browser)
 msgctxt "menu_back"
 msgid "Back"
-msgstr ""
+msgstr "Nôl"
 
 #. Menu item: Navigate forward (in browser)
 msgctxt "menu_forward"
 msgid "Forward"
-msgstr ""
+msgstr "Ymlaen"
 
 #. Menu item: Refresh / Reload the currently visible page
 msgctxt "menu_refresh"
 msgid "Refresh"
-msgstr ""
+msgstr "Adnewyddu"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share"
-msgstr ""
+msgstr "Rhannu"
 
 #. Menu item: Open the currently visible page in another browser
 msgctxt "menu_open_with"
 msgid "Open with"
-msgstr ""
+msgstr "Agor gyda"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Gosodiadau"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Ynghylch"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Cymorth"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Eich Hawliau"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Preifatrwydd"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Rhwystro tracwyr hysbysebion"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Rhwystro tracwyr dadansoddi"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Rhwystro tracwyr cymdeithasol"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Rhwystro tracwyr cynnwys eraill"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Gall dorri rhai fideos a thudalennau Gwe"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Perfformiad"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Rhwystro ffontiau Gwe"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Anfon defnydd data dienw"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Dysgu rhagor"
