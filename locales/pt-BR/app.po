@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-03-06 14:30+0000\n"
+"PO-Revision-Date: 2017-03-06 14:35+0000\n"
 "Last-Translator: Cynthia Pereira <cynthiacpereira@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -47,10 +47,9 @@ msgid "Search for %1$s"
 msgstr "Pesquisar por %1$s"
 
 #. Menu item: Share the currently visible page
-#, fuzzy
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Compartilhar"
+msgstr "Compartilhar…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -154,7 +153,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Dispensar"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
@@ -178,7 +177,7 @@ msgstr "Carregando"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Site carregado"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -200,11 +199,11 @@ msgstr "Recarregar o site"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Navegar como se ninguém estivesse olhando."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "Bloqueie automaticamente os rastreadores on-line enquanto navega. Então, toque para apagar páginas visitadas, pesquisas, cookies e senhas do seu dispositivo."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
