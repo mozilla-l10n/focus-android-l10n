@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-03-06 17:03+0000\n"
+"PO-Revision-Date: 2017-03-06 17:23+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -47,10 +47,9 @@ msgid "Search for %1$s"
 msgstr "Rechercher %1$s"
 
 #. Menu item: Share the currently visible page
-#, fuzzy
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Partager"
+msgstr "Partager…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -212,4 +211,4 @@ msgstr "D’accord, j’ai compris."
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "Note : les services et sites web que vous utilisez peuvent toujours déterminer où vous êtes allé. "
