@@ -1,24 +1,22 @@
-# Translations template for PROJECT.
+# Albanian translations for PROJECT.
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-02-23 10:00-0500\n"
+"POT-Creation-Date: 2017-03-06 14:20+0100\n"
 "PO-Revision-Date: 2017-02-24 13:11+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sq\n"
+"Language-Team: sq <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((n == 1) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Generated-By: Babel 2.3.4\n"
-"X-Generator: Pontoon\n"
+"Generated-By: Babel 1.3\n"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -46,30 +44,30 @@ msgctxt "search_hint"
 msgid "Search for %1$s"
 msgstr "Kërko për %1$s"
 
-#. Menu item: Navigate back (in browser)
-msgctxt "menu_back"
-msgid "Back"
-msgstr "Mbrapsht"
-
-#. Menu item: Navigate forward (in browser)
-msgctxt "menu_forward"
-msgid "Forward"
-msgstr "Përpara"
-
-#. Menu item: Refresh / Reload the currently visible page
-msgctxt "menu_refresh"
-msgid "Refresh"
-msgstr "Rifreskoje"
-
 #. Menu item: Share the currently visible page
+#, fuzzy
 msgctxt "menu_share"
-msgid "Share"
+msgid "Share…"
 msgstr "Ndajeni me të tjerët"
 
-#. Menu item: Open the currently visible page in another browser
-msgctxt "menu_open_with"
-msgid "Open with"
-msgstr "Hape me"
+#. Menu item: Switch to another browser to open the currently visible page.
+#. %1$s will be       replaces with the name of the browser like: "Open with
+#. Firefox" or "Open with Chrome". Some       links can be opened by native
+#. apps that aren't a browser, e.g. "Open with YouTube"
+#, c-format
+msgctxt "menu_open_with_default_browser"
+msgid "Open with %1$s"
+msgstr ""
+
+#. Menu item: Switch to another browser to open the currently visible page.
+#. This menu item       will be shown if there are multiple browsers and we do
+#. not know which one is the default       browser or in case Focus is actually
+#. the default browser. Clicking this menu item will show       a screen with
+#. multiple browsers (or other apps that can open the current URL) to choose
+#. from.
+msgctxt "menu_open_with_a_browser"
+msgid "Open with…"
+msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -119,6 +117,17 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "Blloko shkronja Web"
 
+msgctxt "preference_performance_block_images"
+msgid "Block Images"
+msgstr ""
+
+#. This preference does not set Focus as the default browser but instead links
+#. to Android's      "default apps" screen or if not supported by this Android
+#. version to a SUMO page describing      how to set Focus as a default browser
+msgctxt "preference_default_browser"
+msgid "Make default browser"
+msgstr ""
+
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
 msgstr "Mozilla"
@@ -130,3 +139,78 @@ msgstr "Dërgo të dhëna anonime përdorimi"
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
 msgstr "Mësoni më tepër"
+
+#. Content description (not visible, for screen readers etc.): Clear text in
+#. URL bar
+msgctxt "content_description_clear_input"
+msgid "Clear input"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Clicking on the
+#. website overlay      while in typing mode will dismiss and go back to the
+#. browser. This text will be read when the      overlay if focused. See
+#. https://github.com/mozilla-mobile/focus-android/issues/50
+msgctxt "content_description_dismiss_input"
+msgid "Dismiss"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Erase button:
+#. Erase the browsing      history and go back to the home screen.
+msgctxt "content_description_erase"
+msgid "Erase browsing history"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Lock icon
+#. showed in the URL bar for      https pages..
+msgctxt "content_description_lock"
+msgid "Secure connection"
+msgstr ""
+
+#. This text is not visible. Instead it will be read by the accessibility
+#. service once we start      loading a website
+msgctxt "accessibility_announcement_loading"
+msgid "Loading"
+msgstr ""
+
+#. This text is not visible. Instead it will be read by the accessibility
+#. service once we      finished loading a website
+msgctxt "accessibility_announcement_loading_finished"
+msgid "Website loaded"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): "Three dot"
+#. menu button.
+msgctxt "content_description_menu"
+msgid "More options"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Navigate
+#. forward (browsing history)
+msgctxt "content_description_forward"
+msgid "Navigate forward"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Reload current
+#. website
+msgctxt "content_description_reload"
+msgid "Reload website"
+msgstr ""
+
+msgctxt "firstrun_title"
+msgid "Browse like no one’s watching."
+msgstr ""
+
+msgctxt "firstrun_description"
+msgid ""
+"Automatically block online trackers while you browse. Then tap to erase "
+"visited pages, searches, cookies and passwords from your device."
+msgstr ""
+
+msgctxt "firstrun_button"
+msgid "Ok, got it!"
+msgstr ""
+
+msgctxt "firstrun_footer"
+msgid "To be clear, sites and service you use can still know where you've been."
+msgstr ""
+
