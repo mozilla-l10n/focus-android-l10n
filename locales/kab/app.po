@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-03-07 08:10+0000\n"
+"PO-Revision-Date: 2017-03-07 08:17+0000\n"
 "Last-Translator: Moḥend Belqasem <belkacem77@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -47,10 +47,9 @@ msgid "Search for %1$s"
 msgstr "Nadi %1$s"
 
 #. Menu item: Share the currently visible page
-#, fuzzy
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Bḍu"
+msgstr "Bḍu…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -121,14 +120,14 @@ msgstr "Sewḥel tisefsiyin Web"
 
 msgctxt "preference_performance_block_images"
 msgid "Block Images"
-msgstr ""
+msgstr "Sewḥel tugniwin"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Err-it d iminig amezwer"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -146,7 +145,7 @@ msgstr "Issin ugar"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Sfeḍ anekcam"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -154,62 +153,62 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Kkes"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Kkes amazray n tunigin"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Tuqqna taɣelsant"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Asali"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Asmel web yuli-d"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Ugar n iɣewwaṛen"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Inig ar zdat"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Ales asali n usmel web"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Inig am akken ulac win i k-id-ittmuqqulen."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "Sewḥ€l s wudem awurman inedfaṛen ticki tettinigeḍ. Senned sakin ɣef tqeffalt Sfeḍ akken ad tekkseḍ isebtar yettwarzan, inadiyen, inagan n tuqqna akked wawalen uffiren."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
-msgstr ""
+msgstr "Ih, gziɣ!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "Akken ad tegzuḍ, ismal akked imeẓla zeren yakan ad ẓren anida telliḍ."
