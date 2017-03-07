@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-02-24 20:09+0000\n"
-"Last-Translator: Slimane Amiri <slimane.amiri@gmail.com>\n"
+"PO-Revision-Date: 2017-03-07 08:10+0000\n"
+"Last-Translator: Moḥend Belqasem <belkacem77@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n >= 0 && n <= 2)) && (n != 2)) ? 0 "
-": 1)\n"
+"Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -58,7 +59,7 @@ msgstr "Bḍu"
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Ldi s %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -68,7 +69,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Ldi s…"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -108,9 +109,7 @@ msgstr "Sewḥel ineḍfaṛen-nniḍen n ugbur"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
-"Yezmer ad isewḥel kra n tvidyutin akked kra n isebtar Web ad d-banen "
-"akken iwata"
+msgstr "Yezmer ad isewḥel kra n tvidyutin akked kra n isebtar Web ad d-banen akken iwata"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -204,9 +203,7 @@ msgid "Browse like no one’s watching."
 msgstr ""
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
 msgstr ""
 
 msgctxt "firstrun_button"
@@ -216,4 +213,3 @@ msgstr ""
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
 msgstr ""
-
