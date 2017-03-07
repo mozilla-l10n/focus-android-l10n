@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-03-07 02:50+0000\n"
+"PO-Revision-Date: 2017-03-07 03:03+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -30,24 +30,26 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"자동화된 사생활 보호 브라우저.\n"
+"쓰고, 지우고. 쓰고, 지우고."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "페이지 탐색 기록이 삭제되었습니다."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "%1$s 검색"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "공유…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -56,7 +58,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "%1$s로 열기"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -66,84 +68,84 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "다음으로 열기…"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "정보"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "사용자 권리"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "개인 정보"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "광고 추적기 차단"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "분석용 추적기 차단"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "소셜 추적기 차단"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "기타 콘텐츠 추적기 차단"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "동영상이나 웹 페이지가 제대로 표시되지 않을 수 있음"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "성능"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "웹 폰트 차단"
 
 msgctxt "preference_performance_block_images"
 msgid "Block Images"
-msgstr ""
+msgstr "이미지 차단"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "기본 브라우저로 설정"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "익명으로 사용 데이터 보내기"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "상세정보"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "입력 값 초기화"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -151,62 +153,62 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "취소"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "탐색 기록 지우기"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "보안 연결"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "로딩 중"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "웹 사이트 불러옴"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "옵션 더보기"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "앞으로 가기"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "웹 사이트 다시 불러오기"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "아무도 모르게 탐색합니다."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "검색 중 온라인 추적을 자동으로 차단합니다. 클릭만으로 방문한 페이지, 검색 기록, 쿠키, 암호를 단말기에서 삭제할 수 있습니다."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
-msgstr ""
+msgstr "알겠습니다!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "명확히 하자면, 사이트와 서비스는 여전히 사용자가 어디에서 왔는지 알 수 있습니다."
