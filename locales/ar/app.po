@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-02-26 16:07+0000\n"
+"PO-Revision-Date: 2017-03-07 21:02+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1488125227.000000\n"
+"X-POOTLE-MTIME: 1488920532.000000\n"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -49,7 +49,7 @@ msgstr "ابحث عن %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "شارك…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -58,7 +58,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "افتح في %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -68,7 +68,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "افتح في…"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -120,14 +120,14 @@ msgstr "احظر خطوط الوب"
 
 msgctxt "preference_performance_block_images"
 msgid "Block Images"
-msgstr ""
+msgstr "امنع الصور"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "اجعله المتصفح المبدئي"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -145,7 +145,7 @@ msgstr "اطّلع على المزيد"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "امسح الإدخال"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -153,68 +153,70 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "غادِر"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "امسح تأريخ التصفح"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "اتصال آمن"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "يُحمّل"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "تم تحميل الموقع"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "المزيد من الخيارات"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "تصفّح للأمام"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "أعِد تحميل الموقع"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "تصفح و لا أحد يراقبك."
 
 msgctxt "firstrun_description"
 msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
+"احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي زرتها، "
+"و تأريخ البحث، و الكعكات، و كلمات السر من جهازك."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
-msgstr ""
+msgstr "حسنًا، فهمت"
 
 msgctxt "firstrun_footer"
 msgid ""
 "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "للتوضيح؛ المواقع و الخدمات التي تستخدمها يمكنها أن تعرف أي كنت."
 
 #~ msgctxt "menu_back"
 #~ msgid "Back"
