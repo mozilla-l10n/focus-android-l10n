@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-06 14:20+0100\n"
-"PO-Revision-Date: 2017-03-08 08:38+0000\n"
-"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
+"PO-Revision-Date: 2017-03-09 21:53+0000\n"
+"Last-Translator: eljuno <eljunotrie_anggoro@yahoo.co.id>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -47,10 +47,9 @@ msgid "Search for %1$s"
 msgstr "Cari %1$s"
 
 #. Menu item: Share the currently visible page
-#, fuzzy
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Bagikan"
+msgstr "Bagikan…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
