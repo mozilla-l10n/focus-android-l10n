@@ -2,26 +2,28 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-13 14:23+0100\n"
-"PO-Revision-Date: 2017-03-07 13:33+0000\n"
+"PO-Revision-Date: 2017-03-13 19:16+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -91,17 +93,17 @@ msgstr "您的权利"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "默认搜索"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -135,7 +137,6 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "拦截网络字体"
 
-#, fuzzy
 msgctxt "preference_performance_block_images"
 msgid "Block images"
 msgstr "屏蔽图像"
@@ -220,9 +221,7 @@ msgid "Browse like no one’s watching."
 msgstr "悄然浏览。"
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
 msgstr "在您浏览时自动屏蔽在线跟踪器。一按即可清除您的设备上的访问记录、搜索记录、Cookie 以及保存的密码。"
 
 msgctxt "firstrun_button"
@@ -232,4 +231,3 @@ msgstr "了解了！"
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
 msgstr "也请了解，您使用的网站和服务仍然可能获知您造访的内容。"
-
