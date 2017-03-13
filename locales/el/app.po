@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-06 14:20+0100\n"
+"POT-Creation-Date: 2017-03-13 14:23+0100\n"
 "PO-Revision-Date: 2017-03-05 20:17+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
@@ -17,6 +17,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 1.3\n"
+
+#. Label used for buttons, e.g. in dialogs
+msgctxt "action_cancel"
+msgid "Cancel"
+msgstr ""
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -85,6 +90,20 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "Τα δικαιώματά σας"
 
+msgctxt "preference_category_search"
+msgid "Search"
+msgstr ""
+
+#. This label is shown below the name of the default search engine in settings
+msgctxt "preference_search_engine_default"
+msgid "Default"
+msgstr ""
+
+#. This is the title of the dialog for selecting a new default search engine
+msgctxt "preference_dialog_title_search_engine"
+msgid "Default search"
+msgstr ""
+
 msgctxt "preference_category_privacy"
 msgid "Privacy"
 msgstr "Απόρρητο"
@@ -117,8 +136,9 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "Φραγή γραμματοσειρών ιστού"
 
+#, fuzzy
 msgctxt "preference_performance_block_images"
-msgid "Block Images"
+msgid "Block images"
 msgstr ""
 
 #. This preference does not set Focus as the default browser but instead links
