@@ -2,31 +2,33 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-14 18:54+0100\n"
-"PO-Revision-Date: 2017-03-09 08:46+0000\n"
+"PO-Revision-Date: 2017-03-14 18:50+0000\n"
 "Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "تایید"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -96,17 +98,17 @@ msgstr "حقوق شما"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "جست‌وجو"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "پیش‌فرض"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "جست‌وجو پیش‌فرض"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -140,7 +142,6 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "مسدود کردن قلم‌های وب"
 
-#, fuzzy
 msgctxt "preference_performance_block_images"
 msgid "Block images"
 msgstr "مسدود کردن تصاویر"
@@ -225,13 +226,8 @@ msgid "Browse like no one’s watching."
 msgstr "بدون دغدغهٔ نگاه‌ها مرور کنید."
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
-msgstr ""
-"به طور خودکار ردیاب‌های برخط را هنگام مرور مسدود کنید. بعد از آن با یک "
-"لمس، صفحات، جست‌وجوها، کوکی‌ها و گذرواژه‌هایی که مشاهده کرده‌اید را از "
-"روی دستگاه خود حذف کنید."
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
+msgstr "به طور خودکار ردیاب‌های برخط را هنگام مرور مسدود کنید. بعد از آن با یک لمس، صفحات، جست‌وجوها، کوکی‌ها و گذرواژه‌هایی که مشاهده کرده‌اید را از روی دستگاه خود حذف کنید."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
@@ -239,13 +235,11 @@ msgstr "باشه، گرفتم!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
-"بعنوان شفاف‌سازی، سایت‌ها و سرویس‌هایی که از آنها استفاده می‌کنید هنوز "
-"میتوانند بدانند که چه کارهایی انجام داده‌اید."
+msgstr "بعنوان شفاف‌سازی، سایت‌ها و سرویس‌هایی که از آنها استفاده می‌کنید هنوز میتوانند بدانند که چه کارهایی انجام داده‌اید."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "حقوق شما"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -267,47 +261,43 @@ msgstr ""
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. Do you want "
-"to exit %1$s and open %2$s to find a suitable app?"
+msgid "None of the apps on your device are able to open this link. Do you want to exit %1$s and open %2$s to find a suitable app?"
 msgstr ""
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "از مرور ناشناس خارج می‌شوید؟"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "مشکل در بارگیری صفحه"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "تلاش مجدد"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "اتصال ناموفق بود"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "مهلت اتصال تمام شد"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "کارگزار پیدا نشد"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -315,34 +305,30 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "این آدرس معتبر نیست"
 
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "تغییر مسیر این صفحه به درستی انجام نمی‌شود"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -353,32 +339,28 @@ msgstr ""
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "اتصال امن شکست خورد"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "اوه"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
-
+msgstr "بنا به دلایلی بارگیری این صفحه ممکن نبود."
