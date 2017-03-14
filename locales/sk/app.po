@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-13 14:23+0100\n"
-"PO-Revision-Date: 2017-03-13 18:31+0000\n"
+"PO-Revision-Date: 2017-03-14 16:13+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -93,17 +93,17 @@ msgstr "Vaše práva"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Vyhľadávanie"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Predvolený"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Predvolený vyhľadávací modul"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
