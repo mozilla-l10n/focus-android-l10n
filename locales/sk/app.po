@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-14 18:54+0100\n"
-"PO-Revision-Date: 2017-03-14 19:10+0000\n"
+"PO-Revision-Date: 2017-03-14 19:22+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -253,7 +253,7 @@ msgstr "Tento odkaz bude otvorený v aplikácii %2$s. Naozaj chcete ukončiť %1
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "No app to handle link"
-msgstr ""
+msgstr "Žiadna aplikácia na otvorenie odkazu"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -262,7 +262,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. Do you want to exit %1$s and open %2$s to find a suitable app?"
-msgstr ""
+msgstr "Žiadna aplikácia na vašom zariadení nie je schopná otvoriť tento odkaz. Chcete opustiť aplikáciu %1$s a nájsť vhodnú aplikáciu v %2$s?"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -348,6 +348,9 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Na otvorenie tento adresy možno bude potrebné nainštalovať ďalší softvér.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
