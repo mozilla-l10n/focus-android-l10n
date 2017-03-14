@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-13 14:23+0100\n"
+"POT-Creation-Date: 2017-03-14 18:54+0100\n"
 "PO-Revision-Date: 2017-03-09 06:26+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
@@ -21,6 +21,11 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
+msgstr ""
+
+#. Label used for buttons, e.g. in dialogs
+msgctxt "action_ok"
+msgid "OK"
 msgstr ""
 
 #. This text is shown in the URL bar when it's empty
@@ -237,4 +242,143 @@ msgid "To be clear, sites and service you use can still know where you've been."
 msgstr ""
 "একটা বিষয় স্পষ্ট জেনে রাখুন, যেসকল সাইট এবং অনলাইন সেবা আপনি ব্যবহার "
 "করছেন, তারা ঠিকই জেনে যায় আপনি কোন কোন সাইটে গিয়েছেন।"
+
+msgctxt "your_rights"
+msgid "Your Rights"
+msgstr ""
+
+#. This string is shown when the user has clicked a link that needs to be
+#. opened in a different app.          Argument 2 is the external app name,
+#. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
+#, c-format
+msgctxt "external_app_prompt"
+msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
+msgstr ""
+
+#. This text is the title of a dialog shown if no app could be found for a
+#. custom link protocol.
+msgctxt "external_app_prompt_no_app_title"
+msgid "No app to handle link"
+msgstr ""
+
+#. This text is shown in a dialog if no app could be found for a custom link
+#. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
+#. name of          the app store installed on the device (usually that's
+#. Google Play).
+#, c-format
+msgctxt "external_app_prompt_no_app"
+msgid ""
+"None of the apps on your device are able to open this link. Do you want "
+"to exit %1$s and open %2$s to find a suitable app?"
+msgstr ""
+
+#. This label is shown above a list of apps that can be used to open a given
+#. link
+msgctxt "external_multiple_apps_matched_exit"
+msgid "Exit Private Browsing?"
+msgstr ""
+
+#. The page html title (i.e. the <title> tag content)
+msgctxt "errorpage_title"
+msgid "Problem loading page"
+msgstr ""
+
+msgctxt "errorpage_refresh"
+msgid "Try Again"
+msgstr ""
+
+msgctxt "error_connectionfailure_title"
+msgid "Unable to connect"
+msgstr ""
+
+msgctxt "error_connectionfailure_message"
+msgid ""
+"<ul>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
+"      </ul>"
+msgstr ""
+
+msgctxt "error_timeout_title"
+msgid "The connection timed out"
+msgstr ""
+
+msgctxt "error_hostLookup_title"
+msgid "Server not found"
+msgstr ""
+
+msgctxt "error_hostLookup_message"
+msgid ""
+"<ul>\n"
+"        <li>Check the address for typing errors such as\n"
+"          <strong>ww</strong>.example.com instead of\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
+"      </ul>"
+msgstr ""
+
+msgctxt "error_malformedURI_title"
+msgid "The address isn’t valid"
+msgstr ""
+
+msgctxt "error_malformedURI_message"
+msgid ""
+"<ul>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_redirectLoop_title"
+msgid "The page isn’t redirecting properly"
+msgstr ""
+
+msgctxt "error_redirectLoop_message"
+msgid ""
+"<ul>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_unsupportedprotocol_title"
+msgid "The address wasn’t understood"
+msgstr ""
+
+msgctxt "error_unsupportedprotocol_message"
+msgid ""
+"<ul>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_sslhandshake_title"
+msgid "Secure connection failed"
+msgstr ""
+
+msgctxt "error_sslhandshake_message"
+msgid ""
+"<ul>\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
+"someone trying to impersonate the server.</li>\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
+"be temporary, and you can try again later.</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_generic_title"
+msgid "Oops"
+msgstr ""
+
+msgctxt "error_generic_message"
+msgid "We can’t load this page for some reason."
+msgstr ""
 
