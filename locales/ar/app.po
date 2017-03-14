@@ -1,4 +1,4 @@
-# Arabic translations for PROJECT.
+# Translations template for PROJECT.
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -7,16 +7,18 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-14 18:54+0100\n"
-"PO-Revision-Date: 2017-03-13 21:24+0000\n"
+"PO-Revision-Date: 2017-03-14 19:07+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
-"Language-Team: ar <LL@li.org>\n"
-"Plural-Forms: nplurals=6; plural=((((n % 100) >= 3 && (n % 100) <= 10)) ?"
-" 3 : (((n % 100) >= 11 && (n % 100) <= 99)) ? 4 : (n == 1) ? 1 : (n == 2)"
-" ? 2 : (n == 0) ? 0 : 5)\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
+"n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1489518452.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -26,7 +28,7 @@ msgstr "ألغِ"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "حسنا"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -228,20 +230,21 @@ msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
-"احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي "
-"زرتها، و تأريخ البحث، و الكعكات، و كلمات السر من جهازك."
+"احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي زرتها، "
+"و تأريخ البحث، و الكعكات، و كلمات السر من جهازك."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
 msgstr "حسنًا، فهمت"
 
 msgctxt "firstrun_footer"
-msgid "To be clear, sites and service you use can still know where you've been."
-msgstr "للتوضيح؛ المواقع و الخدمات التي تستخدمها يمكنها أن تعرف أي كنت."
+msgid ""
+"To be clear, sites and service you use can still know where you've been."
+msgstr "للتوضيح؛ المواقع و الخدمات التي تستخدمها يمكنها أن تعرف أين كنت."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "حقوقك"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -249,13 +252,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
-msgstr ""
+msgstr "سيفتح هذا الرابط في %2$s. أمتأكّد أنّك تريد مغادرة %1$s؟"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "No app to handle link"
-msgstr ""
+msgstr "لا يوجد أي تطبيق للتعامل مع هذا الرابط"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -264,46 +267,54 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. Do you want "
-"to exit %1$s and open %2$s to find a suitable app?"
+"None of the apps on your device are able to open this link. Do you want to "
+"exit %1$s and open %2$s to find a suitable app?"
 msgstr ""
+"لا يوجد أي تطبيق في جهازك يستطيع فتح هذا الرابط. هل تريد مغادرة %1$s و فتح "
+"%2$s للعثور على تطبيق مناسب؟"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "أتريد مغادرة التصفح الخاص؟"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "هناك مشكلة في تحميل الصفحة"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "أعِد المحاولة"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "تعذّر الاتصال"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again "
+"in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s "
+"data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل."
+"</li>\n"
+"        <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة "
+"البيانات أو الشبكة اللاسلكية.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "انتهت مهلة الاتصال"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "الخادوم غير موجود"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -311,8 +322,8 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or "
+"Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -323,10 +334,10 @@ msgstr ""
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/"
+"</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>)."
+"</li>\n"
 "</ul>"
 msgstr ""
 
@@ -349,8 +360,7 @@ msgstr ""
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -361,8 +371,8 @@ msgstr ""
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could "
+"be\n"
 "someone trying to impersonate the server.</li>\n"
 "  <li>If you have connected to this server successfully in the past, the "
 "error may\n"
@@ -378,3 +388,26 @@ msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr ""
 
+#~ msgctxt "preference_performance_block_images"
+#~ msgid "Block Images"
+#~ msgstr "امنع الصور"
+
+#~ msgctxt "menu_back"
+#~ msgid "Back"
+#~ msgstr "السابق"
+
+#~ msgctxt "menu_forward"
+#~ msgid "Forward"
+#~ msgstr "التالي"
+
+#~ msgctxt "menu_refresh"
+#~ msgid "Refresh"
+#~ msgstr "أنعِش"
+
+#~ msgctxt "menu_share"
+#~ msgid "Share"
+#~ msgstr "شارك"
+
+#~ msgctxt "menu_open_with"
+#~ msgid "Open with"
+#~ msgstr "افتح باستخدام"
