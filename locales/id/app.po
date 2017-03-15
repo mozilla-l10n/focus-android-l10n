@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-14 18:54+0100\n"
-"PO-Revision-Date: 2017-03-15 07:48+0000\n"
+"PO-Revision-Date: 2017-03-15 07:56+0000\n"
 "Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -98,12 +98,12 @@ msgstr "Hak Anda"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Baku"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -202,7 +202,7 @@ msgstr "Memuat"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Situs web dimuat"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -228,7 +228,7 @@ msgstr "Menjelajah seperti tidak ada yang mengawasi."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "Blokir pelacak daring secara otomatis ketika Anda menjelajah. Kemudian ketuk untuk menghapus laman yang dikunjungi, pencarian, kuki, dan sandi dari perangkat Anda."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
