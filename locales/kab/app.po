@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-14 18:54+0100\n"
-"PO-Revision-Date: 2017-03-15 04:16+0000\n"
+"PO-Revision-Date: 2017-03-15 13:10+0000\n"
 "Last-Translator: Moḥend Belqasem <belkacem77@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -253,7 +253,7 @@ msgstr "Aseɣwen-agi ad d-dyeldi di %2$s. Tebɣiḍ ad teffɣeḍ si %1$s?"
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "No app to handle link"
-msgstr ""
+msgstr "Ulac asnas izemren ad d-yeldi aseɣwen"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -262,7 +262,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. Do you want to exit %1$s and open %2$s to find a suitable app?"
-msgstr ""
+msgstr "Ulac asnas deg ibenk-ik izemren ad d-yeldi aseɣwen. Tebɣiḍ ad teffɣeḍ si %1$s sakin ad d-ldiḍ %2$s akken ad d-afeḍ asnas ilaqen?"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -290,6 +290,10 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Ahat asmel ulac-it akka tura neɣ ɣur-s ttaɛebga. Ɛreḍ tikelt-nniḍen.</li>\n"
+"        <li>Ma yella ur tezmireḍ ara ad tinigeḍ ar usmel, senqed tuqqna-ik n isefka neɣ Wi-Fi n yibenk-ik.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
