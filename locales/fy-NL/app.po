@@ -2,21 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-14 18:54+0100\n"
-"PO-Revision-Date: 2017-03-14 08:56+0000\n"
+"PO-Revision-Date: 2017-03-15 10:09+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: fy_NL <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((n == 1) ? 0 : 1)\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -26,7 +28,7 @@ msgstr "Annulearje"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -224,13 +226,8 @@ msgid "Browse like no one’s watching."
 msgstr "Sneup as oft net ien meisjocht."
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
-msgstr ""
-"Blokkearje automatysk onlinetrackers wylst jo sneupje. Tik dêrnei om "
-"besochte siden, sykopdrachten, cookies en wachtwurden op jo apparaat te "
-"wiskjen."
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
+msgstr "Blokkearje automatysk onlinetrackers wylst jo sneupje. Tik dêrnei om besochte siden, sykopdrachten, cookies en wachtwurden op jo apparaat te wiskjen."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
@@ -238,13 +235,11 @@ msgstr "Ok, begrepen!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
-"Foar de dúdlikens: websites en tsjinsten dy't jo brûke, kinne noch "
-"hieltyd sjen wêr't jo west binne."
+msgstr "Foar de dúdlikens: websites en tsjinsten dy't jo brûke, kinne noch hieltyd sjen wêr't jo west binne."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Jo rjochten"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -252,13 +247,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
-msgstr ""
+msgstr "Dizze keppeling wurdt yn %2$s iepene. Binne jo wis dat jo %1$s ôfslute wolle?"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "No app to handle link"
-msgstr ""
+msgstr "Gjin app foar ferwurkjen fan keppeling"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -266,47 +261,47 @@ msgstr ""
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. Do you want "
-"to exit %1$s and open %2$s to find a suitable app?"
-msgstr ""
+msgid "None of the apps on your device are able to open this link. Do you want to exit %1$s and open %2$s to find a suitable app?"
+msgstr "Gjin inkelde app op jo apparaat kin dizze keppeling iepenje. Wolle jo %1$s ôfslute en %2$s iepenje om in geskikte app te finen?"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Priveenavigaasje ôfslute?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Probleem by it laden fan de side"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Opnij probearje"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Kin gjin ferbining meitsje"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Miskien is de website tydlik net beskikber of oerbelêst. Probearje it oer inkelde mominten opnij.</li>\n"
+"        <li>As jo gjin inkelde side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "De wachttiid foar de ferbining is ferstrutsen"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Server net fûn"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -314,34 +309,40 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Kontrolearje it adres op typflaters, lykas\n"
+"          <strong>ww</strong>.example.com yn stee fan\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>As jo gjin inkelde side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "It adres is net jildich"
 
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Webadressen wurde trochgeans skreaun as <strong>http://www.example.com/</strong></li>\n"
+"  <li>Let derop dat jo foarútgeande slashes brûke (d.y. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "De side ferwiist net op in krekte wize troch"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -352,8 +353,7 @@ msgstr ""
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -364,11 +364,9 @@ msgstr ""
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -380,4 +378,3 @@ msgstr ""
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr ""
-
