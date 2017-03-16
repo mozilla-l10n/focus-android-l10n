@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-14 18:54+0100\n"
+"POT-Creation-Date: 2017-03-16 21:08+0100\n"
 "PO-Revision-Date: 2017-03-01 14:21+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: cy <LL@li.org>\n"
@@ -93,6 +93,24 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "Eich Hawliau"
 
+#. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
+#. Klar/etc).          Argument 2 is the url for the learn-more link.
+msgctxt "about_content"
+msgid ""
+"<p>%1$s puts you in control.</p>\n"
+"<p>Use it as a private browser:\n"
+"  <ul>\n"
+"    <li>Search and browse right in the app</li>\n"
+"    <li>Block trackers (or update settings to allow trackers)</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
+"<a href=\"%2$s\">Learn more</a></p>"
+msgstr ""
+
 msgctxt "preference_category_search"
 msgid "Search"
 msgstr ""
@@ -162,6 +180,13 @@ msgstr "Anfon defnydd data dienw"
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
 msgstr "Dysgu rhagor"
+
+#. Item in Preferences that shows the about page. Parameter 1 is the app name,
+#. i.e. Firefox Focus/Firefox Klar.
+#, c-format
+msgctxt "preference_about"
+msgid "About %1$s"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -241,29 +266,34 @@ msgctxt "your_rights"
 msgid "Your Rights"
 msgstr ""
 
+msgctxt "external_app_prompt_title"
+msgid "Open link in another app"
+msgstr ""
+
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format
+#, c-format, fuzzy
 msgctxt "external_app_prompt"
-msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
+msgid "You can leave %1$s to open this link in %2$s."
 msgstr ""
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
+#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
-msgid "No app to handle link"
+msgid "Find an app that can open link"
 msgstr ""
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format
+#, c-format, fuzzy
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. Do you want "
-"to exit %1$s and open %2$s to find a suitable app?"
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr ""
 
 #. This label is shown above a list of apps that can be used to open a given
