@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Arabic translations for PROJECT.
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -6,19 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-14 18:54+0100\n"
+"POT-Creation-Date: 2017-03-16 21:08+0100\n"
 "PO-Revision-Date: 2017-03-14 20:05+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=((((n % 100) >= 3 && (n % 100) <= 10)) ?"
+" 3 : (((n % 100) >= 11 && (n % 100) <= 99)) ? 4 : (n == 1) ? 1 : (n == 2)"
+" ? 2 : (n == 0) ? 0 : 5)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n>=3 && "
-"n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
-"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1489521926.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -96,6 +94,24 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "حقوقك"
 
+#. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
+#. Klar/etc).          Argument 2 is the url for the learn-more link.
+msgctxt "about_content"
+msgid ""
+"<p>%1$s puts you in control.</p>\n"
+"<p>Use it as a private browser:\n"
+"  <ul>\n"
+"    <li>Search and browse right in the app</li>\n"
+"    <li>Block trackers (or update settings to allow trackers)</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
+"<a href=\"%2$s\">Learn more</a></p>"
+msgstr ""
+
 msgctxt "preference_category_search"
 msgid "Search"
 msgstr "ابحث"
@@ -165,6 +181,13 @@ msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
 msgstr "اطّلع على المزيد"
 
+#. Item in Preferences that shows the about page. Parameter 1 is the app name,
+#. i.e. Firefox Focus/Firefox Klar.
+#, c-format
+msgctxt "preference_about"
+msgid "About %1$s"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
@@ -230,48 +253,52 @@ msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
-"احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي زرتها، "
-"و تأريخ البحث، و الكعكات، و كلمات السر من جهازك."
+"احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي "
+"زرتها، و تأريخ البحث، و الكعكات، و كلمات السر من جهازك."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
 msgstr "حسنًا، فهمت"
 
 msgctxt "firstrun_footer"
-msgid ""
-"To be clear, sites and service you use can still know where you've been."
+msgid "To be clear, sites and service you use can still know where you've been."
 msgstr "للتوضيح؛ المواقع و الخدمات التي تستخدمها يمكنها أن تعرف أين كنت."
 
 msgctxt "your_rights"
 msgid "Your Rights"
 msgstr "حقوقك"
 
+msgctxt "external_app_prompt_title"
+msgid "Open link in another app"
+msgstr ""
+
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format
+#, c-format, fuzzy
 msgctxt "external_app_prompt"
-msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
+msgid "You can leave %1$s to open this link in %2$s."
 msgstr "سيفتح هذا الرابط في %2$s. أمتأكّد أنّك تريد مغادرة %1$s؟"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
+#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
-msgid "No app to handle link"
+msgid "Find an app that can open link"
 msgstr "لا يوجد أي تطبيق للتعامل مع هذا الرابط"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format
+#, c-format, fuzzy
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. Do you want to "
-"exit %1$s and open %2$s to find a suitable app?"
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr ""
-"لا يوجد أي تطبيق في جهازك يستطيع فتح هذا الرابط. هل تريد مغادرة %1$s و فتح "
-"%2$s للعثور على تطبيق مناسب؟"
+"لا يوجد أي تطبيق في جهازك يستطيع فتح هذا الرابط. هل تريد مغادرة %1$s "
+"و فتح %2$s للعثور على تطبيق مناسب؟"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -295,15 +322,15 @@ msgstr "تعذّر الاتصال"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again "
-"in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s "
-"data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل."
-"</li>\n"
+"        <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا "
+"بعد قليل.</li>\n"
 "        <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة "
 "البيانات أو الشبكة اللاسلكية.</li>\n"
 "      </ul>"
@@ -322,16 +349,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or "
-"Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>تحقق من عدم وجود أي أخطاء في العنوان مثل\n"
 "          ‏‪<strong>ww</strong>.example.com‬ بدلًا من\n"
 "          ‏‪<strong>www</strong>.example.com‬‏</li>\n"
-"        <li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة "
-"البيانات أو الشبكة اللاسلكية.</li>\n"
+"        <li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة"
+" البيانات أو الشبكة اللاسلكية.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -341,17 +368,17 @@ msgstr "العنوان غير صالح"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/"
-"</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>)."
-"</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>تُكتب عناوين الوب عادة على الشكل التالي <strong>‪http://www.example.com/‬"
-"</strong>‏</li>\n"
-"  <li>تأكد أنك تستخدم الشرطة المائلة إلى اليمين (أي <strong>/</strong>).</"
-"li> \n"
+"  <li>تُكتب عناوين الوب عادة على الشكل التالي "
+"<strong>‪http://www.example.com/‬</strong>‏</li>\n"
+"  <li>تأكد أنك تستخدم الشرطة المائلة إلى اليمين (أي "
+"<strong>/</strong>).</li> \n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -376,7 +403,8 @@ msgstr "العنوان غير مفهوم"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -390,8 +418,8 @@ msgstr "فشل الاتصال الآمن"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could "
-"be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
 "  <li>If you have connected to this server successfully in the past, the "
 "error may\n"
@@ -413,26 +441,3 @@ msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr "تعذّر تحميل هذه الصفحة لسبب ما."
 
-#~ msgctxt "preference_performance_block_images"
-#~ msgid "Block Images"
-#~ msgstr "امنع الصور"
-
-#~ msgctxt "menu_back"
-#~ msgid "Back"
-#~ msgstr "السابق"
-
-#~ msgctxt "menu_forward"
-#~ msgid "Forward"
-#~ msgstr "التالي"
-
-#~ msgctxt "menu_refresh"
-#~ msgid "Refresh"
-#~ msgstr "أنعِش"
-
-#~ msgctxt "menu_share"
-#~ msgid "Share"
-#~ msgstr "شارك"
-
-#~ msgctxt "menu_open_with"
-#~ msgid "Open with"
-#~ msgstr "افتح باستخدام"
