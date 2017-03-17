@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 11:27+0000\n"
+"PO-Revision-Date: 2017-03-17 11:40+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -281,26 +281,25 @@ msgstr "Otvoriť odkaz v inej aplikácii"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Tento odkaz bude otvorený v aplikácii %2$s. Naozaj chcete ukončiť %1$s?"
+msgstr "Môžete opustiť aplikáciu %1$s a otvoriť tento odkaz v aplikácii %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "Žiadna aplikácia na otvorenie odkazu"
+msgstr "Nájsť aplikáciu, ktorá môže otvoriť tento odkaz"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Žiadna aplikácia na vašom zariadení nie je schopná otvoriť tento odkaz. Chcete opustiť aplikáciu %1$s a nájsť vhodnú aplikáciu v %2$s?"
+msgstr "Žiadna aplikácia na vašom zariadení nie je schopná otvoriť tento odkaz. Môžete opustiť aplikáciu %1$s a nájsť vhodnú aplikáciu v %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
