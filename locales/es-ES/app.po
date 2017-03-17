@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 09:50+0000\n"
+"PO-Revision-Date: 2017-03-17 09:55+0000\n"
 "Last-Translator: avelper <avelper@mozilla-hispano.org>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
@@ -111,6 +111,16 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s te da el control.</p>\n"
+"<p>Úsalo como navegador privado:\n"
+"  <ul>\n"
+"    <li>Busca y navega en la propia aplicación</li>\n"
+"    <li>Bloquea a los rastreadores (o actualiza los ajustes para permitirlos)</li>\n"
+"    <li>Limpia para borrar cookies y los historiales de búsqueda y navegación</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>Mozilla es la autora de %1$s. Nuestra misión es promover un Internet saludable y abierto.<br/>\n"
+"<a href=\"%2$s\">Descubre más</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -186,7 +196,7 @@ msgstr "Descubrir más"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Acerca de %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -266,7 +276,7 @@ msgstr "Tus derechos"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Abrir enlace con otra aplicación"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -274,23 +284,22 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Puedes dejar %1$s para abrir este enlace en %2$s."
+msgstr "Puedes salir de %1$s para abrir este enlace en %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "No hay una aplicación disponible para abrir este enlace"
+msgstr "Busca una aplicación que pueda abrir este enlace"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ninguna de las aplicaciones de tu dispositivo puede abrir este enlace. ¿Quieres salir de %1$s y abrir %2$s para buscar una aplicación compatible?"
+msgstr "Ninguna de las aplicaciones de tu dispositivo puede abrir este enlace. Puedes salir de %1$s para buscar en %2$s una aplicación compatible."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
