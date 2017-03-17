@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 09:10+0000\n"
-"Last-Translator: Richard <richard.stanke@gmail.com>\n"
+"PO-Revision-Date: 2017-03-17 19:07+0000\n"
+"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -281,26 +281,25 @@ msgstr "Link in anderer App öffnen"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Dieser Link wird in %2$s geöffnet. Möchten Sie %1$s wirklich verlassen?"
+msgstr "Sie können %1$s verlassen, um diesen Link in %2$s zu öffnen."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "Keine App zur Link-Verarbeitung"
+msgstr "App zum Öffnen des Links finden"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Anscheinend kann keine der Apps auf Ihrem Gerät diesen Link öffnen. Möchten Sie %1$s verlassen und %2$s öffnen, um eine passende App zu finden?"
+msgstr "Anscheinend kann keine der Apps auf Ihrem Gerät diesen Link öffnen. Sie können %1$s verlassen und bei %2$s nach einer App dafür suchen."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
