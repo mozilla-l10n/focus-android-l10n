@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 15:10+0000\n"
+"PO-Revision-Date: 2017-03-17 15:13+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
@@ -40,6 +40,8 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Автоматично поверително разглеждане.\n"
+"Разглеждане. Изтриване. Повтаряне."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -240,11 +242,11 @@ msgstr "Придвижване напред"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Презареждане на страницата"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Разглеждайте все едно никой не ви гледа."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
@@ -252,7 +254,7 @@ msgstr ""
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
-msgstr ""
+msgstr "Добре"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
@@ -260,7 +262,7 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Вашите права"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
