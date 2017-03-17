@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 10:58+0000\n"
-"Last-Translator: Luna Jernberg <bittin@cafe8bitar.se>\n"
+"PO-Revision-Date: 2017-03-17 18:04+0000\n"
+"Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -289,7 +289,7 @@ msgstr "Hitta en app som kan öppna länken"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ingen av apparna på din enhet kan öppna denna länk. Du kan lämna %1$s för att söka %2$s efter en app som kan göra detta."
+msgstr "Ingen av apparna på din enhet kan öppna denna länk. Du kan lämna %1$s för att söka i %2$s efter en app som kan göra detta."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
