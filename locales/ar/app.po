@@ -259,7 +259,7 @@ msgstr ""
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr "حسنًا، فهمت"
+msgstr ""
 
 msgctxt "firstrun_footer"
 msgid ""
@@ -438,6 +438,10 @@ msgstr "أخ!"
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr "تعذّر تحميل هذه الصفحة لسبب ما."
+
+#~ msgctxt "firstrun_button"
+#~ msgid "Ok, got it!"
+#~ msgstr "حسنًا، فهمت"
 
 #~ msgctxt "external_app_prompt"
 #~ msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
