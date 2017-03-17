@@ -1,4 +1,4 @@
-# Catalan translations for PROJECT.
+# Translations template for PROJECT.
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -9,12 +9,15 @@ msgstr ""
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
 "PO-Revision-Date: 2017-03-15 21:44+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
-"Language-Team: ca <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((n == 1) ? 0 : 1)\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1489614287.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -101,8 +104,7 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
@@ -252,18 +254,19 @@ msgid ""
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
 "Bloquegeu automàticament els elements que us fan el seguiment mentre "
-"navegueu. Esborreu amb un sol toc les pàgines visitades, cerques, galetes"
-" i contrasenyes del dispositiu."
+"navegueu. Esborreu amb un sol toc les pàgines visitades, cerques, galetes i "
+"contrasenyes del dispositiu."
 
 msgctxt "firstrun_button"
 msgid "Ok, got it!"
 msgstr "Entesos"
 
 msgctxt "firstrun_footer"
-msgid "To be clear, sites and service you use can still know where you've been."
+msgid ""
+"To be clear, sites and service you use can still know where you've been."
 msgstr ""
-"Tingueu en compte que els serveis i els llocs web que utilitzeu poden "
-"saber igualment on heu estat."
+"Tingueu en compte que els serveis i els llocs web que utilitzeu poden saber "
+"igualment on heu estat."
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -276,14 +279,13 @@ msgstr ""
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Aquest enllaç s'obrirà al %2$s. Segur que voleu sortir del %1$s?"
+msgstr ""
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
 msgstr ""
@@ -292,11 +294,11 @@ msgstr ""
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+"None of the apps on your device are able to open this link. You can leave "
+"%1$s to search %2$s for an app that can."
 msgstr ""
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -321,10 +323,10 @@ msgstr ""
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again "
+"in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s "
+"data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -342,8 +344,8 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or "
+"Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -354,10 +356,10 @@ msgstr ""
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/"
+"</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>)."
+"</li>\n"
 "</ul>"
 msgstr ""
 
@@ -380,8 +382,7 @@ msgstr ""
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -392,8 +393,8 @@ msgstr ""
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could "
+"be\n"
 "someone trying to impersonate the server.</li>\n"
 "  <li>If you have connected to this server successfully in the past, the "
 "error may\n"
@@ -409,3 +410,10 @@ msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr ""
 
+#~ msgctxt "external_app_prompt"
+#~ msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
+#~ msgstr "Aquest enllaç s'obrirà al %2$s. Segur que voleu sortir del %1$s?"
+
+#~ msgctxt "preference_performance_block_images"
+#~ msgid "Block Images"
+#~ msgstr "Bloqueja les imatges"
