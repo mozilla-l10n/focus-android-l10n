@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-18 00:50+0000\n"
+"PO-Revision-Date: 2017-03-18 01:06+0000\n"
 "Last-Translator: Cynthia Pereira <cynthiacpereira@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -281,10 +281,10 @@ msgstr "Abrir link em um outro app"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Este link será aberto no %2$s. Tem certeza de que deseja sair do %1$s?"
+msgstr "Você pode sair do %1$s para abrir este link no %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -296,10 +296,10 @@ msgstr "Encontrar um app que pode abrir o link"
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Nenhuma dos aplicativos no seu dispositivo consegue abrir este link. Deseja sair do %1$s e abrir o %2$s para encontrar um aplicativo adequado?"
+msgstr "Nenhum aplicativo do seu dispositivo consegue abrir este link. Você pode sair do %1$s para pesquisar no %2$s por um aplicativo compatível."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -424,4 +424,4 @@ msgstr "Ops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Não podemos carregar esta página por algum motivo."
