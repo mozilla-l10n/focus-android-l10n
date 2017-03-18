@@ -2,21 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-16 08:26+0000\n"
-"Last-Translator: nuttapong2539 <nuttapong2539@gmail.com>\n"
+"PO-Revision-Date: 2017-03-18 05:10+0000\n"
+"Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -103,12 +105,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 
@@ -186,7 +186,7 @@ msgstr "เรียนรู้เพิ่มเติม"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "เกี่ยวกับ %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -249,13 +249,8 @@ msgid "Browse like no one’s watching."
 msgstr "ท่องเว็บเหมือนไม่มีใครเฝ้ามองอยู่"
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
-msgstr ""
-"ปิดกั้นตัวติดตามออนไลน์โดยอัตโนมัติขณะที่คุณท่องเว็บ "
-"จากนั้นแตะเพื่อล้างหน้าที่เยี่ยมชม, การค้นหา, คุกกี้ "
-"และรหัสผ่านจากอุปกรณ์ของคุณ"
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
+msgstr "ปิดกั้นตัวติดตามออนไลน์โดยอัตโนมัติขณะที่คุณท่องเว็บ จากนั้นแตะเพื่อล้างหน้าที่เยี่ยมชม, การค้นหา, คุกกี้ และรหัสผ่านจากอุปกรณ์ของคุณ"
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
@@ -271,7 +266,7 @@ msgstr "สิทธิของคุณ"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "เปิดลิงก์ในแอปอื่น"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -283,10 +278,9 @@ msgstr "ลิงก์นี้จะเปิดใน %2$s คุณแน่
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "ไม่มีแอพที่จัดการลิงก์"
+msgstr "ค้นหาแอปที่สามารถเปิดลิงก์"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -294,12 +288,8 @@ msgstr "ไม่มีแอพที่จัดการลิงก์"
 #. Google Play).
 #, c-format, fuzzy
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"ไม่มีแอพใดในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ได้ คุณต้องการออกจาก %1$s "
-"และเปิด %2$s เพื่อหาแอพที่เหมาะสมหรือไม่?"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "ไม่มีแอพใดในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ได้ คุณต้องการออกจาก %1$s และเปิด %2$s เพื่อหาแอพที่เหมาะสมหรือไม่?"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -323,10 +313,8 @@ msgstr "ไม่สามารถเชื่อมต่อ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -344,8 +332,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -356,34 +343,30 @@ msgstr "ที่อยู่ไม่ถูกต้อง"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr "หน้านี้ไม่มีการเปลี่ยนเส้นทางอย่างถูกต้อง"
+msgstr "หน้าไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr "ที่อยู่นี้ไม่สามารถเข้าใจได้"
+msgstr "ไม่เข้าใจที่อยู่"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -394,11 +377,9 @@ msgstr "การเชื่อมต่อปลอดภัยล้มเห
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -409,5 +390,4 @@ msgstr "อุปส์"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "เราไม่สามารถโหลดหน้านี้ด้วยเหตุผลบางอย่าง"
-
+msgstr "เราไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง"
