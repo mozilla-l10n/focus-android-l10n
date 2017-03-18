@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-18 05:10+0000\n"
+"PO-Revision-Date: 2017-03-18 06:04+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -271,10 +271,10 @@ msgstr "เปิดลิงก์ในแอปอื่น"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "ลิงก์นี้จะเปิดใน %2$s คุณแน่ใจหรือว่าต้องการออกจาก %1$s ?"
+msgstr "คุณสามารถออกจาก %1$s เพื่อเปิดลิงก์นี้ใน %2$s"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -286,10 +286,10 @@ msgstr "ค้นหาแอปที่สามารถเปิดลิง
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "ไม่มีแอพใดในอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ได้ คุณต้องการออกจาก %1$s และเปิด %2$s เพื่อหาแอพที่เหมาะสมหรือไม่?"
+msgstr "ไม่มีแอปบนอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s เพื่อค้นหา %2$s สำหรับแอปที่สามารถ"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
