@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-14 20:05+0000\n"
+"PO-Revision-Date: 2017-03-18 14:09+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1489521926.000000\n"
+"X-POOTLE-MTIME: 1489846171.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -112,6 +112,16 @@ msgid ""
 "Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>يعطيك %1$s الدفة.</p>\n"
+"<p>استخدمه كمتصفح خاص:\n"
+"  <ul>\n"
+"    <li>ابحث و تصفح مباشرة في التطبيق</li>\n"
+"    <li>احظر المتعقبات (أو حدّث الإعدادات للسماح بالمتعقبات)</li>\n"
+"    <li>امسح الكعكات بالإضافة إلى حذف تأريخ البحث و التصفح</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>‏%1$s منتج من موزيلا. مهمتنا تشجيع إنترنت مفتوح و صحي.<br/>\n"
+"<a href=\"%2$s\">اطّلع على المزيد</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -187,7 +197,7 @@ msgstr "اطّلع على المزيد"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "عن %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -259,7 +269,7 @@ msgstr ""
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "حسنًا، فهمت"
 
 msgctxt "firstrun_footer"
 msgid ""
@@ -272,7 +282,7 @@ msgstr "حقوقك"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "افتح الرابط في تطبيق آخر"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -280,13 +290,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "يمكنك مغادرة %1$s لفتح هذا الرابط في %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "ابحث عن تطبيق يدعم فتح الرابط"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -298,6 +308,8 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave "
 "%1$s to search %2$s for an app that can."
 msgstr ""
+"لا يوجد أي تطبيق على جهازك يدعم فتح هذا الرابط. يمكنك مغادرة %1$s للبحث في "
+"%2$s عن تطبيق يدعم الرابط."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
