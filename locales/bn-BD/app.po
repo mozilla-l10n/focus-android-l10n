@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-18 12:09+0000\n"
+"PO-Revision-Date: 2017-03-18 12:27+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -23,12 +23,12 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "ঠিক আছে"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -281,10 +281,10 @@ msgstr "নতুন অ্যাপে লিংক খুলুন"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "লিংকটি %2$s এ খুলতে, আপনি %1$s কে ছেড়ে দিতে পারেন।"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -296,10 +296,10 @@ msgstr "একটি অ্যাপ অনুসন্ধান করো য�
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -318,7 +318,7 @@ msgstr "আবার চেষ্টা করুন"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "সংযোগ করতে ব্যর্থ"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -327,14 +327,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
+"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "সংযোগের সময়সীমা উত্তীর্ণ"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "সার্ভার পাওয়া যায়নি"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -348,7 +352,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "ঠিকানাটি সঠিক নয়"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -360,7 +364,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "পাতাটি সঠিকভাবে রিডিরেক্ট হচ্ছে না"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -371,7 +375,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "ঠিকানাটি বোধগম্য হয়নি"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -382,7 +386,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -396,8 +400,8 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "ওহো"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "আমরা কিছু কারণবশতঃ এই পৃষ্ঠাটি লোড করতে পারছি না।"
