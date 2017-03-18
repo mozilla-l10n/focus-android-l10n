@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 22:55+0000\n"
-"Last-Translator: eljuno <eljunotrie_anggoro@yahoo.co.id>\n"
+"PO-Revision-Date: 2017-03-18 12:14+0000\n"
+"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -124,7 +124,7 @@ msgstr "Baku"
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Pencarian baku"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -158,10 +158,9 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "Blokir font Web"
 
-#, fuzzy
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "Blokir Gambar"
+msgstr "Blokir gambar"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -272,17 +271,16 @@ msgstr ""
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Anda dapat meninggalkan %1$s untuk membuka tautan ini di %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Temukan aplikasi yang dapat membuka tautan"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -297,12 +295,12 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Keluar dari Penjelajahan Pribadi?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Bermasalah memuat laman"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -319,10 +317,14 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Situs ini tidak tersedia untuk sementara atau terlalu sibuk. Coba lagi dalam beberapa saat.</li>\n"
+"        <li>Jika Anda tidak dapat memuat laman apapun, periksa data ponsel atau sambungan Wi-Fi Anda.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Tenggang waktu sambungan habis"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
@@ -352,7 +354,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Laman tidak teralihkan dengan benar"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -374,7 +376,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Sambungan aman gagal"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -388,8 +390,8 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Ups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Kami tidak dapat memuat laman ini karena sejumlah alasan."
