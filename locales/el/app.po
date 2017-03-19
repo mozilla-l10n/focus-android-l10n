@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-19 11:48+0000\n"
+"PO-Revision-Date: 2017-03-19 17:16+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -114,17 +114,17 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Προεπιλογή"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Προεπιλεγμένη αναζήτηση"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -158,17 +158,16 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "Φραγή γραμματοσειρών ιστού"
 
-#, fuzzy
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Φραγή εικόνων"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -193,7 +192,7 @@ msgstr "Σχετικά με το %1$s"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Εκκαθάριση εισόδου"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -207,7 +206,7 @@ msgstr "Απόρριψη"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Διαγραφή ιστορικού περιήγησης"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -225,7 +224,7 @@ msgstr "Φόρτωση"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Η ιστοσελίδα φορτώθηκε"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -237,17 +236,17 @@ msgstr "Περισσότερες επιλογές"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Πλοήγηση προς τα εμπρός"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Επαναφόρτωση ιστοσελίδας"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Περιηγηθείτε σαν να μην σάς παρακολουθεί κανείς."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
@@ -255,7 +254,7 @@ msgstr ""
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, το 'πιασα!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
@@ -263,11 +262,11 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Τα δικαιώματά σας"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Άνοιγμα συνδέσμου σε άλλη εφαρμογή"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -297,20 +296,20 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Έξοδος από την ιδιωτική περιήγηση;"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Πρόβλημα κατά τη φόρτωση της σελίδας"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Δοκιμάστε ξανά"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Αδυναμία σύνδεσης"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -322,11 +321,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Το χρονικό όριο της σύνδεσης έληξε"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Ο διακομιστής δεν βρέθηκε"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -340,7 +339,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Η διεύθυνση δεν είναι έγκυρη"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -392,4 +391,4 @@ msgstr "Ωχ"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Δεν μπορούμε να φορτώσουμε αυτή τη σελίδα για κάποιο λόγο."
