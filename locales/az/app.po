@@ -2,31 +2,33 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-07 13:04+0000\n"
+"PO-Revision-Date: 2017-03-19 16:09+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language-Team: az <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: az\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Ləğv et"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "Tamam"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -103,28 +105,36 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s sizi idarənin başına qoyur</p>\n"
+"<p>Bunu məxfi səyyah olaraq işlədin:\n"
+"  <ul>\n"
+"    <li>Birbaşa tətbiqdə axtarın və gəzin</li>\n"
+"    <li>İzləyiciləri əngəlləyin (və ya tənzimləmədən icazə verin)</li>\n"
+"    <li>Çərəzləri, axtarış və gəzmə tarixçəsini silmək üçün pozun</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s qürurla Mozilla tərəfindən. Missiyamız sağlam və açıq interneti təmin etməkdir.<br/>\n"
+"<a href=\"%2$s\">Ətraflı öyrən</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Axtar"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "İlkin hal"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Əsas Axtarış"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -158,10 +168,9 @@ msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
 msgstr "Web şriftlərini əngəllə"
 
-#, fuzzy
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "Şəkilləri Əngəllə"
+msgstr "Şəkilləri əngəllə"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -187,7 +196,7 @@ msgstr "Ətraflı öyrən"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s Haqqında"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -250,13 +259,8 @@ msgid "Browse like no one’s watching."
 msgstr "Başqalarınız izləməsindən narahat olmadan internetdə gəzin."
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
-msgstr ""
-"İnternetdə gəzərkən avtomatik olaraq onlayn izləyiciləri əngəlləyin. "
-"Sonra ziyarət edilən səhifələri, axtar, çərəz və parolları cihazınızdan "
-"pozmaq üçün basın."
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
+msgstr "İnternetdə gəzərkən avtomatik olaraq onlayn izləyiciləri əngəlləyin. Sonra ziyarət edilən səhifələri, axtar, çərəz və parolları cihazınızdan pozmaq üçün basın."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
@@ -268,74 +272,69 @@ msgstr "Əslində, saytlar və xidmətlər yenə də harada olduğunuzu öyrən�
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Hüquqlarınız"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Keçidi başqa tətbiqdə aç"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "%1$s səyyahını tərk edərək keçidi %2$s üzərində aça bilərsiz."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Keçid aça bilən tətbiq tap"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Cihazınızdakı heç bir tətbiq bu keçidi aça bilmir. %1$s səyyahını tərk edərək %2$s ilə bunu bacaran tətbiq axtara bilərsiz."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Məxfi Səyahətdən çıxırsın?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Səhifəni yükləmək mümkün olmadı"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Təkrar Yoxla"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Qoşulmaq mümkün olmadı"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Qoşulma müddəti bitdi"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Server tapılmadı"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -343,70 +342,62 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Ünvan səhvdir"
 
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Səhifə düzgün yönləndirilmir"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Ünvan başa düşülmədi"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Təhlükəsiz bağlantı qurulmadı"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Uups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
-
+msgstr "Bəzi səbəblərdən bu səhifəni yükləyə bilmirik."
