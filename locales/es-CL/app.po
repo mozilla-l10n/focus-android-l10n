@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 19:54+0000\n"
+"PO-Revision-Date: 2017-03-20 22:47+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: es_CL <LL@li.org>\n"
 "Language: es_CL\n"
@@ -271,10 +271,10 @@ msgstr "Abrir enlace en otra app"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Este enlace se abrirá en %2$s. ¿Estás seguro de que quieres salir de %1$s?"
+msgstr "Puedes salir de %1$s para abrir este enlace en %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
