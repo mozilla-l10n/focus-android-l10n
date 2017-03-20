@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-19 17:16+0000\n"
+"PO-Revision-Date: 2017-03-20 11:46+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -278,10 +278,9 @@ msgstr ""
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
-#, fuzzy
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Βρείτε μια εφαρμογή που μπορεί να ανοίξει το σύνδεσμο"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -351,7 +350,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Η σελίδα δεν ανακατευθύνεται κανονικά"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -362,7 +361,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Η διεύθυνση δεν ήταν κατανοητή"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -370,6 +369,9 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ενδέχεται να χρειαστεί να εγκαταστήσετε άλλο λογισμικό για να ανοίξετε αυτή τη διεύθυνση.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
