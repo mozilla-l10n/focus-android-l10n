@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-20 22:47+0000\n"
+"PO-Revision-Date: 2017-03-20 22:55+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: es_CL <LL@li.org>\n"
 "Language: es_CL\n"
@@ -286,10 +286,10 @@ msgstr "Buscar una app que pueda abrir el enlace"
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ninguna de las aplicaciones en tu dispositivo pueden abrir este enlace. ¿Quieres salir de %1$s y abrir %2$s para buscar una app adecuada?"
+msgstr "Ninguna de las aplicaciones en tu dispositivo puede abrir este enlace. Puedes salir de %1$s para buscar en %2$s por una app que pueda."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
