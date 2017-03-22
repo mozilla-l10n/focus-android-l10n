@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-22 14:09+0000\n"
+"PO-Revision-Date: 2017-03-22 14:29+0000\n"
 "Last-Translator: um.qshi <um.qshi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ur\n"
@@ -76,7 +76,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "کے ساتھ کھولیں…"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -142,7 +142,7 @@ msgstr "سماجی ٹریکرز بلاک کریں"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "دیگر مواد کے ٹڑیکرز بلاک کریں"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
@@ -154,11 +154,11 @@ msgstr "کارکردگی"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "ویب فونٹس بلاک کریں"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "نقوش بلاک کریں"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -184,13 +184,13 @@ msgstr "مزید سیکھیں"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "کے بارے میں%1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "ان پٹ صاف کریں"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -234,17 +234,17 @@ msgstr "مزید اختیارات"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "آگے کی جانب گشت کريں"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "ویب سائٹ دوبارہ لوڈ کریں"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "اس طرح براؤز کریں جیسے کوئی نہیں دیکھ رہا۔"
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
@@ -252,7 +252,7 @@ msgstr ""
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ٹھیک ہے مجھے سمجھ آگئی ہے!\n"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
@@ -264,7 +264,7 @@ msgstr "آپ کے حقوق"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "کسی دوسری اپلیکیشن میں ربط کھولیں"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -278,7 +278,7 @@ msgstr ""
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "ایک ایپیلیکیشن تلاش کریں جو ربط کو کھول سکے"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -298,7 +298,7 @@ msgstr "نجی براؤزنگ سے خروج کریں؟"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "صفحہ لوڈ کرنے میں مسلہ ہے"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -318,11 +318,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "کنکشن تعطل وقت"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "پیش کار نہیں ملا"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "پتہ جائز نہیں ہے"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -348,7 +348,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "پہ صفحہ صجہج طرج سے دوسری سمت نہیں جا رہا"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -370,7 +370,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "قابل بھروسا کنکشن ناکام رہا"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -384,8 +384,8 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "اف"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "ہم کچھ وجوہات کی بنا پر یہ صفحہ لوڈ نہیں کر سکتے۔"
