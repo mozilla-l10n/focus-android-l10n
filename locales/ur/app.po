@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-22 13:46+0000\n"
+"PO-Revision-Date: 2017-03-22 14:09+0000\n"
 "Last-Translator: um.qshi <um.qshi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ur\n"
@@ -33,19 +33,19 @@ msgstr "ٹھیک ہے"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "پتہ تلاش یا داخل کریں"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr ""
+msgstr "خود کار نجی براؤزنگ۔ برائوز کریں ۔ٹائیں، دہرائیں۔"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "آپ کے برائوزنگ سابقات مٹا دیئے گئے ہیں۔"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -57,7 +57,7 @@ msgstr ""
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "شیئر کریں…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -84,7 +84,7 @@ msgstr "سیٹنگیں"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "کے بارے میں"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -138,7 +138,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "سماجی ٹریکرز بلاک کریں"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -146,7 +146,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "شاید کچھ وڈیوز اور ویب صفحات کو توڑ دے"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -165,7 +165,7 @@ msgstr ""
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "طےشدہ براؤزر بنائیں"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -198,7 +198,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "برخاست کریں"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
@@ -216,13 +216,13 @@ msgstr "قابل بھروسا کنکشن"
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "لوڈ ہو رہا ہے"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "ویبسائٹ لوڈ ہو گئی ہے"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -302,11 +302,11 @@ msgstr ""
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "دوبارہ کوشش کریں"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "جڑنے میں ناکام رہا"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
