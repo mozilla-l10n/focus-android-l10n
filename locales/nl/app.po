@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-17 15:38+0000\n"
+"PO-Revision-Date: 2017-03-22 14:05+0000\n"
 "Last-Translator: Ton <tonnes.mb@gmail.com>\n"
 "Language-Team: nl <LL@li.org>\n"
 "Language: nl\n"
@@ -276,7 +276,7 @@ msgstr "Uw rechten"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Koppeling openen in een andere app"
+msgstr "Koppeling openen in andere app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -426,4 +426,4 @@ msgstr "Oei"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "De pagina kan om de een of andere reden niet worden geladen."
+msgstr "Deze pagina kan om de een of andere reden niet worden geladen."
