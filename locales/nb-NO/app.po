@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-24 09:14+0000\n"
+"PO-Revision-Date: 2017-03-24 10:51+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -57,7 +57,7 @@ msgstr "Søk etter %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Del …"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -66,7 +66,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Åpne med %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -76,23 +76,23 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Åpne med …"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Om"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Dine rettigheter"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -112,85 +112,85 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Søk"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Standard søkemotor"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Personvern"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Blokker reklamesporere"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Blokker analysesporere"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Blokker sosiale media-sporere"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Blokker andre innholdssporere"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Kan ødelegge noen videoer og nettsider"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Ytelse"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Blokker nettfonter"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Blokker bilder"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Velg som standard nettleser"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Send anonyme brukerdata"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Les mer"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Om %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Tøm skrivefeltet"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -198,61 +198,61 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Lukk"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Slett nettleserhistorikk"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Sikker tilkobling"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Laster"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Nettside lastet"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Flere innstillinger"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Naviger fremover"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Last siden på nytt"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Surf uten å føle deg overvåket."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "Automatisk blokkering av nettsporere mens du surfer. Deretter trykker du for å slette besøkte sider, søk, informasjonskapsler og passord fra enheten."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, jeg skjønner!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
@@ -260,11 +260,11 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Dine rettigheter"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Åpne lenke i en annen app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -272,7 +272,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Du kan forlate %1$s for å åpne denne lenken i %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -302,7 +302,7 @@ msgstr ""
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Prøv igjen"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
