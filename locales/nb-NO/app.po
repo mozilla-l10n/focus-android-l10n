@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-24 10:51+0000\n"
+"PO-Revision-Date: 2017-03-24 10:58+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -272,13 +272,13 @@ msgstr "Åpne lenke i en annen app"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Du kan forlate %1$s for å åpne denne lenken i %2$s."
+msgstr "Du kan gå ut av %1$s for å åpne denne lenken i %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Finn en app som kan åpne lenken"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -293,12 +293,12 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Avslutt privat nettlesing?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problem ved lasting av siden"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -306,7 +306,7 @@ msgstr "Prøv igjen"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Kan ikke koble til"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -318,11 +318,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Tilkoblingen ble tidsavbrutt"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Fant ikke serveren"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -336,7 +336,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Adressen er ugyldig"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -348,7 +348,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Nettsiden videresender ikke ordentlig"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Klarte ikke forstå adressen"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -367,10 +367,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Du må kanskje installere annen programvare for å åpne denne adressen.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Sikker tilkobling mislyktes"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -384,7 +387,7 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Ups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
