@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-24 18:02+0000\n"
+"PO-Revision-Date: 2017-03-24 18:11+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -271,10 +271,10 @@ msgstr "Odpri povezavo v drugi aplikaciji"
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
 #. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Lahko zapustite %1$s in to povezavo odprete v %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -286,10 +286,10 @@ msgstr "Poišči aplikacijo, ki lahko odpre povezavo"
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Nobena aplikacija na napravi ne more odpreti te povezave. Lahko zapustite %1$s in v %2$s poiščete aplikacijo, ki jo lahko."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
