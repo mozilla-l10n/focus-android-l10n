@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-24 13:44+0000\n"
+"PO-Revision-Date: 2017-03-24 14:16+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -299,7 +299,7 @@ msgstr "Finn en app som kan åpne lenken"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ingen av appene på din enhet kan åpne denne lenken. Du kan gå ut av %1$s for å søke på %2$s etter en app som kan gjøre dette."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
