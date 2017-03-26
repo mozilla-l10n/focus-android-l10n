@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-26 13:50+0000\n"
+"PO-Revision-Date: 2017-03-26 14:10+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -47,7 +47,7 @@ msgstr ""
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Nettlesarhistorikken din har blitt sletta."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -111,6 +111,16 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s gir deg kontroll.</p>\n"
+"<p>Bruk han som ein privat nettlesar:\n"
+"  <ul>\n"
+"    <li>Søk og surf rett i appen</li>\n"
+"    <li>Blokker sporarar (eller oppdater innstillingane for å tillate sporarar)</li>\n"
+"    <li>Slett for å fjerne infokapslar samt søk- og nettlesarhistorikk</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s er produsert av Mozilla. Vår misjon er å fremme eit sunt, ope Internett.<br/>\n"
+"<a href=\"%2$s\">Les meir</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -148,26 +158,26 @@ msgstr "Blokker andre innhaldssporarar"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Kan øydelegge nokre videoar og nettsider"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Yting"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Blokker nettfontar"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Blokker bilde"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Vel som standard nettlesar"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -175,7 +185,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Send anonyme brukardata"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
@@ -254,7 +264,7 @@ msgstr ""
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, eg forstår det!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
@@ -262,11 +272,11 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Dine rettar"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Opne lenke i ein annan app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -295,12 +305,12 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Avslutte privat nettlesing?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problem med lasting av sida"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -308,7 +318,7 @@ msgstr "Prøv igjen"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Kan ikkje kople til"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -324,7 +334,7 @@ msgstr ""
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Fant ikke serveren"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -372,7 +382,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Sikker tilkopling feila"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -386,8 +396,8 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Ops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Av ulike grunnar kan vi ikkje laste inn denne sida."
