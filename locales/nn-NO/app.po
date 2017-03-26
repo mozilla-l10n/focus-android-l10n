@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-16 21:08+0100\n"
-"PO-Revision-Date: 2017-03-26 14:10+0000\n"
+"PO-Revision-Date: 2017-03-26 14:30+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -260,7 +260,7 @@ msgstr "Surf utan å kjenne deg overvaka."
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "Automatisk blokkering av nettsporarar medan du surfar. Deretter trykkjer du for å slette besøkte sider, søk, informasjonskapslar og passord frå eininga."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
@@ -268,7 +268,7 @@ msgstr "OK, eg forstår det!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "For å vere tydeleg, kan nettsteder og tenester du brukar framleis sjå kvar du har vore."
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -284,13 +284,13 @@ msgstr "Opne lenke i ein annan app"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Du kan gå ut av %1$s for å opne denne lenka i %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Finn ein app som kan opne lenka"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -299,7 +299,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ingen av appane på eininga di kan opne denne lenka. Du kan gå ut av %1$s for å søke på %2$s etter ein app som kan gjere dette."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -330,7 +330,7 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Tilkoplinga fekk tidsavbrot"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
@@ -348,7 +348,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Adressa er ikkje gyldig"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -360,7 +360,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Nettsida vidaresender ikkje korrekt"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -371,7 +371,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Klarte ikkje å forstå adressa"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -400,4 +400,4 @@ msgstr "Ops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "Av ulike grunnar kan vi ikkje laste inn denne sida."
+msgstr "Vi kan ikkje laste inn denne sida av ulike grunnar."
