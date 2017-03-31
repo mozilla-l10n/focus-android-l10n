@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-03-31 13:10+0000\n"
+"PO-Revision-Date: 2017-03-31 13:13+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -47,7 +47,7 @@ msgstr ""
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Историята на разглеждането е изтрита."
+msgstr "Историята на разглеждане е изчистена"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -325,7 +325,7 @@ msgstr "Търсене на приложение за отваряне на пр
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Никое от приложенията на устройството ви са способни да отворят тази препратка. Може да напуснете %1$s, за да потърсите в %2$s подходящо приложение."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
