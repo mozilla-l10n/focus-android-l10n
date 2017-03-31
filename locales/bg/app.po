@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-03-31 11:50+0000\n"
+"PO-Revision-Date: 2017-03-31 12:08+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -261,14 +261,14 @@ msgstr "Връщане назад"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Спиране зареждането на страницата"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "Поставяне и посещаване"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
@@ -276,7 +276,7 @@ msgstr "Разглеждайте все едно никой не ви гледа
 
 msgctxt "firstrun_description"
 msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr ""
+msgstr "Автоматично спира проследяването онлайн докато разглеждате. След това докоснете, за да изтриете посетените страници, търсения, бисквитки и пароли от устройството."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
@@ -284,7 +284,7 @@ msgstr "Добре"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "За да сме наясно, страниците и услугите, които използвате може да знаят къде сте били."
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -292,7 +292,7 @@ msgstr "Вашите права"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Отваряне на препратка в приложение"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -343,6 +343,10 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Сайтът може да е временно недостъпен или натоварен. Опитайте отново след малко.</li>\n"
+"  <li>Ако не може да заредите друга страница, проверете връзката за мобилни данни или Wi-Fi.</li>\n"
+"</ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
@@ -361,10 +365,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Проверете адреса за правописни грешки, като например\n"
+"    <strong>ww</strong>. example.com вместо\n"
+"    <strong>www</strong>. example.com</li>\n"
+"  <li>Ако не може да отворите друга страница, проверете връзката за мобилни данни или Wi-Fi.</li>\n"
+"</ul>\n"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Адресът е невалиден"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -373,10 +383,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li>\n"
+"  <li>Уверете се, че използвате наклонени черти (т.е. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Страницата не пренасочва правилно"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -387,7 +401,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Адресът не е разпознат"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -398,7 +412,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Неуспешно установяване на шифрована връзка"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -412,8 +426,8 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Олеле"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "По някаква причина страницата не може да бъде заредена."
