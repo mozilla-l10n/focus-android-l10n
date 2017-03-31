@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-03-31 12:27+0000\n"
+"PO-Revision-Date: 2017-03-31 13:10+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -316,7 +316,7 @@ msgstr "Може да напуснете %1$s, за да отворите пре
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Търсене на приложение за отваряне на препратката"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
