@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-04-05 19:50+0000\n"
+"PO-Revision-Date: 2017-04-05 20:09+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sr\n"
@@ -290,19 +290,19 @@ msgstr "Аутоматски блокирај интернет трагаче д
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "У реду, разумем!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
-msgstr ""
+msgstr "Да се разумемо, сајтови и услуге које користите и даље могу знати шта сте посећивали."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Ваша права"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Отворите везу у другој апликацији"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -310,13 +310,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Можете угасити %1$s да отворите ову везу у %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Пронађите апликацију која може отворити ову везу"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -325,26 +325,26 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ниједна апликација на вашем уређају не може отворити ову везу. Можете угасити %1$s и претражити %2$s да бисте нашли неку."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Изаћи из приватног режима?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Проблем при учитавању странице"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Покушај поново"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Повезивање није успело"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -353,14 +353,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Сајт је можда тренутно недоступан или превише заузет. Покушајте поново за пар минута.</li>\n"
+"        <li>Уколико не можете учитати странице, проверите интернет на вашем телефону или Wi-Fi конекцију.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Веза је истекла"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Сервер није пронађен"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -371,10 +375,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Проверите адресу ради грешака у куцању као што су\n"
+"          <strong>ww</strong>.example.com уместо\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Уколико не можете учитати странице, проверите интернет на вашем телефону или Wi-Fi конекцију.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Адреса је неважећа"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -383,10 +393,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Веб адресе се обично пишу као <strong>http://www.example.com/</strong></li>\n"
+"  <li>Уверите се да користите косе црте (тј. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Страница се не преусмерава исправно"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -394,10 +408,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Проблем понекад може бити изазван онемогућавањем или одбијањем прихвања колачића.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Нејасна адреса"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -405,10 +422,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Можда ћете морати инсталирати други софтвер да бисте отворили ову адресу.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Безбедна веза није успостављена"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -422,7 +442,7 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Упс"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
