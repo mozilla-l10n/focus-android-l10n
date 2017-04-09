@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-04-09 10:21+0000\n"
+"PO-Revision-Date: 2017-04-09 13:30+0000\n"
 "Last-Translator: Slimane Amiri <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -302,7 +302,7 @@ msgstr "Izerfan-ik"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Ldi aseɣwen deg usnas-nniḍen"
+msgstr "Ldi aseγwen deg usnas-nniḍen"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -310,13 +310,13 @@ msgstr "Ldi aseɣwen deg usnas-nniḍen"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Tzemred ad teffqeḍ seg %1$s akken ad d-ldid aseɣwen di %2$s."
+msgstr "Tzemred ad teffqeḍ seg %1$s akken ad d-ldid aseγwen di %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "Aff-d asnas izemren ad d-yeldi aseɣwen"
+msgstr "Aff-d asnas izemren ad d-yeldi aseγwen"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -325,7 +325,7 @@ msgstr "Aff-d asnas izemren ad d-yeldi aseɣwen"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ulac asnas deg ibenk-ik izemren ad d-yeldi aseɣwen-agi. Tebɣiḍ ad teffɣeḍ si %1$s sakin ad d-nadiḍ %2$s akken ad d-afeḍ asnas ilaqen."
+msgstr "Ulac asnas deg ibenk-ik izemren ad d-yeldi aseγwen-agi. Tebɣiḍ ad teffγeḍ si %1$s sakin ad d-nadiḍ %2$s akken ad d-afeḍ asnas ilaqen."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -382,7 +382,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr "Tansa mačči d tameɣtut"
+msgstr "Tansa mačči d tameγtut"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -446,4 +446,4 @@ msgstr "Ihuh"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "Ur nezmir ara ad d-nsali asebter-agi, ur neẓri ara acuɣer."
+msgstr "Ur nezmir ara ad d-nsali asebter-agi, ur neẓri ara acuγer."
