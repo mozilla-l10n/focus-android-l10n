@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-04-05 20:12+0000\n"
+"PO-Revision-Date: 2017-04-19 14:47+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sr\n"
@@ -68,7 +68,7 @@ msgstr "Подели…"
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr "Отвори у %1$s"
+msgstr "Отвори у %1$s-у"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -172,7 +172,7 @@ msgstr "Блокирај веб фонтове"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Иконице и слике се можда неће приказати"
+msgstr "Иконице и слике се можда неће приказивати"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -191,7 +191,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr "Анонимно пошаљи податке о коришћењу"
+msgstr "Анонимно шаљи податке о коришћењу"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
@@ -290,7 +290,7 @@ msgstr "Аутоматски блокирај интернет трагаче д
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr "У реду, разумем!"
+msgstr "Разумем!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and service you use can still know where you've been."
@@ -409,7 +409,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Проблем понекад може бити изазван онемогућавањем или одбијањем прихвања колачића.</li>\n"
+"  <li>Проблем понекад може бити изазван онемогућавањем или одбијањем прихватања колачића.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -441,7 +441,7 @@ msgid ""
 msgstr ""
 "<ul>\n"
 "  <li>Ово би могао бити проблем са подешавањима сервера или се можда неко представља као сервер.</li>\n"
-"  <li>Ако сте се и раније успешно повезивали на овај сервер, грешка може бити привремена и можете покушати касније поново приступити му.</li>\n"
+"  <li>Ако сте се и раније успешно повезивали на овај сервер, грешка може бити привремена и можете поново покушати касније да му приступите.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
