@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-04-23 21:11+0000\n"
+"PO-Revision-Date: 2017-04-23 21:18+0000\n"
 "Last-Translator: Dhiraj Kumar Singh <singhdhiraj255@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -290,7 +290,7 @@ msgstr "आपके अधिकार"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "किसी अन्य अनुप्रयोग में लिंक खोलें"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -304,7 +304,7 @@ msgstr ""
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "एक ऐप ढूंढें जो लिंक खोल सकता है"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -319,20 +319,20 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "निजी ब्राउज़िंग से बाहर निकलें?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "पृष्ठ की लोडिंग में समस्या"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "पुन: प्रयास करें"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "संपर्क करने में असमर्थ"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -362,7 +362,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "पता वैध नहीं है"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -410,8 +410,8 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "ओह"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "हम किसी कारण से इस पृष्ठ लोड को नहीं कर सकते."
