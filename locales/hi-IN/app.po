@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-03-30 12:37+0200\n"
-"PO-Revision-Date: 2017-04-23 21:18+0000\n"
+"PO-Revision-Date: 2017-04-28 18:49+0000\n"
 "Last-Translator: Dhiraj Kumar Singh <singhdhiraj255@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -298,7 +298,7 @@ msgstr "किसी अन्य अनुप्रयोग में लि�
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "आप इस लिंक को %2$s में खोलने के लिए %1$s को छोड़ सकते हैं."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -313,7 +313,7 @@ msgstr "एक ऐप ढूंढें जो लिंक खोल सकत
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "आपके डिवाइस पर मौजूद कोई ऐप इस लिंक को खोलने में सक्षम नहीं है. आप एक एप के लिए %2$s की खोज हेतु %1$s को छोड़ सकते हैं जो कर सकता है."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -341,14 +341,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>यह साइट अस्थाई रूप से अनुपलब्ध या बहुत व्यस्त हो सकता है. कुछ ही क्षणों में फिर से प्रयास करें.</li>\n"
+"        <li>यदि आप कोई पृष्ठ लोड करने में असमर्थ हैं, तो अपने मोबाइल उपकरण के डेटा या वाई-फाई कनेक्शन की जाँच करें.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "संपर्क समयबाह्य हो गया"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "सर्वर नहीं मिला"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -371,6 +375,10 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>वेब पते आमतौर पर <strong>http://www.example.com/</strong> की तरह लिखे होते हैं</li>\n"
+"  <li>सुनिश्चित करें कि आप अग्रतियक स्लैश का उपयोग कर रहे हैं (यानी <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
