@@ -2,23 +2,21 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-03-30 12:37+0200\n"
+"POT-Creation-Date: 2017-05-18 08:37-0700\n"
 "PO-Revision-Date: 2017-03-30 19:19+0000\n"
 "Last-Translator: Marcelo Poli <enzomatrix@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
-"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=((n == 1) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 1.3\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -96,6 +94,52 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "Tus derechos"
 
+#. Menu item: This is the label for a menu entry that shows how many trackers
+#. have been blocked          for the currently loaded website. The number of
+#. blocked trackers is shown below this label.          Next to this label is a
+#. switch that allows the user to temporarily enable / disable the
+#. blocking of trackers for the current browsing session - for example if the
+#. current website          doesn't work correctly with blocked content.
+msgctxt "menu_trackers_blocked_title"
+msgid "Trackers blocked"
+msgstr ""
+
+#. This is the title of a dialog that shows all the share targets (apps or
+#. contacts) when          sharing an URL.
+msgctxt "share_dialog_title"
+msgid "Share via"
+msgstr ""
+
+#. While a browsing session is active (in the foreground or background) we
+#. will show a notification          so that the user doesn't forget about the
+#. website still being open. This text is shown in          the notification.
+#. Clicking the notification will have the same effect as clicking the "erase"
+#. button in the application.
+msgctxt "notification_erase_text"
+msgid "Erase browsing history"
+msgstr ""
+
+#. On Android 7+ users can add a shortcut for erasing the browsing history to
+#. the home screen.          This is the label for this shortcut. Android
+#. recommends a maximum length of 10 characters.
+msgctxt "shortcut_erase_short_label"
+msgid "Erase"
+msgstr ""
+
+#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
+#. shows this          instead of the short title when it has enough space.
+#. Android recommends a maximum length          of 25 characters.
+msgctxt "shortcut_erase_long_label"
+msgid "Erase browsing history"
+msgstr ""
+
+#. This is the label of an action we offer when the user selects text in other
+#. third-party apps.          Clicking this action will launch Focus and
+#. perform a search in the default search engine.
+msgctxt "text_selection_search_action"
+msgid "Private Search"
+msgstr ""
+
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
 msgctxt "about_content"
@@ -105,21 +149,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s te da el control.</p>\n"
 "<p>Usalo como un navegador privado:\n"
 "  <ul>\n"
 "    <li>Buscar y navegar en la aplicación</li>\n"
-"    <li>Bloquear rastreadores (o actualizar opciones para permitir rastreadores)</li>\n"
-"    <li>Borrar para eliminar cookies e historial de búsqueda y navegación</li>\n"
+"    <li>Bloquear rastreadores (o actualizar opciones para permitir "
+"rastreadores)</li>\n"
+"    <li>Borrar para eliminar cookies e historial de búsqueda y "
+"navegación</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s es producido por Mozilla. Nuestra misión es promover una internet abierta y saludable.<br/>\n"
+"<p>%1$s es producido por Mozilla. Nuestra misión es promover una internet"
+" abierta y saludable.<br/>\n"
 "<a href=\"%2$s\">Conocer más</a></p>"
 
 msgctxt "preference_category_search"
@@ -130,6 +179,16 @@ msgstr "Buscar"
 msgctxt "preference_search_engine_default"
 msgid "Default"
 msgstr "Predeterminado"
+
+msgctxt "preference_language"
+msgid "Language"
+msgstr ""
+
+#. This is shown when the user hasn't set a focus specific language, i.e. when
+#. Focus          is using the system default language.
+msgctxt "preference_language_systemdefault"
+msgid "System default"
+msgstr ""
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -273,6 +332,12 @@ msgctxt "content_description_stop"
 msgid "Stop loading website"
 msgstr "Dejar de cargar el sitio web"
 
+#. Content description (not visible, for screen readers etc.): Custom Tab exit
+#. button - closes the custom tab and returns to the previous app.
+msgctxt "content_description_customtab_exit"
+msgid "Return to previous app"
+msgstr ""
+
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
@@ -285,16 +350,24 @@ msgid "Browse like no one’s watching."
 msgstr "Navegar como si nadie estuviera mirando."
 
 msgctxt "firstrun_description"
-msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
-msgstr "Bloqueá automáticamente rastreadores en línea al navegar. Depsués tocá para borrar páginas visitadas, búsquedas, cookies y contraseñas de tu dispositivo."
+msgid ""
+"Automatically block online trackers while you browse. Then tap to erase "
+"visited pages, searches, cookies and passwords from your device."
+msgstr ""
+"Bloqueá automáticamente rastreadores en línea al navegar. Depsués tocá "
+"para borrar páginas visitadas, búsquedas, cookies y contraseñas de tu "
+"dispositivo."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
 msgstr "¡Listo, lo entendí!"
 
+#, fuzzy
 msgctxt "firstrun_footer"
-msgid "To be clear, sites and service you use can still know where you've been."
-msgstr "Para ser claros, sitios y servicios que se usen todavía pueden saber donde estuviste."
+msgid "To be clear, sites and services you use can still know where you've been."
+msgstr ""
+"Para ser claros, sitios y servicios que se usen todavía pueden saber "
+"donde estuviste."
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -324,8 +397,12 @@ msgstr "Buscar una app que pueda abrir el enlace"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ninguna de las apps en el dispositivo puede abrir este enlace. Podés dejar que %1$s busque en %2$s una app que pueda."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ninguna de las apps en el dispositivo puede abrir este enlace. Podés "
+"dejar que %1$s busque en %2$s una app que pueda."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -349,13 +426,17 @@ msgstr "No se puede conectar"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>El sitio puede estar temporariamente inaccesible o demasiado ocupado. Intentá nuevamente en unos momentos.</li>\n"
-"        <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>El sitio puede estar temporariamente inaccesible o demasiado "
+"ocupado. Intentá nuevamente en unos momentos.</li>\n"
+"        <li>Si no podés cargar ninguna página, verificá la conexión de "
+"datos o Wi-Fi de tu dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -372,14 +453,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Fijate si la dirección no tiene errores de tipeo como\n"
 "          <strong>ww</strong>.example.com en vez de\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>Si no podés cargar ninguna página, verificá la conexión de "
+"datos o Wi-Fi de tu dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -389,13 +472,17 @@ msgstr "La dirección no es válida"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Las direcciones web normalmente se escriben como <strong>http://www.example.com/</strong></li>\n"
-"  <li>Asegurate de usar las barras correctas (ej. <strong>/</strong>).</li>\n"
+"  <li>Las direcciones web normalmente se escriben como "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Asegurate de usar las barras correctas (ej. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -405,11 +492,13 @@ msgstr "La página no está siendo redireccionada correctamente"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Este problema puede estar causado a veces por deshabilitar o rechazar cookies.</li>\n"
+"  <li>Este problema puede estar causado a veces por deshabilitar o "
+"rechazar cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -419,7 +508,8 @@ msgstr "La dirección no fue comprendida"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -433,16 +523,20 @@ msgstr "Fallo en conexión segura"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Podría haber un problema con la configuración del servidor o podría ser\n"
+"  <li>Podría haber un problema con la configuración del servidor o podría"
+" ser\n"
 "alguien tratando de hacerse pasar por ese servidor.</li>\n"
-"  <li>Si te conectaste exitosamente a este servidor en el pasado, el error puede\n"
+"  <li>Si te conectaste exitosamente a este servidor en el pasado, el "
+"error puede\n"
 "ser temporal y podés probar más tarde.</li>\n"
 "</ul>"
 
@@ -453,3 +547,29 @@ msgstr "Epa"
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr "No se puede cargar esta página por alguna razón."
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_link_share"
+msgid "Share link"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_link_copy"
+msgid "Copy link address"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_share"
+msgid "Share image"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_copy"
+msgid "Copy image address"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_save"
+msgid "Save image"
+msgstr ""
+
