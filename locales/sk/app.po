@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-03-31 16:04+0000\n"
+"PO-Revision-Date: 2017-05-18 18:24+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
-"Plural-Forms: nplurals=3; plural=(((n >= 2 && n <= 4)) ? 1 : (n == 1) ? 0"
-" : 2)\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "Generated-By: Babel 1.3\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -103,13 +104,13 @@ msgstr "Vaše práva"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Počet zablokovaných sledovacích prvkov"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Zdieľať cez"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -118,28 +119,28 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Vymazať históriu prehliadania"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "Vymazať"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Vymazať históriu"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Private Search"
-msgstr ""
+msgstr "Súkromné vyhľadávanie"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -150,26 +151,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s vám dáva kontrolu.</p>\n"
 "<p>Používajte ho ako súkromný prehliadač:\n"
 "  <ul>\n"
-"    <li>Vyhľadávajte a prehliadajte priamo prostredníctvom aplikácie</li>"
-"\n"
-"    <li>Blokujte sledovacie prvky (v nastaveniach môžete sledovacie prvky"
-" povoliť)</li>\n"
+"    <li>Vyhľadávajte a prehliadajte priamo prostredníctvom aplikácie</li>\n"
+"    <li>Blokujte sledovacie prvky (v nastaveniach môžete sledovacie prvky povoliť)</li>\n"
 "    <li>Vymažte cookies, históriu vyhľadávania a prehliadania</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s vyvíja Mozilla. Naša misia je podporovať zdravý a otvorený "
-"internet.<br/>\n"
+"<p>%1$s vyvíja Mozilla. Naša misia je podporovať zdravý a otvorený internet.<br/>\n"
 "<a href=\"%2$s\">Ďalšie informácie</a></p>"
 
 msgctxt "preference_category_search"
@@ -183,13 +179,13 @@ msgstr "Predvolený"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Jazyk zariadenia"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -337,7 +333,7 @@ msgstr "Zastaviť načítavanie webovej stránky"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Návrat do predchádzajúcej aplikácie"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -351,24 +347,16 @@ msgid "Browse like no one’s watching."
 msgstr "Prehliadajte, akoby sa nikto nepozeral."
 
 msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
-msgstr ""
-"Automaticky počas prehliadania blokujte sledovacie prvky. Potom jedným "
-"ťuknutím z vášho zariadenia vymažte zoznam navštívených stránok, výsledky"
-" vyhľadávania, cookies a heslá."
+msgid "Automatically block online trackers while you browse. Then tap to erase visited pages, searches, cookies and passwords from your device."
+msgstr "Automaticky počas prehliadania blokujte sledovacie prvky. Potom jedným ťuknutím z vášho zariadenia vymažte zoznam navštívených stránok, výsledky vyhľadávania, cookies a heslá."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
 msgstr "Ok, rozumiem!"
 
-#, fuzzy
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and services you use can still know where you've been."
-msgstr ""
-"Len pre úplnosť, stránky a služby, ktoré používate môžu stále vedieť kde "
-"ste boli."
+msgstr "Len pre úplnosť, stránky a služby, ktoré používate môžu stále vedieť kde ste boli."
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -398,12 +386,8 @@ msgstr "Nájsť aplikáciu, ktorá môže otvoriť tento odkaz"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Žiadna aplikácia na vašom zariadení nie je schopná otvoriť tento odkaz. "
-"Môžete opustiť aplikáciu %1$s a nájsť vhodnú aplikáciu v %2$s."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Žiadna aplikácia na vašom zariadení nie je schopná otvoriť tento odkaz. Môžete opustiť aplikáciu %1$s a nájsť vhodnú aplikáciu v %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -427,17 +411,13 @@ msgstr "Nie je možné sa pripojiť"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Stránka môže byť dočasne nedostupná alebo zaneprázdnená. Svoj"
-" pokus opakujte neskôr.</li>\n"
-"        <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie "
-"vášho mobilného zariadenia k internetu.</li>\n"
+"        <li>Stránka môže byť dočasne nedostupná alebo zaneprázdnená. Svoj pokus opakujte neskôr.</li>\n"
+"        <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie vášho mobilného zariadenia k internetu.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -454,16 +434,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Skontrolujte, či ste nezadali napr.\n"
 "          <strong>ww</strong>.example.com namiesto\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie "
-"vášho zariadenia k internetu.</li>\n"
+"        <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie vášho zariadenia k internetu.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -473,17 +451,13 @@ msgstr "Adresa nie je platná"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Webové adresy sú zvyčajne zadávané v tvare "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Skontrolujte, či používate správne lomky (t.j. "
-"<strong>/</strong>).</li>\n"
+"  <li>Webové adresy sú zvyčajne zadávané v tvare <strong>http://www.example.com/</strong></li>\n"
+"  <li>Skontrolujte, či používate správne lomky (t.j. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -493,13 +467,11 @@ msgstr "Stránku sa nepodarilo správne presmerovať"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Tento problém môže nastať pri nepovolení alebo odmietnutí "
-"cookies.</li>\n"
+"  <li>Tento problém môže nastať pri nepovolení alebo odmietnutí cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -509,13 +481,11 @@ msgstr "Adresa nebola rozpoznaná"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Na otvorenie tento adresy možno bude potrebné nainštalovať ďalší "
-"softvér.</li>\n"
+"  <li>Na otvorenie tento adresy možno bude potrebné nainštalovať ďalší softvér.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -525,11 +495,9 @@ msgstr "Zabezpečené pripojenie zlyhalo"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -551,25 +519,24 @@ msgstr "Z nejakého dôvodu nebolo možné načítať stránku."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Zdieľať odkaz"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Kopírovať adresu odkazu"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Zdieľať obrázok"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Kopírovať adresu obrázku"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
-
+msgstr "Uložiť obrázok"
