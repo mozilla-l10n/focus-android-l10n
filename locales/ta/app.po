@@ -8,53 +8,58 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-19 17:55+0000\n"
+"Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1495216506.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "சரி"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "தேடல் அல்லது உலாவ முகவரி இடுக"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"தானியக்க அந்தரங்க உலாவல்.\n"
+"உலாவு. அழி, திரும்பச்செய்"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "உங்கள் உலாவல் வரலாறு அழிக்கப்பட்டது."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "%1$s என்பதற்காக தேடு"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "பகிர்…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -63,7 +68,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "%1$s மூலம் திற"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -73,23 +78,23 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "இதனால் திற…"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "அமைவுகள்"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "பற்றிய"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "உதவி"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "உங்கள் உரிமைகள்"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -99,13 +104,13 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "பின்தொடருதல் தடுக்கப்பட்டது"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "இதன்வழி பகிர்க"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -114,28 +119,28 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "உலாவல் வரலாற்றை அழி"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "அகற்று"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "உலாவல் வரலாற்றை அகற்று"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Private Search"
-msgstr ""
+msgstr "தனிப்பட்ட தேடல்"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -146,91 +151,101 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
 "Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s என்பது உங்களை கட்டுப்படுத்துகிறது.</p>\n"
+"<p>தனிப்பட்ட உலாவியாக பயன்படுத்து:\n"
+"  <ul>\n"
+"    <li>தேடலுக்கும் உலாவுதலுக்கும் இச்செயலியைப் பாவி</li>\n"
+"    <li>பின்தொடருதலை தடு (அல்லது அமைவுகளை மாற்றி பின்தொடருவதை அனுமதி)</li>\n"
+"    <li>நினைவிகளை அகற்றுவதன் மூலம் தேடல் உலாவல் வரலாற்றையும் அகற்று</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s இது ஒரு மொசில்லா தயாரிப்பாகும். எங்களின் நோக்கம் வேகமான ஆரோக்கியமான திறந்த "
+"இணையத்தை கிடைக்கச் செய்வதாகும்.<br/>\n"
+"<a href=\"%2$s\">மேலும் அறிய</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "முன்னிருப்பு"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "மொழி"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "கட்டக முன்னிருப்பு"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "முன்னிருப்பு தேடல்"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "தனியுரிமை"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "விளம்பர பின்தொடரலை தடு"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "பகுப்பாய்வு பின்தொடரலை தடு"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "சமூக பின்தொடரலை தடு"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "பிற உள்ளடக்க பின்தொடரலை தடு"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "சில காணொளிகளும் இணையப் பக்கங்களும் உடையலாம்"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "செயல்திறன்"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "இணைய எழுத்துருக்களைத் தடு"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "சின்னம் (அ) படங்கள் காணாமல் போகலாம்"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "படங்களைத் தடு"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "முன்னிருப்பு உலாவியாக்குக"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "மொசில்லா"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
@@ -344,7 +359,8 @@ msgid "OK, got it!"
 msgstr ""
 
 msgctxt "firstrun_footer"
-msgid "To be clear, sites and services you use can still know where you've been."
+msgid ""
+"To be clear, sites and services you use can still know where you've been."
 msgstr ""
 
 msgctxt "your_rights"
@@ -376,8 +392,8 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+"None of the apps on your device are able to open this link. You can leave "
+"%1$s to search %2$s for an app that can."
 msgstr ""
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -402,10 +418,10 @@ msgstr ""
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again "
+"in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s "
+"data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -423,8 +439,8 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or "
+"Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -435,10 +451,10 @@ msgstr ""
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/"
+"</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>)."
+"</li>\n"
 "</ul>"
 msgstr ""
 
@@ -461,8 +477,7 @@ msgstr ""
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -473,8 +488,8 @@ msgstr ""
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could "
+"be\n"
 "someone trying to impersonate the server.</li>\n"
 "  <li>If you have connected to this server successfully in the past, the "
 "error may\n"
