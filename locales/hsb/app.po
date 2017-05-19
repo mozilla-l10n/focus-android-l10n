@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-05-19 18:25+0000\n"
+"PO-Revision-Date: 2017-05-19 19:10+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hsb\n"
@@ -18,7 +18,7 @@ msgstr ""
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1495218357.000000\n"
+"X-POOTLE-MTIME: 1495221036.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -342,10 +342,13 @@ msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
+"Blokujće přesćěhowaki online awtomatisce, mjeztym zo přehladujeće. Podótkńće "
+"so potom, zo byšće wopytane strony, pytanja, placki a hesła ze swojeho grata "
+"zhašał."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "W porjadku, sym zrozumił!"
 
 msgctxt "firstrun_footer"
 msgid ""
@@ -354,11 +357,11 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Waše prawa"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Wotkaz w druhim nałoženju wočinić"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -366,13 +369,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Móžeće %1$s wopušćić, zo byšće tutón wotkaz w %2$s wočinił."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Nałoženje pytać, kotrež móže wotkaz wočinić"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -389,20 +392,20 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Priwatny modus wopušćić?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Zmylk při čitanju strony"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Hišće raz spytać"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Žadyn zwisk móžny"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -416,11 +419,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Čas zwiska je překročeny"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Serwer namakany njeje"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -435,7 +438,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Adresa płaćiwa njeje"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -446,10 +449,16 @@ msgid ""
 "</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Webadresy so z wašnjom kaž <strong>http://www.example.com/</strong> "
+"pisaja.</li>\n"
+"  <li>Zawěsćće, zo wužiwaće doprědka nachilene nakósne smužki (t.j. <strong>/"
+"</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Strona njeprawje posrědkuje"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -458,10 +467,14 @@ msgid ""
 "accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Tutón problem so druhdy přez znjemóžnjenje abo wotpokazowanje plackow "
+"zawinuje.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Tuta adresa njeje so zrozumiła"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
