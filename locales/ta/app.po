@@ -2,13 +2,12 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-05-19 17:55+0000\n"
+"PO-Revision-Date: 2017-05-19 18:44+0000\n"
 "Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -18,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1495216506.000000\n"
+"X-POOTLE-MTIME: 1495219483.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -249,24 +248,24 @@ msgstr "மொசில்லா"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "பெயரற்ற பயனளவு தரவை அனுப்பு"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "மேலும் அறிய"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s பற்றி"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "துள்ளிய உள்ளீடு"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -274,102 +273,104 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "நிராகரி"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "உலாவல் வரலாற்றை அகற்று"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "பாதுகாப்பான இணைப்பு"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "ஏற்றுகிறது"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "வலையத்தளம் ஏற்றப்பட்டது"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "கூடுதல் தேர்வுகள்"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "வழிசெலுத்தி முன்செல்"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "வலைத்தளத்தை மீளேற்று"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "வழிசெலுத்தி பின்செல்"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "வலைத்தளம் ஏற்றுவதை நிறுத்து"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "முந்தைய செயலியிக்கு திரும்பு"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "ஒட்டிச் செல்"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "மற்றவர்களுக்கு தெரியா வண்ணம் உலாவு."
 
 msgctxt "firstrun_description"
 msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
+"நீங்கள் உலாவும் போது இணயை தொடருதலை தானாக தடு. உங்கள் சாதனத்தில் உள்ள தளங்கள், தேடல்கள், "
+"நினைவிகள், மற்றும் கடவுச்சொல்லை அகற்றிவிடும்."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "சரி, கிடைத்தது!"
 
 msgctxt "firstrun_footer"
 msgid ""
 "To be clear, sites and services you use can still know where you've been."
-msgstr ""
+msgstr "புரியும்படிச் சொன்னால், தளங்கள் மற்றும் சேவைகளுக்கு நீங்கள் எங்குள்ளீர்கள் எனத் தெரியும்."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "உங்கள் உரிமைகள்"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "தொடுப்பை இன்னொரு செயலியில் திற"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -377,13 +378,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "%1$s என்பதை விட்டு விலகி இந்தத் தொடுப்பை %2$s உலாவியில் திற."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "தொடுப்பை திறக்கவல்ல ஒரு செயலியைக் கண்டுபிடி"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -395,25 +396,27 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave "
 "%1$s to search %2$s for an app that can."
 msgstr ""
+"இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கவல்லது. %1$s என்பதை விடுத்து "
+"ஒரு செயலியால் %2$s என்பதை தேட முடியும்."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "அந்தரங்க உலாவலில் இருந்து வெளியேறவா?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "பக்கத்தை ஏற்றுவதில் சிக்கல்"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "மீண்டும் முயற்சி"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "இணைக்க முடியவில்லை"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -424,14 +427,20 @@ msgid ""
 "data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>இந்தத் தளம் தற்சமயம் கிடைக்காமலோ அல்லது மிகவும் மும்முரமாகவோ இருக்கலாம். "
+"சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.</li>\n"
+"        <li>உங்களால் எந்த பக்கத்தையும் ஏற்றமுடியாவிட்டால், சாதனத்தில் கைபேசி அல்லது வைபை "
+"இணையம் உள்ளதா என உறுதிசெய்யவும்.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "இணைப்பு காலாவதியானது"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "சேவகன் கிடைக்கவில்லை"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -443,10 +452,17 @@ msgid ""
 "Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>உள்ளிட்ட முகவரியில் பிழை உள்ளதா எனப் பார்\n"
+"          <strong>ww</strong>.thamizha.com பின்வருவனவற்றிற்கு\n"
+"          <strong>www</strong>.thamizha.com</li>\n"
+"        <li>உங்களால் எந்தப் பக்கத்தையும் ஏற்ற முடியாவிட்டால், கைப்பேசி அல்லது அருகலை "
+"இணைய இணைப்பு உள்ளதா எனப்பார் .</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "இந்த முகவரி செல்லுபடியாகாதது"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -457,10 +473,16 @@ msgid ""
 "</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>இணைய முகவரி கீழ் பண்ட மாதிரி இருக்கும் <strong>htthttp://www.infitt.org/</"
+"strong></li>\n"
+"  <li>நீங்க / என்ற குறியைப் பயன்படுத்தினீர்களா எனப் பார்க்கவும் (i.e. <strong>/</"
+"strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "பக்கம் ஒழுங்காக திருப்பிவிடவில்லை"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -469,10 +491,14 @@ msgid ""
 "accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ அல்லது செயலற்று இருந்தாலோ இந்தப் "
+"பிரச்சனை வரும்.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "முகவரியைப் புரிந்து கொள்ள முடியவில்லை"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -480,10 +506,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>இந்த முகவரியை திறக்க மற்ற மென்பொருட்களை நிறுவ வேண்டும்..</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "பாதுகாப்பான இணைப்பு முறிந்தது"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -496,36 +525,42 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>இந்தச் சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில் \n"
+"யாராவது ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள்.</li>\n"
+"  <li>நீங்கள் இதற்கு முன்புவெற்றிகரமாக இந்த சேவையகத்துடன் இணைந்து இருந்தால்,\n"
+"இந்தப் பிழை தற்காலிகமானதாக இருக்கும், பிறகு மீண்டும் முயற்சி செய்யவும்.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "அச்சச்சோ"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "சில காரணங்களால் இந்தப் பக்கத்தை எங்களால் ஏற்ற முடியவில்லை."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "தொடுப்பைப் பகிர்"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "தொடுப்பு முகவரியை நகலெடு"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "படத்தைப் பகிர்"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "பட முகவரியை நகலெடு"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "படத்தைச் சேமி"
