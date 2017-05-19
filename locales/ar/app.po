@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-03-30 14:02+0000\n"
+"PO-Revision-Date: 2017-05-19 13:51+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1490882531.000000\n"
+"X-POOTLE-MTIME: 1495201907.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -104,7 +104,7 @@ msgstr "حقوقك"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "المتعقبات المحجوبة"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -162,7 +162,7 @@ msgstr ""
 "<p>استخدمه كمتصفح خاص:\n"
 "  <ul>\n"
 "    <li>ابحث و تصفح مباشرة في التطبيق</li>\n"
-"    <li>احظر المتعقبات (أو حدّث الإعدادات للسماح بالمتعقبات)</li>\n"
+"    <li>احجب المتعقبات (أو حدّث الإعدادات للسماح بالمتعقبات)</li>\n"
 "    <li>امسح الكعكات بالإضافة إلى حذف تأريخ البحث و التصفح</li>\n"
 "  </ul>\n"
 "</p>\n"
@@ -199,19 +199,19 @@ msgstr "الخصوصية"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "احظر متعقبات الإعلانات"
+msgstr "احجب متعقبات الإعلانات"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "احظر متعقبات التحليلات"
+msgstr "احجب متعقبات التحليلات"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "احظر المتعقبات الاجتماعية"
+msgstr "احجب المتعقبات الاجتماعية"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "احظر متعقبات المحتوى الأخرى"
+msgstr "احجب متعقبات المحتوى الأخرى"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
@@ -223,7 +223,7 @@ msgstr "الأداء"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "احظر خطوط الوب"
+msgstr "احجب خطوط الوب"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -233,7 +233,7 @@ msgstr "قد يسبب اختفاء بعض الأيقونات أو الصور"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "امنع الصور"
+msgstr "احجب الصور"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -352,7 +352,7 @@ msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
-"احظر متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي زرتها، "
+"احجب متعقبات الإنترنت تلقائيًا أثناء التصفح. ثم انقر لمسح الصفحات التي زرتها، "
 "و تأريخ البحث، و الكعكات، و كلمات السر من جهازك."
 
 msgctxt "firstrun_button"
