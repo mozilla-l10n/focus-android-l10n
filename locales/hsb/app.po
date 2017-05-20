@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-05-20 20:44+0000\n"
+"PO-Revision-Date: 2017-05-20 21:15+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hsb\n"
@@ -18,7 +18,7 @@ msgstr ""
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1495313067.000000\n"
+"X-POOTLE-MTIME: 1495314902.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -40,7 +40,7 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Awtomatiski privatny modus.\n"
+"Awtomatiski priwatny modus.\n"
 "Přehladować. Zhašeć. Wospjetować."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
@@ -104,7 +104,7 @@ msgstr "Waše prawa"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Slědowarjo zablokowani"
+msgstr "Přesćěhowaki zablokowane"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -231,7 +231,7 @@ msgstr "Webpisma blokować"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Móže k tomu wjesć, z symbole abo wobrazy faluja"
+msgstr "Móže k tomu wjesć, zo symbole abo wobrazy faluja"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -336,7 +336,7 @@ msgstr "Čitanje websydła zastajić"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "Wróćo k předchadenmu nałoženju"
+msgstr "Wróćo k předchadnemu nałoženju"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
