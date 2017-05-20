@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-05-20 20:54+0000\n"
+"PO-Revision-Date: 2017-05-20 21:11+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: dsb\n"
@@ -18,7 +18,7 @@ msgstr ""
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1495313686.000000\n"
+"X-POOTLE-MTIME: 1495314673.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -205,69 +205,69 @@ msgstr "Wabjeńske pśeslědowaki blokěrowaś"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Analyzowe pśeslědowaki blokěrowaś"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Socialne pśeslědowaki blokěrowaś"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Druge wopśimjeśowe pśeslědowaki blokěrowaś"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Kazy snaź někotare wideo a webboki"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Wugbaśe"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Webpisma blokěrowaś"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Móžo k tomu wjasć, až symbole abo wobraze feluju"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Wobraze blokěrowaś"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Jako standardny wobglědowak nastajiś"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Anonymne wužywańske daty pósłaś"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Dalšne informacije"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Wó %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Zapódaśe wuprozniś"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -275,102 +275,107 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Zachyśiś"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Pśeglědowańsku historiju lašowaś"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Wěsty zwisk"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Zacytanje"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Websedło jo se zacytało"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Dalšne nastajenja"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Doprědka"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Websedło znowego zacytaś"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Slědk"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Cytanje websedła zastajiś"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Slědk k pjerwjejšnemu nałoženjeju"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "Zasajźiś a zachopiś"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Pśeglědujśo mimo až njeby nichten wobglědował."
 
 msgctxt "firstrun_description"
 msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
+"Blokěrujśo pśeslědowaki online awtomatiski, mjaztym až pśeglědujośo. "
+"Pótusniśo pótom, aby woglědane boki, pytanja, cookije a gronidła ze swójogo "
+"rěda wulašował."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "W pórěźe, som zrozměł!"
 
 msgctxt "firstrun_footer"
 msgid ""
 "To be clear, sites and services you use can still know where you've been."
 msgstr ""
+"Wy měł se togo wědobny byś, až sedła a słužby, kótarež wužywaśo, wěźe, źož "
+"wy sćo był."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Waše pšawa"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Wótkaz w drugem nałoženju wócyniś"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -378,13 +383,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Móžośo %1$s spušćiś, aby toś ten wótkaz w %2$s wócynił."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Nałoženje pytaś, kótarež móžo wótkaz wócyniś"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -396,25 +401,27 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave "
 "%1$s to search %2$s for an app that can."
 msgstr ""
+"Žedno z nałoženjow na wašom rěźe njamóžo toś ten wótkaz wócyniś. Móžośo %1$s "
+"spušćiś, aby %2$s za nałoženim pśepytował."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Priwatny modus spušćiś?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Zmólka pśi cytanju boka"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Hyšći raz wopytaś"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Žeden zwisk móžny"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -425,14 +432,20 @@ msgid ""
 "data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśěžone. "
+"Wopytajśo za mało wokognuśow hyšći raz.</li>\n"
+"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-zwisk "
+"wašogo mobilnego rěda.</li>\n"
+"        </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Cas zwiska jo pśekšocony"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Serwer njejo se namakał"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -444,10 +457,17 @@ msgid ""
 "Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Pśeglědajśo adresu za pisańskimi zmólkami ako\n"
+"          <strong>ww</strong>.example.com město\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda abo "
+"swój WLAN-zwisk.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Adresa njejo płaśiwa"
 
 msgctxt "error_malformedURI_message"
 msgid ""
