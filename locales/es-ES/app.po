@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-05-19 10:21+0000\n"
-"Last-Translator: avelper <avelper@mozilla-hispano.org>\n"
+"PO-Revision-Date: 2017-05-21 21:15+0000\n"
+"Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -185,7 +185,7 @@ msgstr "Idioma"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "Sistema predeterminado"
+msgstr "Predeterminado del sistema"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -356,7 +356,7 @@ msgstr "¡Entendido!"
 
 msgctxt "firstrun_footer"
 msgid "To be clear, sites and services you use can still know where you've been."
-msgstr "Para ser honestos, aún así las páginas y servicios pueden saber dónde has estado."
+msgstr "Para ser honestos, aún así las páginas y servicios que usas pueden saber dónde has estado."
 
 msgctxt "your_rights"
 msgid "Your Rights"
