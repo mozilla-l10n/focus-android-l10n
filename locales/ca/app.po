@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: 2017-05-20 10:10+0000\n"
+"PO-Revision-Date: 2017-05-22 10:38+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
-"X-POOTLE-MTIME: 1495275057.000000\n"
+"X-POOTLE-MTIME: 1495449503.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -103,7 +103,7 @@ msgstr "Els vostres drets"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Elements de seguiment blocats"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -161,7 +161,7 @@ msgstr ""
 "<p>Com a navegador privat, us permet:\n"
 "  <ul>\n"
 "    <li>Cercar i navegar directament des de l'aplicació</li>\n"
-"    <li>Bloquejar els elements de seguiment (o canviar els paràmetres per "
+"    <li>Blocar els elements de seguiment (o canviar els paràmetres per "
 "permetre'ls)</li>\n"
 "    <li>Esborrar les galetes i l'historial de cerques i de navegació</li>\n"
 "  </ul>\n"
@@ -200,19 +200,19 @@ msgstr "Privadesa"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Bloqueja els elements de seguiment de publicitat"
+msgstr "Bloca els elements de seguiment de publicitat"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Bloqueja els elements de seguiment d'anàlisi"
+msgstr "Bloca els elements de seguiment d'anàlisi"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Bloqueja els elements de seguiment social"
+msgstr "Bloca els elements de seguiment social"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Bloqueja altres elements de seguiment de contingut"
+msgstr "Bloca altres elements de seguiment de contingut"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
@@ -224,7 +224,7 @@ msgstr "Rendiment"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "Bloqueja tipus de lletra web"
+msgstr "Bloca tipus de lletra web"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -234,7 +234,7 @@ msgstr "Pot fer que no es vegin algunes icones o imatges"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "Bloqueja les imatges"
+msgstr "Bloca les imatges"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -353,8 +353,8 @@ msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
-"Bloquegeu automàticament els elements que us fan el seguiment mentre "
-"navegueu. Esborreu amb un sol toc les pàgines visitades, cerques, galetes i "
+"Bloqueu automàticament els elements que us fan el seguiment mentre navegueu. "
+"Esborreu amb un sol toc les pàgines visitades, cerques, galetes i "
 "contrasenyes del dispositiu."
 
 msgctxt "firstrun_button"
