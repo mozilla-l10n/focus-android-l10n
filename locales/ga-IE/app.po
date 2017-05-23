@@ -8,53 +8,59 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-18 08:37-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-05-19 17:41+0000\n"
+"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ga_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.1.0\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
+"(n>6 && n<11) ? 3 : 4;;\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 1.3\n"
+"X-POOTLE-MTIME: 1495215704.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Cuardach nó seoladh Gréasáin"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Brabhsáil phríobháideach, go huathoibríoch.\n"
+"Brabhsáil. Bánaigh. Arís is arís eile."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Bánaíodh do stair bhrabhsála."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Cuardaigh %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Comhroinn…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -63,7 +69,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Oscail le %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -73,23 +79,23 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Oscail le…"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Socruithe"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Maidir leis"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Cabhair"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Cearta an úsáideora"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -99,13 +105,13 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Lorgairí blocáilte"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Comhroinn trí"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -114,28 +120,28 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Glan an stair bhrabhsála"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "Glan"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Glan an stair bhrabhsála"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Private Search"
-msgstr ""
+msgstr "Cuardach Príobháideach"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -153,104 +159,116 @@ msgid ""
 "Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>Cuireann %1$s tusa i gceannas.</p>\n"
+"<p>Úsáid mar bhrabhsálaí príobháideach é:\n"
+"  <ul>\n"
+"    <li>Cuardaigh agus brabhsáil go díreach san aip</li>\n"
+"    <li>Cuir cosc ar lorgairí (nó ceadaigh sna socruithe iad)</li>\n"
+"    <li>Scrios fianáin chomh maith le do stair chuardaigh agus stair "
+"bhrabhsála</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon bríomhar "
+"oscailte a chothú.<br/>\n"
+"<a href=\"%2$s\">Tuilleadh eolais</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Cuardach"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Réamhshocrú"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Teanga"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Réamhshocrú an chórais"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Cuardach réamhshocraithe"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Príobháideachas"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Cuir cosc ar lorgairí fógraíochta"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Cuir cosc ar lorgairí anailísíochta"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Cuir cosc ar lorgairí sóisialta"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Cuir cosc ar lorgairí ábhair eile"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Seans go mbrisfidh seo físeáin agus leathanaigh Ghréasáin áirithe"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Feidhmíocht"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Cuir cosc ar chlónna Gréasáin"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "D'fhéadfadh go mbeadh deilbhíní nó íomhánna ar iarraidh"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Cuir cosc ar íomhánna"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Déan brabhsálaí réamhshocraithe de"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Seol sonraí úsáide gan ainm"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Tuilleadh eolais"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Maidir le %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Glan an réimse"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -258,102 +276,107 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Díbir"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Glan an stair bhrabhsála"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Ceangal slán"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Á luchtú"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Luchtaíodh an suíomh Gréasáin"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Tuilleadh roghanna"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Téigh ar aghaidh"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Athluchtaigh an suíomh"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Téigh ar gcúl"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Stop ag luchtú an tsuímh"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Fill ar an aip roimhe seo"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "Greamaigh agus Téigh"
 
 msgctxt "firstrun_title"
 msgid "Browse like no one’s watching."
-msgstr ""
+msgstr "Brabhsáil i leith is nach bhfuil éinne ag cúlchoimhéad ort."
 
 msgctxt "firstrun_description"
 msgid ""
 "Automatically block online trackers while you browse. Then tap to erase "
 "visited pages, searches, cookies and passwords from your device."
 msgstr ""
+"Cuir cosc ar lorgairí ar líne go huathoibríoch le linn brabhsála. Ansin, "
+"tapáil chun na leathanaigh ar thug tú cuairt orthu a bhánú ó do ghléas, "
+"chomh maith le haon fhianáin, focail fhaire, nó cuardaigh a rinne tú."
 
 msgctxt "firstrun_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, tuigim!"
 
 msgctxt "firstrun_footer"
 msgid ""
 "To be clear, sites and services you use can still know where you've been."
 msgstr ""
+"Le bheith soiléir, beidh na suímh agus na seirbhísí a úsáideann tú ábalta na "
+"leathanaigh a dtugann tú cuairt orthu a fheiceáil."
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Cearta an úsáideora"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Oscail an nasc in aip eile"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -361,13 +384,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Is féidir leat %1$s a fhágáil chun an nasc seo a oscailt in %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Aimsigh aip lenar féidir an nasc seo a oscailt"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -379,25 +402,27 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave "
 "%1$s to search %2$s for an app that can."
 msgstr ""
+"Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat "
+"%1$s a fhágáil chun aip oiriúnach a lorg in %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Scoir de Bhrabhsáil Phríobháideach?"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Fadhb i rith luchtú an leathanaigh"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Bain Triail Eile As"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Ní féidir ceangal a bhunú"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -408,14 +433,20 @@ msgid ""
 "data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>D'fhéadfadh nach bhfuil fáil ar an suíomh nó go bhfuil sé ró-"
+"ghnóthach faoi láthair. Bain triail eile as ar ball beag.</li>\n"
+"        <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, cinntigh "
+"ceangal sonraí nó Wi-Fi do ghléis.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Ceangal imithe thar am"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Níor aimsíodh an freastalaí"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -427,10 +458,17 @@ msgid ""
 "Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Scrúdaigh an seoladh le haghaidh botún cosúil le\n"
+"          <strong>ww</strong>.example.com in áit\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil "
+"ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Níl an seoladh bailí"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -441,10 +479,15 @@ msgid ""
 "</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www."
+"example.com/</strong></li>\n"
+"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Níl an leathanach ag atreorú i gceart"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -453,10 +496,14 @@ msgid ""
 "accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith "
+"díchumasaithe nó bheith ag diúltú leo.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Níor tuigeadh an seoladh"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -464,10 +511,14 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo "
+"a oscailt.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Níorbh fhéidir ceangal slán a bhunú"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -480,36 +531,44 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó "
+"b'fhéidir\n"
+"go bhfuil duine éigin ag déanamh aithrise ar an bhfreastalaí.</li>\n"
+"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, b'fhéidir\n"
+"gur fadhb shealadach í agus gur féidir leat iarracht a dhéanamh níos déanaí."
+"</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Úps"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Ní féidir linn an leathanach seo a luchtú ar chúis éigin."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Comhroinn an nasc"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Cóipeáil seoladh an naisc"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Comhroinn an íomhá"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Cóipeáil seoladh na híomhá"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Sábháil an íomhá"
