@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 17:55+0000\n"
+"PO-Revision-Date: 2017-05-26 19:45+0000\n"
 "Last-Translator: Michal Vašíček <michalvasicek@icloud.com>\n"
 "Language-Team: cs <LL@li.org>\n"
 "Language: cs\n"
@@ -138,10 +138,9 @@ msgstr "Vymazat historii prohlížení"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "Soukromé vyhledávání"
+msgstr "Vyhledávejte soukromě"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -222,7 +221,7 @@ msgstr "Může rozbít některá videa a webové stránky"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Nenápadnost"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Vypněte režim nenápadnosti pro vytváření snímků obrazovky a zobrazení stránek, které navštěvujete v aplikaci %1$s v seznamu nedávno použitých aplikacích"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -562,19 +561,19 @@ msgstr "Procházejte, jako když se nikdo nedívá"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Automaticky blokuje online sledování, zatímco prohlížíte. Potom můžete smazat zobrazené stránky a cookies dotykem na ikonu koše v aplikaci nebo ve vašich notifikacích."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Posuňte své soukromí na vyšší úroveň"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Nastavte si %1$s jako svůj výchozí prohlížeč a získejte výhody soukromého prohlížení když vás ostatní Android aplikace odkážou na web."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -582,11 +581,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Rychlé řešení, když\n"
+"blokování rozbije stránku"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Když se blokování sledovacích prvků stane přítěží a rozbije stránku, vypněte jej klepnutím v nabídce nástrojů."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
