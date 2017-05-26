@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 19:51+0000\n"
+"PO-Revision-Date: 2017-05-26 20:30+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hsb\n"
@@ -18,7 +18,7 @@ msgstr ""
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1495828314.000000\n"
+"X-POOTLE-MTIME: 1495830633.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -599,11 +599,14 @@ msgid ""
 "pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
 msgstr ""
+"Blokujće awtomatisce slědowanje online, mjeztym zo přehladujeće. Wotstrońće "
+"potom wopytane strony a placki z jednym dótkom na čaporowy symbol w "
+"nałoženju abo w swojich zdźělenkach. "
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Zesylńće swoju priwatnosć"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -613,6 +616,8 @@ msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing "
 "when you link to the Web from other Android apps."
 msgstr ""
+"Nastajće %1$s jako swój standardny wobhladowak a zwužitkujće priwatny modus, "
+"hdyž so z webom z druhich nałoženjow Android zwjazujeće."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -620,6 +625,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Spěšne rozrisanje, hdyž\n"
+"blokowanje = łamanje"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -627,18 +634,20 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems broken, "
 "turn off blocking with a tap to the tool menu."
 msgstr ""
+"Jeli blokowanje přesćěhowakow online ma njelěpšinu, zo so sydło zda "
+"skóncowane być, znjemóžńće blokowanje z podótkom na meni Nastroje."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "W porjadku, sym zrozumił!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Přeskočić"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Dale"
 
 #~ msgctxt "text_selection_search_action"
 #~ msgid "Private Search"
