@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 17:51+0000\n"
+"PO-Revision-Date: 2017-05-26 18:11+0000\n"
 "Last-Translator: Ton <tonnes.mb@gmail.com>\n"
 "Language-Team: nl <LL@li.org>\n"
 "Language: nl\n"
@@ -221,7 +221,7 @@ msgstr "Kan sommige video’s en webpagina’s verstoren"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Stealth"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -230,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Zet stealthmodus uit om schermafbeeldingen te maken en websites te zien die u met %1$s in uw lijst Recente apps hebt bezocht"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -356,7 +356,7 @@ msgstr "Terug naar vorige app"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Trackers blokkeren"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -553,29 +553,29 @@ msgstr "Afbeelding opslaan"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Opgeslagen en gedeelde afbeeldingen <b>worden niet verwijderd</b> als u geschiedenis van %1$s wist."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Surf alsof niemand meekijkt"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Blokkeer automatisch onlinetrackers terwijl u surft. Verwijder daarna bezochte pagina’s en cookies met één tik naar het prullenbakpictogram in de app of in uw meldingen."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Vergroot uw privacy"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Stel %1$s in als uw standaardbrowser en geniet van de voordelen van privénavigatie wanneer u vanuit andere Android-apps naar het web verwijst."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -583,20 +583,22 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Een snelle oplossing als\n"
+"blokkeren verstoring geeft"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Gezien het nadeel van het blokkeren van onlinetrackers waarbij een website defect kan lijken, kunt u blokkering met één tik in het hulpmiddelenmenu uitzetten."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, begrepen!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Overslaan"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
