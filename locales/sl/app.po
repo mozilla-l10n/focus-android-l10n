@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 20:00+0000\n"
-"Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
+"PO-Revision-Date: 2017-05-26 21:58+0000\n"
+"Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -221,7 +221,7 @@ msgstr "Lahko pokvari nekatere videoposnetke in strani"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Skrivni način"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -230,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Izklopite skrivni način za zajemanje zaslona in prikaz strani, obiskanih v %1$su, na seznamu nedavnih aplikacij"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -575,7 +575,7 @@ msgstr "Okrepite svojo zasebnost"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Nastavite %1$s kot privzet brskalnik in uživajte prednosti zasebnega brskanja, ko odprete povezave v drugih aplikacijah Androida."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
