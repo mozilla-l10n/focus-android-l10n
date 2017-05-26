@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-19 17:41+0000\n"
+"PO-Revision-Date: 2017-05-26 20:31+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
@@ -18,7 +18,7 @@ msgstr ""
 "6 && n<11) ? 3 : 4;;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1495215704.000000\n"
+"X-POOTLE-MTIME: 1495830708.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -140,7 +140,7 @@ msgstr "Glan an stair bhrabhsála"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Cuardach Príobháideach"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -225,7 +225,7 @@ msgstr "Seans go mbrisfidh seo físeáin agus leathanaigh Ghréasáin áirithe"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Mód Rúnda"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -362,7 +362,7 @@ msgstr "Fill ar an aip roimhe seo"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Cuir cosc ar lorgairí"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -587,7 +587,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Brabhsáil i leith is nach bhfuil éinne ag cúlchoimhéad ort"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -627,15 +627,15 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, tuigim!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Ná bac leis"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Ar Aghaidh"
 
 #~ msgctxt "text_selection_search_action"
 #~ msgid "Private Search"
