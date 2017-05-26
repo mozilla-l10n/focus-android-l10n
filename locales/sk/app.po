@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 21:08+0000\n"
+"PO-Revision-Date: 2017-05-26 21:28+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -230,7 +230,7 @@ msgstr "Nenápadnosť"
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Ak chcete vytvárať snímky obrazovky a vidieť stránky, ktoré ste navštívili prostredníctvom aplikácie %1$s v zozname nedávno použitých aplikácii, vypnite režim nenápadnosti"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -563,7 +563,7 @@ msgstr "Prehliadajte, akoby sa nikto nepozeral"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Automaticky pri prehliadaní blokujte online sledovacie prvky. Potom odstráňte zoznam navštívených stránok a cookies jedným ťuknutím na ikonu koša v aplikácii alebo vo vašich upozorneniach."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -583,11 +583,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Oprava stránky rozbitej blokovaním\n"
+"sledovacích prvkov nie je žiadny problém"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Keď sa z blokovania sledovacích prvkov stane príťaž a rozbije stránku, môžete ho vypnúť jednoduchým ťuknutím v ponuke nástrojov."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
