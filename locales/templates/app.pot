@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-18 08:37-0700\n"
+"POT-Creation-Date: 2017-05-26 18:27+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.3\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -134,7 +134,7 @@ msgstr ""
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
-msgid "Private Search"
+msgid "Search Privately"
 msgstr ""
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
@@ -201,6 +201,24 @@ msgstr ""
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
+msgstr ""
+
+#. Preference Title: Secure Mode is a setting that prevents the app's content
+#. to show up in the "recent apps" screen          and prevents the user from
+#. taking screenshots or casting the app to other displays.
+msgctxt "preference_privacy_secure_mode"
+msgid "Stealth"
+msgstr ""
+
+#. Preference Summary: Secure Mode is a setting that prevents the app's
+#. content to show up in the "recent apps" screen      and prevents the user
+#. from taking screenshots or casting the app to other displays. %1$s will be
+#. replaced with the      short name of the app (e.g. Focus).
+#, c-format
+msgctxt "preference_privacy_secure_mode_summary"
+msgid ""
+"Turn off stealth mode to take screenshots and see sites you’ve visited "
+"using %1$s in your Recent Apps list"
 msgstr ""
 
 msgctxt "preference_category_performance"
@@ -322,29 +340,18 @@ msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
 msgstr ""
 
+#. Content description (not visible, for screen readers etc.): This is the
+#. description for the switch in the menu that temporarily disables/enables
+#. content blocking for the current session
+msgctxt "content_description_blocking_switch"
+msgid "Block trackers"
+msgstr ""
+
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
-
-msgctxt "firstrun_title"
-msgid "Browse like no one’s watching."
-msgstr ""
-
-msgctxt "firstrun_description"
-msgid ""
-"Automatically block online trackers while you browse. Then tap to erase "
-"visited pages, searches, cookies and passwords from your device."
-msgstr ""
-
-msgctxt "firstrun_button"
-msgid "OK, got it!"
-msgstr ""
-
-msgctxt "firstrun_footer"
-msgid "To be clear, sites and services you use can still know where you've been."
 msgstr ""
 
 msgctxt "your_rights"
@@ -513,5 +520,67 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
+msgstr ""
+
+#. This is a warning shown in the browser's context menu (when long pressing
+#. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
+#. Focus).
+msgctxt "contextmenu_image_warning"
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+
+#. First run tour (page 1): Title
+msgctxt "firstrun_tracking_title"
+msgid "Browse like no one’s watching"
+msgstr ""
+
+#. First run tour (page 1): Text
+msgctxt "firstrun_tracking_text"
+msgid ""
+"Automatically block online tracking while you browse. Then remove visited"
+" pages and cookies with a touch to the trash icon in the app or in your "
+"notifications."
+msgstr ""
+
+#. First run tour (page 2): Title
+msgctxt "firstrun_defaultbrowser_title"
+msgid "Power up your privacy"
+msgstr ""
+
+#. First run tour (page 2): Text, %1$s will be replaced with the short name of
+#. the app (e.g. Focus).
+#, c-format
+msgctxt "firstrun_defaultbrowser_text"
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you link to the Web from other Android apps."
+msgstr ""
+
+#. First run tour (page 3): Title
+msgctxt "firstrun_breaking_title"
+msgid ""
+"A quick fix when\n"
+"blocking = breaking"
+msgstr ""
+
+#. First run tour (page 3): Text
+msgctxt "firstrun_breaking_text"
+msgid ""
+"When the downside of blocking online trackers is a site that seems "
+"broken, turn off blocking with a tap to the tool menu."
+msgstr ""
+
+msgctxt "firstrun_close_button"
+msgid "OK, got it!"
+msgstr ""
+
+msgctxt "firstrun_skip_button"
+msgid "Skip"
+msgstr ""
+
+msgctxt "firstrun_next_button"
+msgid "Next"
 msgstr ""
 
