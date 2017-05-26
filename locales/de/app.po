@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 18:30+0000\n"
+"PO-Revision-Date: 2017-05-26 18:33+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -551,29 +551,29 @@ msgstr "Grafik speichern"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Gespeicherte und geteilte Grafiken <b>werden nicht gelöscht</b>, wenn Sie die Chronik von %1$s löschen."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Surfen Sie, als würde niemand zusehen"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Blockieren Sie während des Surfens automatisch Online-Verfolger. Entfernen Sie dann mit einem Tippen auf das Müll-Symbol in der App oder Ihren Benachrichtigungen besuchte Seiten und Cookies."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Stärken Sie Ihre Privatsphäre"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Verwenden Sie %1$s als Standardbrowser und nutzen Sie die Vorteile des privaten Surfens, wenn Sie von anderen Android-Apps das Internet nutzen."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -581,20 +581,22 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Eine schnelle Korrektur wenn\n"
+"Blockieren Störungen verursacht"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Wenn das Blockieren von Online-Verfolgern eine Website stört, deaktivieren Sie es durch ein Tippen im Werkzeugmenü."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Ok, verstanden!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Überspringen"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Weiter"
