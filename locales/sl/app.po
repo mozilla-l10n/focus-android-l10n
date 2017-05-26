@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 19:11+0000\n"
+"PO-Revision-Date: 2017-05-26 20:00+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -138,10 +138,9 @@ msgstr "Počisti zgodovino brskanja"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "Zasebno iskanje"
+msgstr "Iščite zasebno"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -564,7 +563,7 @@ msgstr "Brskajte, kot da vas nihče ne gleda"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Samodejno zavračajte spletne sledilce, medtem ko brskate. Nato odstranite zgodovino strani in piškotke z dotikom ikone koša v aplikaciji ali med obvestili."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -584,11 +583,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Hitra rešitev, kadar\n"
+"zavračanje kaj pokvari"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Kadar zavračanje spletnih sledilcev pokvari prikaz spletne strani, izklopite zavračanje v meniju z orodji."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
