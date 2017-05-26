@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-21 10:43+0000\n"
+"PO-Revision-Date: 2017-05-26 20:50+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: dsb\n"
@@ -18,7 +18,7 @@ msgstr ""
 "%100==4 ? 2 : 3);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1495363399.000000\n"
+"X-POOTLE-MTIME: 1495831826.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -140,7 +140,7 @@ msgstr "Pśeglědowańsku historiju lašowaś"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Priwatnje pytaś"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -224,7 +224,7 @@ msgstr "Kazy snaź někotare wideo a webboki"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Tarnowanje"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -236,6 +236,9 @@ msgid ""
 "Turn off stealth mode to take screenshots and see sites you’ve visited using "
 "%1$s in your Recent Apps list"
 msgstr ""
+"Wušaltujśo tarnowański modus, aby wobrazowku fotografěrował a se sedła "
+"woglědował, ku kótarymž sćo se z %1$s w swójej lisćinje aktualnych "
+"nałoženjow woglědał"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -361,7 +364,7 @@ msgstr "Slědk k pjerwjejšnemu nałoženjeju"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Pśeslědowaki blokěrowaś"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -581,11 +584,12 @@ msgid ""
 "Saved and shared images <b>will not be deleted</b> when you erase %1$s "
 "history."
 msgstr ""
+"Skłaźone a źělone wobraze <b>se njewulašuju</b>, gaž historiju %1$s lašujośo."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Pśeglědujśo mimo aby něchten wobglědował"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -594,11 +598,14 @@ msgid ""
 "pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
 msgstr ""
+"Blokěrujśo awtomatiski slědowanje online, mjaztym až pśeglědujośo. "
+"Wótwónoźćo pótom woglědane boki a cookieje z jadnym dotyknjenim na cajkowy "
+"symbol w nałoženju abo w swójich powěźeńkach."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Zmocniśo swóju priwatnosć"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -608,6 +615,8 @@ msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing "
 "when you link to the Web from other Android apps."
 msgstr ""
+"Nastajśo %1$s ako swój standardny wobglědowak a mějśo wužytk z priwatnego "
+"modusa, gaž se z webom z drugich nałoženjow Android zwězujośo."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -615,6 +624,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Spěšne rozwězanje, gaž\n"
+"blokěrowanje = łamanje"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -622,18 +633,20 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems broken, "
 "turn off blocking with a tap to the tool menu."
 msgstr ""
+"Jolic blokěrowanje pśeslědowakow online ma njelěpšynu, až se sedło zda "
+"skóńcowane byś, znjemóžniśo blokěrowanje z pótusnjenim na meni Rědy."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "W pórěźe, som zrozměł!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Pśeskócyś"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Dalej"
 
 #~ msgctxt "text_selection_search_action"
 #~ msgid "Private Search"
