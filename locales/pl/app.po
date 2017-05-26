@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: focus-android\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 18:11+0000\n"
+"PO-Revision-Date: 2017-05-26 18:28+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -222,7 +222,7 @@ msgstr "Może uniemożliwiać oglądanie niektórych filmów i stron WWW"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Tryb ukryty"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,7 +231,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Wyłączenie trybu ukrytego umożliwia wykonywanie zrzutów ekranu i wyświetlanie stron odwiedzonych w programie %1$s na liście ostatnio używanych aplikacji"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -554,50 +554,50 @@ msgstr "Zapisz obraz"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Zapisane i udostępnione obrazy <b>nie zostaną usunięte</b> po wyczyszczeniu historii programu %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Przeglądaj, jak gdyby nikt nie patrzył"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Automatycznie blokuj śledzące elementy podczas przeglądania stron. Usuwaj odwiedzone strony i ciasteczka jednym dotknięciem ikony kosza w aplikacji lub w powiadomieniu."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Nowy poziom prywatności"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Ustaw %1$s jako domyślną przeglądarkę i korzystaj z zalet przeglądania prywatnego podczas łączenia się z Internetem z innych aplikacji na Androida."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
 msgid ""
 "A quick fix when\n"
 "blocking = breaking"
-msgstr ""
+msgstr "Jeśli blokowanie coś psuje"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Kiedy blokowanie elementów śledzących powoduje błędne wyświetlanie strony, wyłącz blokowanie w menu narzędziowym."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Pomiń"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Dalej"
