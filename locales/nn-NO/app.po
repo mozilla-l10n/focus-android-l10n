@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 08:51+0000\n"
+"PO-Revision-Date: 2017-05-27 09:25+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -221,7 +221,7 @@ msgstr "Kan øydelegge nokre videoar og nettsider"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Løyndemodus"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -230,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Skru av løyndemodus for å ta skjermbilde og sjå nettsider du har besøkt med %1$s i den nylege applista di"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -551,29 +551,29 @@ msgstr "Lagre bilde"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Lagra og delte bilde <b>vil ikkje bli fjerna</b> når du slettar %1$s-historikken."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Surf som om ingen ser på"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Automatisk blokker online-sporing når du surfar. Fjern så besøkte sider og infokapslar med ei lita berøring av søppelikonet i appen eller i varslingar."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Styrk personvernet ditt"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Vel %1$s som standardnettlesar og få fordelane med privat nettlesing når du linkar til nettet frå andre Android-appar."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -585,7 +585,7 @@ msgstr ""
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Når ulempa med å blokkere online-sporarar er ei nettside som ser øydelagd ut, slå av blokkering med eit tastetrykk i verktøymenyen."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
