@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 04:39+0000\n"
+"PO-Revision-Date: 2017-05-27 19:04+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -377,7 +377,7 @@ msgstr "用其他應用程式開啟鏈結"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "您可離開 %1$s，到 %2$s 安裝一套應用程式開啟此鏈結。"
+msgstr "您可離開 %1$s，到 %2$s 安裝應用程式來開啟此鏈結。"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
