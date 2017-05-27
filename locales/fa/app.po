@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 21:39+0000\n"
-"Last-Translator: Amin Mahmudian <amin.mahmudian@gmail.com>\n"
+"PO-Revision-Date: 2017-05-27 08:10+0000\n"
+"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -138,7 +138,6 @@ msgstr "پاک کردن تاریخچهٔ مرورگر"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
 msgstr "جست‌وجو ناشناس"
@@ -222,7 +221,7 @@ msgstr "ممکن است بعضی از ویدئوها یا صفحات وب را �
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "حالت پنهان"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "برای گرفتن تصویر از صفحه و دیدن سایت‌ها در فهرست برنامه‌های اخیرتان که با استفاده از %1$s بازدید کرده‌اید، «حالت پنهان» را خاموش کنید"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -357,7 +356,7 @@ msgstr "بازگشت به برنامهٔ قبل"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "مسدود کردن ردیاب‌ها"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -562,7 +561,7 @@ msgstr "بدون دغدغه نگاه‌ها مرور کنید"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "هنگام مرور به صورت خودکار ردیاب‌های آنلاین را مسدود کنید. سپس صفحه‌های بازدید شده و کوکی‌ها را با لمس آیکن سطل زباله در برنامه یا در اعلان‌هایتان، حذف کنید."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -582,11 +581,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"یک اصلاح سریع هنگامی که\n"
+"مسدود کردن = خراب شدن"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "هنگامی که مسدود کردن ردیاب‌های آنلاین باعث خراب شدن یک سایت می‌شود، با لمس «منو ابزار» مسدود کردنِ ردیاب‌ها را متوقف کنید."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
