@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 18:05+0000\n"
+"PO-Revision-Date: 2017-05-27 18:29+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: sr <LL@li.org>\n"
 "Language: sr\n"
@@ -138,10 +138,9 @@ msgstr "Обриши историју прегледања"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "Приватно претраживање"
+msgstr "Претражујте приватно"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
