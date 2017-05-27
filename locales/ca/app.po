@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 11:44+0000\n"
+"PO-Revision-Date: 2017-05-27 16:52+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1495885444.000000\n"
+"X-POOTLE-MTIME: 1495903950.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -67,7 +67,7 @@ msgstr "Comparteix…"
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr "Obre amb %1$s"
+msgstr "Obre amb el %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -95,6 +95,7 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "Els vostres drets"
 
+# Per restricció d'espai - jordis
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
 #. blocked trackers is shown below this label.          Next to this label is a
@@ -103,7 +104,7 @@ msgstr "Els vostres drets"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Elements de seguiment blocats"
+msgstr "Elements blocats"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -139,7 +140,7 @@ msgstr "Esborra l'historial de navegació"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Cerca privada"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -223,7 +224,7 @@ msgstr "Pot causar problemes amb alguns vídeos i pàgines web"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Invisible"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -235,6 +236,8 @@ msgid ""
 "Turn off stealth mode to take screenshots and see sites you’ve visited using "
 "%1$s in your Recent Apps list"
 msgstr ""
+"Desactiveu el mode invisible per fer captures de pantalla i veure els llocs "
+"que heu visitat amb el %1$s a la llista d'aplicacions recents"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -536,7 +539,7 @@ msgstr ""
 "  <li>Això podria ser un problema amb la configuració del servidor, o bé "
 "podria ser que algú estigués intentant fer-se passar pel servidor.</li>\n"
 "  <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error "
-"podria ser temporal, i podeu tornar-ho a provar més tard.</li>\n"
+"podria ser temporal i podeu tornar-ho a provar més tard.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -586,7 +589,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Navegueu sense sentir-vos observat"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -595,11 +598,14 @@ msgid ""
 "pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
 msgstr ""
+"Bloqueu automàticament els elements que us fan el seguiment mentre navegueu. "
+"Elimineu les pàgines visitades i les galetes tocant la icona de paperera a "
+"l'aplicació o a les notificacions."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Potencieu la privadesa"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -609,6 +615,8 @@ msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing "
 "when you link to the Web from other Android apps."
 msgstr ""
+"Definiu el %1$s com a navegador per defecte i gaudiu d'una navegació privada "
+"quan obriu enllaços web des d'altres aplicacions de l'Android."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -616,6 +624,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Una solució ràpida si el\n"
+"bloqueig causa problemes"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -623,18 +633,20 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems broken, "
 "turn off blocking with a tap to the tool menu."
 msgstr ""
+"Si us sembla que un lloc no funciona bé per haver blocat els elements de "
+"seguiment, desactiveu el bloqueig amb un sol toc al menú d'eines."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Entesos"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Omet"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Següent"
 
 #~ msgctxt "text_selection_search_action"
 #~ msgid "Private Search"
