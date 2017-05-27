@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 17:56+0000\n"
+"PO-Revision-Date: 2017-05-27 04:39+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -136,10 +136,9 @@ msgstr "清除瀏覽紀錄"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "隱私瀏覽"
+msgstr "隱私搜尋"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -229,7 +228,7 @@ msgstr "秘密行動"
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "關閉秘密模式，您就可以拍攝畫面擷圖，並在「應用程式切換清單」中，看到您曾使用 %1$s 造訪過的網站。"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -526,17 +525,17 @@ msgstr "儲存圖片"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "清除 %1$s 瀏覽紀錄時，已儲存並分享的圖片將<b>不會被刪除</b>。"
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "上網時，彷彿沒有人看著你。"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "上網時自動封鎖網路追蹤器。然後只要點擊程式或通知列中的垃圾桶圖示，即可移除造訪過的網站記錄和 Cookie。"
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -548,7 +547,7 @@ msgstr "加強您的隱私"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "將 %1$s 設為您的預設瀏覽器，讓您在其他 Android 程式開啟網頁時，也能受隱私瀏覽功能的保護。"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -556,11 +555,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"快速修正\n"
+"封鎖時的問題"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "若封鎖線上追蹤器，造成某些網站無法正常使用，您可以點擊工具選單暫時關閉封鎖功能。"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
