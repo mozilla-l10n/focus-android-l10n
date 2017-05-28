@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 07:29+0000\n"
+"PO-Revision-Date: 2017-05-28 07:40+0000\n"
 "Last-Translator: Hrant <hrant.mozilla@gmail.com>\n"
 "Language-Team: hy_AM <LL@li.org>\n"
 "Language: hy_AM\n"
@@ -138,7 +138,6 @@ msgstr "Ջնջել դիտարկման պատմությունը"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
 msgstr "Գաղտնի որոնում"
@@ -222,7 +221,7 @@ msgstr "Կարող է ընդհատել որոշ տեսանյութեր և վեբ
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Թաքնված"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Անջատեք թաքնված կերպը՝ էկրանի հանույթը ստանալու և %1$s-ով ձեր այցելած կայքերը տեսնելու համար ձեր Վերջին հավելվածները ցանկում"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -552,7 +551,7 @@ msgstr "Պահպանել պատկերը"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Պահպանված և համօգտագործված պատկերները <b>չեն ջնջվի</b>, երբ դուք ջնջեք %1$s-ը"
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -562,31 +561,31 @@ msgstr "Դիտարկեք այնպես, կարծես ոչ ոք չի նայում 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Ինքնաբար արգելափակել առցանց հետագծումները դիտարկումների ընթացքում: Ապա հեռացրեք այցելած էջերը և cookie-ները՝ հպելով հավելվածի ջնջելու պատկերակին կամ ծանուցումներին:"
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Հզորացրեք ձեր գաղտնիությունը"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Կայեք %1$s-ը որպես հիմնական դիտարկիչ և ստացեք գաղտնի դիտարկիչի բոլոր առավելությունները, երբ սավառնում եք ցանցում ձեր Android-ի այլ հավելվածներից:"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
 msgid ""
 "A quick fix when\n"
 "blocking = breaking"
-msgstr ""
+msgstr "Արագ ուղղումը արգելափակելիս = ընդհատում"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Երբ առցանց հետագծիչների պատճառով կայքը վնասվում է՝ անջատեք արգելափակումը ցանկի հպելիս:"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
