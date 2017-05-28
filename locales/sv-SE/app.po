@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 12:23+0000\n"
+"PO-Revision-Date: 2017-05-28 12:48+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
@@ -553,29 +553,29 @@ msgstr "Spara bild"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Sparade och delade bilder <b>kommer inte att raderas</b> när du raderar %1$s historik."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Surfa utan att känna dig övervakad"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Blockera automatiskt spårning online medan du surfar. Ta sedan bort besökta sidor och kakor med ett tryck på papperskorgen i appen eller i dina aviseringar."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Stärk din integritet"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Ange %1$s som standardwebbläsare och dra nytta av privat surfning när du länkar till webben från andra Android-appar."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -583,6 +583,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"En snabb lösning när \n"
+"blockering = avbrott"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -591,7 +593,7 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, jag förstår!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
