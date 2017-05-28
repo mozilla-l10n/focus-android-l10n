@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 09:39+0000\n"
+"PO-Revision-Date: 2017-05-28 10:09+0000\n"
 "Last-Translator: Slimane Amiri <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -221,7 +221,7 @@ msgstr "Yezmer ad isewḥel kra n tvidyutin akked kra n isebtar Web ad d-banen a
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Tusligt"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -230,7 +230,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Kkes askar uslig akken ad teṭfeḍ agdil u ad twaliḍ ismal i γer terziḍ s useqdec n %1$s deg tebdart-ik taneggarut n isnasen"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -547,7 +547,7 @@ msgstr "Sekles tugna"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Tugniwin ittwaskelsen akked ittwabḍan<b>ur ttwaksent ara </b> m'ara ad tekseḍ %1$samazray."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -562,7 +562,7 @@ msgstr ""
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Rmed tabaḍnit inek"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
