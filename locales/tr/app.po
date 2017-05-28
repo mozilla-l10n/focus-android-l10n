@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 15:53+0000\n"
+"PO-Revision-Date: 2017-05-28 15:50+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -222,7 +222,7 @@ msgstr "Bazı videolar ve web sayfaları bozulabilir"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Görünmezlik"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,7 +231,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Ekran görüntüsü almak ve %1$s ile ziyaret ettiğiniz siteleri Son Uygulamalar listenizde görmek isterseniz görünmezlik modunu kapatın"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -550,7 +550,7 @@ msgstr "Resmi kaydet"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "%1$s geçmişini sildiğinizde, kaydettiğiniz ve paylaştığınız resimler <b>silinmeyecektir</b>."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
