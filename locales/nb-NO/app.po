@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 01:06+0000\n"
+"PO-Revision-Date: 2017-05-28 01:50+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: nb_NO <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -561,12 +561,12 @@ msgstr "Surf uten å føle deg overvåket"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Blokker automatisk sporing når du surfer. Deretter fjerner du besøkte sider og infokapsler med et trykk på søppelikonet i appen eller i varslene dine."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Styrk personvernet ditt"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -581,19 +581,21 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"En rask løsning når\n"
+"blokkering = ødelegging"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Når ulempen med å blokkere sporere på nettet er et nettsted som virker ødelagt, slår du av med et trykk på verktøylinjen."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, jeg forstår det!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Hopp over"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
