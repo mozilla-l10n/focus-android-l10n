@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-29 06:39+0000\n"
+"PO-Revision-Date: 2017-05-29 08:43+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: fy_NL <LL@li.org>\n"
 "Language: fy_NL\n"
@@ -138,7 +138,6 @@ msgstr "Navigaasjeskiednis wiskje"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
 msgstr "Privee sykje"
@@ -584,20 +583,22 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"In flugge oplossing as\n"
+"blokkearjen fersteuring jout"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Troch it neidiel fan it blokkearjen fan onlinetrackers wêrby in website defekt lykje kin, kinne jo blokkearring mei ien tik yn it helpmiddelenmenu útsette."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, begrepen!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Oerslaan"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Folgjende"
