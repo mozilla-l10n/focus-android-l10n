@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-19 18:44+0000\n"
+"PO-Revision-Date: 2017-05-29 02:46+0000\n"
 "Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1495219483.000000\n"
+"X-POOTLE-MTIME: 1496025965.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -139,7 +139,7 @@ msgstr "உலாவல் வரலாற்றை அகற்று"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "அந்தரங்க நிலையில் உலாவு"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -222,7 +222,7 @@ msgstr "சில காணொளிகளும் இணையப் பக்
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "போரியல்"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -234,6 +234,8 @@ msgid ""
 "Turn off stealth mode to take screenshots and see sites you’ve visited using "
 "%1$s in your Recent Apps list"
 msgstr ""
+"போராளி முறைமையை முடக்கி திரைப்பிடிப்புகள் எடுத்து அதில் %1$s உலாவியைப் பாவித்து "
+"பார்த்த தளங்கள் அண்மைய செயலிகள் பட்டியலில் தோன்றுகிறதா எனப் பார்க்கவும்."
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -359,7 +361,7 @@ msgstr "முந்தைய செயலியிக்கு திரும�
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "தடமறிகளைத் தடு"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -576,12 +578,12 @@ msgctxt "contextmenu_image_warning"
 msgid ""
 "Saved and shared images <b>will not be deleted</b> when you erase %1$s "
 "history."
-msgstr ""
+msgstr "%1$s வரலாற்றை அகற்றும் போது சேமித்த பகிர்ந்த படங்கள் <b>அழிக்கப்படாது</b>."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "மற்றவர்களுக்கு தெரியா வண்ணம் உலாவு."
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -590,11 +592,13 @@ msgid ""
 "pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
 msgstr ""
+"நீங்கள் உலாவும்பொருட்டு தடமறிகளைத் தனாகத் தடு. பிறகு அறிவிப்பு பலகத்தில் (அ) செயலினுள் "
+"இருக்கும் குப்பை சின்னத்தைத் தட்டி அணைமையில் பார்த்த பக்கங்களையும் நினைவிகளையும் நீக்கவும்."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "தனியுரிமையை துரிதப்படுத்து"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -604,6 +608,8 @@ msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing "
 "when you link to the Web from other Android apps."
 msgstr ""
+"%1$s உலாவியை முன்னிருப்பாக அமைத்து பிற ஆண்ட்ராய்டு செயலிகளிலிருந்து வலைத்தளங்களை "
+"அணுகும்பொருட்டு அந்தரங்க உலாவலின் நன்மைகளைப் பெறுங்கள்."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -611,6 +617,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"தடுப்பு= இடநிறுத்தம்\n"
+"எனும்போது ஒரு விரைவு பொருத்தம்"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -618,18 +626,20 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems broken, "
 "turn off blocking with a tap to the tool menu."
 msgstr ""
+"தடமறிகளைத் தடுக்கும்பொருட்டு அது தளம் முறிவுக்கு காரணமாக இருப்பின் கருவிப் பட்டியைத் "
+"தட்டி தடுப்பை முடக்கவும்."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "சரி, புரிந்தது!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "தாவு"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "அடுத்தது"
 
 #~ msgctxt "text_selection_search_action"
 #~ msgid "Private Search"
