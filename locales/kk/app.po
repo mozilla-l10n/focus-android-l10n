@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 04:09+0000\n"
+"PO-Revision-Date: 2017-05-29 01:30+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
 "Language: kk\n"
@@ -222,7 +222,7 @@ msgstr "Кейбір видео және веб парақтарының жұм�
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Жасырын"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,7 +231,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Скриншоттарды түсіру және %1$s көмегімен шолған сайттарды жуырдағы қолданбалар тізімінен көру үшін жасырын режимін сөндіріңіз"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
