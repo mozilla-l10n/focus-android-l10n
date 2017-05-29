@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 21:16+0000\n"
+"PO-Revision-Date: 2017-05-29 08:50+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -551,7 +551,7 @@ msgstr "Kép mentése"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "A mentett és megosztott képek <b>nem kerülnek törlésre</b>, ha törli a %1$s előzményeit."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -561,19 +561,19 @@ msgstr "Böngésszen úgy, mintha senki sem figyelné"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Automatikusan blokkolja az online követést böngészés közben. Aztán eltávolítja a felkeresett oldalakat és a sütiket, egyetlen érintéssel az appban vagy az értesítésekben lévő kuka ikonon."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Tuningolja fel az adatvédelmét"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Állítsa be a %1$st alapértelmezett böngészőként, és kapja meg a privát böngészés előnyeit, amikor a webre vált a többi Androidos appból."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -581,11 +581,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Gyorsjavítás, ha a\n"
+"blokkolás hibát okoz"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Ha az online követők blokkolása az oldal szétesését okozza, akkor kapcsolja ki a blokkolást egy érintéssel az eszközök menüben."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
