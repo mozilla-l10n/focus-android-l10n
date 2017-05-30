@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-30 10:11+0000\n"
+"PO-Revision-Date: 2017-05-30 10:17+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language-Team: az <LL@li.org>\n"
 "Language: az\n"
@@ -561,7 +561,7 @@ msgstr "Başqalarınız izləməsindən narahat olmadan internetdə gəzin"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Gəzərkən avtomatik olaraq onlayn izləyiciləri əngəlləyin. Daha sonra daxil olunan saytları və çərəzləri zibil qutusu ikonuna və ya bildirişə toxunaraq silin."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -573,7 +573,7 @@ msgstr "Məxfiliyinizi gücləndirin"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "%1$s tətbiqini əsas səyyahınız olaraq seçin və digər Android tətbiqlərinizdən internetə keçidlərdə məxfi səyahətin üstünlüklərini görün."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -581,6 +581,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Əngəlləmək = qırmaq\n"
+"halları üçün cəld həll"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
