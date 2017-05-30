@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 18:29+0000\n"
+"PO-Revision-Date: 2017-05-30 15:40+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: sr <LL@li.org>\n"
 "Language: sr\n"
@@ -40,8 +40,8 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Аутоматско приватно прегледање.\n"
-"Прегледај. Обриши. Понови."
+"Аутоматско приватно сурфовање.\n"
+"Сурфуј. Обриши. Понови."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -104,7 +104,7 @@ msgstr "Ваша права"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Трагачи блокирани"
+msgstr "Блокирани трагачи"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -423,7 +423,7 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Сајт је можда тренутно недоступан или превише заузет. Покушајте поново за пар минута.</li>\n"
+"        <li>Сајт је можда тренутно недоступан или презаузет. Покушајте поново за пар минута.</li>\n"
 "        <li>Уколико не можете учитати странице, проверите интернет на вашем телефону или Wi-Fi конекцију.</li>\n"
 "      </ul>"
 
