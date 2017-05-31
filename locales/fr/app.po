@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-31 17:11+0000\n"
+"PO-Revision-Date: 2017-05-31 22:29+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -221,7 +221,7 @@ msgstr "Peut empêcher certaines vidéos et pages web de s’afficher correcteme
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "Furtif"
+msgstr "Mode furtif"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -569,7 +569,7 @@ msgstr ""
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Définissez %1$s en tant que navigateur par défaut et bénéficiez des avantages de la navigation privée lorsque vous ouvrez des liens depuis d’autres applications Android."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -583,7 +583,7 @@ msgstr ""
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Si une page ne vous semble pas fonctionner correctement lorsque le blocage de traqueurs est activé, désactivez le blocage d’un simple appui depuis le menu outils."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
