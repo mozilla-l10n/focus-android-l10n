@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 19:29+0000\n"
+"PO-Revision-Date: 2017-06-02 02:04+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1495826965.000000\n"
+"X-POOTLE-MTIME: 1496369054.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr "ابحث"
+msgstr "البحث"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -222,7 +222,7 @@ msgstr "قد يعطل بعض الڤديو و صفحات الوب"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "خِفيّة"
+msgstr "التخفّي"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -234,8 +234,8 @@ msgid ""
 "Turn off stealth mode to take screenshots and see sites you’ve visited using "
 "%1$s in your Recent Apps list"
 msgstr ""
-"عطّل وضع الخِفيّة لأخذ لقطات شاشة و رؤية المواقع التي زرتها باستخدام %1$s في "
-"قائمة التطبيقات الحديثة."
+"عطّل وضع التخفّي لأخذ لقطات شاشة و رؤية المواقع التي زرتها باستخدام %1$s في "
+"قائمة التطبيقات الحديثة"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
