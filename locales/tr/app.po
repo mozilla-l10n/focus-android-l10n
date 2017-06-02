@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 15:59+0000\n"
+"PO-Revision-Date: 2017-06-02 11:00+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -119,7 +119,7 @@ msgstr "Paylaş"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "Tarama geçmişini sil"
+msgstr "Gezinti geçmişini sil"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -133,7 +133,7 @@ msgstr "Sil"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Tarama geçmişini sil"
+msgstr "Gezinti geçmişini sil"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -295,7 +295,7 @@ msgstr "Kapat"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "Tarama geçmişini temizle"
+msgstr "Gezinti geçmişini sil"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -600,4 +600,4 @@ msgstr "Geç"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "İleri"
