@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-02 11:00+0000\n"
+"PO-Revision-Date: 2017-06-02 11:14+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -138,10 +138,9 @@ msgstr "Gezinti geçmişini sil"
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "Gizli Arama"
+msgstr "Gizli arama"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -561,7 +560,7 @@ msgstr "Hiç kimse izlemiyormuş gibi gez"
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
-"Siz internette gezinirken çevrimiçi takipçiler otomatik olarak engellenir. Sonra da uygulamadaki veya bildirimlerinizdeki çöp kutusuna tek bir dokunuşla gezdiğiniz sayfaları ve çerezleri "
+"Siz internette gezinirken çevrimiçi takipçiler otomatik olarak engellenecek. İşiniz bitince uygulamadaki veya bildirimlerinizdeki çöp kutusuna dokunarak gezdiğiniz sayfaları ve çerezleri "
 "silebilirsiniz."
 
 #. First run tour (page 2): Title
@@ -574,7 +573,7 @@ msgstr "Gizliliğini güçlendir"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr "%1$s tarayıcınızı ön tanımlı tarayıcı yapın, diğer Android uygulamalarından web sayfalarına geçtiğinizde de gizli gezintiden yararlanın."
+msgstr "%1$s tarayıcınızı varsayılan tarayıcı yapın, diğer Android uygulamalarından web sayfalarına geçtiğinizde de gizli gezintiden yararlanın."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -588,7 +587,7 @@ msgstr ""
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "Çevrimiçi takipleri engellediğinizde bazı web sayfaları bozuk görünebilir. Bu durumda araçlar menüsünden engellemeyi kapatabilirsiniz."
+msgstr "Çevrimiçi takipçileri engellediğinizde bazı web sayfaları bozuk görünebilir. Bu durumda araçlar menüsünden engellemeyi kapatabilirsiniz."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
