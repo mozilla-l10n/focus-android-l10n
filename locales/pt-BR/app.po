@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-26 18:18+0000\n"
+"PO-Revision-Date: 2017-06-02 16:13+0000\n"
 "Last-Translator: Marco Aurélio <fxhelp@yahoo.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -206,11 +206,11 @@ msgstr "Bloquear rastreadores analíticos"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Bloquear rastreadores de mídias sociais"
+msgstr "Bloquear rastreadores sociais"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Bloquear outros rastreadores de conteúdo"
+msgstr "Bloquear outros rastreadores"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
@@ -561,7 +561,7 @@ msgstr "Navegue como se ninguém estivesse olhando"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr "Bloqueie automaticamente o acompanhamento online enquanto navega. Em seguida, remova as páginas visitadas e os cookies com um toque no ícone da lixeira no aplicativo ou em suas notificações."
+msgstr "Bloqueie automaticamente o rastreamento online enquanto navega. Em seguida, remova as páginas visitadas e os cookies com um toque no ícone da lixeira no aplicativo ou em suas notificações."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
