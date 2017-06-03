@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-03 17:09+0000\n"
+"PO-Revision-Date: 2017-06-03 17:17+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -230,7 +230,7 @@ msgstr "Αορατότητα"
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Απενεργοποιήστε την αόρατη λειτουργία για λήψη στιγμιότυπων και προβολή ιστοσελίδων που έχετε επισκεφθεί μέσω του %1$s στη λίστα πρόσφατων εφαρμογών"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -555,7 +555,7 @@ msgstr "Αποθήκευση εικόνας"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Οι αποθηκευμένες και κοινόχρηστες εικόνες <b>δεν θα διαγραφούν</b> όταν διαγράψετε το ιστορικού του %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -566,6 +566,8 @@ msgstr "Περιηγηθείτε σαν να μην σάς βλέπει κανε
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
+"Αποκλείστε αυτόματα τη διαδικτυακή παρακολούθηση ενώ περιηγείστε. Έπειτα, διαγράψτε τις σελίδες που επισκεφθήκατε και τα cookies με ένα άγγιγμα στο εικονίδιο απορριμμάτων στην εφαρμογή ή στις "
+"ειδοποιήσεις σας."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -591,7 +593,7 @@ msgstr ""
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Όταν η φραγή διαδικτυακών trackers προκαλεί προβλήματα σε μια ιστοσελίδα, απενεργοποιήστε τη φραγή με ένα πάτημα στο μενού εργαλείων."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
