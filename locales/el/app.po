@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-27 16:04+0000\n"
+"PO-Revision-Date: 2017-06-03 17:09+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -560,7 +560,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Περιηγηθείτε σαν να μην σάς βλέπει κανείς"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -570,14 +570,14 @@ msgstr ""
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Ενισχύστε το απόρρητό σας"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησής σας και λάβετε τα οφέλη της ιδιωτικής περιήγησης όταν συνδέεστε στο διαδίκτυο από άλλες εφαρμογές Android."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -585,6 +585,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Μικρή διόρθωση όταν\n"
+"φραγή = μη κανονική λειτουργία"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
