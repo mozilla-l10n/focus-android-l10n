@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 07:40+0000\n"
+"PO-Revision-Date: 2017-06-04 11:41+0000\n"
 "Last-Translator: Hrant <hrant.mozilla@gmail.com>\n"
 "Language-Team: hy_AM <LL@li.org>\n"
 "Language: hy_AM\n"
@@ -78,7 +78,7 @@ msgstr "Բացել %1$s-ով"
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr "Բացել սրանով՝"
+msgstr "Բացել հետևյալով՝"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -371,7 +371,7 @@ msgstr "Ձեր իրավունքները"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Բացել հղումը այլ հավելվածում"
+msgstr "Բացել հղումը այլ հավելվածով"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -585,7 +585,7 @@ msgstr "Արագ ուղղումը արգելափակելիս = ընդհատու�
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "Երբ առցանց հետագծիչների պատճառով կայքը վնասվում է՝ անջատեք արգելափակումը ցանկի հպելիս:"
+msgstr "Երբ առցանց հետագծիչների պատճառով կայքը վնասվում է՝ անջատեք արգելափակումը ցանկին հպվելով:"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
