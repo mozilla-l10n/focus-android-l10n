@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-06 09:49+0000\n"
+"PO-Revision-Date: 2017-06-06 09:53+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -550,29 +550,29 @@ msgstr "이미지 저장"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "%1$s 기록을 지울 때 <b>저장 및 공유된 이미지</b>는 삭제되지 않습니다."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "누구에게도 보이지 않는 웹 이용"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "탐색하는 동안 자동으로 온라인 추적을 차단합니다. 그런 다음 앱이나 알림의 휴지통 아이콘을 터치하여 방문한 페이지와 쿠키를 삭제합니다."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "개인정보 보호 강화하기"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "%1$s를 기본 브라우저로 설정하고 다른 Android 앱에서 웹으로 연결될 때 개인정보 보호 탐색의 장점을 누리세요."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -580,20 +580,22 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"차단 = 깨짐\n"
+"일 때 빨리 복구하기"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "온라인 추적 차단의 문제로 사이트가 깨져보인다면, 도구 메뉴를 탭하여 차단을 해제하세요."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "알겠습니다!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "건너뛰기"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "다음"
