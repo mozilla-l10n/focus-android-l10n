@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-28 12:07+0000\n"
+"PO-Revision-Date: 2017-06-06 09:27+0000\n"
 "Last-Translator: Slimane Amiri <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -244,7 +244,7 @@ msgstr "Sewḥel tisefsiyin Web"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Ahat yekka-d seg tigitin neɣ tugniwin yettwattun"
+msgstr "Ahat yekka-d seg tigitin neγ tugniwin yettwattun"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -349,7 +349,7 @@ msgstr "Seḥbes asali n usmel"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "Uɣal ar usnas izrin"
+msgstr "Uγal ar usnas izrin"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -490,12 +490,12 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Issefk ahat ad tesbeddeḍ aseɣzan-nniḍen akken ad d-ldiḍ tansa-agi.</li>\n"
+"  <li>Issefk ahat ad tesbeddeḍ aseγzan-nniḍen akken ad d-ldiḍ tansa-agi.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr "Tuqqna taɣelsant ur teddi ara"
+msgstr "Tuqqna taγelsant ur teddi ara"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -520,12 +520,12 @@ msgstr "Ur nezmir ara ad d-nsali asebter-agi, ur neẓri ara acuγer."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr "Bḍu aseɣwen"
+msgstr "Bḍu aseγwen"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr "Nɣel tansa n useɣwen"
+msgstr "Nγel tansa n useγwen"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -535,7 +535,7 @@ msgstr "Bḍu tugna"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "Nɣel tansa n tugna"
+msgstr "Nγel tansa n tugna"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
