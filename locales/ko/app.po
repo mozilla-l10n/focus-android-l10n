@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-04-12 10:07+0000\n"
+"PO-Revision-Date: 2017-06-06 09:49+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
-"Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -103,13 +104,13 @@ msgstr "사용자 권리"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "추적기가 차단됨"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "다음으로 공유"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -118,29 +119,28 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "방문 기록 지우기"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "지우기"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "방문 기록 지우기"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "사생활 보호 검색"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -151,12 +151,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s를 여러 기능으로 사용할 수 있습니다.</p>\n"
@@ -167,8 +165,7 @@ msgstr ""
 "    <li>인터넷 기록이나 검색 기록, 그리고 쿠키 삭제</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s는 Mozilla의 제품입니다. Mozilla의 사명은 건강하고 개방적인 인터넷을 조성하는 것입니다.<br/><a "
-"href=\"%2$s\">더 알아보기</a></p>"
+"<p>%1$s는 Mozilla의 제품입니다. Mozilla의 사명은 건강하고 개방적인 인터넷을 조성하는 것입니다.<br/><a href=\"%2$s\">더 알아보기</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -181,13 +178,13 @@ msgstr "기본"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "언어"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "시스템 기본값"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -223,7 +220,7 @@ msgstr "동영상이나 웹 페이지가 제대로 표시되지 않을 수 있�
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "스텔스"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,10 +228,8 @@ msgstr ""
 #. replaced with the      short name of the app (e.g. Focus).
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
-msgid ""
-"Turn off stealth mode to take screenshots and see sites you’ve visited "
-"using %1$s in your Recent Apps list"
-msgstr ""
+msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
+msgstr "최근 앱 목록에서 %1$s를 통해 방문한 페이지를 보거나 스크린샷을 찍으시려면 스텔스 모드를 해제하세요"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -353,14 +348,14 @@ msgstr "웹사이트 로딩 중지"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "이전 앱으로 돌아가기"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "추적기 차단"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -397,9 +392,7 @@ msgstr "링크를 열 수 있는 앱 찾기"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "이 링크를 열 수 있는 앱이 설치돼있지 않습니다. %1$s를 종료하고 %2$s를 열어 이 링크를 열 수 있는 앱을 찾을 수 있습니다."
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -424,10 +417,8 @@ msgstr "연결할 수 없음"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -449,8 +440,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -467,10 +457,8 @@ msgstr "주소가 올바르지 않습니다"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -485,8 +473,7 @@ msgstr "페이지가 제대로 이동되지 않았습니다"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -500,8 +487,7 @@ msgstr "인식할 수 없는 주소입니다"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -515,18 +501,15 @@ msgstr "보안 연결 실패"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  <li>이는 서버의 구성에 문제가 있거나 누군가가 만든 가짜 서버로 연결시키려고 할 때 발생될 수 있습니다.</li>\n"
-"  <li>만약 이전에 서버에 제대로 연결됐던 적이 있었다면, 에러가 잠깐동안만 발생한 것일 확률이 높습니다. 나중에 다시 "
-"시도해보세요.</li>\n"
+"  <li>만약 이전에 서버에 제대로 연결됐던 적이 있었다면, 에러가 잠깐동안만 발생한 것일 확률이 높습니다. 나중에 다시 시도해보세요.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -540,35 +523,33 @@ msgstr "페이지를 불러오지 못했습니다."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "링크 공유"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "링크 주소 복사"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "이미지 공유"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "이미지 주소 복사"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "이미지 저장"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr ""
 
 #. First run tour (page 1): Title
@@ -578,10 +559,7 @@ msgstr ""
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited"
-" pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
+msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
 
 #. First run tour (page 2): Title
@@ -593,9 +571,7 @@ msgstr ""
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you link to the Web from other Android apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
 msgstr ""
 
 #. First run tour (page 3): Title
@@ -607,9 +583,7 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid ""
-"When the downside of blocking online trackers is a site that seems "
-"broken, turn off blocking with a tap to the tool menu."
+msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -623,4 +597,3 @@ msgstr ""
 msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr ""
-
