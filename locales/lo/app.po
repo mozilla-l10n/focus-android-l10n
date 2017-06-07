@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-07 15:20+0000\n"
+"PO-Revision-Date: 2017-06-07 15:33+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -571,7 +571,7 @@ msgstr "ເພີ່ມຄວາມເປັນສ່ວນໂຕຂອງທ່
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "ຕັ້ງ %1$s ເປັນບຣາວເຊີຫລັກຂອງທ່ານ ແລະ ຮັບປະໂຫຍດຈາກການທ່ອງເວັບແບບສ່ວນຕົວເມື່ອທ່ານເຊື່ອມໂຍງໄປຫາເວັບຈາກແອັບ Android ອື່ນໆ"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -579,11 +579,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"ການແກ້ໄຂໄວທັນເວລາເມື່ອ\n"
+"ການບັອກ = ການຝ່າຝືນ"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "ເມື່ອຂໍ້ເສຍຂອງການບັອກຕົວຕິດຕາມອອນລາຍແມ່ນເຮັດໃຫ້ເວັບໄຊທ໌ເບິງບໍ່ສົມບູນແບບ ໃຫ້ປິດການບັອກໂດຍການແຕະທີ່ເມນູເຄືອງມື."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
