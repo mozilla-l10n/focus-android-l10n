@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-06 18:15+0000\n"
-"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
+"PO-Revision-Date: 2017-06-08 09:05+0000\n"
+"Last-Translator: Fauzan Alfi <fauzanalfi@mozilla.web.id>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +104,7 @@ msgstr "Hak Anda"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Pelacak terblokir"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -119,7 +119,7 @@ msgstr "Bagikan via"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Hapus riwayat penjelajahan"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -133,7 +133,7 @@ msgstr "Hapus"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Hapus riwayat penjelajahan"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -184,7 +184,7 @@ msgstr "Bahasa"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Bawaan sistem"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -229,7 +229,7 @@ msgstr "Sembunyikan"
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "Nonaktifkan mode siluman untuk mengambil tangkapan layar dan melihat situs yang Anda kunjungi menggunakan %1$s di daftar Aplikasi Terakhir"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -550,7 +550,7 @@ msgstr "Simpan gambar"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Gambar yang disimpan dan dibagikan <b>tidak akan dihapus</b> ketika Anda menghapus riwayat %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -561,6 +561,7 @@ msgstr "Menjelajah seperti tidak ada yang mengawasi"
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
+"Secara otomatis memblokir pelacak daring ketika Anda menjelajah. Kemudian menghapus laman yang dikunjungi dan kuki dengan satu sentuhan pada ikon tempat sampah pada aplikasi atau di notifikasi Anda."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -572,7 +573,7 @@ msgstr "Perkuat privasi Anda"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Atur %1$s sebagai peramban utama Anda dan dapatkan keuntungan penjelajahan pribadi ketika Anda menautkan ke Web dari aplikasi Android lainnya."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -580,11 +581,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Perbaikan cepat ketika\n"
+"memblokir = merusak"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Ketika dampak dari memblokir pelacak daring adalah situs terasa seperti bermasalah, matikan pemblokiran dengan sekali sentuh pada menu alat."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -596,4 +599,4 @@ msgstr "Lewati"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Lanjutkan"
