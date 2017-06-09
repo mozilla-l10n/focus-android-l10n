@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-09 03:54+0000\n"
+"PO-Revision-Date: 2017-06-09 04:04+0000\n"
 "Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1496980454.000000\n"
+"X-POOTLE-MTIME: 1496981094.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -53,7 +53,7 @@ msgstr "உங்கள் உலாவல் வரலாறு அழிக்
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "%1$s என்பதற்காக தேடு"
+msgstr "%1$s சொல்லைத் தேடு"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -109,7 +109,7 @@ msgstr "பின்தொடரி"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "இதன்வழி பகிர்க"
+msgstr "தோன்றும் செயலிகளின் வழி பகிர்க"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -200,23 +200,23 @@ msgstr "தனியுரிமை"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "விளம்பர பின்தொடரலை தடு"
+msgstr "விளம்பர பின்தொடரிகளைத் தடு"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "பகுப்பாய்வு பின்தொடரலை தடு"
+msgstr "பகுப்பாய்வு பின்தொடரிகளைத் தடு"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "சமூக பின்தொடரலை தடு"
+msgstr "சமூக பின்தொடரிகளைத் தடு"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "பிற உள்ளடக்க பின்தொடரலை தடு"
+msgstr "உள்ளடக்க பின்தொடரிகளைத் தடு"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr "சில காணொளிகளும் இணையப் பக்கங்களும் உடையலாம்"
+msgstr "சில காணொளிகளும் வலைப்பக்கங்களும் முறியலாம்"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -261,7 +261,7 @@ msgstr "படங்களைத் தடு"
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "முன்னிருப்பு உலாவியாக்குக"
+msgstr "முன்னிருப்பு"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
