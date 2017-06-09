@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-09 02:51+0000\n"
+"PO-Revision-Date: 2017-06-09 03:54+0000\n"
 "Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1496976712.000000\n"
+"X-POOTLE-MTIME: 1496980454.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -32,7 +32,7 @@ msgstr "சரி"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "தேடல் அல்லது உலாவ முகவரி இடுக"
+msgstr "தேட (அ) உலாவ முகவரியை உள்ளிடுக"
 
 msgctxt "teaser"
 msgid ""
@@ -77,7 +77,7 @@ msgstr "%1$s மூலம் திற"
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr "பிற செயலிகள் மூலம் திற…"
+msgstr "செயலிகள் மூலம் திற…"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -93,7 +93,7 @@ msgstr "உதவி"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr "உங்கள் உரிமைகள்"
+msgstr "உரிமைகள்"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -187,12 +187,12 @@ msgstr "மொழி"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "கட்டக முன்னிருப்பு"
+msgstr "கைப்பேசி முன்னிருப்பு"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr "முன்னிருப்பு தேடல்"
+msgstr "முன்னிருப்பு தேடுபொறி"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -377,7 +377,7 @@ msgstr "உங்கள் உரிமைகள்"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "தொடுப்பை இன்னொரு செயலியில் திற"
+msgstr "தொடுப்பை இன்னொரு செயலியில் திறக்கும்"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -385,7 +385,7 @@ msgstr "தொடுப்பை இன்னொரு செயலியில�
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "%1$s என்பதை விட்டு விலகி இந்தத் தொடுப்பை %2$s உலாவியில் திற."
+msgstr "%1$s உலாவியை விட்டு விலகி %2$s செயலியில் திறக்கும்."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -423,7 +423,7 @@ msgstr "மீண்டும் முயற்சி"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr "இணைக்க முடியவில்லை"
+msgstr "இணைக்க இயலவில்லை"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -513,7 +513,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>இந்த முகவரியை திறக்க பிற மென்பொருட்களை நிறுவ வேண்டும்..</li>\n"
+"  <li>இந்த முகவரியைத் திறக்க பிற மென்பொருட்களை நிறுவ வேண்டும்..</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -559,17 +559,17 @@ msgstr "தொடுப்பு முகவரியை நகலெடு"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr "படத்தைப் பகிர்"
+msgstr "பகிர்"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "பட முகவரியை நகலெடு"
+msgstr "முகவரியை நகலெடு"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr "படத்தைச் சேமி"
+msgstr "சேமி"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -583,7 +583,7 @@ msgstr "%1$s வரலாற்றை அகற்றும் போது ச�
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr "மற்றவர்களுக்கு தெரியா வண்ணம் உலாவு."
+msgstr "யாருக்கும் தெரியாம உலாவுங்கள்."
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -592,13 +592,13 @@ msgid ""
 "pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
 msgstr ""
-"நீங்கள் உலாவும்பொருட்டு தடமறிகளைத் தனாகத் தடு. பிறகு அறிவிப்பு பலகத்தில் (அ) செயலினுள் "
-"இருக்கும் குப்பை சின்னத்தைத் தட்டி அணைமையில் பார்த்த பக்கங்களையும் நினைவிகளையும் நீக்கவும்."
+"நீங்கள் உலாவும்போது தடமறிகளைத் தானாகத் தடுங்கள். பிறகு பலகத்தில் (அ) செயலினுள் உள்ள "
+"குப்பை சின்னத்தைத் தட்டி சமீபத்தில் பார்த்த பக்கங்கள் (அ) நினைவிகளை நீக்குங்கள்."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr "தனியுரிமையை துரிதப்படுத்து"
+msgstr "தனியுரிமையைத் துரிதப்படுத்துங்கள்"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -608,8 +608,8 @@ msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing "
 "when you link to the Web from other Android apps."
 msgstr ""
-"%1$s உலாவியை முன்னிருப்பாக அமைத்து பிற ஆண்ட்ராய்டு செயலிகளிலிருந்து வலைத்தளங்களை "
-"அணுகும்பொருட்டு அந்தரங்க உலாவலின் நன்மைகளைப் பெறுங்கள்."
+"%1$s உலாவியை முன்னிருப்பாக அமைப்பதன் மூலம் பிற செயலிகளிலிருந்து வலைத்தளங்களைத் "
+"திறக்கும்போது அந்தரங்க உலாவலின் நன்மையைப் பெறலாம்."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -617,8 +617,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
-"தடுப்பு= இடநிறுத்தம்\n"
-"எனும்போது ஒரு விரைவு பொருத்தம்"
+"தடுப்பு= முறிவு\n"
+"ஏற்படும்போது ஒரு விரைவு தீர்வு"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -626,8 +626,8 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems broken, "
 "turn off blocking with a tap to the tool menu."
 msgstr ""
-"தடமறிகளைத் தடுக்கும்பொருட்டு அது தளம் முறிவுக்கு காரணமாக இருப்பின் கருவிப் பட்டியைத் "
-"தட்டி தடுப்பை முடக்கவும்."
+"தடமறிகளைத் தடுக்கும்பொருட்டு தள முறிவு ஏற்படடால், கருவிப் பட்டியைத் தட்டி தடுப்பதை "
+"நிறுத்தவும்."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
