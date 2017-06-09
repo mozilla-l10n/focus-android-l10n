@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-05-29 01:36+0000\n"
+"PO-Revision-Date: 2017-06-09 01:18+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
 "Language: kk\n"
@@ -175,7 +175,7 @@ msgstr "Іздеу"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr "Бастапқы"
+msgstr "Негізгі"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -190,7 +190,7 @@ msgstr "Жүйелік"
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr "Бастапқы іздеу жүйесі"
+msgstr "Негізгі іздеу жүйесі"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -379,7 +379,7 @@ msgstr "Сілтемені басқа қолданбада ашу"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Бұл сілтемені %2$s ішінде ашу үшін, сіз %1$s ішінен шыға аласыз."
+msgstr "Бұл сілтемені %2$s көмегімен ашу үшін, сіз %1$s ішінен шыға аласыз."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -424,7 +424,7 @@ msgid ""
 msgstr ""
 "<ul>\n"
 "        <li>Сайт уақытша қолжетерсіз, немесе сұранымдарға толы шығар. Кейінірек қайталап көріңіз.</li>\n"
-"        <li>Ешбір сайт ашылмаса, мобильді құрылғыңыздың деректер не Wi-Fi байланысын тексеріңіз.</li>\n"
+"        <li>Бірде-бір сайт ашылмаса, мобильді құрылғыңыздың деректер не Wi-Fi байланысын тексеріңіз.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -448,7 +448,7 @@ msgstr ""
 "        <li>Адресті енгізген кезде қате кетпегенге көз жеткізіңіз, мысалы \n"
 "         <strong>www</strong>.example.com орнына \n"
 "         <strong>ww</strong>.example.com</li>\n"
-"        <li>Ешбір сайт ашылмаса, мобильді құрылғыңыздың деректер не Wi-Fi байланысын тексеріңіз.</li>\n"
+"        <li>Бірде-бір сайт ашылмаса, мобильді құрылғыңыздың деректер не Wi-Fi байланысын тексеріңіз.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -478,7 +478,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бұл мәселе анда-санда cookies қабылдау сөндірілген кезде болуы мүмкін.</li>\n"
+"  <li>Бұл мәселе кейде cookies қабылдау сөндірілген кезде болуы мүмкін.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -510,7 +510,7 @@ msgid ""
 msgstr ""
 "<ul>\n"
 "  <li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек серверді басқасымен ауыстырғысы келеді.</li>\n"
-"  <li>Осыған дейін осы серверге сәтті қосылған болсаңыз, осы қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li>\n"
+"  <li>Осыған дейін бұл серверге сәтті қосылған болсаңыз, бұл қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -561,7 +561,7 @@ msgstr "Бақылаудан қорықпай-ақ интернетті шолы
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr "Шолу кезінде онлайн трекерлерді автоблоктаңыз. Одан кейін, қолданбадағы немесе хабарламалардағы қоқыс шелегі таңбашасына шерту арқылы қаралған беттер және cookies өшіріңіз."
+msgstr "Шолу кезінде онлайн трекерлерді автоблоктаңыз. Одан кейін, қолданба не хабарламалардағы қоқыс шелегі таңбашасына шертіп, қаралған беттер және cookies өшіріңіз."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
