@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-10 14:50+0000\n"
+"PO-Revision-Date: 2017-06-10 15:08+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -211,7 +211,7 @@ msgstr "အချို့သော ဗီဒီယိုများနှင�
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "တိတ်တဆိတ်အသုံးပြုမှု"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -220,7 +220,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "မျက်နှာပြင်ပုံဖမ်းရန်နှင့် %1$s ကို အသုံးပြုပြီး လည်ပတ်ခဲ့သော ဝဘ်ဆိုက်များကို မကြာသေးမီက အသုံးပြုခဲ့သော အက်ပ်များစာရင်းတွင် ကြည့်ရှုနိုင်ရန် တိတ်တဆိတ်အသုံးပြုမှုကို ပိတ်ပါ။"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -270,7 +270,7 @@ msgstr "%1$s အကြောင်း"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Input ကို ရှင်းလင်းရန်"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -284,13 +284,13 @@ msgstr "ပိတ်ရန်"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ကြည့်ရှုမှုမှတ်တမ်းကို ရှင်းလင်းရန်"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "လုံခြုံသော ချိတ်ဆက်မှု"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -302,66 +302,66 @@ msgstr "ဆောင်ရွက်နေသည်"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "ဝဘ်ဆိုက်ကို ဖွင့်ပြီးပြီ"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "နောက်ထပ် ရွေးချယ်စရာများ"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "ရှေ့သို့ သွားပါ"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "ဝဘ်ဆိုက်ကို ပြန်ဖွင့်ပါ"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "နောက်သို့ သွားပါ"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "ဝဘ်ဆိုက်ဖွင့်ခြင်းကို ရပ်ပါ"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "အရင်ကအက်ပ်သို့ သွားပါ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "နောက်ယောင်ခံများကို တားဆီးပါ"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "ပွားပြီး ၎င်းသို့ သွားပါ"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "သင်၏ အခွင့်အရေးများ"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "အခြားအက်ပ်တွင် လင့်ခ်ကို ဖွင့်ပါ"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -369,13 +369,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "%2$s တွင် ယခုလင့်ခ်ကို ဖွင့်ရန် %1$s ထံမှ ထွက်ခွာနိုင်ပါသည်။"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "လင့်ခ်ကို ဖွင့်နိုင်သော အက်ပ်ကို ရှာပါ"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -390,12 +390,12 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်ရှုခြင်းမှ ထွက်ပါမည်လား။"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "စာမျက်နှာဖွင့်လှစ်မှု အမှား"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -415,7 +415,7 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "ချိတ်ဆက်မှုသည် သတ်မှတ်ချိန် ကျော်လွန်ခဲ့သည်"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
@@ -433,7 +433,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "လိပ်စာမှားနေသည်"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -445,7 +445,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "ယခုစာမျက်နှာသည် ကောင်းမွန်စွာ လမ်းညွှန်မပေးနိုင်ပါ"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -456,7 +456,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "လိပ်စာကို နားမလည်ပါ"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -467,7 +467,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "လုံခြုံသော ချိတ်ဆက်မှု မအောင်မြင်ခဲ့ပါ"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -485,32 +485,32 @@ msgstr "Oops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "အခြားအကြောင်းအရာများ ရှိသောကြောင့် ယခုစာမျက်နှာကို မဖွင့်နိုင်ပါ။"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "လင့်ခ်ကို မျှဝေရန်"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "လင့်ခ်လိပ်စာကို ကူးပါ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ရုပ်ပုံကို မျှဝေရန်"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ရုပ်ပုံလိပ်စာကို ကူးပါ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ရုပ်ပုံကို သိမ်းရန်"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -522,7 +522,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "မည်သူမျှစောင့်ကြည့်မနေသကဲ့သို့ အသုံးပြုပါ"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -555,12 +555,12 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ကောင်းပြီ၊ ရပါပြီ။"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "ကျော်ရန်"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "ရှေ့သို့"
