@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-10 15:28+0000\n"
+"PO-Revision-Date: 2017-06-10 15:43+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -508,6 +508,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>ယခုပြဿနာသည် ဆာဗာ၏ အပြင်အဆင်ကြောင့် သို့မဟုတ် တစ်ယောက်ယောက်သည် ဆာဗာ အယောင်ဆောင်နေသောကြောင့် ဖြစ်နိုင်သည်။</li>\n"
+"  <li>အကယ်၍ သင်သည် အရင်က ယခုဆာဗာကို ချိတ်ဆက်ခဲ့ဖူးပါက ယခုပြဿနာသည် ယာယီ ဖြစ်နိုင်သည်၊ နောင်တွင် ပြန်လည်ချိတ်ဆက်ကြည့်ပါ။</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -558,6 +562,8 @@ msgstr "မည်သူမျှစောင့်ကြည့်မနေသက
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
+"ကြည့်ရှုနေစဉ် အွန်လိုင်းနောက်ယောင်ခံများကို အလိုအလျောက် တားဆီးသည်။ ထို့နောက် ကြည့်ရှုခဲ့သော ဝဘ်စာမျက်နှာများနှင့် ကွတ်ကီးများကို အက်ပ်ရှိ သို့မဟုတ် အသိပေးချက်များထဲရှိ အမှိုက်ပုံးပုံငယ်ကို "
+"တို့ထိပြီး ရှင်းလင်းပါ။"
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -570,6 +576,7 @@ msgstr "ကိုယ်ရေးကာကွယ်မှုကို တို�
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
 msgstr ""
+"%1$s ကို မူသေအသုံးပြု ဘရောင်ဇာအဖြစ် သတ်မှတ်ပါ။ ထို့ပြင် အခြား Android အက်ပ်များထံမှ လင့်ခ်များကို ကြည့်ရှုရာတွင် ကိုယ်ရေးအချက်အလက်ကာကွယ်ပြီး ကြည့်ရှုခြင်း၏ အကျိုးကျေးဇူးများနှင့်အတူ အသုံးပြုပါ။"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -583,7 +590,7 @@ msgstr ""
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "အွန်လိုင်းနောက်ယောင်ခံများကို တားဆီးခြင်းသည် ဝဘ်ဆိုက်ကို ကောင်းမွန်စွာ မဆောင်ရွက်နိုင်စေပါက ကိရိယာမီနူးတွင် တို့ထိပြီး နောက်ယောင်ခံတားဆီးမှုကို ပိတ်နိုင်သည်။"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
