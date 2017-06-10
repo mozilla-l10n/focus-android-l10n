@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-10 20:10+0000\n"
+"PO-Revision-Date: 2017-06-10 20:16+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -566,14 +566,14 @@ msgstr "Blochează automat urmărirea online în timp ce navighezi. Elimină apo
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Consolidează-ți confidențialitatea"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Setează %1$s ca browser implicit și beneficiază de avantajele navigării private atunci când deschizi linkuri din alte aplicații Android."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -581,6 +581,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"O soluție rapidă atunci când\n"
+"blocarea „defectează” o pagină"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
