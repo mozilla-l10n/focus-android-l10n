@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-11 10:47+0000\n"
+"PO-Revision-Date: 2017-06-11 11:09+0000\n"
 "Last-Translator: Mohammad Yaseen Khan <myaseen.khan@hotmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
@@ -549,7 +549,7 @@ msgstr "نقش محفوظ کریں"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "محفوظ اور شیئر کردہ تصاویر <b>حظف نہیں کی جائےگی</b> جب آپ اپنی %1$s تاریخ مٹاتے ہے۔"
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -564,26 +564,26 @@ msgstr ""
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "آپ کی نجی نوعیت کو پاور اپ کرے"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "%1$s کو اپنا طے شدہ براؤزر سیٹ کرے اور نجی براؤزنگ کا فائدہ حاصل کرے جب بھی آپ دیگر اینڈرائڈ ایپ سے ویب پر لنک ہو۔"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
 msgid ""
 "A quick fix when\n"
 "blocking = breaking"
-msgstr ""
+msgstr "ایک فوری درستگی جب blocking = breaking"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "ٹول مینو سے ٹیپ کر کے بلاکنگ بند کرے، جب بھی آنلائن ٹریکر بلاک کرنے سے آپ کی سائٹ ٹھیک سے نظر نہیں ہو رہی ہو۔"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
