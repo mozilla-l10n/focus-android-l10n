@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-04 18:23+0000\n"
+"PO-Revision-Date: 2017-06-21 21:09+0000\n"
 "Last-Translator: Ognyan Kulev <ognyan@ognyankulev.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -40,8 +40,8 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Автоматично поверително разглеждане.\n"
-"Разглеждане. Изтриване. Повтаряне."
+"Винаги поверително.\n"
+"Четене. Заличаване. Повтаряне."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -545,18 +545,18 @@ msgstr "Запазване на изображението"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Запазените и споделените изображения <b>няма да бъдат изтрити</b>, когато се изтрие историята на разглеждане на %1$s."
+msgstr "Запазените и споделените изображения <b>няма да бъдат изтрити</b>, когато се изтрие историята на четене на %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr "Разглеждайте все едно никой не ви наблюдава"
+msgstr "Разглеждайте спокойно, спирайки ненужното ви следене"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
-"Автоматично блокиране на следенето, докато разглеждате страници. След това посетените страници и придобитите бисквитки могат да се забравят с докосване на иконата с кошче в приложението или в "
+"Автоматично спиране на следенето, докато разглеждате страници. След това посетените страници и придобитите бисквитки могат да се забравят с докосване на иконата с кошче в приложението или в "
 "известията."
 
 #. First run tour (page 2): Title
@@ -569,7 +569,7 @@ msgstr "Усилете вашата поверителност"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr "Задайте %1$s като вашия браузър по подразбиране и използвайте предимствата от поверителното разглеждане, когато други приложения на Android ви препращат към Мрежата."
+msgstr "Задайте %1$s като ваш браузър по подразбиране и използвайте предимствата от поверителното четене, когато други приложения на Android ви препращат към Мрежата."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -578,12 +578,12 @@ msgid ""
 "blocking = breaking"
 msgstr ""
 "Бърза поправка, когато\n"
-"спиране на следене = счупване"
+"без следене = счупване"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "Когато спирането на следенето води до счупване на сайт, изключете спирането с докосване в менюто с инструменти."
+msgstr "Когато спирането на следенето води до счупване на сайт, изключете спирането с едно докосване в менюто с инструменти."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
