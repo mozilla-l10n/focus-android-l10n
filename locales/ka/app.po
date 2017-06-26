@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-26 17:21+0000\n"
+"PO-Revision-Date: 2017-06-26 18:51+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ka\n"
@@ -33,19 +33,21 @@ msgstr "კარგი"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "მოძებნეთ ან შეიყვანეთ მისამართი"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"მხოლოდ თვალიერების პირადი რეჟიმი.\n"
+"მონახულება. წაშლა. იგივე."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "მონახულებული გვერდების ისტორია გასუფთავებულია."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
