@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-26 19:07+0000\n"
+"PO-Revision-Date: 2017-06-26 19:32+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ka\n"
@@ -157,61 +157,71 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s გადმოქცემთ მართვის სადავეებს.</p>\n"
+"<p>გამოიყენეთ როგორც პირადი ბრაუზერი:\n"
+"  <ul>\n"
+"    <li>მოძებნეთ და დაათვალიერეთ გვერდები</li>\n"
+"    <li>შეზღუდეთ მეთვალყურე ელემენტები (პარამეტრებიდან დაშვებაც შეიძლება)</li>\n"
+"    <li>გაასუფთავეთ და წაშალეთ ფუნთუშები, ძიების და თვალიერების ისტორია</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s შექმნილია Mozilla-ს მიერ. ჩვენი მიზანი, ინტერნეტის გახსნილობა და სიჯანსაღეა.<br/>\n"
+"<a href=\"%2$s\">შეიტყვეთ მეტი</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "ძიება"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "ნაგულისხმევი"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "ენა"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "სისტემის ნაგულისხმევი"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "ნაგულისხმევი საძიებო სისტემა"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "პირადულობა"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "სარეკლამო ელემენტების შეზღუდვა"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "სტატისტიკური აღრიცხვის ელემენტების შეზღუდვა"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "სოციალური ელემენტების შეზღუდვა"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "სხვა მეთვალყურე ელემენტების შეზღუდვა"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "შესაძლოა ზოგიერთმა საიტმა ან ვიდეომ, არ იმუშაოს"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "ფარული"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -220,57 +230,57 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "გამორთეთ ფარული რეჟიმი ეკრანისთვის სურათის გადასაღებად და %1$s-ით მონახულებული საიტების ბოლოს გამოყენებული პროგრამების სიაში სანახავად"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "წარმადობა"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "საიტის შრიფტების შეზღუდვა"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "შესაძლოა ხატულების და სურათების ნაწილი გაქრეს"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "სურათების შეზღუდვა"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "ნაგულისხმევ ბრაუზერად დაყენება"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "გამოყენების შესახებ, ანონიმური მონაცემების გაგზავნა"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "შეიტყვეთ მეტი"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s-ის შესახებ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "შეტანილის გასუფთავება"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
