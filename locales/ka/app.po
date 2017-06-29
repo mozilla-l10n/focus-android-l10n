@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-26 20:46+0000\n"
+"PO-Revision-Date: 2017-06-29 23:45+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ka\n"
@@ -41,7 +41,7 @@ msgid ""
 "Browse. Erase. Repeat."
 msgstr ""
 "მხოლოდ თვალიერების პირადი რეჟიმი.\n"
-"მონახულება. წაშლა. გამეორება."
+"მონახულება. წაშლა. თავიდან დაწყება."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -157,7 +157,7 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s გადმოქცემთ მართვის სადავეებს.</p>\n"
+"<p>%1$s გადმოგცემთ მართვის სადავეებს.</p>\n"
 "<p>გამოიყენეთ როგორც პირადი ბრაუზერი:\n"
 "  <ul>\n"
 "    <li>მოძებნეთ და დაათვალიერეთ გვერდები</li>\n"
@@ -558,7 +558,7 @@ msgstr "შენახული და გაზიარებული სუ
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr "იმოგზაურეთ ინტერნეტში მოთვალთვალეების გარეშე"
+msgstr "იმოგზაურეთ ინტერნეტში მეთვალყურეების გარეშე"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
