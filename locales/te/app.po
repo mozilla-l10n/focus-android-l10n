@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-06-18 06:41+0000\n"
-"Last-Translator: Dinesh <dineshmv38@gmail.com>\n"
+"PO-Revision-Date: 2017-07-01 16:48+0000\n"
+"Last-Translator: Sahithi <sahithi.thinker@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -39,13 +39,13 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr ""
+msgstr "స్వయంచాలనంగా బ్రౌజింగ్. బ్రౌజ్ చెయ్యుము. చెరిపి వెయ్యుము. మరల చెయ్యుము."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "మీ బ్రౌజింగ్ చరిత్ర చెరిపివెయ్యబడింది."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -202,14 +202,14 @@ msgstr "ఇతర ట్రాకర్లను నిరోధించండ�
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "కొన్ని వీడియోలను మరియు వెబ్ పేజీలను విచ్ఛిన్నం చేయవచ్చు"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "గోప్య విహరణ"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -218,7 +218,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr ""
+msgstr "మీరు %1$s ని వాడుకొని సందర్శించిన వెబ్ సైట్లు రీసెంట్ యాప్స్ పట్టికలొ చూడాలన్నా లేదా తెరను బంధించాలన్నా గోప్య విహరణ ఆపవలసి ఉంటుంది"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -226,13 +226,13 @@ msgstr "పనితనం"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "వెబ్ ఖతులను (ఫాంట్స్) ఆపుము"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "తప్పిపోయిన చిహ్నాలు లేదా చిత్రాలు ఫలితంగా ఉండవచ్చు"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -367,7 +367,7 @@ msgstr "ఈ లింకుని వేరొక అనుమర్తనంల
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "%2$sని తెరువుటకు %1$sని వదలవచ్చును."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -413,11 +413,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "కనెక్షన్ యొక్క సమయము అయిపోయింది."
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "సర్వర్ కనుగొనలేదు"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -431,7 +431,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "ఈ చిరునామా సరైనది కాదు"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -443,7 +443,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "ఈ పేజ్ సరిగా మళ్ళించుట లేదు"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -454,7 +454,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "ఆ చిరునామా అర్థం కాలేదు"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -462,10 +462,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  \n"
+"  <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరును స్థాపించుకోవలిసిన అవసరం ఉండవచ్చు.</li></ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "రక్షిత అనుసంధానం విఫలమైంది"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -483,7 +486,7 @@ msgstr "అయ్యో"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "ఏందుకో ఈ పేజ్ లోడ్ అవ్వట్లేదు."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -520,7 +523,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "ఎవరూ చూడనట్టుగా విహరణ చెయ్యుము"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -530,14 +533,14 @@ msgstr ""
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "మీ ప్రైవసీని శక్తిమంతం చేసుకోండి"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "%1$sని మీ అప్రమేయ బ్రౌజరుగా ఎంచుకోండి మరియు ఇతర ఆండ్రాయిడ్ యాప్స్ నుండి మీరు అంతర్జాలానికి అనుసంధానించినపుడు వ్యక్తిగత విహరణ ప్రయోజనాలు పొందండి."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -553,12 +556,12 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "సరే, అర్థమయ్యింది!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "దాటు"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "తరువాత"
