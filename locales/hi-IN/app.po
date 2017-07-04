@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-07-04 22:06+0000\n"
+"PO-Revision-Date: 2017-07-04 22:28+0000\n"
 "Last-Translator: Dhiraj Kumar Singh <singhdhiraj255@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -548,29 +548,29 @@ msgstr "छवि सहेजें"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "सहेजे गए और साझा की गई छवियाँ <b>हटाई नहीं जाएँगी</b> जब आप %1$s इतिहास को मिटाएँगे."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "ऐसे ब्राउज़ करें जैसे कोई नहीं देख रहा है"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "ब्राउज़ करते समय स्वचालित रूप से ऑनलाइन ट्रैकिंग को अवरोधित करें. फिर ऐप में या आपके नोटिफिकेशन में कूड़ेदान चिह्न पर एक स्पर्श के साथ देखे गए पृष्ठों और कुकीज़ को हटाएँ."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "अपनी गोपनीयता को बढ़ाएँ"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "%1$s को अपने तयशुदा ब्राउज़र के रूप में सेट करें और जब आप अन्य एंड्रॉइड ऐप्स से वेब को लिंक करते हैं तब निजी ब्राउज़िंग के फायदे प्राप्त करें."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -578,20 +578,22 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"एक त्वरित ठीक जब\n"
+"अवरुद्ध = टूटना"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "जब ऑनलाइन ट्रैकर्स अवरुद्ध करने का नकारात्मक पक्ष एक साइट है जो ख़राब लगता है, तो टूल मेनू पर टैप के साथ अवरुद्ध करना बंद करें."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ठीक है, समझ गया!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "छोड़ें"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "अगला"
