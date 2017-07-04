@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-04-28 19:10+0000\n"
+"PO-Revision-Date: 2017-07-04 22:06+0000\n"
 "Last-Translator: Dhiraj Kumar Singh <singhdhiraj255@gmail.com>\n"
-"Language: hi_IN\n"
 "Language-Team: hi_IN <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
+"Language: hi_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -101,13 +102,13 @@ msgstr "आपके अधिकार"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "ट्रैकर्स अवरुद्ध"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "इसके माध्यम से साझा करें"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -116,29 +117,28 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ब्राउज़िंग इतिहास मिटाएँ"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "मिटाएँ"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ब्राउज़िंग इतिहास मिटाएँ"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "निजी तौर पर खोज"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -149,25 +149,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s आपको नियंत्रण में रखता है.</p>\n"
 "<p>इसे एक निजी ब्राउज़र के रूप में प्रयोग करें:\n"
 "  <ul>\n"
 "    <li>ऐप में दाहिनी ओर खोजें और ब्राउज करें</li>\n"
-"    <li>ट्रैकर्स अवरुद्ध करें (या ट्रैकर्स को अनुमति देने के लिए सेटिंग्स"
-" अपडेट करें)</li>\n"
+"    <li>ट्रैकर्स अवरुद्ध करें (या ट्रैकर्स को अनुमति देने के लिए सेटिंग्स अपडेट करें)</li>\n"
 "    <li>कुकीज़ के साथ खोज और ब्राउज़िंग इतिहास हटाने के लिए मिटाएँ</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s मोज़िला द्वारा निर्मित है. हमारा मिशन एक स्वस्थ, उन्मुक्त इंटरनेट"
-" को बढ़ावा देना है.<br/>\n"
+"<p>%1$s मोज़िला द्वारा निर्मित है. हमारा मिशन एक स्वस्थ, उन्मुक्त इंटरनेट को बढ़ावा देना है.<br/>\n"
 "<a href=\"%2$s\">और जानें</a></p>"
 
 msgctxt "preference_category_search"
@@ -181,13 +177,13 @@ msgstr "मूलभूत"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "प्रणाली तयशुदा"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -223,7 +219,7 @@ msgstr "कुछ वीडियो और वेब पृष्ठ भंग 
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "तरक़ीब"
 
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
@@ -231,10 +227,8 @@ msgstr ""
 #. replaced with the      short name of the app (e.g. Focus).
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
-msgid ""
-"Turn off stealth mode to take screenshots and see sites you’ve visited "
-"using %1$s in your Recent Apps list"
-msgstr ""
+msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
+msgstr "स्क्रीनशॉट लेने के लिए गुप्त मोड को बंद करें और अपनी हाल की एप्स सूची में %1$s का उपयोग करके अपने द्वारा देखी गई साइटें देखें"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -353,14 +347,14 @@ msgstr "वेबसाइट लोड करना रोकें"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "पिछले ऐप पर वापस जाएँ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ट्रैकर्स को अवरुद्ध करें"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -397,12 +391,8 @@ msgstr "एक ऐप ढूंढें जो लिंक खोल सकत
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"आपके डिवाइस पर मौजूद कोई ऐप इस लिंक को खोलने में सक्षम नहीं है. आप एक एप "
-"के लिए %2$s की खोज हेतु %1$s को छोड़ सकते हैं जो कर सकता है."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "आपके डिवाइस पर मौजूद कोई ऐप इस लिंक को खोलने में सक्षम नहीं है. आप एक एप के लिए %2$s की खोज हेतु %1$s को छोड़ सकते हैं जो कर सकता है."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -426,17 +416,13 @@ msgstr "संपर्क करने में असमर्थ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>यह साइट अस्थाई रूप से अनुपलब्ध या बहुत व्यस्त हो सकता है. कुछ"
-" ही क्षणों में फिर से प्रयास करें.</li>\n"
-"        <li>यदि आप कोई पृष्ठ लोड करने में असमर्थ हैं, तो अपने मोबाइल "
-"उपकरण के डेटा या वाई-फाई कनेक्शन की जाँच करें.</li>\n"
+"        <li>यह साइट अस्थाई रूप से अनुपलब्ध या बहुत व्यस्त हो सकता है. कुछ ही क्षणों में फिर से प्रयास करें.</li>\n"
+"        <li>यदि आप कोई पृष्ठ लोड करने में असमर्थ हैं, तो अपने मोबाइल उपकरण के डेटा या वाई-फाई कनेक्शन की जाँच करें.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -453,15 +439,12 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li><strong>ww</strong>जैसी लिखित त्रुटियों के लिए पते की जाँच "
-"करें. <strong>www</strong>के बजाय example.com. example.com</li>\n"
-"        <li>यदि आप किसी भी पृष्ठ लोड करने में असमर्थ हैं, तो अपने उपकरण "
-"के डेटा या वाई-फाई कनेक्शन की जाँच करें।</li>\n"
+"        <li><strong>ww</strong>जैसी लिखित त्रुटियों के लिए पते की जाँच करें. <strong>www</strong>के बजाय example.com. example.com</li>\n"
+"        <li>यदि आप किसी भी पृष्ठ लोड करने में असमर्थ हैं, तो अपने उपकरण के डेटा या वाई-फाई कनेक्शन की जाँच करें।</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -471,17 +454,13 @@ msgstr "पता वैध नहीं है"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>वेब पते आमतौर पर <strong>http://www.example.com/</strong> की तरह "
-"लिखे होते हैं</li>\n"
-"  <li>सुनिश्चित करें कि आप अग्रतियक स्लैश का उपयोग कर रहे हैं (यानी "
-"<strong>/</strong>).</li>\n"
+"  <li>वेब पते आमतौर पर <strong>http://www.example.com/</strong> की तरह लिखे होते हैं</li>\n"
+"  <li>सुनिश्चित करें कि आप अग्रतियक स्लैश का उपयोग कर रहे हैं (यानी <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -491,13 +470,11 @@ msgstr "पृष्ठ ठीक से पुनर्निर्देशि
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>कभी-कभी इस समस्या का कारण कुकीज़ को स्वीकार करने से मना करना या "
-"अक्षम करना हो सकता है.</li>\n"
+"  <li>कभी-कभी इस समस्या का कारण कुकीज़ को स्वीकार करने से मना करना या अक्षम करना हो सकता है.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -507,13 +484,11 @@ msgstr "पता समझा नहीं गया था"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>आपको इस पते को खोलने के लिए अन्य सॉफ़्टवेयर संस्थापित करने की "
-"आवश्यकता हो सकती है.</li>\n"
+"  <li>आपको इस पते को खोलने के लिए अन्य सॉफ़्टवेयर संस्थापित करने की आवश्यकता हो सकती है.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -523,20 +498,16 @@ msgstr "सुरक्षित संपर्क विफ़ल"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>यह सर्वर के कॉन्फ़िगरेशन में एक समस्या हो सकती है, या यह हो सकता है"
-"\n"
+"  <li>यह सर्वर के कॉन्फ़िगरेशन में एक समस्या हो सकती है, या यह हो सकता है\n"
 "कोई सर्वर का प्रतिरूपण करने का प्रयास कर रहा है.</li>\n"
-"  <li>अगर आप पूर्व में इस सर्वर से सफलतापूर्वक जुड़ चुके है, तो त्रुटि "
-"अस्थायी हो सकती है, और आप बाद में पुनः प्रयास कर सकते हैं.</li>\n"
+"  <li>अगर आप पूर्व में इस सर्वर से सफलतापूर्वक जुड़ चुके है, तो त्रुटि अस्थायी हो सकती है, और आप बाद में पुनः प्रयास कर सकते हैं.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -550,35 +521,33 @@ msgstr "हम किसी कारण से इस पृष्ठ लोड
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "लिंक साझा करें"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "लिंक के पते की प्रतिलिपि लें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "चित्र साझा करें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "चित्र के पते की प्रतिलिपि लें"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "छवि सहेजें"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr ""
 
 #. First run tour (page 1): Title
@@ -588,10 +557,7 @@ msgstr ""
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited"
-" pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
+msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
 
 #. First run tour (page 2): Title
@@ -603,9 +569,7 @@ msgstr ""
 #. the app (e.g. Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you link to the Web from other Android apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
 msgstr ""
 
 #. First run tour (page 3): Title
@@ -617,9 +581,7 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid ""
-"When the downside of blocking online trackers is a site that seems "
-"broken, turn off blocking with a tap to the tool menu."
+msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -633,4 +595,3 @@ msgstr ""
 msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr ""
-
