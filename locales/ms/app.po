@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-07-06 01:29+0000\n"
+"PO-Revision-Date: 2017-07-06 01:38+0000\n"
 "Last-Translator: manxmensch <manxmensch@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ms\n"
@@ -379,7 +379,7 @@ msgstr "Buka pautan guna aplikasi lain"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Anda boleh keluar dari %1$s untuk membuka pautan ini dalam %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -564,6 +564,7 @@ msgstr "Layari seperti tiada yang memerhati"
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
+"Secara automatik menyekat penjejakan dalam talian semasa anda melayar. Kemudian, padamkan halaman dan kuki yang dilawati dengan menyentuh ikon sampah di dalam aplikasi atau di dalam notifikasi anda."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -575,7 +576,7 @@ msgstr "Tingkatkan privasi anda"
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Tetapkan %1$s sebagai pelayar piawai anda dan dapatkan manfaat daripada pelayaran peribadi apabila anda membuat pautan ke Web dari aplikasi Android yang lain."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -583,11 +584,13 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Pemulihan pantas apabila\n"
+"menyekat = memisahkan"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Apabila sekatan penjejak dalam talian menyebabkan laman rosak, nyahaktifkan sekatan dengan satu tap sahaja di dalam menu alatan."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
