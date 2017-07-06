@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-07-06 16:50+0000\n"
+"PO-Revision-Date: 2017-07-06 17:00+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -133,15 +133,14 @@ msgstr "মুছুন"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ব্রাউজিং ইতিহাস মুছুন"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
-#, fuzzy
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "ব্যক্তিগতভাবে অনুসন্ধান"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -180,13 +179,13 @@ msgstr "পূর্বনির্ধারিত"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "সিস্টেম ডিফল্ট"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -350,14 +349,14 @@ msgstr "ওয়েবসাইট লোডিং বন্ধ করুন"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "আগের অ্যাপে ফিরে যাও"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ট্র্যাকার ব্লক করুন"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -527,27 +526,27 @@ msgstr "আমরা কিছু কারণবশতঃ এই পৃষ্�
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "লিংক শেয়ার করুন"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "লিংকের ঠিকানা অনুলিপি করুন"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ছবি শেয়ার"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ছবির ঠিকানা অনুলিপি করুন"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ছবি সংরক্ষণ"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -559,7 +558,7 @@ msgstr ""
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "এমনভাবে ব্রাউজ করুন যেন কেউ না দেখে"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -569,7 +568,7 @@ msgstr ""
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "আপনার গোপনীয়তা কঠোর করুন"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the short name of
 #. the app (e.g. Focus).
@@ -592,12 +591,12 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ঠিক আছে, বুঝতে পেরেছি!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "উপেক্ষা"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "পরবর্তী"
