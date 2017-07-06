@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-05-26 18:27+0200\n"
-"PO-Revision-Date: 2017-07-01 16:48+0000\n"
+"PO-Revision-Date: 2017-07-06 10:28+0000\n"
 "Last-Translator: Sahithi <sahithi.thinker@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -373,7 +373,7 @@ msgstr "%2$sని తెరువుటకు %1$sని వదలవచ్చ�
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "లింక్ను తెరవగల అనువర్తనాన్ని కనుగొనండి"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -382,7 +382,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "మీ పరికరంలోని అనువర్తనాల్లో ఏదీ ఈ లింక్ను తెరవలేకపోతుంది. మీరు చేయగల అనువర్తనం కోసం %2$sను శోధించడానికి %1$sను వదిలివేయవచ్చు."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -428,6 +428,17 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        \n"
+"        <li>టైపింగ్ దోషాల కోసం చిరునామాను తనిఖీ చేయండి\n"
+"          \n"
+"          <strong>ww</strong>.example.com బదులుగా\n"
+"          \n"
+"          <strong>www</strong>.example.com</li>\n"
+"        \n"
+"        <li>మీరు ఏ పేజీలను లోడ్ చేయలేకపోతే, మీ పరికర డేటా లేదా Wi-Fi కనెక్షన్ను తనిఖీ చేయండి.</li>\n"
+"      \n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -440,6 +451,12 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  \n"
+"  <li>వెబ్ చిరునామాలను సాధారణంగా వ్రాస్తారు <strong>http://www.example.com/</strong></li>\n"
+"  \n"
+"  <li>మీరు ముందుకు శ్లాష్లు ఉపయోగిస్తున్నారని నిర్ధారించుకోండి (అనగా<strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -451,6 +468,10 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"\n"
+"<ul>\n"
+"  <li>కూకీలను అచేనతనం చేయడం వల్లగానీ లేదా వాటిని అంగీకరించకపోవడం వల్ల గానీ కొన్నిసార్లు ఈ సమస్య రావచ్చు.</li>\n"
+"</ul>\n"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -518,7 +539,7 @@ msgstr "చిత్రాన్ని భద్రపరచు"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "మీరు %1$s చరిత్రను తీసివేసినప్పుడు సేవ్ చేయబడిన మరియు పంచిన చిత్రాలు <b> తొలగించబడవు </b>."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -529,6 +550,7 @@ msgstr "ఎవరూ చూడనట్టుగా విహరణ చెయ్
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
+"మీరు బ్రౌజ్ చేస్తున్నప్పుడు ఆన్లైన్ ట్రాకింగ్ను స్వయంచాలకంగా బ్లాక్ చేయండి. అప్పుడు సందర్శించే పేజీలను మరియు కుక్కీలను ఒక ట్రాష్ చిహ్నపు టచ్తో అనువర్తనం లేదా మీ నోటిఫికేషన్లలోనివి తొలగించండి."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -548,6 +570,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"ఒక శీఘ్ర పరిష్కారము ఉన్నప్పుడు\n"
+"నిరోధించడం = విరమణ"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
