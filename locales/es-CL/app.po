@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-07 19:30+0000\n"
+"PO-Revision-Date: 2017-07-07 19:31+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: es_CL <LL@li.org>\n"
 "Language: es_CL\n"
@@ -429,7 +429,7 @@ msgstr "Los archivos descargados <b>no serán eliminados</b> cuando limpies el h
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr "Bajar archivo"
+msgstr "Descargar archivo"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -439,7 +439,7 @@ msgstr "Cancelar"
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -642,4 +642,4 @@ msgstr "Siguiente"
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
