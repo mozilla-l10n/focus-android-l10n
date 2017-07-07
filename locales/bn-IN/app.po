@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-05-26 18:27+0200\n"
+"POT-Creation-Date: 2017-07-07 16:59+0200\n"
 "PO-Revision-Date: 2017-04-05 15:21+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language: bn_IN\n"
@@ -118,6 +118,11 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
+msgstr ""
+
+#. Notification action to open Focus and resume the current browsing session.
+msgctxt "notification_action_open"
+msgid "Open"
 msgstr ""
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
@@ -231,7 +236,7 @@ msgstr ""
 #. Preference Summary: Secure Mode is a setting that prevents the app's
 #. content to show up in the "recent apps" screen      and prevents the user
 #. from taking screenshots or casting the app to other displays. %1$s will be
-#. replaced with the      short name of the app (e.g. Focus).
+#. replaced with the      name of the app (e.g. Firefox Focus).
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid ""
@@ -412,6 +417,40 @@ msgstr ""
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
 msgstr "ব্যক্তিগত ব্রাউজিং থেকে প্রস্থান করুন?"
+
+#. Snackbar that will be displayed after a download has completed. %1$s will
+#. be replaced with the file name.
+#, c-format
+msgctxt "download_snackbar_finished"
+msgid "%1$s finished"
+msgstr ""
+
+#. Snackbar action to immediately open the successfully downloaded file.
+msgctxt "download_snackbar_open"
+msgid "Open"
+msgstr ""
+
+#. Download dialog: Warns users that downloaded files will not be deleted even
+#. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
+#. Focus).
+msgctxt "download_dialog_warning"
+msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
+msgstr ""
+
+#. Title of download dialogue
+msgctxt "download_dialog_title"
+msgid "Download File"
+msgstr ""
+
+#. Option in download dialogue to cancel a download
+msgctxt "download_dialog_action_cancel"
+msgid "Cancel"
+msgstr ""
+
+#. Option in download dialogue to start a download
+msgctxt "download_dialog_action_download"
+msgid "Download"
+msgstr ""
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -605,8 +644,8 @@ msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr ""
 
-#. First run tour (page 2): Text, %1$s will be replaced with the short name of
-#. the app (e.g. Focus).
+#. First run tour (page 2): Text, %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid ""
@@ -638,5 +677,11 @@ msgstr ""
 
 msgctxt "firstrun_next_button"
 msgid "Next"
+msgstr ""
+
+#. Indicator that no trackers are being blocked because content blocking is
+#. disabled; normally shows the number of blocked trackers
+msgctxt "content_blocking_disabled"
+msgid "-"
 msgstr ""
 
