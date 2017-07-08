@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-06-09 02:47+0000\n"
+"PO-Revision-Date: 2017-07-08 13:20+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
-"Language: zh_Hant_TW\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -121,7 +122,7 @@ msgstr "清除瀏覽紀錄"
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "開啟"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -153,12 +154,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s 讓您可自行控制線上生活。</p>\n"
@@ -233,9 +232,7 @@ msgstr "秘密行動"
 #. replaced with the      name of the app (e.g. Firefox Focus).
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
-msgid ""
-"Turn off stealth mode to take screenshots and see sites you’ve visited "
-"using %1$s in your Recent Apps list"
+msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
 msgstr "關閉秘密模式，您就可以拍攝畫面擷圖，並在「應用程式切換清單」中，看到您曾使用 %1$s 造訪過的網站。"
 
 msgctxt "preference_category_performance"
@@ -399,9 +396,7 @@ msgstr "尋找可開啟此鏈結的應用程式"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "您裝置中並未安裝可開啟此鏈結的應用程式。您可離開 %1$s，到 %2$s 安裝一套。"
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -415,34 +410,34 @@ msgstr "要結束隱私瀏覽嗎？"
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s 下載完成"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "開啟"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "清除 %1$s 紀錄時<b>將不會刪除</b>已下載的檔案。"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "下載檔案"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "下載"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -460,14 +455,10 @@ msgstr "無法連線"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
-msgstr ""
-"<ul><li>網站可能太忙碌或暫時無法使用，請稍候再試一次。</li><li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi "
-"連線。</li></ul>"
+msgstr "<ul><li>網站可能太忙碌或暫時無法使用，請稍候再試一次。</li><li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi 連線。</li></ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
@@ -483,12 +474,9 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
-msgstr ""
-"<ul><li>請檢查網址是否有打錯？例如把 <strong>www</strong>.example.com 打成 "
-"<strong>ww</strong>.example.com</li><li>若無法載入任何網站，請檢查您的網路連線狀態。</li></ul>"
+msgstr "<ul><li>請檢查網址是否有打錯？例如把 <strong>www</strong>.example.com 打成 <strong>ww</strong>.example.com</li><li>若無法載入任何網站，請檢查您的網路連線狀態。</li></ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -497,15 +485,10 @@ msgstr "網址無效"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
-msgstr ""
-"<ul><li>網址通常長得像 "
-"<strong>http://www.example.com/</strong>。</li><li>請確定您用的是斜線 (例: "
-"<strong>/</strong>)。</li> </ul>"
+msgstr "<ul><li>網址通常長得像 <strong>http://www.example.com/</strong>。</li><li>請確定您用的是斜線 (例: <strong>/</strong>)。</li> </ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -514,8 +497,7 @@ msgstr "頁面重新導向不正確"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr "<ul> <li>有時候停用或拒絕接受 Cookie 會造成此問題。</li> </ul>"
 
@@ -526,8 +508,7 @@ msgstr "無法理解的網址"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr "<ul><li>您可能需要安裝其他軟體才能開啟此網址。</li></ul>"
 
@@ -538,16 +519,12 @@ msgstr "安全連線失敗"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
-msgstr ""
-"<ul><li>可能是伺服器設定問題造成，或是有人嘗試偽裝成該伺服器。</li><li>若您以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，請稍候再試試看。</li>"
-" </ul>"
+msgstr "<ul><li>可能是伺服器設定問題造成，或是有人嘗試偽裝成該伺服器。</li><li>若您以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，請稍候再試試看。</li> </ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -586,9 +563,7 @@ msgstr "儲存圖片"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "清除 %1$s 瀏覽紀錄時，已儲存並分享的圖片將<b>不會被刪除</b>。"
 
 #. First run tour (page 1): Title
@@ -598,10 +573,7 @@ msgstr "上網時，彷彿沒有人看著你。"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited"
-" pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
+msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr "上網時自動封鎖網路追蹤器。然後只要點擊程式或通知列中的垃圾桶圖示，即可移除造訪過的網站記錄和 Cookie。"
 
 #. First run tour (page 2): Title
@@ -613,9 +585,7 @@ msgstr "加強您的隱私"
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you link to the Web from other Android apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
 msgstr "將 %1$s 設為您的預設瀏覽器，讓您在其他 Android 程式開啟網頁時，也能受隱私瀏覽功能的保護。"
 
 #. First run tour (page 3): Title
@@ -629,9 +599,7 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid ""
-"When the downside of blocking online trackers is a site that seems "
-"broken, turn off blocking with a tap to the tool menu."
+msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
 msgstr "若封鎖線上追蹤器，造成某些網站無法正常使用，您可以點擊工具選單暫時關閉封鎖功能。"
 
 msgctxt "firstrun_close_button"
@@ -650,5 +618,4 @@ msgstr "下一步"
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
-
+msgstr "-"
