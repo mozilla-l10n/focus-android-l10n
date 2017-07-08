@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-06-25 14:20+0000\n"
-"Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2017-07-08 02:01+0000\n"
+"Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -123,7 +124,7 @@ msgstr "閲覧履歴を消去"
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "開く"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -155,12 +156,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s ではあなたがすべてをコントロールできます。</p>\n"
@@ -235,9 +234,7 @@ msgstr "ステルス"
 #. replaced with the      name of the app (e.g. Firefox Focus).
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
-msgid ""
-"Turn off stealth mode to take screenshots and see sites you’ve visited "
-"using %1$s in your Recent Apps list"
+msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
 msgstr "スクリーンショットの撮影や %1$s を使って訪れたサイトを最近使ったアプリ一覧に表示するには、ステルスモードを無効化してください"
 
 msgctxt "preference_category_performance"
@@ -401,9 +398,7 @@ msgstr "リンクを開けるアプリを探す"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "お使いの端末にはこのリンクを開けるアプリがありません。%1$s を離れて、開けるアプリを %2$s で探すことができます。"
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -417,34 +412,34 @@ msgstr "プライベートブラウジングを終了しますか？"
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s 完了"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "開く"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "ダウンロードされたファイルは %1$s の履歴を消去しても <b>削除されません</b>。"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "ファイルをダウンロード"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "キャンセル"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -462,16 +457,12 @@ msgstr "正常に接続できませんでした"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        "
-"<li>このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。</li>"
-"\n"
+"        <li>このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。</li>\n"
 "        <li>他のサイトも表示できない場合、デバイスのデータ接続や Wi-Fi 接続を確認してください。</li>\n"
 "      </ul>"
 
@@ -489,8 +480,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -507,17 +497,13 @@ msgstr "アドレスの書式が正しくありません"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ウェブのアドレスは通常 <strong>http://www.example.com/</strong> "
-"のようなものになります。</li>\n"
-"  <li>円記号やバックスラッシュ (<strong>\\</strong>) ではなく、スラッシュ (<strong>/</strong>) "
-"が使われているか確認してください。</li>\n"
+"  <li>ウェブのアドレスは通常 <strong>http://www.example.com/</strong> のようなものになります。</li>\n"
+"  <li>円記号やバックスラッシュ (<strong>\\</strong>) ではなく、スラッシュ (<strong>/</strong>) が使われているか確認してください。</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -527,8 +513,7 @@ msgstr "ページの自動転送設定が正しくありません"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -542,8 +527,7 @@ msgstr "アドレスのプロトコルが不明です"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -557,11 +541,9 @@ msgstr "安全な接続ができませんでした"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -607,9 +589,7 @@ msgstr "画像を保存"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "保存、共有された画像は %1$s の履歴を消去しても <b>削除されません</b>。"
 
 #. First run tour (page 1): Title
@@ -619,13 +599,8 @@ msgstr "誰にも監視されないブラウジング"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited"
-" pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
-msgstr ""
-"ブラウジング中のオンライン追跡を自動的にブロック。後から、アプリ内あるいは通知内のゴミ箱アイコンをタップするだけで、訪れたページや Cookie "
-"を削除できます。"
+msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
+msgstr "ブラウジング中のオンライン追跡を自動的にブロック。後から、アプリ内あるいは通知内のゴミ箱アイコンをタップするだけで、訪れたページや Cookie を削除できます。"
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -636,12 +611,8 @@ msgstr "プライバシーを強化"
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you link to the Web from other Android apps."
-msgstr ""
-"%1$s を既定のブラウザーに設定して、他の Android "
-"アプリからウェブへのリンクを辿ったときに、プライベートブラウジングの恩恵を受けましょう。"
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
+msgstr "%1$s を既定のブラウザーに設定して、他の Android アプリからウェブへのリンクを辿ったときに、プライベートブラウジングの恩恵を受けましょう。"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -654,9 +625,7 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid ""
-"When the downside of blocking online trackers is a site that seems "
-"broken, turn off blocking with a tap to the tool menu."
+msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
 msgstr "オンライン追跡のブロックによってサイトが正常に動作していないと思われる場合には、ツールメニューをタップしてブロックを無効化できます。"
 
 msgctxt "firstrun_close_button"
@@ -675,5 +644,4 @@ msgstr "次へ"
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
-
+msgstr "-"
