@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-09 15:30+0000\n"
+"PO-Revision-Date: 2017-07-09 15:31+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -424,12 +424,12 @@ msgstr "ເປີດ"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "ໄຟລ໌ທີ່ດາວໂຫລດແລ້ວ<b>ຈະບໍ່ໄດ້ຖືກລົບອອກ</b>ເມື່ອທ່ານລົບລ້າງປະຫວັດຂອງ %1$s"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "ດາວໂຫລດໄຟລ໌"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
