@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-11 13:30+0000\n"
+"PO-Revision-Date: 2017-07-13 07:51+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1499779830.000000\n"
+"X-POOTLE-MTIME: 1499932283.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -40,7 +40,7 @@ msgid ""
 "Browse. Erase. Repeat."
 msgstr ""
 "Pori preifat awtomatig.\n"
-"Pori. Dileu. Ailadrodd."
+"Pori. Dileu. Eto."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -255,7 +255,7 @@ msgstr "Rhwystro ffontiau Gwe"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Gall olygu eiconau neu ddelweddau coll"
+msgstr "Gall olygu colli eiconau neu ddelweddau"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
