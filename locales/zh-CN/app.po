@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-17 10:27+0000\n"
+"PO-Revision-Date: 2017-07-17 10:37+0000\n"
 "Last-Translator: xcffl <xcffl@outlook.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -235,7 +235,7 @@ msgstr "隐形"
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr "关闭隐形模式以允许屏幕截取，以及在您的最近应用列表中查看使用 %1$s 访问的网站"
+msgstr "关闭隐形模式才可以截图，并可在“最近应用列表”中看到您用 %1$s 访问过的网站"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -249,11 +249,11 @@ msgstr "拦截网络字体"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "可能导致图标或图像缺失"
+msgstr "可能造成图标或图像缺失"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "屏蔽图像"
+msgstr "拦截图像"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -268,7 +268,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr "发送匿名使用统计数据"
+msgstr "发送匿名的使用统计数据"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
@@ -285,7 +285,7 @@ msgstr "关于 %1$s"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "清空输入框"
+msgstr "清空输入内容"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -311,13 +311,13 @@ msgstr "安全连接"
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr "正在加载"
+msgstr "正在载入"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "网站已加载"
+msgstr "网站已载入"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -329,26 +329,26 @@ msgstr "更多选项"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "向前导航"
+msgstr "浏览下一页"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "重新加载网站"
+msgstr "重新载入网站"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "导航回退"
+msgstr "浏览上一页"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "停止加载"
+msgstr "停止载入网站"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -361,14 +361,14 @@ msgstr "返回之前的应用"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "屏蔽跟踪器"
+msgstr "拦截跟踪器"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr "粘贴并转到"
+msgstr "粘贴并访问"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -376,7 +376,7 @@ msgstr "您的权利"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "在另一个应用中打开链接"
+msgstr "用另一个应用打开链接"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -384,13 +384,13 @@ msgstr "在另一个应用中打开链接"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "您可以离开 %1$s 以在 %2$s 中打开此链接。"
+msgstr "您可以离开 %1$s，用  %2$s 打开此链接。"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "查找可以打开链接的应用"
+msgstr "寻找可以打开此链接的应用"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
