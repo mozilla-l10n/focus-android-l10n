@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-17 11:00+0000\n"
+"PO-Revision-Date: 2017-07-18 07:18+0000\n"
 "Last-Translator: xcffl <xcffl@outlook.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -41,7 +41,7 @@ msgid ""
 "Browse. Erase. Repeat."
 msgstr ""
 "全自动的私密浏览。\n"
-"无痕浏览，无需劳心。"
+"无痕浏览，不必劳心。"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -78,7 +78,7 @@ msgstr "用 %1$s 打开"
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr "打开方式…"
+msgstr "用其他应用打开…"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -163,7 +163,7 @@ msgid ""
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s 让您掌控线上生活。</p>\n"
-"<p>可以用作隐私浏览器：\n"
+"<p>用作隐私浏览器，可以：\n"
 "  <ul>\n"
 "    <li>直接在应用中搜索和浏览</li>\n"
 "    <li>拦截跟踪器（也可调整为允许跟踪器）</li>\n"
@@ -235,7 +235,7 @@ msgstr "隐形"
 #, c-format
 msgctxt "preference_privacy_secure_mode_summary"
 msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr "关闭隐形模式才可以截图，并可在“最近应用列表”中看到您用 %1$s 访问过的网站"
+msgstr "关闭隐形模式才能截图、并在“最近应用列表”中看到您用 %1$s 访问过的网站"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -384,7 +384,7 @@ msgstr "用另一个应用打开链接"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "您可以离开 %1$s，用  %2$s 打开此链接。"
+msgstr "您可以离开 %1$s，用 %2$s 打开此链接。"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -399,7 +399,7 @@ msgstr "寻找可以打开此链接的应用"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "您的设备上的应用都不能打开此链接。您可以离开 %1$s，到 %2$s 寻找适合的应用。"
+msgstr "您的设备上的应用都不能打开此链接。您可以离开 %1$s，到 %2$s 找找适合的应用。"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
