@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-20 20:51+0000\n"
+"PO-Revision-Date: 2017-07-20 20:54+0000\n"
 "Last-Translator: Enol <enolp@softastur.org>\n"
 "Language-Team: ast <LL@li.org>\n"
 "Language: ast\n"
@@ -40,7 +40,7 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Restolar en priváu automático.\n"
+"Restolar en privao automático.\n"
 "Restola. Desanicia. Repiti."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
@@ -530,27 +530,27 @@ msgstr "Nun podemos cargar esta páxina por dalgún motivu"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Compartir enllaz"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Copiar direición d'enllaz"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Compartir imaxe"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Copiar direición d'imaxe"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Guardar imaxe"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
