@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-08 02:01+0000\n"
+"PO-Revision-Date: 2017-07-25 07:09+0000\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -47,7 +47,7 @@ msgstr ""
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "ページの表示履歴が消去されました。"
+msgstr "閲覧履歴が消去されました。"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -110,7 +110,7 @@ msgstr "追跡者がブロックされました"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "共有"
+msgstr "共有方法を選択"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
