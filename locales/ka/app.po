@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-26 16:48+0000\n"
+"PO-Revision-Date: 2017-07-26 17:05+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -59,7 +59,7 @@ msgstr "მოძებნა: %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "გაზიარება…"
+msgstr "გვერდის გაზიარება…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -68,7 +68,7 @@ msgstr "გაზიარება…"
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr "გახსნა %1$s-ით"
+msgstr "გვერდის გახსნა %1$s-ით"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -78,7 +78,7 @@ msgstr "გახსნა %1$s-ით"
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr "გახსნა…"
+msgstr "გვერდის სხვა ბრაუზერში გახსნა…"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -131,14 +131,14 @@ msgstr "გახსნა"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr "წაშლა"
+msgstr "გასუფთავება"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "ისტორიის წაშლა"
+msgstr "ისტორიის გასუფთავება"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -219,7 +219,7 @@ msgstr "სხვა მეთვალყურე ელემენტებ�
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr "შესაძლოა ზოგიერთმა საიტმა ან ვიდეომ, არ იმუშაოს"
+msgstr "შესაძლოა ზოგიერთმა საიტმა ან ვიდეომ, არ იმუშაოს გამართულად"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -317,7 +317,7 @@ msgstr "იტვირთება"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "საიტი იტვირთება"
+msgstr "საიტი ჩაიტვირთა"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -623,8 +623,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
-"სწრაფი გასწორება, როცა\n"
-"ელემენტების შეზღუდვა, საიტს აფერხებს"
+"სწრაფი გამართვა, როცა\n"
+"გვერდზე ელემენტების შეზღუდვა, საიტს აფერხებს"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
