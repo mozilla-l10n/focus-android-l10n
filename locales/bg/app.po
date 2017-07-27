@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-07 16:59+0200\n"
-"PO-Revision-Date: 2017-07-14 07:45+0000\n"
+"PO-Revision-Date: 2017-07-27 10:39+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -584,7 +584,7 @@ msgstr "Запазване на изображението"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Запазените и споделените изображения <b>няма да бъдат изтрити</b>, когато се изтрие историята на четене на %1$s."
+msgstr "Запазените и споделените изображения <b>няма да бъдат изтрити</b>при изтриване на историята на %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
