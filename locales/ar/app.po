@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-08 18:49+0000\n"
+"PO-Revision-Date: 2017-07-28 18:24+0000\n"
 "Last-Translator: Khaled Hosny <khaledhosny@eglug.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "n<=10 ? 3 : n>=11 && n<=99 ? 4 : 5;\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1499539753.000000\n"
+"X-POOTLE-MTIME: 1501266264.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -84,7 +84,7 @@ msgstr "افتح في…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "أضِف إلى شاشة البداية"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -136,7 +136,7 @@ msgstr "افتح"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "امسح و افتح"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -249,7 +249,7 @@ msgstr "التخفّي"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "أخفِ صفحات الوب عند الانتقال بين التطبيقات"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -699,19 +699,19 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "أضِف إلى شاشة البداية"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "أضِف"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ألغِ"
 
 #~ msgctxt "preference_privacy_secure_mode_summary"
 #~ msgid ""
