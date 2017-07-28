@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-28 18:07+0000\n"
+"PO-Revision-Date: 2017-07-28 18:14+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
@@ -84,7 +84,7 @@ msgstr "Öppna med…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Lägg till på startskärmen"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -248,7 +248,7 @@ msgstr "Dolt läge"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Dölj webbsidor när du byter appar"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -665,7 +665,7 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Lägg till på startskärmen"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
