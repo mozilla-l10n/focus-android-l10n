@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-07 16:59+0200\n"
+"POT-Creation-Date: 2017-07-28 15:31+0200\n"
 "PO-Revision-Date: 2017-06-04 11:41+0000\n"
 "Last-Translator: Hrant <hrant.mozilla@gmail.com>\n"
 "Language: hy_AM\n"
@@ -79,6 +79,12 @@ msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
 msgstr "Բացել հետևյալով՝"
 
+#. Menu item: Add the current page as a shortcut to the device's home screen
+#. (launcher).
+msgctxt "menu_add_to_home_screen"
+msgid "Add to Home screen"
+msgstr ""
+
 msgctxt "menu_settings"
 msgid "Settings"
 msgstr "Կարգավորումներ"
@@ -123,6 +129,12 @@ msgstr "Ջնջել դիտարկումների պատմությունը"
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
+msgstr ""
+
+#. Notification action to erase the current browsing session AND switch to
+#. Focus (bring it          to the foreground)
+msgctxt "notification_action_erase_and_open"
+msgid "Erase and Open"
 msgstr ""
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
@@ -232,18 +244,15 @@ msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
 msgstr "Թաքնված"
 
-#. Preference Summary: Secure Mode is a setting that prevents the app's
-#. content to show up in the "recent apps" screen      and prevents the user
-#. from taking screenshots or casting the app to other displays. %1$s will be
-#. replaced with the      name of the app (e.g. Firefox Focus).
-#, c-format
-msgctxt "preference_privacy_secure_mode_summary"
-msgid ""
-"Turn off stealth mode to take screenshots and see sites you’ve visited "
-"using %1$s in your Recent Apps list"
+#. Preference Summary: Stealth mode (previously "Secure mode") is a setting
+#. that prevents the      app's content (in our case especially the content of
+#. webpages) to show up in the "recent apps"      screen. Additionally Android
+#. will prevent the user from taking screenshots or casting the app      to
+#. other displays. However we try to keep this description short and brief to
+#. avoid confusion.
+msgctxt "preference_privacy_stealth_summary"
+msgid "Hide webpages when switching apps"
 msgstr ""
-"Անջատեք թաքնված կերպը՝ էկրանի հանույթը ստանալու և %1$s-ով ձեր այցելած "
-"կայքերը տեսնելու համար ձեր Վերջին հավելվածները ցանկում"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -693,5 +702,23 @@ msgstr "Հաջորդը"
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
+msgstr ""
+
+#. The title of a dialog we show when the user selected a menu action to add
+#. the current website as a shortcut to the home screen.
+msgctxt "dialog_addtohomescreen_title"
+msgid "Add to Home screen"
+msgstr ""
+
+#. Label of the action that will add the current website to the home screen
+#. (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_add"
+msgid "Add"
+msgstr ""
+
+#. Label of the action that will close the dialog and not add anything to the
+#. home screen (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_cancel"
+msgid "Cancel"
 msgstr ""
 
