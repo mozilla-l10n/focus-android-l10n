@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-07 16:59+0200\n"
+"POT-Creation-Date: 2017-07-28 15:31+0200\n"
 "PO-Revision-Date: 2017-07-21 08:59+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
-"Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
+"Language-Team: bn_BD <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -80,6 +79,12 @@ msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
 msgstr "%1$s ব্যবহার করে খোলা হবে…"
 
+#. Menu item: Add the current page as a shortcut to the device's home screen
+#. (launcher).
+msgctxt "menu_add_to_home_screen"
+msgid "Add to Home screen"
+msgstr ""
+
 msgctxt "menu_settings"
 msgid "Settings"
 msgstr "সেটিং"
@@ -126,6 +131,12 @@ msgctxt "notification_action_open"
 msgid "Open"
 msgstr "খুলুন"
 
+#. Notification action to erase the current browsing session AND switch to
+#. Focus (bring it          to the foreground)
+msgctxt "notification_action_erase_and_open"
+msgid "Erase and Open"
+msgstr ""
+
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
@@ -156,21 +167,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s আপনাকে নিয়ন্ত্রণ দেয়।</p>\n"
 "<p>ব্যক্তিগত ব্রাউজার হিসাবে এটিকে ব্যবহার করুন:\n"
 "  <ul>\n"
 "    <li>অ্যাপের মধ্যেই অনুসন্ধান এবং ব্রাউজ করুন</li>\n"
-"    <li>ট্রাকারদেরকে অবরুদ্ধ করুন(অথবা ট্রাকারদের অনুমতি দিতে সেটিংস আপডেট করুন)</li>\n"
-"    <li>সেইসাথে অনুসন্ধান এবং ব্রাউজিংয়ের পূর্ববর্তী তথ্য কুকির সাথে সরাতে মুছুন</li>\n"
+"    <li>ট্রাকারদেরকে অবরুদ্ধ করুন(অথবা ট্রাকারদের অনুমতি দিতে সেটিংস "
+"আপডেট করুন)</li>\n"
+"    <li>সেইসাথে অনুসন্ধান এবং ব্রাউজিংয়ের পূর্ববর্তী তথ্য কুকির সাথে "
+"সরাতে মুছুন</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s তৈরী করেছে Mozilla। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।.<br/>\n"
+"<p>%1$s তৈরী করেছে Mozilla। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা "
+"এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।.<br/>\n"
 "<a href=\"%2$s\">আরও জানুন</a></p>"
 
 msgctxt "preference_category_search"
@@ -228,13 +244,14 @@ msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
 msgstr "অদৃশ্য"
 
-#. Preference Summary: Secure Mode is a setting that prevents the app's
-#. content to show up in the "recent apps" screen      and prevents the user
-#. from taking screenshots or casting the app to other displays. %1$s will be
-#. replaced with the      name of the app (e.g. Firefox Focus).
-#, c-format
-msgctxt "preference_privacy_secure_mode_summary"
-msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
+#. Preference Summary: Stealth mode (previously "Secure mode") is a setting
+#. that prevents the      app's content (in our case especially the content of
+#. webpages) to show up in the "recent apps"      screen. Additionally Android
+#. will prevent the user from taking screenshots or casting the app      to
+#. other displays. However we try to keep this description short and brief to
+#. avoid confusion.
+msgctxt "preference_privacy_stealth_summary"
+msgid "Hide webpages when switching apps"
 msgstr ""
 
 msgctxt "preference_category_performance"
@@ -398,8 +415,12 @@ msgstr "একটি অ্যাপ অনুসন্ধান করো য�
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান "
+"করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -457,13 +478,17 @@ msgstr "সংযোগ করতে ব্যর্থ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
-"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। "
+"কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
+"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা "
+"বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -480,14 +505,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>টাইপজনিত ভুলের জন্য ঠিকানা পরীক্ষা করুন যেমন\n"
 "          <strong>ww</strong>.example.com বদলে\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা"
+" বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -497,13 +524,17 @@ msgstr "ঠিকানাটি সঠিক নয়"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ওয়েব ঠিকানা সাধারণত যেভাবে লেখা হয় <strong>http://www.example.com/</strong></li>\n"
-"  <li>নিশ্চিত করুন আপনি ফরোয়ার্ড স্ল্যাস ব্যবহার করছে (অর্থ্যাৎ <strong>/</strong>).</li>\n"
+"  <li>ওয়েব ঠিকানা সাধারণত যেভাবে লেখা হয় "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>নিশ্চিত করুন আপনি ফরোয়ার্ড স্ল্যাস ব্যবহার করছে (অর্থ্যাৎ "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -513,11 +544,13 @@ msgstr "পাতাটি সঠিকভাবে রিডিরেক্ট 
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>কুকিজ নিস্ক্রিয় করে বা গ্রহন করা থেকে বিরত থাকার কারণে কখনো কখনো এই সমস্যা হতে পারে।</li>\n"
+"  <li>কুকিজ নিস্ক্রিয় করে বা গ্রহন করা থেকে বিরত থাকার কারণে কখনো কখনো এই"
+" সমস্যা হতে পারে।</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -527,11 +560,13 @@ msgstr "ঠিকানাটি বোধগম্য হয়নি"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>এই ঠিকানাটি খোলার জন্য ভিন্ন সফ্টওয়্যার ইনস্টল করার প্রয়োজন হতে পারে।</li>\n"
+"  <li>এই ঠিকানাটি খোলার জন্য ভিন্ন সফ্টওয়্যার ইনস্টল করার প্রয়োজন হতে "
+"পারে।</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -541,17 +576,22 @@ msgstr "নিরাপদ সংযোগ স্থাপন করতে ব�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>সার্ভারের কনফিগারেশনের ত্রুটির কারণে এই সমস্যাটি হতে পারে, অথবা হতে পারে \n"
+"  <li>সার্ভারের কনফিগারেশনের ত্রুটির কারণে এই সমস্যাটি হতে পারে, অথবা হতে"
+" পারে \n"
 "কেউ সার্ভারের ছদ্মবেশ ধারণ করার চেষ্টা করছে।</li>\n"
-"  <li>যদি পূর্বে আপনি কখনো এই সার্ভারের সাথে সংযুক্ত হয়ে থাকেন, তাহলে সমস্যাটি\n"
-"অস্থায়ী হতে পারে, এবং আপনি কিছুক্ষণ পর আবার চেষ্টা করে দেখতে পারেন।</li>\n"
+"  <li>যদি পূর্বে আপনি কখনো এই সার্ভারের সাথে সংযুক্ত হয়ে থাকেন, তাহলে "
+"সমস্যাটি\n"
+"অস্থায়ী হতে পারে, এবং আপনি কিছুক্ষণ পর আবার চেষ্টা করে দেখতে পারেন।</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -591,7 +631,9 @@ msgstr "ছবি সংরক্ষণ"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr ""
 
 #. First run tour (page 1): Title
@@ -601,7 +643,10 @@ msgstr "এমনভাবে ব্রাউজ করুন যেন কে�
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
+msgid ""
+"Automatically block online tracking while you browse. Then remove visited"
+" pages and cookies with a touch to the trash icon in the app or in your "
+"notifications."
 msgstr ""
 
 #. First run tour (page 2): Title
@@ -613,7 +658,9 @@ msgstr "আপনার গোপনীয়তা কঠোর করুন"
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you link to the Web from other Android apps."
 msgstr ""
 
 #. First run tour (page 3): Title
@@ -625,7 +672,9 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
+msgid ""
+"When the downside of blocking online trackers is a site that seems "
+"broken, turn off blocking with a tap to the tool menu."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -645,3 +694,22 @@ msgstr "পরবর্তী"
 msgctxt "content_blocking_disabled"
 msgid "-"
 msgstr ""
+
+#. The title of a dialog we show when the user selected a menu action to add
+#. the current website as a shortcut to the home screen.
+msgctxt "dialog_addtohomescreen_title"
+msgid "Add to Home screen"
+msgstr ""
+
+#. Label of the action that will add the current website to the home screen
+#. (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_add"
+msgid "Add"
+msgstr ""
+
+#. Label of the action that will close the dialog and not add anything to the
+#. home screen (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_cancel"
+msgid "Cancel"
+msgstr ""
+
