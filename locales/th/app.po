@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-07 16:59+0200\n"
+"POT-Creation-Date: 2017-07-28 15:31+0200\n"
 "PO-Revision-Date: 2017-07-08 07:28+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
-"Language-Team: th <LL@li.org>\n"
 "Language: th\n"
+"Language-Team: th <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -80,6 +79,12 @@ msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
 msgstr "เปิดด้วย…"
 
+#. Menu item: Add the current page as a shortcut to the device's home screen
+#. (launcher).
+msgctxt "menu_add_to_home_screen"
+msgid "Add to Home screen"
+msgstr ""
+
 msgctxt "menu_settings"
 msgid "Settings"
 msgstr "การตั้งค่า"
@@ -126,6 +131,12 @@ msgctxt "notification_action_open"
 msgid "Open"
 msgstr "เปิด"
 
+#. Notification action to erase the current browsing session AND switch to
+#. Focus (bring it          to the foreground)
+msgctxt "notification_action_erase_and_open"
+msgid "Erase and Open"
+msgstr ""
+
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
@@ -156,10 +167,12 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s ให้คุณได้ควบคุม</p>\n"
@@ -170,7 +183,8 @@ msgstr ""
 "    <li>ล้างเพื่อลบคุกกี้รวมทั้งประวัติการค้นหาและการท่องเว็บ</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s ถูกสร้างขึ้นโดย Mozilla ภารกิจของเราคือส่งเสริมอินเทอร์เน็ตที่สมบูรณ์และเปิดกว้าง<br/>\n"
+"<p>%1$s ถูกสร้างขึ้นโดย Mozilla "
+"ภารกิจของเราคือส่งเสริมอินเทอร์เน็ตที่สมบูรณ์และเปิดกว้าง<br/>\n"
 "<a href=\"%2$s\">เรียนรู้เพิ่มเติม</a></p>"
 
 msgctxt "preference_category_search"
@@ -228,14 +242,15 @@ msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
 msgstr "พรางตัว"
 
-#. Preference Summary: Secure Mode is a setting that prevents the app's
-#. content to show up in the "recent apps" screen      and prevents the user
-#. from taking screenshots or casting the app to other displays. %1$s will be
-#. replaced with the      name of the app (e.g. Firefox Focus).
-#, c-format
-msgctxt "preference_privacy_secure_mode_summary"
-msgid "Turn off stealth mode to take screenshots and see sites you’ve visited using %1$s in your Recent Apps list"
-msgstr "ปิดโหมดพรางตัวเพื่อจับภาพหน้าจอและดูไซต์ที่คุณเคยเยี่ยมชมโดยใช้ %1$s ในรายการแอปเมื่อเร็ว ๆ นี้ของคุณ"
+#. Preference Summary: Stealth mode (previously "Secure mode") is a setting
+#. that prevents the      app's content (in our case especially the content of
+#. webpages) to show up in the "recent apps"      screen. Additionally Android
+#. will prevent the user from taking screenshots or casting the app      to
+#. other displays. However we try to keep this description short and brief to
+#. avoid confusion.
+msgctxt "preference_privacy_stealth_summary"
+msgid "Hide webpages when switching apps"
+msgstr ""
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -398,8 +413,12 @@ msgstr "ค้นหาแอปที่สามารถเปิดลิง
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "ไม่มีแอปบนอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s เพื่อค้นหา %2$s สำหรับแอปที่สามารถ"
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"ไม่มีแอปบนอุปกรณ์ของคุณที่สามารถเปิดลิงก์นี้ คุณสามารถออกจาก %1$s "
+"เพื่อค้นหา %2$s สำหรับแอปที่สามารถ"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -457,13 +476,17 @@ msgstr "ไม่สามารถเชื่อมต่อ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ไซต์อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li>\n"
-"        <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์มือถือของคุณ</li>\n"
+"        <li>ไซต์อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป "
+"ลองอีกครั้งในอีกสักครู่</li>\n"
+"        <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ"
+" Wi-Fi ของอุปกรณ์มือถือของคุณ</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -480,12 +503,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ตรวจสอบข้อผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น <strong>ww</strong>.example.com แทนที่จะเป็น <strong>www</strong>.example.com</li>\n"
-"        <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์ของคุณ</li>\n"
+"        <li>ตรวจสอบข้อผิดพลาดในการพิมพ์ที่อยู่ อย่างเช่น "
+"<strong>ww</strong>.example.com แทนที่จะเป็น "
+"<strong>www</strong>.example.com</li>\n"
+"        <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ"
+" Wi-Fi ของอุปกรณ์ของคุณ</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -495,13 +522,17 @@ msgstr "ที่อยู่ไม่ถูกต้อง"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li>\n"
-"  <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li>\n"
+"  <li>ที่อยู่เว็บมักจะเขียนเป็น "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ "
+"<strong>/</strong>)</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -511,11 +542,14 @@ msgstr "หน้าไม่ได้เปลี่ยนเส้นทาง
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้</li>\n"
+"  "
+"<li>ปัญหานี้บางครั้งอาจมีสาเหตุมาจากการปิดใช้งานหรือปฏิเสธการยอมรับคุกกี้</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -525,7 +559,8 @@ msgstr "ไม่เข้าใจที่อยู่"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -539,15 +574,20 @@ msgstr "การเชื่อมต่อปลอดภัยล้มเห
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>สิ่งนี้อาจเป็นปัญหาจากการกำหนดค่าของเซิร์ฟเวอร์ หรืออาจมีใครบางคนกำลังพยายามปลอมแปลงเซิร์ฟเวอร์</li>\n"
-"  <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้สำเร็จในอดีต ข้อผิดพลาดอาจเกิดขึ้นเพียงชั่วคราว และคุณสามารถลองอีกครั้งในภายหลัง</li>\n"
+"  <li>สิ่งนี้อาจเป็นปัญหาจากการกำหนดค่าของเซิร์ฟเวอร์ "
+"หรืออาจมีใครบางคนกำลังพยายามปลอมแปลงเซิร์ฟเวอร์</li>\n"
+"  <li>หากคุณเคยเชื่อมต่อกับเซิร์ฟเวอร์นี้สำเร็จในอดีต "
+"ข้อผิดพลาดอาจเกิดขึ้นเพียงชั่วคราว และคุณสามารถลองอีกครั้งในภายหลัง</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -587,7 +627,9 @@ msgstr "บันทึกภาพ"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr "ภาพที่บันทึกไว้และแบ่งปัน<b>จะไม่ถูกลบ</b>เมื่อคุณล้างประวัติของ %1$s"
 
 #. First run tour (page 1): Title
@@ -597,8 +639,13 @@ msgstr "ท่องเว็บเหมือนไม่มีใครเฝ
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr "ปิดกั้นการติดตามออนไลน์โดยอัตโนมัติขณะที่คุณท่องเว็บ จากนั้นเอาหน้าที่เยี่ยมชมแล้วและคุกกี้ออกโดยสัมผัสที่ไอคอนถังขยะในแอปหรือในการแจ้งเตือนของคุณ"
+msgid ""
+"Automatically block online tracking while you browse. Then remove visited"
+" pages and cookies with a touch to the trash icon in the app or in your "
+"notifications."
+msgstr ""
+"ปิดกั้นการติดตามออนไลน์โดยอัตโนมัติขณะที่คุณท่องเว็บ "
+"จากนั้นเอาหน้าที่เยี่ยมชมแล้วและคุกกี้ออกโดยสัมผัสที่ไอคอนถังขยะในแอปหรือในการแจ้งเตือนของคุณ"
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -609,8 +656,13 @@ msgstr "เพิ่มความเป็นส่วนตัวของค
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr "ตั้ง %1$s เป็นเบราว์เซอร์เริ่มต้นของคุณและรับประโยชน์จากการท่องเว็บแบบส่วนตัวเมื่อคุณเชื่อมโยงไปยังเว็บจากแอป Android อื่น ๆ"
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you link to the Web from other Android apps."
+msgstr ""
+"ตั้ง %1$s "
+"เป็นเบราว์เซอร์เริ่มต้นของคุณและรับประโยชน์จากการท่องเว็บแบบส่วนตัวเมื่อคุณเชื่อมโยงไปยังเว็บจากแอป"
+" Android อื่น ๆ"
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -623,8 +675,12 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "เมื่อข้อเสียของการปิดกั้นตัวติดตามออนไลน์คือไซต์ที่แสดงผลไม่สมบูรณ์ ปิดการปิดกั้นโดยแตะที่เมนู เครื่องมือ"
+msgid ""
+"When the downside of blocking online trackers is a site that seems "
+"broken, turn off blocking with a tap to the tool menu."
+msgstr ""
+"เมื่อข้อเสียของการปิดกั้นตัวติดตามออนไลน์คือไซต์ที่แสดงผลไม่สมบูรณ์ "
+"ปิดการปิดกั้นโดยแตะที่เมนู เครื่องมือ"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -643,3 +699,22 @@ msgstr "ถัดไป"
 msgctxt "content_blocking_disabled"
 msgid "-"
 msgstr "-"
+
+#. The title of a dialog we show when the user selected a menu action to add
+#. the current website as a shortcut to the home screen.
+msgctxt "dialog_addtohomescreen_title"
+msgid "Add to Home screen"
+msgstr ""
+
+#. Label of the action that will add the current website to the home screen
+#. (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_add"
+msgid "Add"
+msgstr ""
+
+#. Label of the action that will close the dialog and not add anything to the
+#. home screen (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_cancel"
+msgid "Cancel"
+msgstr ""
+

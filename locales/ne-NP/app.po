@@ -1,23 +1,21 @@
-# Translations template for PROJECT.
+# Nepali translations for PACKAGE.
 # Copyright (C) 2017 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
+# This file is distributed under the same license as the PACKAGE project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-07 16:59+0200\n"
+"POT-Creation-Date: 2017-07-28 15:31+0200\n"
 "PO-Revision-Date: 2017-07-05 18:20+0000\n"
 "Last-Translator: Roshan Gautam <roshan@brainants.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ne\n"
+"Language-Team: ne <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1499278802.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -77,6 +75,12 @@ msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
 msgstr ""
 
+#. Menu item: Add the current page as a shortcut to the device's home screen
+#. (launcher).
+msgctxt "menu_add_to_home_screen"
+msgid "Add to Home screen"
+msgstr ""
+
 msgctxt "menu_settings"
 msgid "Settings"
 msgstr "सेटिङ्हरू"
@@ -121,6 +125,12 @@ msgstr ""
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
+msgstr ""
+
+#. Notification action to erase the current browsing session AND switch to
+#. Focus (bring it          to the foreground)
+msgctxt "notification_action_erase_and_open"
+msgid "Erase and Open"
 msgstr ""
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
@@ -217,15 +227,14 @@ msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
 msgstr ""
 
-#. Preference Summary: Secure Mode is a setting that prevents the app's
-#. content to show up in the "recent apps" screen      and prevents the user
-#. from taking screenshots or casting the app to other displays. %1$s will be
-#. replaced with the      name of the app (e.g. Firefox Focus).
-#, c-format
-msgctxt "preference_privacy_secure_mode_summary"
-msgid ""
-"Turn off stealth mode to take screenshots and see sites you’ve visited "
-"using %1$s in your Recent Apps list"
+#. Preference Summary: Stealth mode (previously "Secure mode") is a setting
+#. that prevents the      app's content (in our case especially the content of
+#. webpages) to show up in the "recent apps"      screen. Additionally Android
+#. will prevent the user from taking screenshots or casting the app      to
+#. other displays. However we try to keep this description short and brief to
+#. avoid confusion.
+msgctxt "preference_privacy_stealth_summary"
+msgid "Hide webpages when switching apps"
 msgstr ""
 
 msgctxt "preference_category_performance"
@@ -630,3 +639,22 @@ msgstr ""
 msgctxt "content_blocking_disabled"
 msgid "-"
 msgstr ""
+
+#. The title of a dialog we show when the user selected a menu action to add
+#. the current website as a shortcut to the home screen.
+msgctxt "dialog_addtohomescreen_title"
+msgid "Add to Home screen"
+msgstr ""
+
+#. Label of the action that will add the current website to the home screen
+#. (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_add"
+msgid "Add"
+msgstr ""
+
+#. Label of the action that will close the dialog and not add anything to the
+#. home screen (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_cancel"
+msgid "Cancel"
+msgstr ""
+
