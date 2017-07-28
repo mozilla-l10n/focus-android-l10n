@@ -1,22 +1,24 @@
-# Irish (Ireland) translations for PACKAGE.
+# Translations template for PROJECT.
 # Copyright (C) 2017 ORGANIZATION
-# This file is distributed under the same license as the PACKAGE project.
+# This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-07 20:05+0000\n"
+"PO-Revision-Date: 2017-07-28 17:03+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
-"Language-Team: ga_IE <LL@li.org>\n"
-"Plural-Forms: nplurals=5; plural=(((n >= 3 && n <= 6)) ? 2 : ((n >= 7 && "
-"n <= 10)) ? 3 : ((n == 1)) ? 0 : ((n == 2)) ? 1 : 4)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :(n>"
+"6 && n<11) ? 3 : 4;;\n"
+"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
+"X-POOTLE-MTIME: 1501261412.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -82,7 +84,7 @@ msgstr "Oscail le…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Cuir leis an scáileán Baile"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -134,7 +136,7 @@ msgstr "Oscail"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "Scrios agus Oscail"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -183,8 +185,8 @@ msgstr ""
 "bhrabhsála</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon "
-"bríomhar oscailte a chothú.<br/>\n"
+"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon bríomhar "
+"oscailte a chothú.<br/>\n"
 "<a href=\"%2$s\">Tuilleadh eolais</a></p>"
 
 msgctxt "preference_category_search"
@@ -250,7 +252,7 @@ msgstr "Mód Rúnda"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Folaigh leathanaigh Ghréasáin agus an aip á hathrú"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -417,8 +419,8 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave"
 " %1$s to search %2$s for an app that can."
 msgstr ""
-"Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat"
-" %1$s a fhágáil chun aip oiriúnach a lorg in %2$s."
+"Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat %1$"
+"s a fhágáil chun aip oiriúnach a lorg in %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -443,7 +445,8 @@ msgstr "Oscail"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "<b>Ní scriostar</b> comhaid íoslódáilte nuair a scriosann tú stair %1$s."
+msgstr ""
+"<b>Ní scriostar</b> comhaid íoslódáilte nuair a scriosann tú stair %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -511,8 +514,8 @@ msgstr ""
 "        <li>Scrúdaigh an seoladh le haghaidh botún cosúil le\n"
 "          <strong>ww</strong>.example.com in áit\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan "
-"seiceáil ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
+"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan seiceáil "
+"ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -531,8 +534,7 @@ msgstr ""
 "<ul>\n"
 "  <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo "
 "<strong>http://www.example.com/</strong></li>\n"
-"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>"
-"\n"
+"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -563,8 +565,8 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh "
-"seo a oscailt.</li>\n"
+"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo "
+"a oscailt.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -583,11 +585,10 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó "
-"b'fhéidir\n"
+"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'"
+"fhéidir\n"
 "go bhfuil duine éigin ag déanamh aithrise ar an bhfreastalaí.</li>\n"
-"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, "
-"b'fhéidir\n"
+"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, b'fhéidir\n"
 "gur fadhb shealadach í agus gur féidir leat iarracht a dhéanamh níos "
 "déanaí.</li>\n"
 "</ul>"
@@ -633,8 +634,8 @@ msgid ""
 "Saved and shared images <b>will not be deleted</b> when you erase %1$s "
 "history."
 msgstr ""
-"<b>Ní scriosfar</b> íomhánna sábháilte nó comhroinnte nuair a scriosann "
-"tú stair %1$s."
+"<b>Ní scriosfar</b> íomhánna sábháilte nó comhroinnte nuair a scriosann tú "
+"stair %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
@@ -666,8 +667,8 @@ msgid ""
 " when you link to the Web from other Android apps."
 msgstr ""
 "Socraigh %1$s mar do bhrabhsálaí réamhshocraithe agus bain tairbhe as "
-"brabhsáil phríobháideach nuair a théann tú ar an nGréasán ó aipeanna eile"
-" Android."
+"brabhsáil phríobháideach nuair a théann tú ar an nGréasán ó aipeanna eile "
+"Android."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -684,9 +685,9 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems "
 "broken, turn off blocking with a tap to the tool menu."
 msgstr ""
-"Uaireanta, ní fheidhmíonn suímh mar is ceart mar gheall ar lorgairí ar "
-"líne a bhlocáil. Is féidir leat blocáil a mhúchadh le tap amháin ar "
-"roghchlár na n-uirlisí."
+"Uaireanta, ní fheidhmíonn suímh mar is ceart mar gheall ar lorgairí ar líne "
+"a bhlocáil. Is féidir leat blocáil a mhúchadh le tap amháin ar roghchlár na "
+"n-uirlisí."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -710,17 +711,52 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Cuir leis an scáileán Baile"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Cuir Leis"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
+#, c-format
+#~ msgctxt "preference_privacy_secure_mode_summary"
+#~ msgid ""
+#~ "Turn off stealth mode to take screenshots and see sites you’ve visited "
+#~ "using %1$s in your Recent Apps list"
+#~ msgstr ""
+#~ "Múch an mód rúnda chun pictiúir a thógáil de na suímh a thugann tú cuairt "
+#~ "orthu in %1$s sna hAipeanna is déanaí"
+
+#~ msgctxt "text_selection_search_action"
+#~ msgid "Private Search"
+#~ msgstr "Cuardach Príobháideach"
+
+#~ msgctxt "firstrun_title"
+#~ msgid "Browse like no one’s watching."
+#~ msgstr "Brabhsáil i leith is nach bhfuil éinne ag cúlchoimhéad ort."
+
+#~ msgctxt "firstrun_description"
+#~ msgid ""
+#~ "Automatically block online trackers while you browse. Then tap to erase "
+#~ "visited pages, searches, cookies and passwords from your device."
+#~ msgstr ""
+#~ "Cuir cosc ar lorgairí ar líne go huathoibríoch le linn brabhsála. Ansin, "
+#~ "tapáil chun na leathanaigh ar thug tú cuairt orthu a bhánú ó do ghléas, "
+#~ "chomh maith le haon fhianáin, focail fhaire, nó cuardaigh a rinne tú."
+
+#~ msgctxt "firstrun_button"
+#~ msgid "OK, got it!"
+#~ msgstr "OK, tuigim!"
+
+#~ msgctxt "firstrun_footer"
+#~ msgid "To be clear, sites and services you use can still know where you've been."
+#~ msgstr ""
+#~ "Le bheith soiléir, beidh na suímh agus na seirbhísí a úsáideann tú ábalta na "
+#~ "leathanaigh a dtugann tú cuairt orthu a fheiceáil."
