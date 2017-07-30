@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-30 10:45+0000\n"
+"PO-Revision-Date: 2017-07-30 11:10+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -172,15 +172,15 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s మిమ్మల్ని అదుపు లో ఉంచుతుంది.</p>\n"
-"<p>దీనిని వ్యతిగత  విహరిని గా ఉపయోగించండి:\n"
+"<p>%1$s పగ్గాలను మీ చేతుల్లో పెడుతుంది.</p>\n"
+"<p>దీన్ని అంతరంగిక విహరిణిగా వాడుకోండి:\n"
 "  <ul>\n"
-"    <li>అనువర్తనంలో  నేరుగా శోధించండి మరియు బ్రౌజ్ చేయండి</li>\n"
-"    <li>ట్రాక్టర్లు బ్లాక్  చేయండి(లేదా ట్రాకర్లను అనుమతించడానికి సెట్టింగులను నవీకరించండి)</li>\n"
-"    <li>కుక్కీలను అలాగే శోధన మరియు బ్రౌజింగ్ చరిత్రను తొలగించడానికి తుడిచివేయండి</li>\n"
+"    <li>నేరుగా యాప్ లోనే వెతకండి, విహరించండి</li>\n"
+"    <li>ట్రాకర్లను నిరోధించుకోండి (లేదా ట్రాకర్లను అనుమతించడానికి అమరికలలో మార్చుకోండి)</li>\n"
+"    <li>కుకీలను అలాగే వెతుకుడు, విహరణ చరిత్రలను తుడిచివేసుకోండి</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s Mozillaఉత్పత్తి చేస్తుంది. మా లక్ష్యం ఒక ఆరోగ్యకరమైన,  స్వేచ్ఛ ఉన్న జాలాన్ని  ప్రోత్సహించడం.<br/>\n"
+"<p>%1$sని Mozilla తయారుచేసింది. ఆరోగ్యకరమైన, స్వేచ్ఛా జాలాన్ని ప్రోత్సహించడం మా ఆశయం.<br/>\n"
 "<a href=\"%2$s\">ఇంకా తెలుసుకోండి</a></p>"
 
 msgctxt "preference_category_search"
@@ -209,34 +209,34 @@ msgstr "అప్రమేయ శోధని"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr "గోప్యత"
+msgstr "అంతరంగికత"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "యాడ్ ట్రాకర్లను నిరోధించండి"
+msgstr "యాడ్ ట్రాకర్లను నిరోధించు"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "వైశ్లేషిక ట్రాకర్లను నిరోధించండి"
+msgstr "వైశ్లేషిక ట్రాకర్లను నిరోధించు"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "సామాజిక ట్రాకర్లను నిరోధించండి"
+msgstr "సామాజిక ట్రాకర్లను నిరోధించు"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "ఇతర ట్రాకర్లను నిరోధించండి"
+msgstr "ఇతర ట్రాకర్లను నిరోధించు"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr "కొన్ని వీడియోలను మరియు వెబ్ పేజీలను విచ్ఛిన్నం చేయవచ్చు"
+msgstr "కొన్ని వీడియోలు, జాల పేజీలు పనిచేయకపోవచ్చు"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "గోప్య విహరణ"
+msgstr "గోప్యత"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -254,24 +254,24 @@ msgstr "పనితనం"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "వెబ్ ఖతులను (ఫాంట్స్) ఆపుము"
+msgstr "జాల ఖతులను (వెబ్ ఫాంట్లను) నిరోధించు"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "తప్పిపోయిన చిహ్నాలు లేదా చిత్రాలు ఫలితంగా ఉండవచ్చు"
+msgstr "దీనివల్ల ప్రతీకాలు లేదా బొమ్మలు కనబడకపోవచ్చు"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "చిత్రాలను నిరోధించండి"
+msgstr "బొమ్మలను నిరోధించు"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr "అప్రమేయ బ్రౌజర్ గా చేయండి"
+msgstr "అప్రమేయ విహరిణిగా చేయి"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -279,7 +279,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr "అనామక వాడుక డేటాను పంపండి"
+msgstr "అనామక వాడుక దత్తాంశాన్ని పంపించు"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
@@ -296,7 +296,7 @@ msgstr "%1$s గురించి"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "మూలాంశము చెరిపివేయి"
+msgstr "ఇన్‌పుట్‌ను తుడిచివేయి"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -316,50 +316,50 @@ msgstr "విహరణ చరిత్రను తుడిచేయి"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr "సురక్షిత సంబంధం"
+msgstr "సురక్షిత అనుసంధానం"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr "లోడవుతున్నది"
+msgstr "వస్తోంది"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "వెబ్సైటు లోడయినది"
+msgstr "వెబ్‌సైటు లోడయింది"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr "ఎక్కువ ఐచ్చికాలు"
+msgstr "మరిన్ని ఎంపికలు"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "ముందుకు సంచరించు"
+msgstr "ముందుకు వెళ్ళు"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "వెబ్ సైటును తిరిగి లోడుచేయి"
+msgstr "వెబ్‌సైటుని మళ్ళీ లోడుచేయి"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "వెనుకకు సంచరించు"
+msgstr "వెనక్కి వెళ్ళు"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "వెబ్ సైటు లోడుచేయడాన్ని ఆపు"
+msgstr "వెబ్‌సైటు లోడుచేయడం ఆపివేయి"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -387,7 +387,7 @@ msgstr "మీ హక్కులు"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "ఈ లింకుని వేరొక అనుమర్తనంలో తెరువు"
+msgstr "ఈ లంకెని మరొక అనువర్తనంలో తెరువు"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -416,7 +416,7 @@ msgstr "మీ పరికరంలోని అనువర్తనాల్�
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "ప్రైవేట్ బ్రౌజింగ్ నిష్క్రమించాలా?"
+msgstr "అంతరంగిక విహరణను చాలించాలా?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -440,7 +440,7 @@ msgstr "మీరు %1$s చరిత్రను తీసివేసిన�
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr "ఫైలు దింపుకో"
+msgstr "ఫైలు దింపుకోలు"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -450,7 +450,7 @@ msgstr "రద్దుచేయి"
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr "దింపుకో"
+msgstr "దింపు"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
