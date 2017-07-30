@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-30 10:30+0000\n"
+"PO-Revision-Date: 2017-07-30 10:45+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -39,25 +39,25 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr "స్వయంచాలనంగా బ్రౌజింగ్. బ్రౌజ్ చెయ్యుము. చెరిపి వెయ్యుము. మరల చెయ్యుము."
+msgstr "నిరంతర అంతరంగిక విహారణ. విహరించండి. తుడిచివేయండి. మళ్ళీ మళ్ళీ."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "మీ బ్రౌజింగ్ చరిత్ర చెరిపివెయ్యబడింది."
+msgstr "మీ విహారణ చరిత్ర తుడిచివెయ్యబడింది."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "%1$s కొరకు అన్వేషించు"
+msgstr "%1$s కొరకు వెతకండి"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "పంచండి…"
+msgstr "పంచుకోండి…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -108,13 +108,13 @@ msgstr "మీ హక్కులు"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "ట్రాకర్లు నిరోధించబడినవి"
+msgstr "నిరోధించిన ట్రాకర్లు"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "దీనిద్వారా పంచుక"
+msgstr "దీనిద్వారా పంచుకోండి"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -123,7 +123,7 @@ msgstr "దీనిద్వారా పంచుక"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "విహరణ చరిత్రను తుడిచేయి"
+msgstr "విహరణ చరిత్రను తుడిచివేయి"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -134,28 +134,28 @@ msgstr "తెరువు"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "తుడిచివేసి తెరువు"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr "చెరిపివేయి"
+msgstr "తుడిచివేయి"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "విహరణ చరిత్రను తుడిచేయి"
+msgstr "విహరణ చరిత్రను తుడిచివేయి"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "వ్యక్తిగతంగా శోధించు"
+msgstr "అంతరంగికంగా వెతుకు"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
