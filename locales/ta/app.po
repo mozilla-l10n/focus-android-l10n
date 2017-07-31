@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-08 14:55+0000\n"
-"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
+"PO-Revision-Date: 2017-07-31 02:03+0000\n"
+"Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1499525747.000000\n"
+"X-POOTLE-MTIME: 1501466598.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -83,7 +83,7 @@ msgstr "செயலிகள் மூலம் திற…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "முகப்பு திரைக்கு சேர்"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -135,7 +135,7 @@ msgstr "திற"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "துடைத்து திற"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -250,7 +250,7 @@ msgstr "போரியல்"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "செயலிகளில் மாறும்பொழுது வலைப்பக்கங்களை மறை"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -700,19 +700,19 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "முகப்பு திரைக்கு சேர்"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "சேர்"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து"
 
 #~ msgctxt "preference_privacy_secure_mode_summary"
 #~ msgid ""
