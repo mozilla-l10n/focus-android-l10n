@@ -2,13 +2,12 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-04 07:55+0000\n"
+"PO-Revision-Date: 2017-08-04 08:17+0000\n"
 "Last-Translator: Julen <julenx@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
@@ -18,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1501833303.000000\n"
+"X-POOTLE-MTIME: 1501834673.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -333,66 +332,66 @@ msgstr "Kargatzen"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Webgunea kargatuta"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Aukera gehiago"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Nabigatu aurrera"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Berritu webgunea"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Nabigatu atzera"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Gelditu webgunea kargatzen"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Itzuli aurreko aplikaziora"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Blokeatu jarraipena"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "Itsatsi eta joan"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Zure eskubideak"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Ireki lotura beste aplikazio batean"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -400,13 +399,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "%1$s utz dezakezu lotura hau %2$s aplikazioan irekitzeko."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Bilatu lotura ireki dezakeen aplikazio bat"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -418,24 +417,26 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave "
 "%1$s to search %2$s for an app that can."
 msgstr ""
+"Ez dago lotura hau irekitzeko gai den aplikaziorik zure gailuan. %1$s utz "
+"dezakezu lotura ireki dezaken aplikazio bat %2$s(e)n bilatzeko."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Irten nabigazio pribatutik?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s amaituta"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Ireki"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
@@ -444,34 +445,36 @@ msgctxt "download_dialog_warning"
 msgid ""
 "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
 msgstr ""
+"Deskargatutako fitxategiak <b>ez dira ezabatuko</b> %1$s(r)en historia "
+"ezabatzean."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Deskargatu fitxategia"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Utzi"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Deskargatu"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Arazoa orria kargatzerakoan"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Saiatu berriro"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Ezin da konektatu"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -482,14 +485,20 @@ msgid ""
 "data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Gunea une batez desgaituta edo oso lanpetuta egon daiteke. "
+"Saiatu berriro minutu batzuen buruan.</li>\n"
+"        <li>Ezin baduzu beste orririk kargatu, egiaztatu zure gailu "
+"mugikorraren datu- edo WiFi-konexioa.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Konexioaren denbora-muga gainditu da"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Zerbitzaria ez da aurkitu"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -501,10 +510,17 @@ msgid ""
 "Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Helbidea ondo begiratu mota honetako erroreak ekiditeko:\n"
+"          <strong>ww</strong>.adibidea.eus \n"
+"          <strong>www</strong>.adibidea.eus-en ordez</li>\n"
+"        <li>Ezin baduzu inolako orririk kargatu, begiratu zure gailuaren "
+"datu- edo WiFi-konexioa.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Helbidea ez da baliozkoa"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -515,10 +531,16 @@ msgid ""
 "</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Web helbideak normalean <strong>http://www.adibidea.eus/</strong> "
+"formatukoak dira</li>\n"
+"  <li>Ziurtatu aurrerako barrak erabiltzen dituzula (hau da, <strong>/</"
+"strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Orriak ez du birbideraketa ondo egiten"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -527,10 +549,14 @@ msgid ""
 "accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik "
+"izatea.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Ez da helbidea ulertu"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -538,10 +564,14 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko."
+"</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Konexio seguruak huts egin du"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -554,39 +584,45 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Hau zerbitzariaren konfigurazio-errore batengatik edo\n"
+"norbait zerbitzariaren nortasuna hartzen ari delako izan daiteke.</li>\n"
+"  <li>Aurretik zerbitzari honetara behar bezala konektatu bazara, errorea\n"
+"behin-behinekoa izan daiteke eta geroago saia zaitezke.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Iepa"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Ezin dugu orri hau kargatu arrazoi ezezagun batengatik."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Partekatu lotura"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Kopiatu loturaren helbidea"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Partekatu irudia"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Kopiatu irudiaren helbidea"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Gorde irudia"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -596,11 +632,13 @@ msgid ""
 "Saved and shared images <b>will not be deleted</b> when you erase %1$s "
 "history."
 msgstr ""
+"Deskargatutako eta partekatutako irudiak <b>ez dira ezabatuko</b> %1$s(r)en "
+"historia ezabatzean."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Nabigatu inor begira ez balego bezala"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
@@ -609,11 +647,14 @@ msgid ""
 "pages and cookies with a touch to the trash icon in the app or in your "
 "notifications."
 msgstr ""
+"Automatikoki blokeatu jarraipena nabigatu ahala. Ondoren ezabatu "
+"bisitatutako orriak eta cookieak zakarrontziaren ikonoan sakatuz aplikazioan "
+"edo jakinarazpenetan."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Indartu zure pribatutasuna"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus).
@@ -623,6 +664,8 @@ msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing "
 "when you link to the Web from other Android apps."
 msgstr ""
+"Ezarri %1$s zure nabigatzaile lehenetsi gisa eta eskuratu nabigatze "
+"pribatuaren onurak beste Android aplikazioetatik webeko loturak irekitzean."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -630,6 +673,8 @@ msgid ""
 "A quick fix when\n"
 "blocking = breaking"
 msgstr ""
+"Konponbide azkar bat\n"
+"blokeatzeak arazoak dakartzanean"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
@@ -637,39 +682,41 @@ msgid ""
 "When the downside of blocking online trackers is a site that seems broken, "
 "turn off blocking with a tap to the tool menu."
 msgstr ""
+"Jarraipena blokeatzearen eraginez gune batek apurtuta egotea badirudi, "
+"desgaitu blokeoa tresnen menuan sakatuz."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Ulertuta!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Saltatu"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Hurrengoa"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. The title of a dialog we show when the user selected a menu action to add
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Gehitu hasierako pantailan"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Gehitu"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Utzi"
