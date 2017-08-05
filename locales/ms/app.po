@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-28 17:03+0000\n"
-"Last-Translator: manxmensch <manxmensch@gmail.com>\n"
+"PO-Revision-Date: 2017-08-05 05:40+0000\n"
+"Last-Translator: Norman Haikal <normanh876@gmail.com>\n"
 "Language-Team: ms <LL@li.org>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
@@ -41,13 +41,13 @@ msgid ""
 "Browse. Erase. Repeat."
 msgstr ""
 "Pelayaran peribadi automatik.\n"
-"Layar. Padam. Ulang."
+"Layar. Buang. Ulang."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Sejarah pelayaran anda telah dipadam."
+msgstr "Sejarah pelayaran anda telah dibuang."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -125,7 +125,7 @@ msgstr "Kongsi via"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "Padam sejarah pelayaran"
+msgstr "Buang sejarah pelayaran"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -143,14 +143,14 @@ msgstr "Buang dan Buka"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr "Padam"
+msgstr "Buang"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Padam sejarah pelayaran"
+msgstr "Buang sejarah pelayaran"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -312,7 +312,7 @@ msgstr "Abai"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "Padam sejarah pelayaran"
+msgstr "Buang sejarah pelayaran"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
