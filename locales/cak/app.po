@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-12 20:29+0000\n"
+"PO-Revision-Date: 2017-08-12 20:48+0000\n"
 "Last-Translator: ajtzibsyan <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cak\n"
@@ -377,7 +377,7 @@ msgstr "Taq Ach'ojib'al"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Tijaq ximonel pa jun chik chokoy"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -385,13 +385,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Yatikïr yatel %1$s richin najäq re ximonel re' pa %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Tikanöx jun chokoy ri nitikïr nujäq ximonel"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -400,20 +400,20 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Majun chi ke ri taq chokoy k'o pan awokisaxel nitikïr nujäq re ximonel re'. Yatikïr yatel pa %1$s richin %2$s nitikïr jun."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "¿La Nel pa Ichinan Okem pa K'amaya'l?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s k'ison"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
