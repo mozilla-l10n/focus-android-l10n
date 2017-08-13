@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-13 15:31+0000\n"
+"PO-Revision-Date: 2017-08-13 15:50+0000\n"
 "Last-Translator: triki2014jm <triki2014jm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: trs\n"
@@ -403,60 +403,60 @@ msgstr "Nana'uì' 'ngo app ga'ue na'nïn nuguan' nan"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "À' si 'ngo app nikajt a'uej na'nïn enlace nan. Ga'ue gan'anjt riña %1$s da' nana'uì't %2$s guendâ 'ngo app ga ni'ñanj."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Gahui riña aché nu huìt"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s Nga ganahui"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Na'nïn"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Nej sa nadunïnjt <b> Se si nare'èj</b> nga nadurê't %1$s nej sa gi'iát nga gaché nunt."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Nadunïnj archîbo"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Duyichin'"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Nadunïnj"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Hua sa 'iaj chì' guendâ gayi'ìj"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Ginùn huin ñûn"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Na'ue gayi'ìj"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -465,14 +465,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Ga'ue sisi hua rán riña sitiô nan 'ngo diû. Ginùn huin ñân nanâ doj.</li>\n"
+"        <li>sisi huê dan 'iaj daran' chre nej pâjina, ni'aj sisi 'iaj sun hue'ê si gaga't asi hua internet riñanj an.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Ganauij diû hua koneksiôn"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Nu narì'ij serbidor"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -483,6 +487,12 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Ni'iaj si gachrun hue'êt direksiôn\n"
+"          <strong>ww</strong>.example.com lugâ gachrunt\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Sisi huê dan 'ia ngà daran chre pâjina, ni'iaj si 'iaj sun hue'ê si gagâ't asi si hua internet riñanj.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
