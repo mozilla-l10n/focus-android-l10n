@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-13 15:50+0000\n"
+"PO-Revision-Date: 2017-08-13 16:11+0000\n"
 "Last-Translator: triki2014jm <triki2014jm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: trs\n"
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Hua a'nan direksiôn na"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -505,10 +505,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Hua da'aj ni achrûn' 'ngo direksiôn dananj <strong>http://www.example.com/</strong></li>\n"
+"  <li>Ni'iaj hue'ê sisi araj sunt huij chrun li nikïn' nitïn dan ân (i.e. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Nitaj si 'iaj redireksionando hue'ê pajinâ nan"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -516,10 +520,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li> Sañun li nan ni ga'ue si gurugui' le'ej dan guendâ nitaj si ni'ñan sitiô asi rayi'î nej cookies </li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Nu nani'in man direksiôn"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -527,10 +534,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li> Si guruhuaj ni da'uît nadunïnjt a'ngô sa ga'ue na'nïn riña sa gachrûnt nan.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Gire' koneksiôn"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -541,39 +551,43 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Yi'î configurasiôn 'iaj re' nan si guruhuaj, asi hua 'ngo sa huin ruhuâ gatsin riña man.</li>\n"
+"  <li>Sisi a'nïn atuj hue'êt riña serbidor nej diû gachin ni, man si 'iaj akuan' man si guruhuaj, ginùn huin ñûn nana doj.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "'uâ'"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Hua sa 'iaj na'ue gayi'ì pajinâ nan"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Duguachîn enlâse"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Ga'ne lînk da' nachrunt a'ngô hiuj u"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "duguachîn asi dusîjt ñadu'ua"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Guxun' dirección korreo da' nachrun' a'ngô hiuj u"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Dunaj ñadu'ua"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
