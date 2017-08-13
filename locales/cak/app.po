@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-12 23:21+0000\n"
+"PO-Revision-Date: 2017-08-13 10:48+0000\n"
 "Last-Translator: ajtzibsyan <ajtzibsyan@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cak\n"
@@ -430,7 +430,7 @@ msgstr ""
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Tiqasäx Yakb'äl"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -553,7 +553,7 @@ msgstr "Uy."
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Man qetaman ta achike ruma man yojtikïr ta niqasamajij re ruxaq re'."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -573,7 +573,7 @@ msgstr "Tikomonïx wachib'äl"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Tiwachib'ëx ruwachib'al ochochib'äl "
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -585,36 +585,38 @@ msgstr "Tiyak wachib'äl"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Taq wachib'äl eyakon chuqa' ekomonin <b>man xke'elesäx ta</b> toq xtayüj runatab'al ri %1$s."
 
 #. First run tour (page 1): Title
 msgctxt "firstrun_tracking_title"
 msgid "Browse like no one’s watching"
-msgstr ""
+msgstr "Tok pa k'amaya'l achi'el majun nitzu'un pe"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
+"Ruyonil nuq'ät ri ojqanem pa k'amab'ey toq atokinäq pa k'amaya'l. Wakami tapitz'a' pa ruwi' ruwachaj molwuj pa chokoy o pa taq rutzijol richin ke'ayuju' el ri taq ruxaq e'atz'eton chuqa' ri taq "
+"kaxlanwey. "
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Tinimär ruchuq'a' ri awichinem"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Tanuk'ub'ej %1$s achi'el ri awokik'amaya'l k'o wi chuqa' richin naq'i' ri rutzil ichinan okem pa k'amaya'l toq yatok pa Ajk'amaya'l rik'in ch'aq'a' chik Android taq chokoy."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
 msgid ""
 "A quick fix when\n"
 "blocking = breaking"
-msgstr ""
+msgstr "Jun aninäq rusolik k'ayewal toq q'atoj = ruqupik"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
