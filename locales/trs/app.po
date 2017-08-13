@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-13 14:29+0000\n"
+"PO-Revision-Date: 2017-08-13 14:44+0000\n"
 "Last-Translator: triki2014jm <triki2014jm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: trs\n"
@@ -222,14 +222,14 @@ msgstr "Si gâ'nïnt a'ngô nej sa ni'iaj sa 'iát"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "Ga'ue dure'ej da'aj bidêo ni nej pâjina"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Dugumî sa achrûnt"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -239,57 +239,57 @@ msgstr ""
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Nagi'iaj huì nej pâjina si ruhuât garasunt a'ngô app"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "suun"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Nará riña nej yi'nïn' web"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Ga'ue narugui'ìj riña a'ngô ikono"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Si ga'nïnjt gahui imâjen"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Nagi'iaj na gahuin man 'ngo sa garasun yitïnjt"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Ga'nïnj nuguan' arajsun nasinùnjt"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Gini'in doj rayi'î na"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Rayi'î %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Nadure' sa duguatujt"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -297,25 +297,25 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Dunaj man"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Narè' nej nuguan' garajsunt nga ganana'uî't"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Koneksiôn hua hue'ê"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Hìaj ayì'ij"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
