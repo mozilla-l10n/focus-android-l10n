@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-07-20 20:54+0000\n"
+"PO-Revision-Date: 2017-08-13 17:46+0000\n"
 "Last-Translator: Enol <enolp@softastur.org>\n"
-"Language: ast\n"
 "Language-Team: ast <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
+"Language: ast\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -83,7 +84,7 @@ msgstr "Abrir con…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Amestar a la pantalla d'aniciu"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -135,7 +136,7 @@ msgstr "Abrir"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "Desaniciar y abrir"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -167,12 +168,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 
@@ -255,7 +254,6 @@ msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
 msgstr ""
 
-#, fuzzy
 msgctxt "preference_performance_block_images"
 msgid "Block images"
 msgstr "Bloquiar imáxenes"
@@ -403,9 +401,7 @@ msgstr "Alcuentra una aplicación que puea abrir l'enllaz"
 #. Google Play).
 #, c-format, fuzzy
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr ""
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -431,9 +427,7 @@ msgstr "Abrir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Los ficheros baxaos <b> nun se desaniciarán</b> cuando desanicies el to "
-"historial de %1$s."
+msgstr "Los ficheros baxaos <b> nun se desaniciarán</b> cuando desanicies el to historial de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -466,10 +460,8 @@ msgstr "Nun pue coneutase"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -487,8 +479,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -499,10 +490,8 @@ msgstr "La direición nun ye válida"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 
@@ -513,8 +502,7 @@ msgstr "La páxina nun ta redirixendo afayadizamente"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -525,8 +513,7 @@ msgstr "Nun s'entendió la direición"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -537,11 +524,9 @@ msgstr "Falló la conexón segura"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -583,9 +568,7 @@ msgstr "Guardar imaxe"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr ""
 
 #. First run tour (page 1): Title
@@ -595,14 +578,9 @@ msgstr "Restola ensin que naide te mire"
 
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited"
-" pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
+msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
 msgstr ""
-"Bloquia automáticamente los rastrexadores en llinia entrín restoles. "
-"Dempués desanicia les páxines visitaes y les cookies con un toque nel "
-"iconu de la papelera dientro l'aplicación o nos tos avisos."
+"Bloquia automáticamente los rastrexadores en llinia entrín restoles. Dempués desanicia les páxines visitaes y les cookies con un toque nel iconu de la papelera dientro l'aplicación o nos tos avisos."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -613,13 +591,8 @@ msgstr "Potencia la to privacidá"
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you link to the Web from other Android apps."
-msgstr ""
-"Afita %1$s como'l to restolador por defeutu y consigui los beneficios de "
-"restolar en privao cuando te coneutes a la web con otres aplicaciones "
-"d'Android."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
+msgstr "Afita %1$s como'l to restolador por defeutu y consigui los beneficios de restolar en privao cuando te coneutes a la web con otres aplicaciones d'Android."
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
@@ -632,12 +605,8 @@ msgstr ""
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
-msgid ""
-"When the downside of blocking online trackers is a site that seems "
-"broken, turn off blocking with a tap to the tool menu."
-msgstr ""
-"La parte mala de bloquiar rastrexadores en llinia ye qu'un sitiu pue "
-"romper, desactiva'l bloquéu con un toque nel menú de ferramientes."
+msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
+msgstr "La parte mala de bloquiar rastrexadores en llinia ye qu'un sitiu pue romper, desactiva'l bloquéu con un toque nel menú de ferramientes."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -661,17 +630,16 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Amestar a la pantalla d'aniciu"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Amestar"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
-
+msgstr "Encaboxar"
