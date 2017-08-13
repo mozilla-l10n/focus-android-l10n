@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-13 14:09+0000\n"
+"PO-Revision-Date: 2017-08-13 14:29+0000\n"
 "Last-Translator: triki2014jm <triki2014jm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: trs\n"
@@ -172,50 +172,53 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s narikij kontrol riñat.</p> <p>garasun da' gache nu huìt: <ul> <li>Nana'uì' ni gache nunt ne' huà't ngà app</li> <li>Narràn riña blokeador (si nitaj ni guij nagi'iaj da' ga'ue ga'nïnt gi'iaj "
+"sun man)</li> <li>nadure' da' narè' cookies danj nanj nej nuguan' gachrûnt nga gaché nunt</li> </ul> </p> <p>%1$s Sa giri Mozilla huin.  Chrej nikò' ñûnj huin sisi ga ni'nïnj ni dugumin internet "
+"sò'.<br/> <a href=\"%2$s\">Gini'in doj rayi'î nuguan' na</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Nana'uì'"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Ngà hua niñanj"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Nânj (nuguan')"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Sistema ngà hua niñaa"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Riña nana'uì' yitïnjt"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Nitaj à'go ni'iaj sò'"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Si gâ'nïnjt nej anûnsio"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Si gâ'nïnjt nej blokeador analítiko"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Si gâ'nïnjt nej blokeador sosial"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Si gâ'nïnt a'ngô nej sa ni'iaj sa 'iát"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
