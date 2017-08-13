@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-07-28 15:31+0200\n"
-"PO-Revision-Date: 2017-08-13 16:13+0000\n"
+"PO-Revision-Date: 2017-08-13 16:46+0000\n"
 "Last-Translator: triki2014jm <triki2014jm@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: trs\n"
@@ -604,64 +604,64 @@ msgstr "Gache nû dadin' nitaj à' si 'ngo ni'iaj si 'iát"
 #. First run tour (page 1): Text
 msgctxt "firstrun_tracking_text"
 msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr ""
+msgstr "Narán ma'an ma riña sa naga'naj sò' nga aché nunt. Hìaj ni nadurê't nej pajîna gini'iajt ni nej cookies sisi man si guruman ra'ât riña ikonô ñanj re'e asi riña nej notifikasiûn."
 
 #. First run tour (page 2): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Nagi'iaj nukuaj riña gache nun 'ngorïnt"
 
 #. First run tour (page 2): Text, %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus).
 #, c-format
 msgctxt "firstrun_defaultbrowser_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr ""
+msgstr "Sa %1$s Gahuin 'ngo nabegador garasun yitïnjt ni girì' sununjt 'ngo sa ruguñu'unj gache nu huìt, nga gi'iaj bingulandôt web nan ngà a'ngô nej app Android. "
 
 #. First run tour (page 3): Title
 msgctxt "firstrun_breaking_title"
 msgid ""
 "A quick fix when\n"
 "blocking = breaking"
-msgstr ""
+msgstr "'Ngo chre hiò doj da' gi'aj blokeandôt = dure'"
 
 #. First run tour (page 3): Text
 msgctxt "firstrun_breaking_text"
 msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr ""
+msgstr "Nga 'aj blokenadnô' ni 'ngo dure'ej 'ngo sîtio ni, gi'aj desakatibandô sa gu'naj blokeo, 'na' riña herramientas."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Ngà nikà man an!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Si gi'iaj guendât"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Ne' ñaan"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. The title of a dialog we show when the user selected a menu action to add
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Nachrun ma riña pantâya "
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Nutà'"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Duyichin'"
