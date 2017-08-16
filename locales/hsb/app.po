@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-16 20:10+0000\n"
+"PO-Revision-Date: 2017-08-16 20:14+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: hsb <LL@li.org>\n"
 "Language: hsb\n"
@@ -672,7 +672,7 @@ msgstr "Přiwučće sej priwatnosć"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Nastajće %1$s jako swój standardny wobhladowak a zwužitkujće priwatne přehladowanje, hdyž webstrony z druhich nałoženjow wočinjeće."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -716,7 +716,7 @@ msgstr "Přetorhnyć"
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "Wotkaz we wubranym rajtarku wočinić"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -724,4 +724,4 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Wočinić"
