@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-28 15:31+0200\n"
+"POT-Creation-Date: 2017-08-16 13:49+0200\n"
 "PO-Revision-Date: 2017-07-28 17:00+0000\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
-"Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -168,10 +167,12 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s ではあなたがすべてをコントロールできます。</p>\n"
@@ -314,6 +315,26 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "閲覧履歴を消去"
 
+#. Content description (not visible, for screen readers etc.): A floating
+#. action button that       is shown on top of the web content. Clicking the
+#. button shows (expands) the menu for switching       tabs, adding a new tab
+#. or erasing the browsing history.
+msgctxt "content_description_fab_expand"
+msgid "Expand"
+msgstr ""
+
+#. Description of the "+" button used to open a new temporary tab ("open" is a
+#. verb), not displayed and read only by screenreaders.
+msgctxt "content_description_open_tab"
+msgid "Open tab"
+msgstr ""
+
+#. Description of the "X" button used to close a new temporary tab ("close" is
+#. a verb), not displayed and read only by screenreaders.
+msgctxt "content_description_close_tab"
+msgid "Close tab"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
@@ -411,7 +432,9 @@ msgstr "リンクを開けるアプリを探す"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr "お使いの端末にはこのリンクを開けるアプリがありません。%1$s を離れて、開けるアプリを %2$s で探すことができます。"
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -470,12 +493,16 @@ msgstr "正常に接続できませんでした"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。</li>\n"
+"        "
+"<li>このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。</li>"
+"\n"
 "        <li>他のサイトも表示できない場合、デバイスのデータ接続や Wi-Fi 接続を確認してください。</li>\n"
 "      </ul>"
 
@@ -493,7 +520,8 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -510,13 +538,17 @@ msgstr "アドレスの書式が正しくありません"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ウェブのアドレスは通常 <strong>http://www.example.com/</strong> のようなものになります。</li>\n"
-"  <li>円記号やバックスラッシュ (<strong>\\</strong>) ではなく、スラッシュ (<strong>/</strong>) が使われているか確認してください。</li>\n"
+"  <li>ウェブのアドレスは通常 <strong>http://www.example.com/</strong> "
+"のようなものになります。</li>\n"
+"  <li>円記号やバックスラッシュ (<strong>\\</strong>) ではなく、スラッシュ (<strong>/</strong>) "
+"が使われているか確認してください。</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -526,7 +558,8 @@ msgstr "ページの自動転送設定が正しくありません"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -540,7 +573,8 @@ msgstr "アドレスのプロトコルが不明です"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -554,9 +588,11 @@ msgstr "安全な接続ができませんでした"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -598,48 +634,71 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "画像を保存"
 
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr "保存、共有された画像は %1$s の履歴を消去しても <b>削除されません</b>。"
 
-#. First run tour (page 1): Title
-msgctxt "firstrun_tracking_title"
-msgid "Browse like no one’s watching"
-msgstr "誰にも監視されないブラウジング"
-
-#. First run tour (page 1): Text
-msgctxt "firstrun_tracking_text"
-msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr "ブラウジング中のオンライン追跡を自動的にブロック。後から、アプリ内あるいは通知内のゴミ箱アイコンをタップするだけで、訪れたページや Cookie を削除できます。"
-
-#. First run tour (page 2): Title
+#. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr "プライバシーを強化"
 
-#. First run tour (page 2): Text, %1$s will be replaced with the name of the
-#. app (e.g. Firefox Focus).
-#, c-format
-msgctxt "firstrun_defaultbrowser_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr "%1$s を既定のブラウザーに設定して、他の Android アプリからウェブへのリンクを辿ったときに、プライベートブラウジングの恩恵を受けましょう。"
-
-#. First run tour (page 3): Title
-msgctxt "firstrun_breaking_title"
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
 msgid ""
-"A quick fix when\n"
-"blocking = breaking"
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
 msgstr ""
-"ブロックによって正常に表示\n"
-"されない場合は素早く修正"
 
-#. First run tour (page 3): Text
-msgctxt "firstrun_breaking_text"
-msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "オンライン追跡のブロックによってサイトが正常に動作していないと思われる場合には、ツールメニューをタップしてブロックを無効化できます。"
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_shortcut_text"
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
+msgstr ""
+
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -676,3 +735,20 @@ msgstr "追加"
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "キャンセル"
+
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the title of the dialog where the user
+#. selects a tab to replace with the          new URL.
+msgctxt "dialog_opentab_title"
+msgid "Open link in selected tab"
+msgstr ""
+
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the label of the action/button to open
+#. the new link in the selected           existing tab.
+msgctxt "dialog_opentab_action_open"
+msgid "Open"
+msgstr ""
+
