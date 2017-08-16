@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# Catalan translations for PROJECT.
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
@@ -6,18 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-28 15:31+0200\n"
+"POT-Creation-Date: 2017-08-16 13:49+0200\n"
 "PO-Revision-Date: 2017-07-30 10:05+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
+"Language-Team: ca <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1501409137.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -101,7 +99,6 @@ msgctxt "menu_rights"
 msgid "Your Rights"
 msgstr "Els vostres drets"
 
-# Per restricció d'espai - jordis
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
 #. blocked trackers is shown below this label.          Next to this label is a
@@ -168,7 +165,8 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
@@ -181,11 +179,12 @@ msgstr ""
 "    <li>Cercar i navegar directament des de l'aplicació</li>\n"
 "    <li>Blocar els elements de seguiment (o canviar els paràmetres per "
 "permetre'ls)</li>\n"
-"    <li>Esborrar les galetes i l'historial de cerques i de navegació</li>\n"
+"    <li>Esborrar les galetes i l'historial de cerques i de navegació</li>"
+"\n"
 "  </ul>\n"
 "</p>\n"
-"<p>El %1$s està creat per Mozilla. La nostra missió és fomentar un Internet "
-"obert i saludable.<br/>\n"
+"<p>El %1$s està creat per Mozilla. La nostra missió és fomentar un "
+"Internet obert i saludable.<br/>\n"
 "<a href=\"%2$s\">Més informació</a></p>"
 
 msgctxt "preference_category_search"
@@ -317,6 +316,26 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "Esborra l'historial de navegació"
 
+#. Content description (not visible, for screen readers etc.): A floating
+#. action button that       is shown on top of the web content. Clicking the
+#. button shows (expands) the menu for switching       tabs, adding a new tab
+#. or erasing the browsing history.
+msgctxt "content_description_fab_expand"
+msgid "Expand"
+msgstr ""
+
+#. Description of the "+" button used to open a new temporary tab ("open" is a
+#. verb), not displayed and read only by screenreaders.
+msgctxt "content_description_open_tab"
+msgid "Open tab"
+msgstr ""
+
+#. Description of the "X" button used to close a new temporary tab ("close" is
+#. a verb), not displayed and read only by screenreaders.
+msgctxt "content_description_close_tab"
+msgid "Close tab"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
@@ -415,11 +434,12 @@ msgstr "Cerca una aplicació que pugui obrir aquest enllaç"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. You can leave "
-"%1$s to search %2$s for an app that can."
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr ""
-"No hi ha cap aplicació en el dispositiu que pugui obrir aquest enllaç. Podeu "
-"sortir del %1$s per cercar al %2$s una aplicació que pugui obrir-lo."
+"No hi ha cap aplicació en el dispositiu que pugui obrir aquest enllaç. "
+"Podeu sortir del %1$s per cercar al %2$s una aplicació que pugui obrir-"
+"lo."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -443,11 +463,10 @@ msgstr "Obre"
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
-msgid ""
-"Downloaded files <b>will not be deleted</b> when you erase %1$s history."
+msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
 msgstr ""
-"Els fitxers que baixeu <b>no s'eliminaran</b> quan esborreu l'historial del "
-"%1$s."
+"Els fitxers que baixeu <b>no s'eliminaran</b> quan esborreu l'historial "
+"del %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -480,17 +499,17 @@ msgstr "No s'ha pogut connectar"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again "
-"in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s "
-"data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>El lloc web podria estar temporalment no disponible o massa "
 "ocupat. Torneu-ho a provar d'aquí uns moments.</li>\n"
-"        <li>Si no podeu carregar cap pàgina, comproveu la connexió de dades "
-"o Wi-Fi del vostre dispositiu mòbil.</li>\n"
+"        <li>Si no podeu carregar cap pàgina, comproveu la connexió de "
+"dades o Wi-Fi del vostre dispositiu mòbil.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -507,17 +526,17 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or "
-"Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Comproveu que no s'hagin introduït errors en teclejar l'adreça, "
-"p. ex.\n"
+"        <li>Comproveu que no s'hagin introduït errors en teclejar "
+"l'adreça, p. ex.\n"
 "          <strong>ww</strong>.example.com en comptes de\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Si no podeu carregar cap pàgina, comproveu la connexió de dades "
-"o Wi-Fi del vostre dispositiu.</li>\n"
+"        <li>Si no podeu carregar cap pàgina, comproveu la connexió de "
+"dades o Wi-Fi del vostre dispositiu.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -527,17 +546,17 @@ msgstr "L'adreça no és vàlida"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/"
-"</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>)."
-"</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Les adreces web normalment s'escriuen així: <strong>http://www.example."
-"com/</strong></li>\n"
-"  <li>Assegureu-vos que utilitzeu les barres inclinades (<strong>/</strong>)."
-"</li>\n"
+"  <li>Les adreces web normalment s'escriuen així: "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Assegureu-vos que utilitzeu les barres inclinades "
+"(<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -563,12 +582,13 @@ msgstr "No s'ha entès l'adreça"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Pot ser que calgui que instal·leu altre programari per obrir l'adreça."
-"</li>\n"
+"  <li>Pot ser que calgui que instal·leu altre programari per obrir "
+"l'adreça.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -578,8 +598,8 @@ msgstr "Ha fallat la connexió segura"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could "
-"be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
 "  <li>If you have connected to this server successfully in the past, the "
 "error may\n"
@@ -589,8 +609,8 @@ msgstr ""
 "<ul>\n"
 "  <li>Això podria ser un problema amb la configuració del servidor, o bé "
 "podria ser que algú estigués intentant fer-se passar pel servidor.</li>\n"
-"  <li>Si us hi heu connectat sense cap problema alguna altra vegada, l'error "
-"podria ser temporal i podeu tornar-ho a provar més tard.</li>\n"
+"  <li>Si us hi heu connectat sense cap problema alguna altra vegada, "
+"l'error podria ser temporal i podeu tornar-ho a provar més tard.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -626,6 +646,11 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "Desa la imatge"
 
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
@@ -637,55 +662,57 @@ msgstr ""
 "Les imatges que deseu i compartiu <b>no s'eliminaran</b> quan esborreu "
 "l'historial del %1$s."
 
-#. First run tour (page 1): Title
-msgctxt "firstrun_tracking_title"
-msgid "Browse like no one’s watching"
-msgstr "Navegueu sense sentir-vos observat"
-
-#. First run tour (page 1): Text
-msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited "
-"pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
-msgstr ""
-"Bloqueu automàticament els elements que us fan el seguiment mentre navegueu. "
-"Elimineu les pàgines visitades i les galetes tocant la icona de paperera a "
-"l'aplicació o a les notificacions."
-
-#. First run tour (page 2): Title
+#. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr "Potencieu la privadesa"
 
-#. First run tour (page 2): Text, %1$s will be replaced with the name of the
-#. app (e.g. Firefox Focus).
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
 #, c-format
-msgctxt "firstrun_defaultbrowser_text"
+msgctxt "firstrun_shortcut_text"
 msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing "
-"when you link to the Web from other Android apps."
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
 msgstr ""
-"Definiu el %1$s com a navegador per defecte i gaudiu d'una navegació privada "
-"quan obriu enllaços web des d'altres aplicacions de l'Android."
 
-#. First run tour (page 3): Title
-msgctxt "firstrun_breaking_title"
-msgid ""
-"A quick fix when\n"
-"blocking = breaking"
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
 msgstr ""
-"Una solució ràpida si el\n"
-"bloqueig causa problemes"
 
-#. First run tour (page 3): Text
-msgctxt "firstrun_breaking_text"
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
 msgid ""
-"When the downside of blocking online trackers is a site that seems broken, "
-"turn off blocking with a tap to the tool menu."
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
 msgstr ""
-"Si us sembla que un lloc no funciona bé per haver blocat els elements de "
-"seguiment, desactiveu el bloqueig amb un sol toc al menú d'eines."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -723,57 +750,19 @@ msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "Cancel·la"
 
-#~ msgctxt "preference_privacy_secure_mode_summary"
-#~ msgid ""
-#~ "Turn off stealth mode to take screenshots and see sites you’ve visited "
-#~ "using %1$s in your Recent Apps list"
-#~ msgstr ""
-#~ "Desactiveu el mode invisible per fer captures de pantalla i veure els "
-#~ "llocs que heu visitat amb el %1$s a la llista d'aplicacions recents"
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the title of the dialog where the user
+#. selects a tab to replace with the          new URL.
+msgctxt "dialog_opentab_title"
+msgid "Open link in selected tab"
+msgstr ""
 
-#~ msgctxt "text_selection_search_action"
-#~ msgid "Private Search"
-#~ msgstr "Cerca privada"
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the label of the action/button to open
+#. the new link in the selected           existing tab.
+msgctxt "dialog_opentab_action_open"
+msgid "Open"
+msgstr ""
 
-#~ msgctxt "firstrun_title"
-#~ msgid "Browse like no one’s watching."
-#~ msgstr "Navegueu sense sentir-vos observat."
-
-#~ msgctxt "firstrun_description"
-#~ msgid ""
-#~ "Automatically block online trackers while you browse. Then tap to erase "
-#~ "visited pages, searches, cookies and passwords from your device."
-#~ msgstr ""
-#~ "Bloqueu automàticament els elements que us fan el seguiment mentre "
-#~ "navegueu. Esborreu amb un sol toc les pàgines visitades, cerques, galetes "
-#~ "i contrasenyes del dispositiu."
-
-#~ msgctxt "firstrun_button"
-#~ msgid "OK, got it!"
-#~ msgstr "Entesos"
-
-#~ msgctxt "firstrun_footer"
-#~ msgid ""
-#~ "To be clear, sites and services you use can still know where you've been."
-#~ msgstr ""
-#~ "Tingueu en compte que els serveis i els llocs web que utilitzeu poden "
-#~ "saber igualment on heu estat."
-
-#~ msgctxt "firstrun_footer"
-#~ msgid ""
-#~ "To be clear, sites and service you use can still know where you've been."
-#~ msgstr ""
-#~ "Tingueu en compte que els serveis i els llocs web que utilitzeu poden "
-#~ "saber igualment on heu estat."
-
-#~ msgctxt "firstrun_button"
-#~ msgid "Ok, got it!"
-#~ msgstr "Entesos"
-
-#~ msgctxt "external_app_prompt"
-#~ msgid "This link will open in %2$s. Are you sure you want to exit %1$s?"
-#~ msgstr "Aquest enllaç s'obrirà al %2$s. Segur que voleu sortir del %1$s?"
-
-#~ msgctxt "preference_performance_block_images"
-#~ msgid "Block Images"
-#~ msgstr "Bloqueja les imatges"
