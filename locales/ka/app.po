@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-16 16:51+0000\n"
+"PO-Revision-Date: 2017-08-16 17:09+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -655,26 +655,26 @@ msgstr "რამე განსხვავებულს ეძებთ? �
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "მალსახმობების დამატება მთავარ ეკრანზე"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s-ის დახმარებით, სწრაფად შეგიძლიათ დაუბრუნდეთ რჩეულ საიტებს. უბრალოდ, მიუთითეთ \"მთავარ ეკრანზე დამატება\", %1$s-ის მენიუდან."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "ჩვევად აქციეთ პირადულობის დაცვა"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "დააყენეთ %1$s ნაგულისხმევ ბრაუზერად და ისარგებლეთ პირადულობის დაცვით, სხვა პროგრამებიდან ბმულებზე გადასვლის დროსაც."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -718,7 +718,7 @@ msgstr "გაუქმება"
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "ბმულის გახსნა მითითებულ ჩანართში"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -726,4 +726,4 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "გახსნა"
