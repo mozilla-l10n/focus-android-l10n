@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-07-31 14:33+0000\n"
+"PO-Revision-Date: 2017-08-16 14:04+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
-"Language: ka\n"
 "Language-Team: ka <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -167,26 +168,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s სრულად გიბრუნებთ მართვის სადავეებს.</p>\n"
 "<p>გამოიყენეთ როგორც პირადი ბრაუზერი:\n"
 "  <ul>\n"
 "    <li>მოძებნეთ და დაათვალიერეთ გვერდები</li>\n"
-"    <li>შეზღუდეთ მეთვალყურე ელემენტები (პარამეტრებიდან დაშვებაც "
-"შეიძლება)</li>\n"
-"    <li>გაასუფთავეთ და წაშალეთ ფუნთუშები, ძიების და თვალიერების "
-"ისტორია</li>\n"
+"    <li>შეზღუდეთ მეთვალყურე ელემენტები (პარამეტრებიდან დაშვებაც შეიძლება)</li>\n"
+"    <li>გაასუფთავეთ და წაშალეთ ფუნთუშები, ძიების და თვალიერების ისტორია</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s შექმნილია Mozilla-ს მიერ. ჩვენი მიზანი, ინტერნეტის გახსნილობა და "
-"სიჯანსაღეა.<br/>\n"
+"<p>%1$s შექმნილია Mozilla-ს მიერ. ჩვენი მიზანი, ინტერნეტის გახსნილობა და სიჯანსაღეა.<br/>\n"
 "<a href=\"%2$s\">შეიტყვეთ მეტი</a></p>"
 
 msgctxt "preference_category_search"
@@ -324,19 +320,19 @@ msgstr "ისტორიის წაშლა"
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "გაშლა"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "ჩანართის გახსნა"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "ჩანართის დახურვა"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -435,12 +431,8 @@ msgstr "პროგრამის მოძიება, რომელიც
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"თქვენს მოწყობილობაზე არსებულ არცერთ პროგრამას არ შეუძლია ამ ბმულის "
-"გახსნა. შეგიძლიათ დატოვოთ %1$s საჭირო პროგრამის %2$s-ში მოსაძიებლად."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "თქვენს მოწყობილობაზე არსებულ არცერთ პროგრამას არ შეუძლია ამ ბმულის გახსნა. შეგიძლიათ დატოვოთ %1$s საჭირო პროგრამის %2$s-ში მოსაძიებლად."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -498,17 +490,13 @@ msgstr "დაკავშირება ვერ ხერხდება"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ეს საიტი შესაძლოა დროებით მიუწვდომელია ან ძალიან დატვირთულია."
-" სცადეთ ხელახლა რამდენიმე წუთში.</li>\n"
-"        <li>თუ სხვა საიტების გახსნასაც ვერ ახერხებთ, მაშინ შეამოწმეთ "
-"მოწყობილობის მობილური ან Wi-Fi კავშირი.</li>\n"
+"        <li>ეს საიტი შესაძლოა დროებით მიუწვდომელია ან ძალიან დატვირთულია. სცადეთ ხელახლა რამდენიმე წუთში.</li>\n"
+"        <li>თუ სხვა საიტების გახსნასაც ვერ ახერხებთ, მაშინ შეამოწმეთ მოწყობილობის მობილური ან Wi-Fi კავშირი.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -525,16 +513,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>შეამოწმეთ აკრეფილი მისამართის სისწორე. მაგალითად\n"
 "          <strong>ww</strong>.example.com-ის ნაცვლად უნდა იყოს\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>თუ ვერცერთი საიტის გახსნას ვერ ახერხებთ, შეამოწმეთ "
-"მოწყობილობის მობილურ, ან Wi-Fi ინტერნეტთან კავშირი.</li>\n"
+"        <li>თუ ვერცერთი საიტის გახსნას ვერ ახერხებთ, შეამოწმეთ მოწყობილობის მობილურ, ან Wi-Fi ინტერნეტთან კავშირი.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -544,17 +530,13 @@ msgstr "მისამართი არასწორია"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>საიტის მისამართები, ჩვეულებრივ, ასე იწერება "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>დარწმუნდით, რომ წინ გადახრილ ხაზებს იყენებთ (ასეთს: "
-"<strong>/</strong>).</li>\n"
+"  <li>საიტის მისამართები, ჩვეულებრივ, ასე იწერება <strong>http://www.example.com/</strong></li>\n"
+"  <li>დარწმუნდით, რომ წინ გადახრილ ხაზებს იყენებთ (ასეთს: <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -564,8 +546,7 @@ msgstr "ეს გვერდი არამართებულად გა
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -579,13 +560,11 @@ msgstr "მისამართის გაუგებარია"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ამ ბმულის გასახსნელად, სავარაუდოდ, სხვა პროგრამის დაყენებაა "
-"საჭირო.</li>\n"
+"  <li>ამ ბმულის გასახსნელად, სავარაუდოდ, სხვა პროგრამის დაყენებაა საჭირო.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -595,11 +574,9 @@ msgstr "უსაფრთხო დაკავშირება ვერ მ
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -646,18 +623,14 @@ msgstr "სურათის შენახვა"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "ბმულის ახალ ჩანართში გახსნა"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"შენახული და გაზიარებული სურათები <b>არ წაიშლება</b> %1$s-ის ისტორიის "
-"გასუფთავებისას."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "შენახული და გაზიარებული სურათები <b>არ წაიშლება</b> %1$s-ის ისტორიის გასუფთავებისას."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -666,9 +639,7 @@ msgstr "გააძლიერეთ პირადი მონაცემ�
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -678,9 +649,7 @@ msgstr ""
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr ""
 
 #. First run tour (Shortcut): Title
@@ -692,9 +661,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -706,9 +673,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -762,4 +727,3 @@ msgstr ""
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
 msgstr ""
-
