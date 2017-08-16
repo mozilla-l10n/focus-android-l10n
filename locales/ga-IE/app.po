@@ -1,24 +1,22 @@
-# Translations template for PROJECT.
+# Irish (Ireland) translations for PACKAGE.
 # Copyright (C) 2017 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
+# This file is distributed under the same license as the PACKAGE project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-28 15:31+0200\n"
+"POT-Creation-Date: 2017-08-16 13:49+0200\n"
 "PO-Revision-Date: 2017-07-28 17:03+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ga_IE\n"
+"Language-Team: ga_IE <LL@li.org>\n"
+"Plural-Forms: nplurals=5; plural=(((n >= 3 && n <= 6)) ? 2 : ((n >= 7 && "
+"n <= 10)) ? 3 : ((n == 1)) ? 0 : ((n == 2)) ? 1 : 4)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :(n>"
-"6 && n<11) ? 3 : 4;;\n"
-"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1501261412.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -185,8 +183,8 @@ msgstr ""
 "bhrabhsála</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon bríomhar "
-"oscailte a chothú.<br/>\n"
+"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon "
+"bríomhar oscailte a chothú.<br/>\n"
 "<a href=\"%2$s\">Tuilleadh eolais</a></p>"
 
 msgctxt "preference_category_search"
@@ -318,6 +316,26 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "Glan an stair bhrabhsála"
 
+#. Content description (not visible, for screen readers etc.): A floating
+#. action button that       is shown on top of the web content. Clicking the
+#. button shows (expands) the menu for switching       tabs, adding a new tab
+#. or erasing the browsing history.
+msgctxt "content_description_fab_expand"
+msgid "Expand"
+msgstr ""
+
+#. Description of the "+" button used to open a new temporary tab ("open" is a
+#. verb), not displayed and read only by screenreaders.
+msgctxt "content_description_open_tab"
+msgid "Open tab"
+msgstr ""
+
+#. Description of the "X" button used to close a new temporary tab ("close" is
+#. a verb), not displayed and read only by screenreaders.
+msgctxt "content_description_close_tab"
+msgid "Close tab"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
@@ -419,8 +437,8 @@ msgid ""
 "None of the apps on your device are able to open this link. You can leave"
 " %1$s to search %2$s for an app that can."
 msgstr ""
-"Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat %1$"
-"s a fhágáil chun aip oiriúnach a lorg in %2$s."
+"Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat"
+" %1$s a fhágáil chun aip oiriúnach a lorg in %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -445,8 +463,7 @@ msgstr "Oscail"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"<b>Ní scriostar</b> comhaid íoslódáilte nuair a scriosann tú stair %1$s."
+msgstr "<b>Ní scriostar</b> comhaid íoslódáilte nuair a scriosann tú stair %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -514,8 +531,8 @@ msgstr ""
 "        <li>Scrúdaigh an seoladh le haghaidh botún cosúil le\n"
 "          <strong>ww</strong>.example.com in áit\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan seiceáil "
-"ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
+"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan "
+"seiceáil ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -534,7 +551,8 @@ msgstr ""
 "<ul>\n"
 "  <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo "
 "<strong>http://www.example.com/</strong></li>\n"
-"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>\n"
+"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -565,8 +583,8 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo "
-"a oscailt.</li>\n"
+"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh "
+"seo a oscailt.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -585,10 +603,11 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'"
-"fhéidir\n"
+"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó "
+"b'fhéidir\n"
 "go bhfuil duine éigin ag déanamh aithrise ar an bhfreastalaí.</li>\n"
-"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, b'fhéidir\n"
+"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, "
+"b'fhéidir\n"
 "gur fadhb shealadach í agus gur féidir leat iarracht a dhéanamh níos "
 "déanaí.</li>\n"
 "</ul>"
@@ -626,6 +645,11 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "Sábháil an íomhá"
 
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
@@ -634,60 +658,60 @@ msgid ""
 "Saved and shared images <b>will not be deleted</b> when you erase %1$s "
 "history."
 msgstr ""
-"<b>Ní scriosfar</b> íomhánna sábháilte nó comhroinnte nuair a scriosann tú "
-"stair %1$s."
+"<b>Ní scriosfar</b> íomhánna sábháilte nó comhroinnte nuair a scriosann "
+"tú stair %1$s."
 
-#. First run tour (page 1): Title
-msgctxt "firstrun_tracking_title"
-msgid "Browse like no one’s watching"
-msgstr "Brabhsáil i leith is nach bhfuil éinne ag cúlchoimhéad ort"
-
-#. First run tour (page 1): Text
-msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited"
-" pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
-msgstr ""
-"Blocáil lorgairí go huathoibríoch le linn brabhsála. Ansin tapáil an "
-"deilbhín bruscair san aip nó i do chuid fógraí chun fianáin agus na "
-"leathanaigh ar thug tú cuairt orthu a scriosadh."
-
-#. First run tour (page 2): Title
+#. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr "Príobháideachas praiticiúil proifisiúnta"
 
-#. First run tour (page 2): Text, %1$s will be replaced with the name of the
-#. app (e.g. Firefox Focus).
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
 #, c-format
-msgctxt "firstrun_defaultbrowser_text"
+msgctxt "firstrun_shortcut_text"
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
+msgstr ""
+
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
 msgid ""
 "Set %1$s as your default browser and get the benefits of private browsing"
-" when you link to the Web from other Android apps."
+" when you open webpages from other apps."
 msgstr ""
-"Socraigh %1$s mar do bhrabhsálaí réamhshocraithe agus bain tairbhe as "
-"brabhsáil phríobháideach nuair a théann tú ar an nGréasán ó aipeanna eile "
-"Android."
-
-#. First run tour (page 3): Title
-msgctxt "firstrun_breaking_title"
-msgid ""
-"A quick fix when\n"
-"blocking = breaking"
-msgstr ""
-"Réiteach tapa nuair is ionann\n"
-"blocáilte agus briste"
-
-#. First run tour (page 3): Text
-msgctxt "firstrun_breaking_text"
-msgid ""
-"When the downside of blocking online trackers is a site that seems "
-"broken, turn off blocking with a tap to the tool menu."
-msgstr ""
-"Uaireanta, ní fheidhmíonn suímh mar is ceart mar gheall ar lorgairí ar líne "
-"a bhlocáil. Is féidir leat blocáil a mhúchadh le tap amháin ar roghchlár na "
-"n-uirlisí."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -725,38 +749,19 @@ msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "Cealaigh"
 
-#, c-format
-#~ msgctxt "preference_privacy_secure_mode_summary"
-#~ msgid ""
-#~ "Turn off stealth mode to take screenshots and see sites you’ve visited "
-#~ "using %1$s in your Recent Apps list"
-#~ msgstr ""
-#~ "Múch an mód rúnda chun pictiúir a thógáil de na suímh a thugann tú cuairt "
-#~ "orthu in %1$s sna hAipeanna is déanaí"
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the title of the dialog where the user
+#. selects a tab to replace with the          new URL.
+msgctxt "dialog_opentab_title"
+msgid "Open link in selected tab"
+msgstr ""
 
-#~ msgctxt "text_selection_search_action"
-#~ msgid "Private Search"
-#~ msgstr "Cuardach Príobháideach"
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the label of the action/button to open
+#. the new link in the selected           existing tab.
+msgctxt "dialog_opentab_action_open"
+msgid "Open"
+msgstr ""
 
-#~ msgctxt "firstrun_title"
-#~ msgid "Browse like no one’s watching."
-#~ msgstr "Brabhsáil i leith is nach bhfuil éinne ag cúlchoimhéad ort."
-
-#~ msgctxt "firstrun_description"
-#~ msgid ""
-#~ "Automatically block online trackers while you browse. Then tap to erase "
-#~ "visited pages, searches, cookies and passwords from your device."
-#~ msgstr ""
-#~ "Cuir cosc ar lorgairí ar líne go huathoibríoch le linn brabhsála. Ansin, "
-#~ "tapáil chun na leathanaigh ar thug tú cuairt orthu a bhánú ó do ghléas, "
-#~ "chomh maith le haon fhianáin, focail fhaire, nó cuardaigh a rinne tú."
-
-#~ msgctxt "firstrun_button"
-#~ msgid "OK, got it!"
-#~ msgstr "OK, tuigim!"
-
-#~ msgctxt "firstrun_footer"
-#~ msgid "To be clear, sites and services you use can still know where you've been."
-#~ msgstr ""
-#~ "Le bheith soiléir, beidh na suímh agus na seirbhísí a úsáideann tú ábalta na "
-#~ "leathanaigh a dtugann tú cuairt orthu a fheiceáil."
