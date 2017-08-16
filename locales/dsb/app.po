@@ -1,24 +1,24 @@
-# Translations template for PROJECT.
+# Lower Sorbian translations for PACKAGE.
 # Copyright (C) 2017 ORGANIZATION
-# This file is distributed under the same license as the PROJECT project.
+# This file is distributed under the same license as the PACKAGE project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-28 15:31+0200\n"
+"POT-Creation-Date: 2017-08-16 13:49+0200\n"
 "PO-Revision-Date: 2017-07-28 17:49+0000\n"
 "Last-Translator: milupo <milupo@sorbzilla.de>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: dsb\n"
+"Language-Team: dsb <LL@li.org>\n"
+"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (((n % 100) >= 3 && (n "
+"% 100) <= 4))) || (((0 % 100) >= 3 && (0 % 100) <= 4))) ? 2 : ((((0 == "
+"0)) && (((n % 100) == 1))) || (((0 % 100) == 1))) ? 0 : ((((0 == 0)) && "
+"(((n % 100) == 2))) || (((0 % 100) == 2))) ? 1 : 3)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
-"%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.8\n"
 "Generated-By: Babel 2.4.0\n"
-"X-POOTLE-MTIME: 1501264194.000000\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -168,7 +168,8 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
@@ -317,6 +318,26 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "Pśeglědowańsku historiju lašowaś"
 
+#. Content description (not visible, for screen readers etc.): A floating
+#. action button that       is shown on top of the web content. Clicking the
+#. button shows (expands) the menu for switching       tabs, adding a new tab
+#. or erasing the browsing history.
+msgctxt "content_description_fab_expand"
+msgid "Expand"
+msgstr ""
+
+#. Description of the "+" button used to open a new temporary tab ("open" is a
+#. verb), not displayed and read only by screenreaders.
+msgctxt "content_description_open_tab"
+msgid "Open tab"
+msgstr ""
+
+#. Description of the "X" button used to close a new temporary tab ("close" is
+#. a verb), not displayed and read only by screenreaders.
+msgctxt "content_description_close_tab"
+msgid "Close tab"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
@@ -415,11 +436,11 @@ msgstr "Nałoženje pytaś, kótarež móžo wótkaz wócyniś"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid ""
-"None of the apps on your device are able to open this link. You can leave "
-"%1$s to search %2$s for an app that can."
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr ""
-"Žedno z nałoženjow na wašom rěźe njamóžo toś ten wótkaz wócyniś. Móžośo %1$s "
-"spušćiś, aby %2$s za nałoženim pśepytował."
+"Žedno z nałoženjow na wašom rěźe njamóžo toś ten wótkaz wócyniś. Móžośo "
+"%1$s spušćiś, aby %2$s za nałoženim pśepytował."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -443,8 +464,7 @@ msgstr "Wócyniś"
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
-msgid ""
-"Downloaded files <b>will not be deleted</b> when you erase %1$s history."
+msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
 msgstr "Ześěgnjene dataje se <b>njewulašuju</b>, gaž historiju %1$s lašujośo."
 
 #. Title of download dialogue
@@ -478,17 +498,17 @@ msgstr "Žeden zwisk móžny"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again "
-"in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s "
-"data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśěžone. "
 "Wopytajśo za mało wokognuśow hyšći raz.</li>\n"
-"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-zwisk "
-"wašogo mobilnego rěda.</li>\n"
+"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-"
+"zwisk wašogo mobilnego rěda.</li>\n"
 "        </ul>"
 
 msgctxt "error_timeout_title"
@@ -505,16 +525,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or "
-"Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Pśeglědajśo adresu za pisańskimi zmólkami ako\n"
 "          <strong>ww</strong>.example.com město\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda abo "
-"swój WLAN-zwisk.</li>\n"
+"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda "
+"abo swój WLAN-zwisk.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -524,10 +544,10 @@ msgstr "Adresa njejo płaśiwa"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/"
-"</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>)."
-"</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -549,8 +569,8 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Toś ten problem zawinujo se wótergi pśez zmóžnjanje abo znjemóžnjanje "
-"ookiejow.</li>\n"
+"  <li>Toś ten problem zawinujo se wótergi pśez zmóžnjanje abo "
+"znjemóžnjanje ookiejow.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -560,12 +580,13 @@ msgstr "Adresa njejo se zrozměła"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Musyśo snaź druge programy instalěrowaś, aby se toś ta adresa wócyniła."
-"</li>\n"
+"  <li>Musyśo snaź druge programy instalěrowaś, aby se toś ta adresa "
+"wócyniła.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -575,8 +596,8 @@ msgstr "Wěsty zwisk njejo móžny"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could "
-"be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
 "  <li>If you have connected to this server successfully in the past, the "
 "error may\n"
@@ -586,8 +607,8 @@ msgstr ""
 "<ul>\n"
 "  <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś,\n"
 "až něchten wopytujo serwer imitěrowaś.</li>\n"
-"  <li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła "
-"zmólka snaź\n"
+"  <li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła"
+" zmólka snaź\n"
 "nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li>\n"
 "</ul>"
 
@@ -624,6 +645,11 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "Wobraz składowaś"
 
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
@@ -632,57 +658,60 @@ msgid ""
 "Saved and shared images <b>will not be deleted</b> when you erase %1$s "
 "history."
 msgstr ""
-"Skłaźone a źělone wobraze <b>se njewulašuju</b>, gaž historiju %1$s lašujośo."
+"Skłaźone a źělone wobraze <b>se njewulašuju</b>, gaž historiju %1$s "
+"lašujośo."
 
-#. First run tour (page 1): Title
-msgctxt "firstrun_tracking_title"
-msgid "Browse like no one’s watching"
-msgstr "Pśeglědujśo mimo aby něchten wobglědował"
-
-#. First run tour (page 1): Text
-msgctxt "firstrun_tracking_text"
-msgid ""
-"Automatically block online tracking while you browse. Then remove visited "
-"pages and cookies with a touch to the trash icon in the app or in your "
-"notifications."
-msgstr ""
-"Blokěrujśo awtomatiski slědowanje online, mjaztym až pśeglědujośo. "
-"Wótwónoźćo pótom woglědane boki a cookieje z jadnym dotyknjenim na cajkowy "
-"symbol w nałoženju abo w swójich powěźeńkach."
-
-#. First run tour (page 2): Title
+#. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr "Zmocniśo swóju priwatnosć"
 
-#. First run tour (page 2): Text, %1$s will be replaced with the name of the
-#. app (e.g. Firefox Focus).
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
 #, c-format
-msgctxt "firstrun_defaultbrowser_text"
+msgctxt "firstrun_shortcut_text"
 msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing "
-"when you link to the Web from other Android apps."
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
 msgstr ""
-"Nastajśo %1$s ako swój standardny wobglědowak a mějśo wužytk z priwatnego "
-"modusa, gaž se z webom z drugich nałoženjow Android zwězujośo."
 
-#. First run tour (page 3): Title
-msgctxt "firstrun_breaking_title"
-msgid ""
-"A quick fix when\n"
-"blocking = breaking"
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
 msgstr ""
-"Spěšne rozwězanje, gaž\n"
-"blokěrowanje = łamanje"
 
-#. First run tour (page 3): Text
-msgctxt "firstrun_breaking_text"
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
 msgid ""
-"When the downside of blocking online trackers is a site that seems broken, "
-"turn off blocking with a tap to the tool menu."
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
 msgstr ""
-"Jolic blokěrowanje pśeslědowakow online ma njelěpšynu, až se sedło zda "
-"skóńcowane byś, znjemóžniśo blokěrowanje z pótusnjenim na meni Rědy."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -720,39 +749,19 @@ msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "Pśetergnuś"
 
-#~ msgctxt "preference_privacy_secure_mode_summary"
-#~ msgid ""
-#~ "Turn off stealth mode to take screenshots and see sites you’ve visited "
-#~ "using %1$s in your Recent Apps list"
-#~ msgstr ""
-#~ "Wušaltujśo tarnowański modus, aby wobrazowku fotografěrował a se sedła "
-#~ "woglědował, ku kótarymž sćo se z %1$s w swójej lisćinje aktualnych "
-#~ "nałoženjow woglědał"
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the title of the dialog where the user
+#. selects a tab to replace with the          new URL.
+msgctxt "dialog_opentab_title"
+msgid "Open link in selected tab"
+msgstr ""
 
-#~ msgctxt "text_selection_search_action"
-#~ msgid "Private Search"
-#~ msgstr "Priwatne pytanje"
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the label of the action/button to open
+#. the new link in the selected           existing tab.
+msgctxt "dialog_opentab_action_open"
+msgid "Open"
+msgstr ""
 
-#~ msgctxt "firstrun_title"
-#~ msgid "Browse like no one’s watching."
-#~ msgstr "Pśeglědujśo mimo až njeby nichten wobglědował."
-
-#~ msgctxt "firstrun_description"
-#~ msgid ""
-#~ "Automatically block online trackers while you browse. Then tap to erase "
-#~ "visited pages, searches, cookies and passwords from your device."
-#~ msgstr ""
-#~ "Blokěrujśo pśeslědowaki online awtomatiski, mjaztym až pśeglědujośo. "
-#~ "Pótusniśo pótom, aby woglědane boki, pytanja, cookije a gronidła ze "
-#~ "swójogo rěda wulašował."
-
-#~ msgctxt "firstrun_button"
-#~ msgid "OK, got it!"
-#~ msgstr "W pórěźe, som zrozměł!"
-
-#~ msgctxt "firstrun_footer"
-#~ msgid ""
-#~ "To be clear, sites and services you use can still know where you've been."
-#~ msgstr ""
-#~ "Wy měł se togo wědobny byś, až sedła a słužby, kótarež wužywaśo, wěźe, "
-#~ "źož wy sćo był."

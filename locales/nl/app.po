@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-28 15:31+0200\n"
+"POT-Creation-Date: 2017-08-16 13:49+0200\n"
 "PO-Revision-Date: 2017-07-29 13:30+0000\n"
 "Last-Translator: Ton <tonnes.mb@gmail.com>\n"
-"Language-Team: nl <LL@li.org>\n"
 "Language: nl\n"
+"Language-Team: nl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -168,21 +167,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s geeft u de controle.</p>\n"
 "<p>Gebruik als een privébrowser:\n"
 "  <ul>\n"
 "    <li>Rechtstreeks vanuit de app zoeken en browsen</li>\n"
-"    <li>Trackers blokkeren (of instellingen bijwerken om ze toe te staan)</li>\n"
-"    <li>Wissen verwijdert zowel cookies als zoek- en navigatiegeschiedenis</li>\n"
+"    <li>Trackers blokkeren (of instellingen bijwerken om ze toe te "
+"staan)</li>\n"
+"    <li>Wissen verwijdert zowel cookies als zoek- en "
+"navigatiegeschiedenis</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s wordt gemaakt door Mozilla. Onze missie is het verzorgen van een gezond en open internet.<br/>\n"
+"<p>%1$s wordt gemaakt door Mozilla. Onze missie is het verzorgen van een "
+"gezond en open internet.<br/>\n"
 "<a href=\"%2$s\">Meer info</a></p>"
 
 msgctxt "preference_category_search"
@@ -314,6 +318,26 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "Navigatiegeschiedenis wissen"
 
+#. Content description (not visible, for screen readers etc.): A floating
+#. action button that       is shown on top of the web content. Clicking the
+#. button shows (expands) the menu for switching       tabs, adding a new tab
+#. or erasing the browsing history.
+msgctxt "content_description_fab_expand"
+msgid "Expand"
+msgstr ""
+
+#. Description of the "+" button used to open a new temporary tab ("open" is a
+#. verb), not displayed and read only by screenreaders.
+msgctxt "content_description_open_tab"
+msgid "Open tab"
+msgstr ""
+
+#. Description of the "X" button used to close a new temporary tab ("close" is
+#. a verb), not displayed and read only by screenreaders.
+msgctxt "content_description_close_tab"
+msgid "Close tab"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
@@ -411,8 +435,12 @@ msgstr "Een app zoeken die de koppeling kan openen"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Geen enkele app op uw apparaat kan deze koppeling openen. U kunt %1$s verlaten om bij %2$s naar een app te zoeken die dat wel kan."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Geen enkele app op uw apparaat kan deze koppeling openen. U kunt %1$s "
+"verlaten om bij %2$s naar een app te zoeken die dat wel kan."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -437,7 +465,9 @@ msgstr "Openen"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Gedownloade bestanden <b>worden niet verwijderd</b> als u geschiedenis van %1$s wist."
+msgstr ""
+"Gedownloade bestanden <b>worden niet verwijderd</b> als u geschiedenis "
+"van %1$s wist."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -470,13 +500,17 @@ msgstr "Kan geen verbinding maken"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het over enkele ogenblikken opnieuw.</li>\n"
-"        <li>Als u geen enkele pagina kunt laden, controleer dan de gegevens- of wifi-verbinding van uw apparaat.</li>\n"
+"        <li>Misschien is de website tijdelijk niet beschikbaar of "
+"overbelast. Probeer het over enkele ogenblikken opnieuw.</li>\n"
+"        <li>Als u geen enkele pagina kunt laden, controleer dan de "
+"gegevens- of wifi-verbinding van uw apparaat.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -493,14 +527,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Controleer het adres op typefouten, zoals\n"
 "          <strong>ww</strong>.example.com in plaats van\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Als u geen enkele pagina kunt laden, controleer dan de gegevens- of wifi-verbinding van uw apparaat.</li>\n"
+"        <li>Als u geen enkele pagina kunt laden, controleer dan de "
+"gegevens- of wifi-verbinding van uw apparaat.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -510,13 +546,17 @@ msgstr "Het adres is niet geldig"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Webadressen worden doorgaans geschreven als <strong>http://www.example.com/</strong></li>\n"
-"  <li>Let erop dat u voorwaartse slashes gebruikt (d.i. <strong>/</strong>).</li>\n"
+"  <li>Webadressen worden doorgaans geschreven als "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Let erop dat u voorwaartse slashes gebruikt (d.i. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -526,11 +566,13 @@ msgstr "De pagina verwijst niet op een juiste manier door"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren van cookies.</li>\n"
+"  <li>Dit probleem kan soms worden veroorzaakt door het uitschakelen of "
+"weigeren van cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -540,11 +582,13 @@ msgstr "Het adres werd niet begrepen"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Misschien moet u andere software installeren om dit adres te openen.</li>\n"
+"  <li>Misschien moet u andere software installeren om dit adres te "
+"openen.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -554,17 +598,22 @@ msgstr "Beveiligde verbinding mislukt"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dit kan een probleem met de serverconfiguratie zijn, of iemand probeert\n"
+"  <li>Dit kan een probleem met de serverconfiguratie zijn, of iemand "
+"probeert\n"
 "de server na te bootsen.</li>\n"
-"  <li>Als u in het verleden met succes verbinding met deze server hebt gemaakt,\n"
-"kan de fout van tijdelijke aard zijn en kunt u het later nogmaals proberen.</li>\n"
+"  <li>Als u in het verleden met succes verbinding met deze server hebt "
+"gemaakt,\n"
+"kan de fout van tijdelijke aard zijn en kunt u het later nogmaals "
+"proberen.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -600,48 +649,73 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "Afbeelding opslaan"
 
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Opgeslagen en gedeelde afbeeldingen <b>worden niet verwijderd</b> als u geschiedenis van %1$s wist."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Opgeslagen en gedeelde afbeeldingen <b>worden niet verwijderd</b> als u "
+"geschiedenis van %1$s wist."
 
-#. First run tour (page 1): Title
-msgctxt "firstrun_tracking_title"
-msgid "Browse like no one’s watching"
-msgstr "Surf alsof niemand meekijkt"
-
-#. First run tour (page 1): Text
-msgctxt "firstrun_tracking_text"
-msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr "Blokkeer automatisch onlinetrackers terwijl u surft. Verwijder daarna bezochte pagina’s en cookies met één tik naar het prullenbakpictogram in de app of in uw meldingen."
-
-#. First run tour (page 2): Title
+#. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr "Vergroot uw privacy"
 
-#. First run tour (page 2): Text, %1$s will be replaced with the name of the
-#. app (e.g. Firefox Focus).
-#, c-format
-msgctxt "firstrun_defaultbrowser_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr "Stel %1$s in als uw standaardbrowser en geniet van de voordelen van privénavigatie wanneer u vanuit andere Android-apps naar het web verwijst."
-
-#. First run tour (page 3): Title
-msgctxt "firstrun_breaking_title"
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
 msgid ""
-"A quick fix when\n"
-"blocking = breaking"
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
 msgstr ""
-"Een snelle oplossing als\n"
-"blokkeren verstoring geeft"
 
-#. First run tour (page 3): Text
-msgctxt "firstrun_breaking_text"
-msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "Gezien het nadeel van het blokkeren van onlinetrackers waarbij een website defect kan lijken, kunt u blokkering met één tik in het hulpmiddelenmenu uitzetten."
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_shortcut_text"
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
+msgstr ""
+
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -678,3 +752,20 @@ msgstr "Toevoegen"
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "Annuleren"
+
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the title of the dialog where the user
+#. selects a tab to replace with the          new URL.
+msgctxt "dialog_opentab_title"
+msgid "Open link in selected tab"
+msgstr ""
+
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the label of the action/button to open
+#. the new link in the selected           existing tab.
+msgctxt "dialog_opentab_action_open"
+msgid "Open"
+msgstr ""
+

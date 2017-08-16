@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-07-28 15:31+0200\n"
+"POT-Creation-Date: 2017-08-16 13:49+0200\n"
 "PO-Revision-Date: 2017-07-28 21:05+0000\n"
 "Last-Translator: Marcelo Poli <enzomatrix@gmail.com>\n"
-"Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
+"Language-Team: es_AR <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -168,21 +167,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s te da el control.</p>\n"
 "<p>Usalo como un navegador privado:\n"
 "  <ul>\n"
 "    <li>Buscar y navegar en la aplicación</li>\n"
-"    <li>Bloquear rastreadores (o actualizar opciones para permitir rastreadores)</li>\n"
-"    <li>Borrar para eliminar cookies e historial de búsqueda y navegación</li>\n"
+"    <li>Bloquear rastreadores (o actualizar opciones para permitir "
+"rastreadores)</li>\n"
+"    <li>Borrar para eliminar cookies e historial de búsqueda y "
+"navegación</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s es producido por Mozilla. Nuestra misión es promover una internet abierta y saludable.<br/>\n"
+"<p>%1$s es producido por Mozilla. Nuestra misión es promover una internet"
+" abierta y saludable.<br/>\n"
 "<a href=\"%2$s\">Conocer más</a></p>"
 
 msgctxt "preference_category_search"
@@ -314,6 +318,26 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "Limpiar historial de navegación"
 
+#. Content description (not visible, for screen readers etc.): A floating
+#. action button that       is shown on top of the web content. Clicking the
+#. button shows (expands) the menu for switching       tabs, adding a new tab
+#. or erasing the browsing history.
+msgctxt "content_description_fab_expand"
+msgid "Expand"
+msgstr ""
+
+#. Description of the "+" button used to open a new temporary tab ("open" is a
+#. verb), not displayed and read only by screenreaders.
+msgctxt "content_description_open_tab"
+msgid "Open tab"
+msgstr ""
+
+#. Description of the "X" button used to close a new temporary tab ("close" is
+#. a verb), not displayed and read only by screenreaders.
+msgctxt "content_description_close_tab"
+msgid "Close tab"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
@@ -411,8 +435,12 @@ msgstr "Buscar una app que pueda abrir el enlace"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ninguna de las apps en el dispositivo puede abrir este enlace. Podés dejar que %1$s busque en %2$s una app que pueda."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ninguna de las apps en el dispositivo puede abrir este enlace. Podés "
+"dejar que %1$s busque en %2$s una app que pueda."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -437,7 +465,9 @@ msgstr "Abrir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Los archivos descargados <b>no serán eliminados</b> al borrar el historial de %1$s."
+msgstr ""
+"Los archivos descargados <b>no serán eliminados</b> al borrar el "
+"historial de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -470,13 +500,17 @@ msgstr "No se puede conectar"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>El sitio puede estar temporariamente inaccesible o demasiado ocupado. Intentá nuevamente en unos momentos.</li>\n"
-"        <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>El sitio puede estar temporariamente inaccesible o demasiado "
+"ocupado. Intentá nuevamente en unos momentos.</li>\n"
+"        <li>Si no podés cargar ninguna página, verificá la conexión de "
+"datos o Wi-Fi de tu dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -493,14 +527,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Fijate si la dirección no tiene errores de tipeo como\n"
 "          <strong>ww</strong>.example.com en vez de\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>Si no podés cargar ninguna página, verificá la conexión de "
+"datos o Wi-Fi de tu dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -510,13 +546,17 @@ msgstr "La dirección no es válida"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Las direcciones web normalmente se escriben como <strong>http://www.example.com/</strong></li>\n"
-"  <li>Asegurate de usar las barras correctas (ej. <strong>/</strong>).</li>\n"
+"  <li>Las direcciones web normalmente se escriben como "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Asegurate de usar las barras correctas (ej. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -526,11 +566,13 @@ msgstr "La página no está siendo redireccionada correctamente"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Este problema puede estar causado a veces por deshabilitar o rechazar cookies.</li>\n"
+"  <li>Este problema puede estar causado a veces por deshabilitar o "
+"rechazar cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -540,7 +582,8 @@ msgstr "La dirección no fue comprendida"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -554,16 +597,20 @@ msgstr "Fallo en conexión segura"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Podría haber un problema con la configuración del servidor o podría ser\n"
+"  <li>Podría haber un problema con la configuración del servidor o podría"
+" ser\n"
 "alguien tratando de hacerse pasar por ese servidor.</li>\n"
-"  <li>Si te conectaste exitosamente a este servidor en el pasado, el error puede\n"
+"  <li>Si te conectaste exitosamente a este servidor en el pasado, el "
+"error puede\n"
 "ser temporal y podés probar más tarde.</li>\n"
 "</ul>"
 
@@ -600,48 +647,73 @@ msgctxt "contextmenu_image_save"
 msgid "Save image"
 msgstr "Guardar imagen"
 
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "La imágenes que guardaste y compartiste <b>no serán borradas</b> cuando borres el historial de %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"La imágenes que guardaste y compartiste <b>no serán borradas</b> cuando "
+"borres el historial de %1$s."
 
-#. First run tour (page 1): Title
-msgctxt "firstrun_tracking_title"
-msgid "Browse like no one’s watching"
-msgstr "Navegá como si nadie mirara"
-
-#. First run tour (page 1): Text
-msgctxt "firstrun_tracking_text"
-msgid "Automatically block online tracking while you browse. Then remove visited pages and cookies with a touch to the trash icon in the app or in your notifications."
-msgstr "Bloqueá a los rastreadores automáticamente mientras navegás. Después borrá las páginas visitadas y las cookies con sólo tocar el ícono del tacho de basura o en las notificaciones."
-
-#. First run tour (page 2): Title
+#. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
 msgstr "Potenciá tu privacidad"
 
-#. First run tour (page 2): Text, %1$s will be replaced with the name of the
-#. app (e.g. Firefox Focus).
-#, c-format
-msgctxt "firstrun_defaultbrowser_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you link to the Web from other Android apps."
-msgstr "Elegí %1$s como tu navegador predeterminado y obtené los beneficios de navegar privadamente cuando sigas un enlace a la Web desde otras aplicaciones."
-
-#. First run tour (page 3): Title
-msgctxt "firstrun_breaking_title"
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
 msgid ""
-"A quick fix when\n"
-"blocking = breaking"
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
 msgstr ""
-"Una rápida solución cuando\n"
-"bloquear = romper"
 
-#. First run tour (page 3): Text
-msgctxt "firstrun_breaking_text"
-msgid "When the downside of blocking online trackers is a site that seems broken, turn off blocking with a tap to the tool menu."
-msgstr "Cuando el lado negativo de bloquear a los rastreadores sea un sitio que parece roto, deshabilitá el bloqueo con un toque en el menú de herramientas."
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_shortcut_text"
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
+msgstr ""
+
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -678,3 +750,20 @@ msgstr "Agregar"
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "Cancelar"
+
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the title of the dialog where the user
+#. selects a tab to replace with the          new URL.
+msgctxt "dialog_opentab_title"
+msgid "Open link in selected tab"
+msgstr ""
+
+#. When the limit of concurrent tabs is reached and the user wants to open
+#. another tab then we show a dialog to select a tab          that will be
+#. overridden with the new link. This is the label of the action/button to open
+#. the new link in the selected           existing tab.
+msgctxt "dialog_opentab_action_open"
+msgid "Open"
+msgstr ""
+
