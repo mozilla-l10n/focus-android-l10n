@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-17 17:49+0000\n"
+"PO-Revision-Date: 2017-08-17 19:41+0000\n"
 "Last-Translator: troels.krainer.thomsen <troels.krainer.thomsen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -33,7 +33,7 @@ msgstr "OK"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Søg eller indtast adresse"
 
 msgctxt "teaser"
 msgid ""
@@ -52,7 +52,7 @@ msgstr ""
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Søg efter %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
