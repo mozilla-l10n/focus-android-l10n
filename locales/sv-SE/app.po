@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-16 18:14+0000\n"
-"Last-Translator: Andreas Pettersson <az@kth.se>\n"
+"PO-Revision-Date: 2017-08-18 10:10+0000\n"
+"Last-Translator: Luna Jernberg <bittin@cafe8bitar.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -650,19 +650,19 @@ msgstr ""
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Söker du efter något annat? Välj en annan standard sökmotor i Inställningar."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Lägg till genvägar på din hemskärm"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Återgå till dina favorit webbsidor i %1$s snabbt. Bara välj \"Lägg till på hemskärm\" från %1$s menyn."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
