@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-18 10:11+0000\n"
-"Last-Translator: Luna Jernberg <bittin@cafe8bitar.se>\n"
+"PO-Revision-Date: 2017-08-18 22:42+0000\n"
+"Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -640,41 +640,41 @@ msgstr "Stärk din integritet"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Ta privat surfning till nästa nivå. Blockera annonser och annat innehåll som kan spåra dig på webbplatser och slöa ner laddningen av webbsidor."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Sök som du vill"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Söker du efter något annat? Välj en annan standard sökmotor i Inställningar."
+msgstr "Letar du efter något annat? Välj en annan standardsökmotor i Inställningar."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr "Lägg till genvägar på din hemskärm"
+msgstr "Lägg till genvägar till startskärmen"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Återgå till dina favorit webbsidor i %1$s snabbt. Bara välj \"Lägg till på hemskärm\" från %1$s menyn."
+msgstr "Återgå till dina favoritwebbplatser i %1$s snabbt. Välj \"Lägg till på startskärmen\" från menyn %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Låt integritet bli en vana"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Ställ in %1$s som din standard webbläsare och få fördelarna av privat surfning när du öppnar hemsidor från andra appar."
+msgstr "Ange %1$s som standardwebbläsare och dra nytta av fördelarna med privat surfning när du öppnar webbsidor från andra appar."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
