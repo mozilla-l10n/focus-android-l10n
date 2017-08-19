@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-18 20:14+0000\n"
+"PO-Revision-Date: 2017-08-19 21:55+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -718,7 +718,7 @@ msgstr "Zrušiť"
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "Otvoriť odkaz na zvolenej karte"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -726,4 +726,4 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Otvoriť"
