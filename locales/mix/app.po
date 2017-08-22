@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-22 03:11+0000\n"
+"PO-Revision-Date: 2017-08-22 17:09+0000\n"
 "Last-Translator: baldemarls <baldemarls@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mix\n"
@@ -23,23 +23,23 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Kunchatu"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "Vaá"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Nda tuku a chika direccion"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr ""
+msgstr "Ndukù Sèè. Kunchee. Sto'o. Ntakua."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -52,12 +52,12 @@ msgstr ""
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Ndukù %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Kua’á…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -66,7 +66,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Kuna tsi %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -76,25 +76,25 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Kuna tsi…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Chika'a nu pantalla xina"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Nu ndasamu"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Tsaa ña"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Chinchee"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
@@ -108,13 +108,13 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Ntasi nu kuu snuu kue ña'a"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Kua’a nu'u"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -123,39 +123,39 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Stòo ña ntukuku sata"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Kuna"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "Stoo cha Kuna"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "Stoo"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Stòo ña ndukuku sata"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Nduku Sèè"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -185,31 +185,31 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Nduku"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Tsa sa'an yee"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Tu'un"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Nkoi ta xi’na"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Ntuku ta xi’na"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Sèè"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
