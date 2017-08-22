@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-22 18:51+0000\n"
+"PO-Revision-Date: 2017-08-22 19:03+0000\n"
 "Last-Translator: baldemarls <baldemarls@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mix\n"
@@ -246,7 +246,7 @@ msgstr "Sèè kivu"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Chika sèè pagina ta ku ndasamu aplicaciòn"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -436,14 +436,14 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "A keu nu nduku seu ñaa?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s ntsinu"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
@@ -460,7 +460,7 @@ msgstr ""
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Snuu Tutu"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -475,15 +475,15 @@ msgstr "Snuú"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Makuu kuncheu pagina yoo"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Kitsaa tuku"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Kue kuu kitsai"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -495,11 +495,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Ntsinu conexión"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Kòo servidor ni ntanèe"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -547,7 +547,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Mani'ku chitai'ña"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -565,7 +565,7 @@ msgstr "Kukanu inu"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Ma ku kuncheu pagina yoo"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -575,7 +575,7 @@ msgstr "Kua’á direcciòn"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Ntatava direcciòn"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -595,7 +595,7 @@ msgstr "Chika va'a tutu ntatavana"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Kuna ña kunu kuncheu nu inka xikua"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
