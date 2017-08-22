@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-22 15:49+0000\n"
+"PO-Revision-Date: 2017-08-22 16:30+0000\n"
 "Last-Translator: eduardo <eduardo@esperanto.org.uy>\n"
 "Language-Team: eo <LL@li.org>\n"
 "Language: eo\n"
@@ -638,45 +638,45 @@ msgstr "Plibonigi vian privatecon"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Privata retumo pli altnivela, kun blokado de reklamoj kaj aliaj enhavoj, kiuj povas spuri vin trans retejoj kaj malrapidigi la ŝargon de paĝoj."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Via serĉo laŭ via maniero"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Ĉu vi serĉas ion alian, malsaman? Elektu alian norman serĉilon en la agordoj."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Aldoni rektajn alirojn al via hejmekrano"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "En %1$s, por reiri rapide al viaj plej ŝatataj retejoj, elektu \"Aldoni al hejmekrano\" en la menuo."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Alkutimiĝu al la privateco"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Elektu %1$s kiel via normal retumilo kaj ricevu ĉiujn avantaĝojn de la privata retumo, kiam vi malfermas paĝojn el aliaj programoj."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr "Bone, mi komprenas!"
+msgstr "En ordo, mi komprenis!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
