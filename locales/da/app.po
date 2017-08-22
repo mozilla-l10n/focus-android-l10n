@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-22 07:45+0000\n"
+"PO-Revision-Date: 2017-08-18 15:41+0000\n"
 "Last-Translator: troels.krainer.thomsen <troels.krainer.thomsen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -460,20 +460,20 @@ msgstr ""
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Hent"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problem med indlæsning af side"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Prøv igen"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Ude af stand til at oprette forbindelse"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -489,7 +489,7 @@ msgstr ""
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Serveren blev ikke fundet"
 
 msgctxt "error_hostLookup_message"
 msgid ""
