@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-17 20:05+0000\n"
+"PO-Revision-Date: 2017-08-22 07:45+0000\n"
 "Last-Translator: troels.krainer.thomsen <troels.krainer.thomsen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuller"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -180,17 +180,17 @@ msgstr ""
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Sprog"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Systemstandard"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Privatliv"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
@@ -240,11 +240,11 @@ msgstr ""
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Ydelse"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Bloker webskrifttyper"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -254,7 +254,7 @@ msgstr ""
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Bloker billeder"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" screen or if not supported by this Android
@@ -265,22 +265,22 @@ msgstr ""
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
-msgstr ""
+msgstr "Send anonyme brugsdata"
 
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Læs mere"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Om %1$s"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -308,7 +308,7 @@ msgstr ""
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "Udvid"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
@@ -320,13 +320,13 @@ msgstr ""
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "Luk faneblad"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Sikker forbindelse"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -375,7 +375,7 @@ msgstr ""
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Tilbage til forrige app"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -389,15 +389,15 @@ msgstr ""
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "Indsæt og gå"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Dine rettigheder"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Åbn link i en anden app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -405,13 +405,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Du kan forlade %1$s og åbne dette link i %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Find en app der kan åbne linket"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -420,13 +420,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ingen app på din enhed kan åbne dette link. Du kan forlade %1$s og søge på %2$s efter en app der kan."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Afslut privat browsing?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -438,7 +438,7 @@ msgstr ""
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Åbn"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
@@ -450,7 +450,7 @@ msgstr ""
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Hent fil"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
