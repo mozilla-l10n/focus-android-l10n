@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-23 19:31+0000\n"
+"PO-Revision-Date: 2017-08-23 19:35+0000\n"
 "Last-Translator: صفا الفليج <safa1996alfulaij@gmail.com>\n"
 "Language-Team: ar <LL@li.org>\n"
 "Language: ar\n"
@@ -643,7 +643,7 @@ msgstr "انتقل بالتصفّح الخاص إلى المستوى التال�
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "تبحثُ بأسلوبك أنت"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -653,7 +653,7 @@ msgstr "أتبحث عن شيء مختلف؟ اختر محرّك بحث آخر ل
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "أضف اختصارات إلى الشاشة الرئيسية"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -716,7 +716,7 @@ msgstr "ألغِ"
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "افتح الرابط في اللسان المحدّد"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -724,4 +724,4 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "افتح"
