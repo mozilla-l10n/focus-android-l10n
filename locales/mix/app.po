@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-22 19:03+0000\n"
-"Last-Translator: baldemarls <baldemarls@gmail.com>\n"
+"PO-Revision-Date: 2017-08-24 02:59+0000\n"
+"Last-Translator: bttaveronica <bttaveronica@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mix\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgstr "Ndukù Sèè. Kunchee. Sto'o. Ntakua."
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Sto'i ña ntsinu."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -98,7 +98,7 @@ msgstr "Chinchee"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Yee yu'u"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -213,23 +213,23 @@ msgstr "Sèè"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Kasi ña ndukuyo"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Kasi ña ndukuyo"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Kasi ña ndukuyo"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Kasi ña ndukuyo inka tsio"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
-msgstr ""
+msgstr "A kuu ña makuu kuncheu ña ndatavana tsi páginas web"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -250,7 +250,7 @@ msgstr "Chika sèè pagina ta ku ndasamu aplicaciòn"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Nixi sachu'in"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
@@ -304,7 +304,7 @@ msgstr "Stoo nu nikivu"
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Nkucha'a su'u"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
@@ -403,7 +403,7 @@ msgstr "Stiin cha kua'an"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Yee yu'u"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
@@ -455,7 +455,7 @@ msgstr "Kuna"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Tutu snuù <b>ma ntoi</b> ta kuu stuu ña'a ntsinu nuu%1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -522,10 +522,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ta kunu chau iin pagina web tsiniñu'u chauña sa'an <strong>http://www.example.com/</strong>\n"
+"  <li>Kunchee an'chau uvi raya (tana ño'o <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Página yoo kueku nuna vai"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -617,7 +621,7 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Nduku ña kunu, nixi kunu"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -646,7 +650,7 @@ msgstr ""
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Chikaa %1$s nu ndukuku xina cha kunchee nixi nduku seu ta tsunaku pagina web inka tsio."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
