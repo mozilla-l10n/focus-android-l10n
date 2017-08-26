@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-18 20:28+0000\n"
+"PO-Revision-Date: 2017-08-26 13:10+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -636,7 +636,7 @@ msgstr "Gizliliğini güçlendir"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Gizli gezintiyi daha da geliştirdik. Gezdiğiniz siteleri takip eden ve sayfaların yüklenmesini yavaşlatan reklamları ve diğer içerikleri engelleyebilirsiniz."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -651,14 +651,14 @@ msgstr "Başka bir şey mi arıyorsunuz? Ayarlar menüsünden varsayılan arama 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Kısayolları ana ekranınıza ekleyin"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s’ta sevdiğiniz sitelere çabucak ulaşabilirsiniz. %1$s menüsünden \"Ana ekrana ekle\"yi seçmeniz yeterli."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
