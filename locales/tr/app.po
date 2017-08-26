@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-26 13:10+0000\n"
+"PO-Revision-Date: 2017-08-26 13:12+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -663,14 +663,14 @@ msgstr "%1$s’ta sevdiğiniz sitelere çabucak ulaşabilirsiniz. %1$s menüsün
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Hep gizli kalın"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s’u varsayılan tarayıcınız yapın, diğer uygulamalarda web sayfalarını açtığınız zaman da gizli gezintiden yararlanın."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
