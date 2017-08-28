@@ -2,23 +2,27 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-08-16 13:49+0200\n"
+"POT-Creation-Date: 2017-08-28 12:48+0200\n"
 "PO-Revision-Date: 2017-08-19 17:48+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
-"Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (((n % 10) >= 2 && (n %"
+" 10) <= 4))) && (!(((n % 100) >= 12 && (n % 100) <= 14)))) ? 1 : (((((0 "
+"== 0)) && (((n % 10) == 0))) || (((0 == 0)) && (((n % 10) >= 5 && (n % "
+"10) <= 9)))) || (((0 == 0)) && (((n % 100) >= 11 && (n % 100) <= 14)))) ?"
+" 2 : ((((0 == 0)) && (((n % 10) == 1))) && (!(((n % 100) == 11)))) ? 0 : "
+"3)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -168,21 +172,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s даёт вам контроль.</p>\n"
 "<p>Используйте его как приватный браузер:\n"
 "  <ul>\n"
 "    <li>Ищите и занимайтесь веб-сёрфингом</li>\n"
-"    <li>Блокируйте трекеры (или измените настройки, чтобы разрешить их)</li>\n"
-"    <li>Стирайте и удаляйте куки, а также историю поиска и просмотра</li>\n"
+"    <li>Блокируйте трекеры (или измените настройки, чтобы разрешить "
+"их)</li>\n"
+"    <li>Стирайте и удаляйте куки, а также историю поиска и просмотра</li>"
+"\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s создан Mozilla. Наша миссия — способствовать здоровому, открытому Интернету.<br/>\n"
+"<p>%1$s создан Mozilla. Наша миссия — способствовать здоровому, открытому"
+" Интернету.<br/>\n"
 "<a href=\"%2$s\">Узнать больше</a></p>"
 
 msgctxt "preference_category_search"
@@ -283,9 +292,25 @@ msgctxt "preference_mozilla_telemetry"
 msgid "Send anonymous usage data"
 msgstr "Отправлять анонимные данные об использовании"
 
+#. A link to SUMO at the end of the summary
+#. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
+#. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
 msgstr "Подробнее"
+
+#. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_mozilla_telemetry_summary2"
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+
+#. In-app link (in settings) to Focus privacy notice.
+msgctxt "preference_privacy_notice"
+msgid "Privacy Notice"
+msgstr ""
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -321,6 +346,16 @@ msgstr "Удалить историю веб-сёрфинга"
 msgctxt "content_description_fab_expand"
 msgid "Expand"
 msgstr "Развернуть"
+
+#. If the user has multiple tabs open we will show an addition "floating
+#. action button" showing how many tabs are open.      This string is not
+#. displayed and read only by screenreaders. %1$s will be replaced with the
+#. number of open tabs. This       button will only be visible when there is
+#. more than one tab open (>= 2).
+#, c-format
+msgctxt "content_description_tab_counter"
+msgid "Tabs open: %1$s"
+msgstr ""
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
@@ -431,8 +466,12 @@ msgstr "Найдите приложение, которое может откр�
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы можете выйти из %1$s для поиска подходящего приложения в %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы"
+" можете выйти из %1$s для поиска подходящего приложения в %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -490,13 +529,17 @@ msgstr "Не удалось подключиться"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Возможно, сайт временно недоступен или перегружен запросами. Подождите некоторое время и попробуйте снова.</li>\n"
-"        <li>Если ни одна страница не загружается, проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
+"        <li>Возможно, сайт временно недоступен или перегружен запросами. "
+"Подождите некоторое время и попробуйте снова.</li>\n"
+"        <li>Если ни одна страница не загружается, проверьте соединение "
+"вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -513,14 +556,17 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Проверьте, не допущена ли ошибка при наборе адреса, например,\n"
+"        <li>Проверьте, не допущена ли ошибка при наборе адреса, например,"
+"\n"
 "          <strong>ww</strong>.test.ru вместо\n"
 "          <strong>www</strong>.test.ru</li>\n"
-"        <li>Если ни одна страница не загружается, проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
+"        <li>Если ни одна страница не загружается, проверьте соединение "
+"вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -530,13 +576,17 @@ msgstr "Формат адреса неверен"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Адреса веб-сайтов обычно записываются в формате <strong>http://www.test.ru/</strong></li>\n"
-"  <li>Убедитесь, что вы используете слеши (например, <strong>/</strong>).</li>\n"
+"  <li>Адреса веб-сайтов обычно записываются в формате "
+"<strong>http://www.test.ru/</strong></li>\n"
+"  <li>Убедитесь, что вы используете слеши (например, "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -546,11 +596,13 @@ msgstr "Циклическое перенаправление на страни�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Эта проблема может быть вызвана отключением или запретом принимать куки.</li>\n"
+"  <li>Эта проблема может быть вызвана отключением или запретом принимать "
+"куки.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -560,11 +612,13 @@ msgstr "Неизвестный тип адреса"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Для открытия данного адреса вам, возможно, понадобится установить стороннее программное обеспечение.</li>\n"
+"  <li>Для открытия данного адреса вам, возможно, понадобится установить "
+"стороннее программное обеспечение.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -574,15 +628,19 @@ msgstr "Не удалось установить защищённое соеди
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Это может быть проблемой с конфигурацией сервера или же кто-то пытается подменить нужный вам сервер другим.</li>\n"
-"  <li>Если в прошлом вы успешно соединялись с этим сервером, то, возможно, эта ошибка является временной. Попробуйте зайти позже.</li>\n"
+"  <li>Это может быть проблемой с конфигурацией сервера или же кто-то "
+"пытается подменить нужный вам сервер другим.</li>\n"
+"  <li>Если в прошлом вы успешно соединялись с этим сервером, то, "
+"возможно, эта ошибка является временной. Попробуйте зайти позже.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -627,8 +685,12 @@ msgstr "Открыть ссылку в новой вкладке"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Сохранённые и отправленные фотографии <b>не будут удалены</b>, когда вы сотрёте историю %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Сохранённые и отправленные фотографии <b>не будут удалены</b>, когда вы "
+"сотрёте историю %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -637,8 +699,13 @@ msgstr "Усильте свою приватность"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Поднимите приватный просмотр на новый уровень. Блокируйте рекламу и другое содержимое, которое может отслеживать вас и замедлять загрузку страниц."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Поднимите приватный просмотр на новый уровень. Блокируйте рекламу и "
+"другое содержимое, которое может отслеживать вас и замедлять загрузку "
+"страниц."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -647,8 +714,12 @@ msgstr "Ваш поиск, Ваш Интернет"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Искали что-то другое? Выберите другую поисковую систему по умолчанию в настройках."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"Искали что-то другое? Выберите другую поисковую систему по умолчанию в "
+"настройках."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -659,8 +730,12 @@ msgstr "Добавьте ярлыки на домашний экран"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "С %1$s вы сможете быстро вернуться к любимым сайтам. Просто выберите «Добавить на домашний экран» из меню %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"С %1$s вы сможете быстро вернуться к любимым сайтам. Просто выберите "
+"«Добавить на домашний экран» из меню %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -671,8 +746,13 @@ msgstr "Сделайте приватность своей привычкой"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Установите %1$s своим браузером по умолчанию и получите преимущества приватного веб-сёрфинга, когда вы открываете веб-страницы из других приложений."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Установите %1$s своим браузером по умолчанию и получите преимущества "
+"приватного веб-сёрфинга, когда вы открываете веб-страницы из других "
+"приложений."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -710,6 +790,14 @@ msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
 msgstr "Отмена"
 
+#. When tracking protection is disabled for the current session then we will
+#. show this warning in the "Add to home screen" dialog to          let the
+#. user know that the shortcut will always be opened with tracking protection
+#. disabled.
+msgctxt "dialog_addtohomescreen_tracking_protection"
+msgid "Shortcut will open with Tracking Protection disabled"
+msgstr ""
+
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
 #. overridden with the new link. This is the title of the dialog where the user
@@ -725,3 +813,36 @@ msgstr "Открыть ссылку в выбранной вкладке"
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
 msgstr "Открыть"
+
+#. The user visible name of the "notification channel" (Android 8+ feature)
+#. for the ongoing notification shown while a browsing session is active.
+#. The recommended maximum length is 40 characters; the value may be truncated
+#. if it is too long.      * To understand what notification channels are, see:
+#. https://www.androidcentral.com/notification-channels     * To see how this
+#. string will look like in Android's UI, see:
+#. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
+msgctxt "notification_browsing_session_channel_name"
+msgid "Private browsing session"
+msgstr ""
+
+#. The user visible description of the "notification channel" (Android 8+
+#. feature) for the ongoing notification shown while a browsing session is
+#. active.     The recommended maximum length is 300 characters; the value may
+#. be truncated if it is too long. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus).      * To understand what notification channels
+#. are, see: https://www.androidcentral.com/notification-channels     * To see
+#. how this string will look like in Android's UI, see:
+#. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
+#, c-format
+msgctxt "notification_browsing_session_channel_description"
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+
+#. Label for a button in the "tabs tray" to erase the browsing history (closes
+#. all tabs and removes associated data).
+msgctxt "tabs_tray_action_erase"
+msgid "Erase browsing history"
+msgstr ""
+
