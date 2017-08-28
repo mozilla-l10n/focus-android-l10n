@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-28 11:48+0000\n"
+"PO-Revision-Date: 2017-08-28 12:30+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -292,7 +292,7 @@ msgstr "了解更多"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla 致力於只收集用來為眾人改善 %1$s 所需的必要資料。"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -714,7 +714,7 @@ msgstr "取消"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "使用此捷徑開啟時，將關閉追蹤保護功能"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -741,7 +741,7 @@ msgstr "開啟"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "隱私瀏覽階段"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -754,10 +754,10 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "不需要開啟程式或確認瀏覽器中有哪些資料，只要輕鬆一點，就能清除 %1$s 瀏覽階段的通知項目。"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "抹除瀏覽紀錄"
