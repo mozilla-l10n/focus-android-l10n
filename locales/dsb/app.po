@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-28 18:07+0000\n"
+"PO-Revision-Date: 2017-08-28 18:12+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: dsb <LL@li.org>\n"
 "Language: dsb\n"
@@ -780,10 +780,10 @@ msgstr "Priwatne pósejźenje"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Powěźeńki wam zmóžnjaju, waše pósejźenje %1$s z dotyknjenim wulašowaś. Njetrjebaśo nałoženje wócyniś abo glědaś, což we wašom wobglědowaku běžy."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Pśeglědowańsku historiju wulašowaś"
