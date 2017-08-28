@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: focus-android\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-28 15:12+0000\n"
+"PO-Revision-Date: 2017-08-28 15:17+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -295,7 +295,7 @@ msgstr "Więcej informacji"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla zbiera wyłącznie informacje niezbędne do udostępniania i ulepszania programu %1$s."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -743,7 +743,7 @@ msgstr "Anuluj"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Skrót będzie otwierany bez ochrony przed śledzeniem"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -783,7 +783,7 @@ msgstr "Sesja przeglądania prywatnego"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Powiadomienia umożliwiają usunięcie sesji programu %1$s jednym dotknięciem. Nie trzeba otwierać aplikacji ani widzieć, co jest otwarte w przeglądarce."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
