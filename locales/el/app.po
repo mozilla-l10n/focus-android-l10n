@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-26 09:09+0000\n"
+"PO-Revision-Date: 2017-08-28 19:05+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
-"Language: el\n"
 "Language-Team: el <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -167,26 +168,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>Το %1$s σάς δίνει τον έλεγχο.</p>\n"
 "<p>Χρησιμοποιήστε το ως πρόγραμμα ιδιωτικής περιήγησης:\n"
 "  <ul>\n"
 "    <li>Αναζητήστε και περιηγηθείτε εντός της εφαρμογής</li>\n"
-"    <li>Αποκλείστε trackers (ή ενημερώστε τις ρυθμίσεις σας ώστε να "
-"επιτρέπονται)</li>\n"
-"    <li>Διαγράψτε τα cookies, καθώς και το ιστορικό αναζητήσεων και "
-"περιήγησης</li>\n"
+"    <li>Αποκλείστε trackers (ή ενημερώστε τις ρυθμίσεις σας ώστε να επιτρέπονται)</li>\n"
+"    <li>Διαγράψτε τα cookies, καθώς και το ιστορικό αναζητήσεων και περιήγησης</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Το %1$s δημιουργήθηκε από τη Mozilla. Η αποστολή μας είναι να "
-"προαγάγουμε ένα υγιές, ανοιχτό διαδίκτυο.<br/>\n"
+"<p>Το %1$s δημιουργήθηκε από τη Mozilla. Η αποστολή μας είναι να προαγάγουμε ένα υγιές, ανοιχτό διαδίκτυο.<br/>\n"
 "<a href=\"%2$s\">Μάθετε περισσότερα</a></p>"
 
 msgctxt "preference_category_search"
@@ -297,15 +293,13 @@ msgstr "Μάθετε περισσότερα"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr ""
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Σημείωση απορρήτου"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -350,7 +344,7 @@ msgstr "Επέκταση"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Ανοικτές καρτέλες: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
@@ -461,13 +455,10 @@ msgstr "Βρείτε μια εφαρμογή που μπορεί να ανοίξ
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr ""
-"Καμία από τις εφαρμογές της συσκευής σας δεν μπορεί να ανοίξει αυτό το "
-"σύνδεσμο. Μπορείτε να αποχωρήσετε από το %1$s για να αναζητήσετε στο %2$s"
-" μια εφαρμογή που να μπορεί να εκτελέσει αυτή την εργασία."
+"Καμία από τις εφαρμογές της συσκευής σας δεν μπορεί να ανοίξει αυτό το σύνδεσμο. Μπορείτε να αποχωρήσετε από το %1$s για να αναζητήσετε στο %2$s μια εφαρμογή που να μπορεί να εκτελέσει αυτή την "
+"εργασία."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -492,9 +483,7 @@ msgstr "Άνοιγμα"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Τα ληφθέντα αρχεία <b>δεν θα διαγραφούν</b> όταν σβήσετε το %1$s ιστορικό"
-" σας."
+msgstr "Τα ληφθέντα αρχεία <b>δεν θα διαγραφούν</b> όταν σβήσετε το %1$s ιστορικό σας."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -527,17 +516,13 @@ msgstr "Αδυναμία σύνδεσης"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Η ιστοσελίδα θα μπορούσε να είναι προσωρινώς μη διαθέσιμη ή "
-"πολύ απασχολημένη. Δοκιμάστε ξανά σε λίγο.</li>\n"
-"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα "
-"δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
+"        <li>Η ιστοσελίδα θα μπορούσε να είναι προσωρινώς μη διαθέσιμη ή πολύ απασχολημένη. Δοκιμάστε ξανά σε λίγο.</li>\n"
+"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -554,16 +539,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Ελέγξτε τη διεύθυνση για ορθογραφικά λάθη όπως\n"
 "          <strong>ww</strong>.example.com αντί για\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα "
-"δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
+"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -573,17 +556,13 @@ msgstr "Η διεύθυνση δεν είναι έγκυρη"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Οι διαδικτυακές διευθύνσεις γράφονται συνήθως έτσι: "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Βεβαιωθείτε ότι χρησιμοποιείτε κάθετο (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Οι διαδικτυακές διευθύνσεις γράφονται συνήθως έτσι: <strong>http://www.example.com/</strong></li>\n"
+"  <li>Βεβαιωθείτε ότι χρησιμοποιείτε κάθετο (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -593,13 +572,11 @@ msgstr "Η σελίδα δεν ανακατευθύνεται κανονικά"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Αυτό το πρόβλημα μπορεί μερικές φορές να προκληθεί από την "
-"απενεργοποίηση ή την άρνηση για αποδοχή των cookies.</li>\n"
+"  <li>Αυτό το πρόβλημα μπορεί μερικές φορές να προκληθεί από την απενεργοποίηση ή την άρνηση για αποδοχή των cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -609,13 +586,11 @@ msgstr "Η διεύθυνση δεν ήταν κατανοητή"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ενδέχεται να χρειαστεί να εγκαταστήσετε άλλο λογισμικό για να "
-"ανοίξετε αυτή τη διεύθυνση.</li>\n"
+"  <li>Ενδέχεται να χρειαστεί να εγκαταστήσετε άλλο λογισμικό για να ανοίξετε αυτή τη διεύθυνση.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -625,20 +600,16 @@ msgstr "Αποτυχία ασφαλούς σύνδεσης"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Αυτό θα μπορούσε να είναι πρόβλημα με τη ρύθμιση του διακομιστή, ή "
-"θα μπορούσε να είναι\n"
+"  <li>Αυτό θα μπορούσε να είναι πρόβλημα με τη ρύθμιση του διακομιστή, ή θα μπορούσε να είναι\n"
 "κάποιος που προσπαθεί να μιμηθεί το διακομιστή.</li>\n"
-"  <li>Αν έχετε συνδεθεί σε αυτό το διακομιστή επιτυχώς στο παρελθόν, το "
-"σφάλμα ενδέχεται να\n"
+"  <li>Αν έχετε συνδεθεί σε αυτό το διακομιστή επιτυχώς στο παρελθόν, το σφάλμα ενδέχεται να\n"
 "είναι προσωρινό και μπορείτε να δοκιμάσετε ξανά αργότερα.</li>\n"
 "</ul>"
 
@@ -678,18 +649,14 @@ msgstr "Αποθήκευση εικόνας"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Άνοιγμα συνδέσμου σε νέα καρτέλα"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Οι αποθηκευμένες και κοινόχρηστες εικόνες <b>δεν θα διαγραφούν</b> όταν "
-"διαγράψετε το ιστορικού του %1$s."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Οι αποθηκευμένες και κοινόχρηστες εικόνες <b>δεν θα διαγραφούν</b> όταν διαγράψετε το ιστορικού του %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -698,49 +665,41 @@ msgstr "Ενισχύστε το απόρρητό σας"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Η αναζήτησή σας, με τον τρόπο σας"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr ""
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Προσθήκη συντομεύσεων στην αρχική οθόνη"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Κάντε το απόρρητο συνήθεια"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -812,7 +771,7 @@ msgstr "Άνοιγμα"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Συνεδρία ιδιωτικής περιήγησης"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -824,14 +783,11 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
-
+msgstr "Διαγραφή ιστορικού περιήγησης"
