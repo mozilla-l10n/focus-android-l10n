@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-29 21:52+0000\n"
+"PO-Revision-Date: 2017-08-29 22:18+0000\n"
 "Last-Translator: Joergen <joergenr@stofanet.dk>\n"
 "Language-Team: da <LL@li.org>\n"
 "Language: da\n"
@@ -350,7 +350,7 @@ msgstr "Åbne faneblade: %1$s"
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "Åbn nyt faneblad"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
@@ -481,7 +481,7 @@ msgstr "Åbn"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Hentede filer <b>bliver ikke slettet,</b> når du sletter historikken i %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -654,7 +654,7 @@ msgstr "Åbn link i nyt faneblad"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Gemte og delte billeder <b>vil ikke blive slettet,</b> når du sletter historikken i %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
