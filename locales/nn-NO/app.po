@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-28 12:30+0000\n"
+"PO-Revision-Date: 2017-08-29 06:06+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -294,7 +294,7 @@ msgstr "Les meir"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla strevar etter å berre samle inn det vi treng for å tilby og forbetre %1$s for alle."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -344,7 +344,7 @@ msgstr "Fald ut"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Opne faner: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
@@ -740,7 +740,7 @@ msgstr "Avbryt"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Snarvegen vil bli opna med sporingsvernet avslått"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -767,7 +767,7 @@ msgstr "Opne"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Privat surfeøkt"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -780,10 +780,10 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Med varsel kan du slette økta di i %1$s med eitt klikk. Du treng ikkje å opne appen, eller å sjå kva som køyrer i nettlesaren din."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Slett nettlesarhistorikk"
