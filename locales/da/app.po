@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-29 12:35+0000\n"
-"Last-Translator: troels.krainer.thomsen <troels.krainer.thomsen@gmail.com>\n"
+"PO-Revision-Date: 2017-08-29 21:52+0000\n"
+"Last-Translator: Joergen <joergenr@stofanet.dk>\n"
 "Language-Team: da <LL@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -40,12 +40,14 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Automatisk privat browsing.\n"
+"Surf. Slet. Start forfra."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Din browser-historik er blevet slettet."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -123,7 +125,7 @@ msgstr "Del via"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "Ryd browser-historik"
+msgstr "Slet browser-historik"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -148,7 +150,7 @@ msgstr "Slet"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Ryd browser-historik"
+msgstr "Slet browser-historik"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -172,10 +174,20 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s giver dig fuld kontrol.</p>\n"
+"<p>Anvend den som privat browser:\n"
+"  <ul>\n"
+"    <li>Søg og surf direkte i appen</li>\n"
+"    <li>Bloker sporing (eller opdater indstillingerne og tillad sporing)</li>\n"
+"    <li>Slet fjerner cookies samt søge- og browser-historik</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s er udviklet af Mozilla. Vores formål er at fremme et sundt, åbent internet.<br/>\n"
+"<a href=\"%2$s\">Læs mere</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Søgning"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -195,7 +207,7 @@ msgstr "Systemstandard"
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Standard-søgetjeneste"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -226,7 +238,7 @@ msgstr ""
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Usynlig"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -261,7 +273,7 @@ msgstr "Bloker billeder"
 #. version to a SUMO page describing      how to set Focus as a default browser
 msgctxt "preference_default_browser"
 msgid "Make default browser"
-msgstr ""
+msgstr "Angiv som standard-browser"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -300,7 +312,7 @@ msgstr "Om %1$s"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Ryd adressefeltet"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -314,7 +326,7 @@ msgstr ""
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Slet browser-historik"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -479,7 +491,7 @@ msgstr "Hent fil"
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuller"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
@@ -506,6 +518,10 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Siden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>\n"
+"        <li>Hvis du ikke kan indlæse nogen websider overhovedet, kontrollér da din enheds data- eller wi-fi-forbindelse.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
@@ -524,6 +540,12 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Kontrollér, om adressen indeholder tastefejl, fx\n"
+"          <strong>ww</strong>.eksempel.dk i stedet for\n"
+"          <strong>www</strong>.eksempel.dk</li>\n"
+"        <li>Hvis du ikke kan indlæse nogen websider overhovedet, kontrollér da din enheds data- eller wi-fi-forbindelse.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -536,6 +558,10 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Webadresser skrives normalt som <strong>http://www.eksempel.dk/</strong></li>\n"
+"  <li>Kontrollér at du ikke benytter divisionstegn (dvs. <strong>/</strong>)</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -547,6 +573,9 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Dette problem kan nogle gange skyldes, at cookies er slået fra, eller modtagelse af cookies er blevet nægtet.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -575,6 +604,12 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Dette kan være et problem med serverens konfiguration,\n"
+"eller det kan betyde, at nogen forsøger at give sig ud for at være serveren.</li>\n"
+"  <li>Hvis du har kunnet tilgå serveren tidligere kan dette problem være midlertidigt\n"
+"og du anbefales at prøve igen senere.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -715,7 +750,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "Åbn link i valgte faneblad"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -753,4 +788,4 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Slet browser-historik"
