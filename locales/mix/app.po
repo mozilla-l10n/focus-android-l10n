@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-16 13:49+0200\n"
-"PO-Revision-Date: 2017-08-29 00:45+0000\n"
+"PO-Revision-Date: 2017-08-30 03:59+0000\n"
 "Last-Translator: baldemarls <baldemarls@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mix\n"
@@ -28,7 +28,7 @@ msgstr "Ma sau ña"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr "Vaá"
+msgstr "Va'a"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -86,7 +86,7 @@ msgstr "Chika'a nu pantalla xina"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "Nu ndasamu"
+msgstr "Nu samu"
 
 msgctxt "menu_about"
 msgid "About"
@@ -430,7 +430,7 @@ msgstr "Nduku inka nu kuu kuncheu ña kunu"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ni iin nu sachuun kúú kunaku tsi enlace yó’o. Kuu ketu %1$s tatu kunu ndukukuv%2$s inka nu kuu sachuun."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -565,6 +565,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Yee ña Vá’à nu inka pagina a inkana kuni sakue'ena .</li>\n"
+"  <li>Tatu va'a nikitsau ta sata , chaa ntu'u ña Vá’à yo kunchatu xoo cha kitsa tuku. </li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -614,12 +618,12 @@ msgstr ""
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Saa kanu ña sèè"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Nduku sèè ña kunu. Kasi tu'un va'a tsi siin ñaa va'a sa'a kue pagina."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -629,7 +633,7 @@ msgstr "Nduku ña kunu, nixi kunu"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "¿Nudukuku si'in ña'a? katsi inka tsiña ndukuku inka nu sama ntii ñaa yo."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -646,7 +650,7 @@ msgstr "Nchiko nu inka pagina %1$s katavi. Nu xikua %1$s \" Chikaa nu pantalla x
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Ka'un ña see"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
