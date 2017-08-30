@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-30 06:50+0000\n"
+"PO-Revision-Date: 2017-08-30 06:51+0000\n"
 "Last-Translator: Artem Polivanchuk <a.polivanchuk@outlook.com>\n"
 "Language-Team: uk <LL@li.org>\n"
 "Language: uk\n"
@@ -782,10 +782,10 @@ msgstr "Сеанс приватного перегляду"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Сповіщення дозволяють вам стирати дані сеансу %1$s одним дотиком. Вам не потрібно відкривати програму чи дивитися, що відбувається у вашому браузері."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Стерти історію перегляду"
