@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-08-04 03:08+0000\n"
+"PO-Revision-Date: 2017-09-04 10:17+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
-"Language: lo\n"
 "Language-Team: lo <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -167,12 +168,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s ເຮັດໃຫ້ທ່ານສາມາດຄວບຄູມໄດ້.</p>\n"
@@ -183,9 +182,7 @@ msgstr ""
 "    <li>ລຶບຄຸກກີ້ລວມທັງປະຫວັດການຄົ້ນຫາ ແລະ ການທ່ອງເວັບອອກ</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s ໄດ້ຮັບການສ້າງຂື້ນມາຈາກ Mozilla. "
-"ພາລະກິດຂອງພວກເຮົາແມ່ນສົ່ງເສີມການນຳໃຊ້ອິນເຕີເນັດທີ່ສົມບູນ ແລະ "
-"ເປີດກ້ວາງ<br/>\n"
+"<p>%1$s ໄດ້ຮັບການສ້າງຂື້ນມາຈາກ Mozilla. ພາລະກິດຂອງພວກເຮົາແມ່ນສົ່ງເສີມການນຳໃຊ້ອິນເຕີເນັດທີ່ສົມບູນ ແລະ ເປີດກ້ວາງ<br/>\n"
 "<a href=\"%2$s\">ຮຽນຮູ້ເພີ່ມເຕີ່ມ</a></p>"
 
 msgctxt "preference_category_search"
@@ -296,9 +293,7 @@ msgstr "ຮຽນຮູ້ເພີ່ມເຕີມ"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr ""
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -339,7 +334,7 @@ msgstr "ລຶບປະຫວັດການທ່ອງເວັບ"
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "ຂະຫຍາຍ"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -355,13 +350,13 @@ msgstr ""
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "ເປີດແທັບ"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "ປິດແທັບ"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -460,12 +455,8 @@ msgstr "ຊອກຫາແອັບທີ່ສາມາດເປີດລີ້
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"ບໍ່ມີແອັບໃດເລີຍໃນອຸປະກອນຂອງທ່ານທີ່ຈະສາມາດເປີດລີ້ງນີ້ໄດ້. ທ່ານສາມາດອອກຈາກ "
-"%1$s ເພື່ອຄົ້ນຫາ %2$s ແອັບທີ່ສາມາດເປີດລີ້ງນີ້ໄດ້."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "ບໍ່ມີແອັບໃດເລີຍໃນອຸປະກອນຂອງທ່ານທີ່ຈະສາມາດເປີດລີ້ງນີ້ໄດ້. ທ່ານສາມາດອອກຈາກ %1$s ເພື່ອຄົ້ນຫາ %2$s ແອັບທີ່ສາມາດເປີດລີ້ງນີ້ໄດ້."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -523,18 +514,13 @@ msgstr "ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ເວັບໄຊທ໌ອາດຈະເຂົ້ານຳໃຊ້ບໍ່ໄດ້ຊົ່ວຄາວ ຫລື "
-"ກຳລັງເຮັດວຽກຫນັກເກີນໄປ. ລອງອີກເທື່ອຫນຶ່ງໃນໄວໆນີ້.</li>\n"
-"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ "
-"ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi "
-"ຂອງທ່ານ.</li>\n"
+"        <li>ເວັບໄຊທ໌ອາດຈະເຂົ້ານຳໃຊ້ບໍ່ໄດ້ຊົ່ວຄາວ ຫລື ກຳລັງເຮັດວຽກຫນັກເກີນໄປ. ລອງອີກເທື່ອຫນຶ່ງໃນໄວໆນີ້.</li>\n"
+"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi ຂອງທ່ານ.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -551,17 +537,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>ກວດເບິງຄືນວ່າທ່ານໄດ້ພິມທີ່ຢູ່ຂອງເວັບຜິດຫລືບໍ່ ຕົວຢ່າງ\n"
 "          <strong>ww</strong>.example.com ແທນທີ່ຈະເປັນ\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ "
-"ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi "
-"ຂອງທ່ານ.</li>\n"
+"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi ຂອງທ່ານ.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -571,17 +554,13 @@ msgstr "ທີ່ຢູ່ບໍ່ຖືກຕ້ອງ"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ທີ່ຢູ່ຂອງເວັບປົກກະຕິແລ້ວແມ່ນຈະຂຽນໃນຮູບແບບ "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>ຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານໄດ້ນຳໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (ຕົວຢ່າງ: "
-"<strong>/</strong>).</li></ul>"
+"  <li>ທີ່ຢູ່ຂອງເວັບປົກກະຕິແລ້ວແມ່ນຈະຂຽນໃນຮູບແບບ <strong>http://www.example.com/</strong></li>\n"
+"  <li>ຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານໄດ້ນຳໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (ຕົວຢ່າງ: <strong>/</strong>).</li></ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -590,13 +569,11 @@ msgstr "ຫນ້າເວັບນີ້ບໍ່ໄດ້ປ່ຽນເສັ
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ບາງເທື່ອບັນຫານີ້ອາດມີສາເຫດມາຈາກການປິດນຳໃຊ້ ຫລື "
-"ປະຕິເສດຍອມຮັບຄຸກກີ້.</li></ul>"
+"  <li>ບາງເທື່ອບັນຫານີ້ອາດມີສາເຫດມາຈາກການປິດນຳໃຊ້ ຫລື ປະຕິເສດຍອມຮັບຄຸກກີ້.</li></ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -605,8 +582,7 @@ msgstr "ບໍ່ເຂົ້າໃຈທີ່ຢູ່"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -620,20 +596,15 @@ msgstr "ການເຊື່ອມຕໍ່ທີປອດໄພຫລົ້ມ
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ສິງນີ້ອາດຈະເປັນບັນຫາທີ່ເກີດມາຈາກການຄອນຟິກເຊີເວີຜິດ ຫລື "
-"ມັນອາດຈະເກີດມາຈາກການທີ່ມີບາງຄົນພະຍາຍາມປອມແປງເຊີເວີ.</li>\n"
-"  <li>ຖ້າຫາກວ່າທ່ານເຄີຍເຊື່ອມຕໍ່ກັບເຊີເວີນີ້ໄດ້ສຳເລັດມາກ່ອນ "
-"ຂໍ້ຜິດພາດນີ້ອາດຈະເກີດຂື້ນພຽງຊົ່ວຄາວ ແລະ "
-"ທ່ານສາມາດລອງເຂົ້າໃຫມ່ໃນພາຍຫລັງ.</li>\n"
+"  <li>ສິງນີ້ອາດຈະເປັນບັນຫາທີ່ເກີດມາຈາກການຄອນຟິກເຊີເວີຜິດ ຫລື ມັນອາດຈະເກີດມາຈາກການທີ່ມີບາງຄົນພະຍາຍາມປອມແປງເຊີເວີ.</li>\n"
+"  <li>ຖ້າຫາກວ່າທ່ານເຄີຍເຊື່ອມຕໍ່ກັບເຊີເວີນີ້ໄດ້ສຳເລັດມາກ່ອນ ຂໍ້ຜິດພາດນີ້ອາດຈະເກີດຂື້ນພຽງຊົ່ວຄາວ ແລະ ທ່ານສາມາດລອງເຂົ້າໃຫມ່ໃນພາຍຫລັງ.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -678,12 +649,8 @@ msgstr ""
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"ບັນທຶກໄວ້ ແລະ ໄດ້ແບ່ງປັນຮູບພາບ <b>ຈະບໍ່ຖືກລົບ</b> "
-"ເມື່ອທ່ານລຶບປະຫວັດການນຳໃຊ້ຂອງ %1$s"
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "ບັນທຶກໄວ້ ແລະ ໄດ້ແບ່ງປັນຮູບພາບ <b>ຈະບໍ່ຖືກລົບ</b> ເມື່ອທ່ານລຶບປະຫວັດການນຳໃຊ້ຂອງ %1$s"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -692,9 +659,7 @@ msgstr "ເພີ່ມຄວາມເປັນສ່ວນໂຕຂອງທ່
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -704,9 +669,7 @@ msgstr ""
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr ""
 
 #. First run tour (Shortcut): Title
@@ -718,9 +681,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -732,9 +693,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -818,9 +777,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -828,4 +785,3 @@ msgstr ""
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
 msgstr ""
-
