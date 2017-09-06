@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-08-28 12:48+0200\n"
-"PO-Revision-Date: 2017-07-31 02:03+0000\n"
-"Last-Translator: அருண் குமார் (Arun Kumar) <thangam.arunx@gmail.com>\n"
-"Language: ta\n"
+"PO-Revision-Date: 2017-09-06 15:24+0000\n"
+"Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -165,26 +166,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s உலாவி உங்களைக் கட்டுப்படுத்துகிறது.</p>\n"
 "<p>அந்தரங்க உலாவியாகப் பயன்படுத்துக:\n"
 "  <ul>\n"
 "    <li>தேடலுக்கும் உலாவலுக்கும் இந்த உலாவியைப் பாவியுங்கள்</li>\n"
-"    <li>பின்தொடரிகளைத் தடு (அல்லது அமைவுகளை மாற்றி பின்தொடரியை "
-"அனுமதி)</li>\n"
-"    <li>நினைவிகளை அகற்றுவதன் மூலம் தேடல் மற்றும் உலாவல் வரலாற்றையும் "
-"சேர்த்து அகற்று</li>\n"
+"    <li>பின்தொடரிகளைத் தடு (அல்லது அமைவுகளை மாற்றி பின்தொடரியை அனுமதி)</li>\n"
+"    <li>நினைவிகளை அகற்றுவதன் மூலம் தேடல் மற்றும் உலாவல் வரலாற்றையும் சேர்த்து அகற்று</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s ஒரு மொசில்லா தயாரிப்பாகும். எங்களின் நோக்கம் வேகமான ஆரோக்கியமான "
-"திறந்த இணையத்தைக் கிடைக்கச் செய்வதாகும்.<br/>\n"
+"<p>%1$s ஒரு மொசில்லா தயாரிப்பாகும். எங்களின் நோக்கம் வேகமான ஆரோக்கியமான திறந்த இணையத்தைக் கிடைக்கச் செய்வதாகும்.<br/>\n"
 "<a href=\"%2$s\">மேலும் அறிய</a></p>"
 
 msgctxt "preference_category_search"
@@ -295,15 +291,13 @@ msgstr "மேலும் அறிய"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க மொசில்லா உறுதிபூண்டுள்ளது."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "தனியுரிமை கொள்கை"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -338,7 +332,7 @@ msgstr "உலாவல் வரலாற்றை அகற்று"
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "விரி"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -348,19 +342,19 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "திறந்த கீற்றுகள்: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "கீற்றைத் திற"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "கீற்றை மூடு"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -459,12 +453,8 @@ msgstr "தொடுப்பை திறக்கவல்ல ஒரு செ
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கவல்லது. %1$s "
-"என்பதை விடுத்து ஒரு செயலியால் %2$s என்பதை தேட முடியும்."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கவல்லது. %1$s என்பதை விடுத்து ஒரு செயலியால் %2$s என்பதை தேட முடியும்."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -489,9 +479,7 @@ msgstr "திற"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"%1$s வரலாற்றைத் துடைக்கும் பொருட்டு பதிவிறக்கிய கோப்புகள் "
-"<b>அழிக்கப்படாது.</b>"
+msgstr "%1$s வரலாற்றைத் துடைக்கும் பொருட்டு பதிவிறக்கிய கோப்புகள் <b>அழிக்கப்படாது.</b>"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -524,17 +512,13 @@ msgstr "இணைக்க இயலவில்லை"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>இத்தளம் தற்சமயம் கிடைக்காமலோ (அ) சேவகன் மிகவும் மும்முரமாகவோ "
-"இருக்கலாம். சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>\n"
-"        <li>எந்த வலைதளத்தையும் அணுக முடியாவிட்டால், கைபேசியில் அல்லது "
-"அருகலை இணையம் உள்ளதா என உறுதிசெய்யவும்.</li>\n"
+"        <li>இத்தளம் தற்சமயம் கிடைக்காமலோ (அ) சேவகன் மிகவும் மும்முரமாகவோ இருக்கலாம். சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>\n"
+"        <li>எந்த வலைதளத்தையும் அணுக முடியாவிட்டால், கைபேசியில் அல்லது அருகலை இணையம் உள்ளதா என உறுதிசெய்யவும்.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -551,16 +535,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>நீங்கள் உள்ளிட்ட முகவரியில் பிழை உள்ளதா எனப் பாருங்கள்\n"
 "          <strong>www</strong>.thamizha.com முகவரிக்கு பதிலாக\n"
 "          <strong>ww</strong>.thamizha.com உள்ளிட்டிருக்கலாம்</li>\n"
-"        <li>உங்களால் எந்த வலைப் பக்கத்தையும் அணுக முடியவில்லையெனில், "
-"கைப்பேசி (அ) அருகலை இணையம் உள்ளதா எனப்பாருங்கள்.</li>\n"
+"        <li>உங்களால் எந்த வலைப் பக்கத்தையும் அணுக முடியவில்லையெனில், கைப்பேசி (அ) அருகலை இணையம் உள்ளதா எனப்பாருங்கள்.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -570,17 +552,13 @@ msgstr "செல்லாத முகவரி"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>இணைய முகவரி <strong>http://www.infitt.org/</strong> போன்று "
-"இருக்கனும்</li>\n"
-"  <li>நீங்க / குறியைப் பாவித்தீர்களா எனப் பார்க்கவும் (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>இணைய முகவரி <strong>http://www.infitt.org/</strong> போன்று இருக்கனும்</li>\n"
+"  <li>நீங்க / குறியைப் பாவித்தீர்களா எனப் பார்க்கவும் (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -590,13 +568,11 @@ msgstr "பக்கத்தை ஒழுங்காகத் திருப�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ (அ) முடக்கத்தில் "
-"இருந்தாலோ இந்தச் சிக்கல் நேரும்.</li>\n"
+"  <li>சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ (அ) முடக்கத்தில் இருந்தாலோ இந்தச் சிக்கல் நேரும்.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -606,8 +582,7 @@ msgstr "முகவிரியின் நெறிமுறையை அற�
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -621,21 +596,17 @@ msgstr "பாதுகாப்பான இணைப்பு முறிந�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>இந்தச் சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில்"
-" \n"
+"  <li>இந்தச் சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில் \n"
 "யாராவது ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள்.</li>\n"
 "  <li>நீங்கள் இந்தச் சேவையகத்தை ஏற்கனவே வெற்றிகரமாக அணுகிருந்தால்,\n"
-"இந்தப் பிழை தற்காலிகமானதே, எனவே சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>"
-"\n"
+"இந்தப் பிழை தற்காலிகமானதே, எனவே சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -674,15 +645,13 @@ msgstr "சேமி"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "இணைப்பைப் புதிய கீற்றில் திற"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "%1$s வரலாற்றை அகற்றும் போது சேமித்த பகிர்ந்த படங்கள் <b>அழிக்கப்படாது</b>."
 
 #. First run tour (Default browser): Title
@@ -692,9 +661,7 @@ msgstr "தனியுரிமையைத் துரிதப்படு�
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -704,9 +671,7 @@ msgstr ""
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr ""
 
 #. First run tour (Shortcut): Title
@@ -718,9 +683,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -732,9 +695,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -818,9 +779,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -828,4 +787,3 @@ msgstr ""
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
 msgstr ""
-
