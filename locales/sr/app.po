@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-07 22:46+0000\n"
+"PO-Revision-Date: 2017-09-07 22:53+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: sr <LL@li.org>\n"
 "Language: sr\n"
@@ -809,7 +809,7 @@ msgstr "%1$s је бесплатан софтвер и отвореног код
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s вам је омогућен под условима <a href=\"%2$s\">Mozilla-ине јавне лиценце</a> и других лиценци отвореног кода."
+msgstr "%1$s вам је омогућен под условима <a href=\"%2$s\">Mozilla јавне лиценце</a> и других лиценци отвореног кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -837,4 +837,4 @@ msgstr "Додатни изворни код за %1$s је доступан п�
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s такође користи блок-листе пружане од стране Disconnect инкорпорације као одвојени и независни радови под <a href=\"%2$s\">GNU General Public Licensev3</a> и доступним <a href=\"%3$s\">овде</a>."
+msgstr "%1$s такође користи блок-листе пружане од стране Disconnect инкорпорације као одвојени и независни радови под <a href=\"%2$s\">GNU General Public License v3</a> и доступним <a href=\"%3$s\">овде</a>."
