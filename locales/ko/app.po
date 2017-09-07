@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-08-28 12:48+0200\n"
+"POT-Creation-Date: 2017-09-07 20:09+0200\n"
 "PO-Revision-Date: 2017-07-13 06:58+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
@@ -270,19 +270,21 @@ msgid "Block images"
 msgstr "이미지 차단"
 
 #. This preference does not set Focus as the default browser but instead links
-#. to Android's      "default apps" screen or if not supported by this Android
-#. version to a SUMO page describing      how to set Focus as a default browser
-msgctxt "preference_default_browser"
-msgid "Make default browser"
-msgstr "기본 브라우저로 설정"
+#. to Android's      "default apps" settings screen or if not supported by this
+#. Android version to a SUMO page describing      how to set Focus as a default
+#. browser.       %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_default_browser2"
+msgid "Make %1$s default browser"
+msgstr ""
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
 msgstr "Mozilla"
 
-msgctxt "preference_mozilla_telemetry"
-msgid "Send anonymous usage data"
-msgstr "익명으로 사용 데이터 보내기"
+msgctxt "preference_mozilla_telemetry2"
+msgid "Send usage data"
+msgstr ""
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -813,5 +815,63 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
+msgstr ""
+
+#. If the user decides to open the current page in another browser and if
+#. Firefox is not installed then we show this       item in the list of
+#. browsers. Clicking it will open the app store installed on the device
+#. (usually that's Google Play).
+msgctxt "download_firefox"
+msgid "Download Firefox"
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)
+msgctxt "your_rights_content1"
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
+msgctxt "your_rights_content2"
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the trademark policy (e.g.
+#. https://www.mozilla.org/foundation/trademarks/policy/)
+msgctxt "your_rights_content3"
+msgid ""
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the list of licenses used by the dependencies.
+msgctxt "your_rights_content4"
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the GPL     %3$s will be replaced with a URL linking to the
+#. tracking protection wiki page (e.g.
+#. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
+msgctxt "your_rights_content5"
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
 
