@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-07 22:06+0000\n"
+"PO-Revision-Date: 2017-09-07 22:46+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: sr <LL@li.org>\n"
 "Language: sr\n"
@@ -92,7 +92,7 @@ msgstr "Поставке"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr "О Focus за Android"
+msgstr "О Focus-у за Android"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -110,7 +110,7 @@ msgstr "Ваша права"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Блокирани трагачи"
+msgstr "Блокирани пратиоци"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -187,7 +187,7 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr "Претражи"
+msgstr "Претраживач"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -219,15 +219,15 @@ msgstr "Блокирај оглашиваче"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Блокирај аналитичке трагаче"
+msgstr "Блокирај аналитичке пратиоце"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Блокирај друштвене трагаче"
+msgstr "Блокирај друштвене пратиоце"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Блокирај трагаче осталог садржаја"
+msgstr "Блокирај пратиоце осталог садржаја"
 
 msgctxt "preference_privacy_block_content_summary"
 msgid "May break some videos and Web pages"
@@ -238,7 +238,7 @@ msgstr "Може пореметити неке видео клипове и ве
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "Потајни"
+msgstr "Потајни режим"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -420,7 +420,7 @@ msgstr "Повратак на претходну"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "Блокирај трагаче"
+msgstr "Блокирај пратиоце"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
