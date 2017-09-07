@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: focus-android\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-07 19:48+0000\n"
+"PO-Revision-Date: 2017-09-07 19:54+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -805,7 +805,7 @@ msgstr "Pobierz Firefoksa"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s wolne oprogramowanie o otwartym kodzie źródłowym tworzone przez Mozillę i innych współtwórców."
+msgstr "%1$s to wolne oprogramowanie o otwartym kodzie źródłowym tworzone przez Mozillę i innych współtwórców."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -841,3 +841,5 @@ msgstr "Dodatkowy kod źródłowy programu %1$s jest dostępny na warunkach inny
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s używa także list blokowania dostarczanych przez Disconnect, Inc. jako oddzielny i niezależny produkt dostępny na warunkach licencji <a href=\"%2$s\">GPLv3 (GNU General Public License v3)</a>, "
+"opisany <a href=\"%3$s\">tutaj</a>."
