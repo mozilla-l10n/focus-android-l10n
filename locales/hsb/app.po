@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-08 15:11+0000\n"
+"PO-Revision-Date: 2017-09-08 15:16+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: hsb <LL@li.org>\n"
 "Language: hsb\n"
@@ -828,7 +828,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Přidatny žórłowy kod za %1$s je pod wšelakich druhich swobodnych <a href=\"%2$s\">licencach</a> wotewrjeneho žórła k dispoziciji."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -838,3 +838,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s tež blokowanske lisćiny poskićene wot Disconnect, Inc. jako separatne a njewotwisne dźěła pod licencu <a href=\"%2$s\">General Public Licence v3</a> wužiwa, kotrež su <a href=\"%3$s\">tu</a> k "
+"dispoziciji."
