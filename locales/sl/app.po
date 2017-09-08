@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-07 19:30+0000\n"
+"PO-Revision-Date: 2017-09-08 14:19+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -822,13 +822,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Nikakršne pravice niti licence nimate za uporabo blagovnih znamk Fundacije Mozilla ali kateregakoli od izdelkov, vključno z imeni in logotipi Mozille, Firefoxa ali %1$sa. Dodatne informacije lahko "
+"najdete <a href=\"%2$s\">tukaj</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Dodatna izvorna koda za %1$s je na voljo pod raznimi drugimi prostimi in odprtokodnimi <a href=\"%2$s\">licencami</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
