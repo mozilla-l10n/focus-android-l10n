@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-09 17:31+0000\n"
+"PO-Revision-Date: 2017-09-09 17:42+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
@@ -796,20 +796,20 @@ msgstr "Удалить историю веб-сёрфинга"
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Загрузить Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s является бесплатной программой с открытым исходным кодом, созданной Mozilla и другими участниками."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s предоставляется вам на условиях <a href=\"%2$s\">Mozilla Public License</a> и других лицензий для открытого исходного кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -820,13 +820,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Вы не получаете никаких прав или лицензий на товарные знаки Mozilla Foundation или любой из сторон, включая имена или логотипы Mozilla, Firefox или %1$s. Дополнительную информацию можно найти <a "
+"href=\"%2$s\">здесь</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Дополнительный исходный код для %1$s доступен на условиях различных других <a href=\"%2$s\">лицензий</a> для бесплатного и открытого исходного кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -836,3 +838,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s также использует списки блокировки, предоставленные Disconnect, Inc. как отдельные и независимые произведения на условиях <a href=\"%2$s\">GNU General Public License v3</a> и доступные <a "
+"href=\"%3$s\">здесь</a>."
