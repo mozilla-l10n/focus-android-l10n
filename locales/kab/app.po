@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-08 14:08+0000\n"
+"PO-Revision-Date: 2017-09-10 10:31+0000\n"
 "Last-Translator: Slimane Amiri <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -805,7 +805,7 @@ msgstr "%1$s baṭṭel s waɣbalu yeldin ixeddem-it Mozilla d imettekiyen nni�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s yella ddaw tiwtilin n<a href=\"%2$s\">Turagt tazayezt n Mozilla</a>akked turagt yeldin nniḍen."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -815,14 +815,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "UR k-netmudu ara ula d azref neγ  turagt ɣef ticṛaḍ yersen n Mozilla neɣ n wis kraḍ, am Mozilla neγ Firefox neγ ismawen %1$s akked iluguten. ugar n talγut ad t-tafeḍ di <a href=\"%2$s\">dagi</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Tangalt taγbalut nniḍen i %1$s tella deg waṭas n tiγbula tilleliyen nniḍen  <a href=\"%2$s\">akked turagt nniḍen</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -831,4 +831,4 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s iseqdac daγen tiggayen d tebdarin sγur Disconnect, Inc am leqdic illeli daw turagt tazirazt <a href=\"%2$s\">, aya <a href=\"%3$s\">yella dagi</a>."
