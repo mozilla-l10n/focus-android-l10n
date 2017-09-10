@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-10 14:15+0000\n"
+"PO-Revision-Date: 2017-09-10 21:49+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language-Team: az <LL@li.org>\n"
 "Language: az\n"
@@ -802,14 +802,14 @@ msgstr "Firefox Endir"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s Mozilla və digər töhfəverənlər tərəfindən yaradılmış azad və açıq qaynaqlı proqramdır."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s <a href=\"%2$s\">Mozilla Public License</a> və digər açıq qaynaq lisenziyalarının şərtləri ilə təqdim edilir."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -820,13 +820,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Sizə Mozilla Fondunun və digər tərəflərin ticari markası olan Mozilla, Firefox və ya %1$s adları və loqoları üçün heç bir hüquq və ya lisenziya verilmir. Ətraflı məlumatı <a "
+"href=\"%2$s\">buradan</a> tapa bilərsiz."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s üçün əlavə qaynaq kodu digər bir neçə azad və açıq qaynaq <a href=\"%2$s\">lisenziyaları</a> ilə mövcuddur."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
