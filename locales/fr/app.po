@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-07 19:55+0000\n"
+"PO-Revision-Date: 2017-09-10 19:02+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -805,7 +805,7 @@ msgstr ""
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s est distribué suivant les modalités de la <a href=\"%2$s\">Mozilla Public License</a> et d’autres licences open source."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
