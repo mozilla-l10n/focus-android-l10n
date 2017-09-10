@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-10 12:56+0000\n"
+"PO-Revision-Date: 2017-09-10 19:36+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -690,7 +690,7 @@ msgstr "Προσθήκη συντομεύσεων στην αρχική οθόν
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Επιστρέψτε γρήγορα στις αγαπημένες σας ιστοσελίδες στο %1$s. Απλά επιλέξτε \"Προσθήκη στην αρχική οθόνη\" από το μενού του %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -830,7 +830,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Επιπρόσθετος πηγαίος κώδικας για το %1$s είναι διαθέσιμος υπό διάφορες άλλες ελεύθερες και ανοικτού κώδικα <a href=\"%2$s\">άδειες</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
