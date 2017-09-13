@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-13 04:50+0000\n"
+"PO-Revision-Date: 2017-09-13 05:11+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: meh\n"
@@ -431,13 +431,13 @@ msgstr "Síne link nuu inka ka̱a̱"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Kuvi kenenu nuu %1$s jee síne link ya´a nuu %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Nánuku iin ka̱a̱ nuu kuvi síne link ya´a"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -446,60 +446,60 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ni´i daa ka̱a̱ nuu ka̱a̱ noo´o kuvi síne link ya´a. Kuvi kenenu nuu %1$s saa kuvi nánukunu iin ka̱a̱ kuvi koo inu jii %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Kene nuu nánuku daa yɨ´ɨ yu´u?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s nnɨ´ɨ"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Síne"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Daa archivu <b>nná</b> dee xita daa nnánukunu %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Xinuu archivu"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Nkuvi-ka"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Xinuu"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Ntu nkuvi síne página ya´a"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Nakajie´e tuku"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Ntu nkuvi kivɨ"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
