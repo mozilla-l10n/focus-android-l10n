@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-10 11:22+0000\n"
+"PO-Revision-Date: 2017-09-15 07:27+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -110,7 +110,7 @@ msgstr "Az Ön jogai"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Blokkolt nyomkövetők"
+msgstr "Blokkolt követők"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -215,11 +215,11 @@ msgstr "Adatvédelem"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Reklámkövetők blokkolása"
+msgstr "Hirdetéskövetők blokkolása"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Elemző követők blokkolása"
+msgstr "Analitikai követők blokkolása"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -742,7 +742,7 @@ msgstr "Mégse"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr "Az ikon követésvédelem nélkül fogja megnyitni az alkalmazást"
+msgstr "Az ikon követés elleni védelem nélkül fogja megnyitni az alkalmazást"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
