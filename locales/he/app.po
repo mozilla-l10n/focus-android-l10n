@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-07 20:09+0200\n"
+"POT-Creation-Date: 2017-09-29 14:18-0700\n"
 "PO-Revision-Date: 2017-08-16 15:30+0000\n"
 "Last-Translator: ItielMaN <itiel_yn8@walla.com>\n"
 "Language: he\n"
@@ -86,6 +86,12 @@ msgstr "פתיחה באמצעות…"
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
 msgstr "הוספה למסך הבית"
+
+#. Menu item: Shows information about features and changes that are new to
+#. this version
+msgctxt "menu_whats_new"
+msgid "What's New"
+msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
