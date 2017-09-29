@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-07 20:09+0200\n"
+"POT-Creation-Date: 2017-09-29 14:18-0700\n"
 "PO-Revision-Date: 2017-08-21 15:24+0000\n"
 "Last-Translator: ravi.103151 <ravi.103151@gmail.com>\n"
 "Language: hi_IN\n"
@@ -82,6 +82,12 @@ msgstr "इसके साथ खोलें…"
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
 msgstr "मुख्य स्क्रीन में जोड़ें"
+
+#. Menu item: Shows information about features and changes that are new to
+#. this version
+msgctxt "menu_whats_new"
+msgid "What's New"
+msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
