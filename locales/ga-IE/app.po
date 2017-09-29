@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-07 20:09+0200\n"
+"POT-Creation-Date: 2017-09-29 14:18-0700\n"
 "PO-Revision-Date: 2017-07-28 17:03+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language: ga_IE\n"
@@ -83,6 +83,12 @@ msgstr "Oscail le…"
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
 msgstr "Cuir leis an scáileán Baile"
+
+#. Menu item: Shows information about features and changes that are new to
+#. this version
+msgctxt "menu_whats_new"
+msgid "What's New"
+msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
