@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-30 12:08+0000\n"
+"PO-Revision-Date: 2017-09-30 12:22+0000\n"
 "Last-Translator: Enol <enolp@softastur.org>\n"
 "Language-Team: ast <LL@li.org>\n"
 "Language: ast\n"
@@ -177,7 +177,7 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Gueta"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -192,7 +192,7 @@ msgstr "Llingua"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "Predeterminao del sistema"
+msgstr "Predeterminada del sistema"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -228,7 +228,7 @@ msgstr "Quiciabes ruempa dellos vídeos y páxines web"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Invisible"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -252,7 +252,7 @@ msgstr "Bloquiar fontes web"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Pue facer que falten iconos o imáxenes"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -273,7 +273,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Unviar datos d'usu"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -286,7 +286,7 @@ msgstr "Deprendi más"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla esfuérciase en recoyer namái lo que precisa pa fornir y ameyorar %1$s pa tol mundu."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -690,7 +690,7 @@ msgstr "Fai de la privacidá un vezu"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Predetermina %1$s como'l to restolador y consigui los beneficios del restolar en privao cuando abres páxines web dende otres aplicaciones."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -761,7 +761,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Sesión de restolar en privao"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -794,14 +794,14 @@ msgstr "Baxar Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s ye un programa de baldre y de códigu abiertu fechu por Mozilla y otros collaboradores."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ta disponible so los términos de la <a href=\"%2$s\">Mozilla Public License</a> y otres llicencies de códigu abiertu."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
