@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-07 20:09+0200\n"
-"PO-Revision-Date: 2017-09-30 11:49+0000\n"
+"PO-Revision-Date: 2017-09-30 12:08+0000\n"
 "Last-Translator: Enol <enolp@softastur.org>\n"
 "Language-Team: ast <LL@li.org>\n"
 "Language: ast\n"
@@ -41,13 +41,13 @@ msgid ""
 "Browse. Erase. Repeat."
 msgstr ""
 "Restolar en privao automático.\n"
-"Restola. Desanicia. Repiti."
+"Restola. Balerar. Repiti."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Desanicióse'l to historial de restolar."
+msgstr "Baleróse'l to historial de restolar."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -125,7 +125,7 @@ msgstr "Compartir per"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "Desaniciar historial de restolar"
+msgstr "Balerar historial de restolar"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -136,21 +136,21 @@ msgstr "Abrir"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr "Desaniciar y abrir"
+msgstr "Balerar y abrir"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr "Desaniciar"
+msgstr "Balerar"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Desaniciar historial de restolar"
+msgstr "Balerar historial de restolar"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -265,7 +265,7 @@ msgstr "Bloquiar imáxenes"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "Predeterminar %1$s"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -318,7 +318,7 @@ msgstr "Escartar"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "Desaniciar historial de restolar"
+msgstr "Balerar historial de restolar"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -425,7 +425,7 @@ msgstr "Los tos drechos"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Abrir l'enllaz n'otra aplicación"
+msgstr "Apertura d'enllaz n'otra aplicación"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -433,7 +433,7 @@ msgstr "Abrir l'enllaz n'otra aplicación"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Pues dexar %1$s p'abrir esti enllaz en %2$s."
+msgstr "Pues colar de %1$s p'abrir esti enllaz en %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -473,7 +473,7 @@ msgstr "Abrir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Los ficheros baxaos <b> nun se desaniciarán</b> cuando desanicies el to historial de %1$s."
+msgstr "Los ficheros baxaos <b>nun se desaniciarán</b> cuando balerar l'historial de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -565,6 +565,9 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Davezu esti problema pue cáusalu'l desactivar o refugar les cookies.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -576,6 +579,9 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Quiciabes precises instalar otru software p'abrir esta direición.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -633,14 +639,14 @@ msgstr "Guardar imaxe"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Abrir enllaz en llingüeta nueva"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Les imáxenes guardaes y compartíes <b>nun se desaniciarán</b> cuando baleres l'historial de %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -650,34 +656,34 @@ msgstr "Potencia la to privacidá"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Lleva'l restolar en privao a un nivel meyor. Bloquia anuncios y otru conteníu que pue rastrexate nes páxines y faen lentos los tiempos de carga."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Guetes al to xeitu"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "¿Guetes daqué diferente? Escueyi otru motor de gueta predetermináu nos axustes."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Amiesta atayos a la to pantalla d'aniciu"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Volvi aína a los tos sitios favoritos en %1$s. Namái esbilla «Amestar a la pantalla d'aniciu» nel menú de %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Fai de la privacidá un vezu"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -768,13 +774,13 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Los avisos déxente balerar la to sesión de %1$s con un toque. Nun precises abrir l'aplicación pa ver lo que ta n'execución nel to restolador."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Balerar historial de restolar"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -782,7 +788,7 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Baxar Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
