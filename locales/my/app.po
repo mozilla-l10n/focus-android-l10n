@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-06-10 15:43+0000\n"
+"PO-Revision-Date: 2017-10-02 15:10+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
-"Language: my\n"
 "Language-Team: my <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: my\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -83,13 +84,13 @@ msgstr "…တွင် ဖွင့်ရန်"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "ပင်မစာမျက်နှာသို့ ထည့်ပါ"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr ""
+msgstr "ဘာအသစ်တွေ ပါဝင်ပါသလဲ။"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -135,13 +136,13 @@ msgstr "ကြည့်ရှုမှုမှတ်တမ်းကို ရ�
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "ဖွင့်ပါ"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "ဖျက်ပြီး ဖွင့်ပါ"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -173,25 +174,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s သည် သင့်ကို ထိန်းချုပ်မှု ပေးထားပါသည်။</p>\n"
 "<p>သီးသန့်တစ်ကိုယ်ရေသုံး ဘရောင်ဇာအနေနှင့် အသုံးပြုပါ\n"
 "  <ul>\n"
 "    <li>ရှာဖွေကြည့်ရှုပါ</li>\n"
-"    <li>နောက်ယောင်ခံများကို တားဆီးပါ (သို့မဟုတ် နောက်ယောင်ခံများကို "
-"ခွင့်ပြုရန် သတ်မှတ်ပြင်ဆင်ပါ)</li>\n"
+"    <li>နောက်ယောင်ခံများကို တားဆီးပါ (သို့မဟုတ် နောက်ယောင်ခံများကို ခွင့်ပြုရန် သတ်မှတ်ပြင်ဆင်ပါ)</li>\n"
 "    <li>ကွတ်ကီးများ၊ ရှာဖွေကြည့်ရှုမှုမှတ်တမ်းများကို ရှင်းလင်းပါ</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s ကို Mozilla မှ ထုတ်လုပ်ပါသည်။ ကျွန်ုပ်တို့၏ ရည်မှန်းချက်သည် "
-"ကောင်းမွန်ပွင့်လင်းသော အင်တာနက်ကို တည်ဆောက်ရန် ဖြစ်သည်။<br/>\n"
+"<p>%1$s ကို Mozilla မှ ထုတ်လုပ်ပါသည်။ ကျွန်ုပ်တို့၏ ရည်မှန်းချက်သည် ကောင်းမွန်ပွင့်လင်းသော အင်တာနက်ကို တည်ဆောက်ရန် ဖြစ်သည်။<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 
 msgctxt "preference_category_search"
@@ -257,7 +254,7 @@ msgstr "တိတ်တဆိတ်အသုံးပြုမှု"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "အက်ပ်များကို ခုန်ကူးနေစဉ် ဝဘ်စာမျက်နှာများကို မပြပါနှင့်"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -284,7 +281,7 @@ msgstr "ရုပ်ပုံများကို မပြပါနှင့�
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s ကို ပုံသေအသုံးပြုမည့် ဘရောင်ဇာအဖြစ် သတ်မှတ်ပါ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -292,7 +289,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "အသုံးပြုမှုဆိုင်ရာ အချက်အလက်များကို ပေးပို့ရန်"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -304,15 +301,13 @@ msgstr "ပိုမိုလေ့လာရန်"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla သည် လူတိုင်းအတွက် %1$s ကို ပေးစွမ်းရန်နှင့် တိုးတက်ကောင်းမွန်စေရန်အတွက်သာ ကောက်ခံမှုပြုခြင်း ဖြစ်ပါသည်။"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "ကိုယ်ရေးကာကွယ်မှု သတိပေးချက်"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -347,7 +342,7 @@ msgstr "ကြည့်ရှုမှုမှတ်တမ်းကို ရ�
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "ချဲ့ပါ"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -357,19 +352,19 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "ဖွင့်ထားသော တပ်ဗ်များ။ %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "တပ်ဗ်ကို ဖွင့်ရန်"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "တပ်ဗ်ကို ပိတ်ရန်"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -468,12 +463,8 @@ msgstr "လင့်ခ်ကို ဖွင့်နိုင်သော အ�
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"ယခုလင့်ခ်ကို ကိရိယာရှိ မည်သည့်အက်ပ်မျှ မဖွင့်နိုင်ပါ။ ၎င်းကို "
-"ဖွင့်နိုင်သည့်အက်ပ် %2$s တွင် ရှာဖွေရန် %1$s ထံမှ ထွက်ခွာနိုင်ပါသည်။"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "ယခုလင့်ခ်ကို ကိရိယာရှိ မည်သည့်အက်ပ်မျှ မဖွင့်နိုင်ပါ။ ၎င်းကို ဖွင့်နိုင်သည့်အက်ပ် %2$s တွင် ရှာဖွေရန် %1$s ထံမှ ထွက်ခွာနိုင်ပါသည်။"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -486,34 +477,34 @@ msgstr "လုံခြုံစွာ ဝဘ်ဆိုက်ကြည့်�
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s ကို ဆွဲယူခြင်း ပြီးဆုံးပါပြီ"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "ဖွင့်ပါ"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "သင် %1$s တွင် လည်ပတ်မှတ်တမ်းကို ရှင်းလင်းသည့်အခါ ဆွဲယူထားသောဖိုင်များကို <b>ဖယ်ရှားမည်မဟုတ်ပါ</b>။"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "ဖိုင်ကို ဆွဲယူပါ"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "မလုပ်ဆောင်တော့ပါ"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "ဆွဲယူပါ"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -531,18 +522,13 @@ msgstr "မချိတ်ဆက်နိုင်ပါ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ယခုဝဘ်ဆိုက်ကို ယာယီ အသုံးမပြုနိုင်ပါ သို့မဟုတ် အသုံးပြုသူ "
-"များနေသောကြောင့် ဖြစ်နိုင်သည်။</li>\n"
-"        <li>အကယ်၍ သင်သည် မည်သည့်ဝဘ်ဆိုက်မျှ မဖွင့်နိုင်ပါက "
-"သင့်မိုဘိုင်းကိရိယာ၏ ဒေတာ သို့မဟုတ် ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို "
-"စစ်ဆေးပါ။</li>\n"
+"        <li>ယခုဝဘ်ဆိုက်ကို ယာယီ အသုံးမပြုနိုင်ပါ သို့မဟုတ် အသုံးပြုသူ များနေသောကြောင့် ဖြစ်နိုင်သည်။</li>\n"
+"        <li>အကယ်၍ သင်သည် မည်သည့်ဝဘ်ဆိုက်မျှ မဖွင့်နိုင်ပါက သင့်မိုဘိုင်းကိရိယာ၏ ဒေတာ သို့မဟုတ် ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို စစ်ဆေးပါ။</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -559,16 +545,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>အောက်ပါကဲ့သို့ စာရိုက်အမှားများ ရှိ/မရှိ လိပ်စာကို စစ်ဆေးပါ\n"
 "          <strong>ww</strong>.example.com ဟု မှားရေးထားခြင်း\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>သင်သည် မည်သည့်ဝဘ်ဆိုက်မျှ မဖွင့်နိုင်ပါက သင့်ကိရိယာ၏ ဒေတာ "
-"သို့မဟုတ် ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို စစ်ဆေးပါ။</li>\n"
+"        <li>သင်သည် မည်သည့်ဝဘ်ဆိုက်မျှ မဖွင့်နိုင်ပါက သင့်ကိရိယာ၏ ဒေတာ သို့မဟုတ် ဝိုင်ဖိုင် ချိတ်ဆက်မှုကို စစ်ဆေးပါ။</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -578,17 +562,13 @@ msgstr "လိပ်စာမှားနေသည်"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ဝဘ်လိပ်စာများကို ပုံမှန်အားဖြင့် "
-"<strong>http://www.example.com/</strong> ကဲ့သို့ ရေးလေ့ရှိသည်</li>\n"
-"  <li>ရှေ့ယိုင်မျဉ်းစောင်းကို အသုံးပြုထားခြင်း ဟုတ်/မဟုတ် စစ်ဆေးပါ။ "
-"(နမူနာ <strong>/</strong>)</li>\n"
+"  <li>ဝဘ်လိပ်စာများကို ပုံမှန်အားဖြင့် <strong>http://www.example.com/</strong> ကဲ့သို့ ရေးလေ့ရှိသည်</li>\n"
+"  <li>ရှေ့ယိုင်မျဉ်းစောင်းကို အသုံးပြုထားခြင်း ဟုတ်/မဟုတ် စစ်ဆေးပါ။ (နမူနာ <strong>/</strong>)</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -598,13 +578,11 @@ msgstr "ယခုစာမျက်နှာသည် ကောင်းမွ�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ကွတ်ကီးအသုံးပြုမှု ပိတ်ထားခြင်း သို့မဟုတ် လက်မခံခြင်း စသည်တို့သည် "
-"တစ်ခါတစ်ရံ ယခုပြဿနာကို ဖြစ်ပေါ်စေနိုင်သည်။</li>\n"
+"  <li>ကွတ်ကီးအသုံးပြုမှု ပိတ်ထားခြင်း သို့မဟုတ် လက်မခံခြင်း စသည်တို့သည် တစ်ခါတစ်ရံ ယခုပြဿနာကို ဖြစ်ပေါ်စေနိုင်သည်။</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -614,13 +592,11 @@ msgstr "လိပ်စာကို နားမလည်ပါ"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ယခုလိပ်စာကို ဖွင့်ရန် အခြားဆော့ဖ်ဝဲလ် တပ်ဆင်ရန် လိုအပ်ကောင်း "
-"လိုအပ်နိုင်သည်။</li>\n"
+"  <li>ယခုလိပ်စာကို ဖွင့်ရန် အခြားဆော့ဖ်ဝဲလ် တပ်ဆင်ရန် လိုအပ်ကောင်း လိုအပ်နိုင်သည်။</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -630,19 +606,15 @@ msgstr "လုံခြုံသော ချိတ်ဆက်မှု မအ�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ယခုပြဿနာသည် ဆာဗာ၏ အပြင်အဆင်ကြောင့် သို့မဟုတ် တစ်ယောက်ယောက်သည် ဆာဗာ "
-"အယောင်ဆောင်နေသောကြောင့် ဖြစ်နိုင်သည်။</li>\n"
-"  <li>အကယ်၍ သင်သည် အရင်က ယခုဆာဗာကို ချိတ်ဆက်ခဲ့ဖူးပါက ယခုပြဿနာသည် ယာယီ "
-"ဖြစ်နိုင်သည်၊ နောင်တွင် ပြန်လည်ချိတ်ဆက်ကြည့်ပါ။</li>\n"
+"  <li>ယခုပြဿနာသည် ဆာဗာ၏ အပြင်အဆင်ကြောင့် သို့မဟုတ် တစ်ယောက်ယောက်သည် ဆာဗာ အယောင်ဆောင်နေသောကြောင့် ဖြစ်နိုင်သည်။</li>\n"
+"  <li>အကယ်၍ သင်သည် အရင်က ယခုဆာဗာကို ချိတ်ဆက်ခဲ့ဖူးပါက ယခုပြဿနာသည် ယာယီ ဖြစ်နိုင်သည်၊ နောင်တွင် ပြန်လည်ချိတ်ဆက်ကြည့်ပါ။</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -681,18 +653,14 @@ msgstr "ရုပ်ပုံကို သိမ်းရန်"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "လင့်ခ်ကို တပ်ဗ်အသစ်တွင် ဖွင့်ပါ"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"သင် %1$s မှတ်တမ်းကို ရှင်းလင်းသည့်အခါ သိမ်းထားသော သို့မဟုတ် မျှဝေထားသော "
-"ရုပ်ပုံများကို <b>မဖျက်ပါ</b>။"
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "သင် %1$s မှတ်တမ်းကို ရှင်းလင်းသည့်အခါ သိမ်းထားသော သို့မဟုတ် မျှဝေထားသော ရုပ်ပုံများကို <b>မဖျက်ပါ</b>။"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -701,49 +669,41 @@ msgstr "ကိုယ်ရေးကာကွယ်မှုကို တို�
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "ကိုယ့်နည်းကိုယ့်ဟန် အသုံးပြုမည်"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
-msgstr ""
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr "အခြား မူသေရှာဖွေရေးယန္တရားကို အသုံးပြုလိုပါသလား။ အပြင်အဆင်များတွင် နှစ်သက်ရာကို ရွေးပါ။"
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "အမြန်သုံးလင့်ခ်ကို မူလစာမျက်နှာသို့ ထည့်ပါ"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "ကိုယ်ရေးလုံခြုံမှုကို နေ့စဉ် ဆောင်ရွက်ပါ"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -762,25 +722,25 @@ msgstr "ရှေ့သို့"
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. The title of a dialog we show when the user selected a menu action to add
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "မူလစာမျက်နှာသို့ ထည့်ပါ"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "ထည့်ရန်"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "မလုပ်ဆောင်တော့ပါ"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -796,7 +756,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "ရွေးထားသည့် တပ်ဗ်တွင် လင့်ခ်ကို ဖွင့်ပါ"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -804,7 +764,7 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "ဖွင့်ပါ"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -815,7 +775,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "သီးသန့်ကြည့်နေစဉ်ကာလ"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -827,16 +787,14 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "လည်ပတ်မှတ်တမ်းကို ရှင်းလင်းရန်"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -844,23 +802,19 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Firefox ကို ဆွဲယူရန်"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -869,9 +823,7 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
 
@@ -879,9 +831,7 @@ msgstr ""
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -890,9 +840,5 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-
