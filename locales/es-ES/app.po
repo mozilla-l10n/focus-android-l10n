@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-10-02 21:10+0000\n"
+"PO-Revision-Date: 2017-10-02 21:30+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
@@ -281,7 +281,7 @@ msgstr "Bloquear imágenes"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "Convierte %1$s en tu navegador predeterminado"
+msgstr "Convertir %1$s en tu navegador predeterminado"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -517,7 +517,7 @@ msgstr "Vuelve a intentarlo"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr "No se pudo conectar"
+msgstr "No se puede conectar"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -533,11 +533,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr "La conexión expiró"
+msgstr "La conexión ha caducado"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr "No se encontró el servidor"
+msgstr "Servidor no encontrado"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -587,7 +587,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr "No se entendió la dirección"
+msgstr "No se entiende la dirección"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -601,7 +601,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr "Falló la conexión segura"
+msgstr "Fallo en la conexión segura"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
