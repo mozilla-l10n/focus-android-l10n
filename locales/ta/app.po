@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-09-07 20:09+0200\n"
+"POT-Creation-Date: 2017-09-29 14:18-0700\n"
 "PO-Revision-Date: 2017-09-06 15:24+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language: ta\n"
@@ -82,6 +82,12 @@ msgstr "செயலிகள் மூலம் திற…"
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
 msgstr "முகப்பு திரைக்கு சேர்"
+
+#. Menu item: Shows information about features and changes that are new to
+#. this version
+msgctxt "menu_whats_new"
+msgid "What's New"
+msgstr ""
 
 msgctxt "menu_settings"
 msgid "Settings"
