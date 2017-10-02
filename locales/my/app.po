@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-10-02 15:10+0000\n"
+"PO-Revision-Date: 2017-10-02 15:18+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -670,7 +670,7 @@ msgstr "ကိုယ်ရေးကာကွယ်မှုကို တို�
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "သီးသန့်ကြည့်ရှုမှုကို ပိုမိုကောင်းမွန်စေပါ။ စာမျက်နှာဖွင့်ချိန်ကို ကြာမြင့်စေနိုင်သော ကြော်ငြာများနှင့် ဆိုက်များကတဆင့် နောက်ယောင်ခံနိုင်သော အကြောင်းအရာတို့ကို ပိတ်ပင်တားဆီးပါ။"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -692,7 +692,7 @@ msgstr "အမြန်သုံးလင့်ခ်ကို မူလစာ�
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s တွင် သင်နှစ်သက်သော ဆိုက်များသို့ လျင်မြန်စွာ ပြန်လည်သွားရောက်နိုင်ပါသည်။ %1$s မီနူးထဲမှ \"မူလစာမျက်နှာသို့ ထည့်ပါ\" ကို ရွေးရန်သာ ဖြစ်သည်။"
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -748,7 +748,7 @@ msgstr "မလုပ်ဆောင်တော့ပါ"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "နောက်ယောင်ခံကာကွယ်မှု ပိတ်ထားနေစဉ် အမြန်သုံးလင့်ခ်ကို ဖွင့်ပါမည်"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -788,7 +788,7 @@ msgstr "သီးသန့်ကြည့်နေစဉ်ကာလ"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "အသိပေးချက်များသည် သင့် %1$s အသုံးပြုကာလကို တို့ထိရုံဖြင့် ဖယ်ရှားနိုင်စေသည်။ အက်ပ်ကို ဖွင့်ရန် သို့မဟုတ် ဘရောင်ဇာထဲတွင် ဖွင့်ထားသည်များကို ကြည့်ရန် မလိုအပ်ပါ။"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
