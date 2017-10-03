@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-10-02 14:21+0000\n"
+"PO-Revision-Date: 2017-10-03 22:42+0000\n"
 "Last-Translator: Enol <enolp@softastur.org>\n"
 "Language-Team: ast <LL@li.org>\n"
 "Language: ast\n"
@@ -188,7 +188,7 @@ msgstr "Gueta"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Por defeutu"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -244,7 +244,7 @@ msgstr "Invisible"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Anubre les páxines web al camudar d'aplicaciones"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -451,10 +451,10 @@ msgstr "Alcuentra una aplicación que puea abrir l'enllaz"
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
 #. name of          the app store installed on the device (usually that's
 #. Google Play).
-#, c-format, fuzzy
+#, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Denguna aplicación del to preséu ye abrir esti enllaz. Pues colar de %1$s y guetar en %2$s una aplicación compatible."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -818,13 +818,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Nun tienes concedíu dengún drechu o llicencia total o parcial sobre les marques rexistraes de la Mozilla Foundation, esto inclúi los nomes y logos Mozilla, Firefox o %1$s. <a href=\"%2$s\">Equí</a> "
+"pue alcontrase información adicional."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "El códigu fonte adicional de %1$s ta disponible so otres <a href=\"%2$s\">llicencies</a> de baldre y códigu abiertu."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -834,3 +836,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s tamién usa llistaos de bloquéu forníos por Disconnect, Inc. como trabayos separtaos ya independientes so la <a href=\"%2$s\">GNU General Public License v3</a> y disponible <a "
+"href=\"%3$s\">equí</a>."
