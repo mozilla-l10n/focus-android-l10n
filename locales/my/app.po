@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-10-06 09:08+0000\n"
+"PO-Revision-Date: 2017-10-06 09:29+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -815,7 +815,7 @@ msgstr "%1$s သည် Mozilla နှင့် အခြားကူညီပံ
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "<a href=\"%2$s\">Mozilla Public License</a> နှင့် အခြားပွင့်လင်းရင်းမြစ်လိုင်စင်များရှိ စကားရပ်များအတိုင်း %1$s ကို အသုံးပြုနိုင်ပါသည်။"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -826,13 +826,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. အခြား သိရှိလိုသော အချက်အလက်များကို <a "
+"href=\"%2$s\">ဒီနေရာတွင်</a> ကြည့်ရှုနိုင်ပါသည်။"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s အတွက် တွဲဖက်ရင်းမြစ်ကုဒ်များကို အခြားသော လွတ်လပ်နှင့် ပွင့်လင်းရင်းမြစ် <a href=\"%2$s\">လိုင်စင်များ</a>ရှိ စကားရပ်များအတိုင်း ရနိုင်ပါသည်။"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -842,3 +844,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s သည် Disconnect, Inc က ပေးထားသော တားမြစ်စာရင်းကို သီးခြားလွတ်လပ် လုပ်ဆောင်မှုအနေဖြင့် <a href=\"%2$s\">GNU General Public License v3</a> ရှိ စကားရပ်များအတိုင်း အသုံးပြုထားသည်။ ထို့ပြင် ၎င်းကို "
+"<a href=\"%3$s\">ယခုနေရာတွင်</a> ရယူနိုင်ပါသည်။"
