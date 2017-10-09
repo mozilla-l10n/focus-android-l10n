@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-10-09 06:10+0000\n"
+"PO-Revision-Date: 2017-10-09 06:12+0000\n"
 "Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
@@ -198,24 +198,24 @@ msgstr "Ngôn ngữ"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Mặc định của hệ thống"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Công cụ tìm kiếm mặc định"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Riêng tư"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Chặn trình theo dõi quảng cáo"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Chặn trình theo dõi phân tích"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
