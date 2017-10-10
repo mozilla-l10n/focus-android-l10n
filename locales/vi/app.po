@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-09-29 14:18-0700\n"
-"PO-Revision-Date: 2017-10-10 06:04+0000\n"
+"PO-Revision-Date: 2017-10-10 06:28+0000\n"
 "Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: vi\n"
@@ -467,47 +467,47 @@ msgstr "Thoát duyệt web riêng tư?"
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "Đã tải xong %1$s"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Mở"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Các tập tin đã tải <b>sẽ không bị xóa</b> khi bạn xóa lịch sử %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Tải tập tin"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Tải xuống"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Gặp vấn đề khi tải trang"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Thử lại"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Không thể kết nối"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -516,14 +516,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Trang web có thể tạm thời không hoạt động hoặc quá tải. Hãy thử lại sau vài phút.</li>\n"
+"        <li>Nếu bạn không thể tải bất kỳ trang nào, hãy kiểm tra dữ liệu di động hoặc kết nối Wi-Fi.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Kết nối mất quá nhiều thời gian"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Không tìm thấy máy chủ"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -537,7 +541,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Địa chỉ không hợp lệ"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -549,7 +553,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Trang này không chuyển hướng đúng cách"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -560,7 +564,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Địa chỉ không được hỗ trợ"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -571,7 +575,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Kết nối bảo mật thất bại"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -585,53 +589,53 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Ôi"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Chúng tôi không thể tải trang này vì một số lý do."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Chia sẻ liên kết"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Sao chép địa chỉ liên kết"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Chia sẻ hình ảnh"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Sao chép địa chỉ hình ảnh"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Lưu hình ảnh"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Mở liên kết trong thẻ mới"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Ảnh đã lưu và chia sẻ <b>sẽ không xóa</b> khi bạn xóa lịch sử %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Tăng quyền riêng tư của bạn"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
@@ -641,7 +645,7 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Tìm kiếm của bạn, theo cách của bạn"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -651,7 +655,7 @@ msgstr ""
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Thêm lối tắt tới màn hình chính của bạn"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -663,50 +667,50 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Làm cho sự riêng tư thành một thói quen"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Đặt %1$s làm trình duyệt mặc định của bạn và nhận được lợi ích của duyệt web riêng tư khi bạn mở các trang web từ các ứng dụng khác."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Đã hiểu!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Bỏ qua"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Tiếp"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. The title of a dialog we show when the user selected a menu action to add
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Thêm vào màn hình chính"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Thêm"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -722,7 +726,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "Mở liên kết trong thẻ đã chọn"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -730,7 +734,7 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Mở"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -741,7 +745,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Phiên duyệt web riêng tư"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -754,13 +758,13 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Thông báo cho phép bạn xóa phiên làm việc của %1$s với một cú nhấp. Bạn không cần mở ứng dụng hoặc xem những gì đang chạy trong trình duyệt của bạn."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Xóa lịch sử duyệt web"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -768,20 +772,20 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Tải Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s là phần mềm tự do nguồn mở được tạo nên bởi Mozilla và các tình nguyện viên khác."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s được cung cấp cho bạn theo các điều khoản của <a href=\"%2$s\">Mozilla Public License</a> và các giấy phép nguồn mở khác."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -792,6 +796,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Bạn không được cấp bất kỳ quyền hoặc giấy phép nào đối với nhãn hiệu của tổ chức Mozilla hoặc bất kỳ bên nào, bao gồm tên hoặc biểu trưng của Mozilla, Firefox hoặc %1$s. Thông tin bổ sung có thể "
+"được tìm thấy <a href=\"%2$s\">ở đây</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -808,3 +814,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s cũng sử dụng danh sách chặn được cung cấp bởi Disconnect, Inc. là các công việc riêng biệt và độc lập theo <a href=\"%2$s\"> GNU General Public License v3</a>, và có sẵn <a href=\"%3$s\"> ở "
+"đây</a>."
