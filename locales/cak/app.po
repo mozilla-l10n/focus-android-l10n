@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-02 19:04+0000\n"
+"PO-Revision-Date: 2017-10-12 22:50+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -288,7 +288,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Ketaq taq tzij richin ye'okisäx"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -301,12 +301,12 @@ msgstr "Tetamäx ch'aqa' chik"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Ri Mozilla nutïj ruq'ij chi numöl ri niqajo' niqataluj chuqa' niqutzilaj %1$s k'atzinel chi qe qonojel."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Rutzijol Ichinanem"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -318,58 +318,58 @@ msgstr "Chi rij ri %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Kanonela' eyakon chupam"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Ketzolïx ri kisamajel kanob'äl ruk'amon wi pe"
 
 #. Action for adding an additional search engine to the list
 msgctxt "preference_search_add"
 msgid "Add another search engine"
-msgstr ""
+msgstr "Titz'aqatisäx jun chik kanob'äl"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Tiyuj kanob'äl"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Tiyuj"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "Titz'aqatisäx chi q'ab'aj"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "Titz'aqatisäx kanob'äl"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Jät pa rutikirib'al ruxaq ri kanob'äl."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Tachapa' ri ruk'ojlem rukanoxik ri kanob'äl."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Tayib'a' ri ruk'ojlem rukanoxik ri kanob'äl."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Tachapa' ri ruwachaj nimirisab'äl pa ri pitz'b'äl richin natz'aqatisaj ri kanob'äl."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Titz'aqatisäx kanob'äl"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -377,11 +377,11 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3. Tachapa' %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. We man natzu' ta ri nimirisab'äl, tatojtob'ej natz'aqatisaj qa chi q'ab'aj ri kanob'äl."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -390,15 +390,15 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. We man natzu' ta ri %1$s, tatojtob'ej natz'aqatisaj qa chi q'ab'aj jun kanob'äl."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Tachapa' ri ruwachaj nimirisab'äl pa ri pitz'b'äl richin natz'aqatisaj re kanob'äl re'."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -469,7 +469,7 @@ msgstr "Tiyuj runatab'al okem pa k'amaya'l"
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "Tinimirisäx"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -479,19 +479,19 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Jaqäl taq ruwi': %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "Kejaq taq ruwi'"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "Titz'apïx ruwi'"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -780,7 +780,7 @@ msgstr "Tiyak wachib'äl"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Tijaq ri ximonel pa jun k'ak'a' ruwi'"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -798,40 +798,42 @@ msgstr "Tinimär ruchuq'a' ri awichinem"
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
+"Katik'o pa ri jun chik ruxaq ri ichinan okem pa k'amaya'l. Ke'aq'ata' ri taq rutzijol chuqa' juley chik taq etamab'äl ri yetikïr yatkojqaj rik'in ruxaq k'amaya'l chuqa' nuch'öb' ri ramaj nisamäj ri "
+"ruxaq."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Akanoxik, ab'ey"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "¿La jun wi ri nakanoj? Tacha' jun chik k'wab'äl kan k'o wi pa Runuk'ulem."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Tatz'aqatisaj jun ruchojokem ri rutikirib'al awäch"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Katzolin pa ri ajowel taq ruxaq k'amaya'l pa %1$s aninäq. Tacha' \"Titz'aqatisäx pa ri Ruwäch Tikirib'äl\" chupam ri %1$s cha'osamaj."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Tib'an chi ri ichinanem tok jun ruk'ulun na'oj"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Tib'an runuk'ulem %1$s achi'el ri okik'amaya'l k'o wi richin nawïl rutzil ri ichinan okem pa k'amaya'l toq ye'ajäq taq ruxaq k'amaya'l pa ch'aqa' chik taq chokoy."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -875,7 +877,7 @@ msgstr "Tiq'at"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Nijaq ri chojokem akuchi' chupun ri Ojqanem chuwäch Chajinïk"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -883,7 +885,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "Tijaq ximonel pa ri ruwi' cha'on"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -891,7 +893,7 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Tijaq"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -902,7 +904,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Ichinan okem pa k'amaya'l"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -915,13 +917,13 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Ri taq rutzijol nikiya' q'ij chawe ye'ayüj el ri rumolojri'ïl %1$s rik'in jun chapoj. Man k'atzinel ta najäq ri chokoy chuqa' ri nusamajij ri awokik'amaya'l."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Tiyuj runatab'al okem pa k'amaya'l"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -929,20 +931,20 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Taqasaj Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s jun jamäl kema' chuqa' jaqäl b'itz'ib' nuk'un ruma Mozilla chuqa' ch'aqa' chik to'onela'."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s niya' pan aq'a' rik'in rojqanem ri <a href=\"%2$s\">Aj winäq Ya'oj Ruq'ij Mozilla</a> chuqa' ch'aqa' chik taq ya'öj q'ij kichin ch'aqa' chik taq jaqäl b'itz'ib'."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -953,13 +955,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Man nisuj taq kich'ojib'al chuqa' ya'oj q'ij chi ke ri etz'ib'an taq b'i'aj richin Mozilla Moloj ni xa ta chi ke ri taq ruch'akulal achi'el Mozilla, Firefox o %1$s taq b'i'aj o taq wachaj. Nawïl "
+"rutz'aqat na'oj <a href=\"%2$s\">wawe'</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Rutz'aqat ruxe'el b'itz'ib' richin %1$s wachel kik'in ch'aqa' chik jalajöj sipan taq kema' chuqa' jaqäl b'itz'ib' <a href=\"%2$s\">taq ya'oj q'ij</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -969,3 +973,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s chuqa' nrokisaj kicholonem tanaj ya'on ruma Disconnect, Inc. achi'el jachon chuqa' alaj ruk'aslem nimawuj ruma <a href=\"%2$s\">GNU General Public License v3</a>, chuqa' wachel <a "
+"href=\"%3$s\">wawe'</a>."
