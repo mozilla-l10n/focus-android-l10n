@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-12 22:10+0000\n"
+"PO-Revision-Date: 2017-10-12 22:11+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
@@ -411,7 +411,7 @@ msgstr "Sökmotorns namn"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Söksträng som ska användas"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -422,13 +422,13 @@ msgstr "Spara"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Klistra in eller mata in söksträngen. Om nödvändigt, ersätt sökord med: %s."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Exempel: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
