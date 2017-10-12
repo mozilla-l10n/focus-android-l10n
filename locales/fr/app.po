@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-12 20:24+0000\n"
+"PO-Revision-Date: 2017-10-12 23:27+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -350,20 +350,20 @@ msgstr "Ajouter un moteur de recherche"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Rendez-vous sur la page d’accueil d’un moteur de recherche."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Appuyez sur le champ de recherche du moteur de recherche."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Effectuez un appui long sur le champ de recherche du moteur de recherche."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Appuyez sur l’icône de loupe en haut du clavier pour ajouter le moteur de recherche."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -378,11 +378,11 @@ msgstr "Ajouter un moteur de recherche"
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3. Appuyez sur %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si vous n’apercevez pas la loupe, essayez d’ajouter manuellement le moteur de recherche."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -391,23 +391,23 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si vous ne voyez pas %1$s, essayez d’ajouter manuellement le moteur de recherche."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "C’EST PARTI"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Appuyez sur l’icône de loupe en haut du clavier pour ajouter ce moteur de recherche."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "Nom à afficher"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Nom du moteur de recherche"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
