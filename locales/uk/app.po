@@ -2,27 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-03 14:03+0000\n"
+"PO-Revision-Date: 2017-10-13 11:09+0000\n"
 "Last-Translator: Artem Polivanchuk <a.polivanchuk@outlook.com>\n"
-"Language: uk\n"
 "Language-Team: uk <LL@li.org>\n"
-"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (((n % 10) >= 2 && (n %"
-" 10) <= 4))) && (!(((n % 100) >= 12 && (n % 100) <= 14)))) ? 1 : (((((0 "
-"== 0)) && (((n % 10) == 0))) || (((0 == 0)) && (((n % 10) >= 5 && (n % "
-"10) <= 9)))) || (((0 == 0)) && (((n % 100) >= 11 && (n % 100) <= 14)))) ?"
-" 2 : ((((0 == 0)) && (((n % 10) == 1))) && (!(((n % 100) == 11)))) ? 0 : "
-"3)\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -178,25 +174,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s надає вам контроль.</p>\n"
 "<p>Використовуйте його в якості приватного браузера:\n"
 "  <ul>\n"
 "    <li>Здійснюйте пошук і перегляд безпосередньо в програмі</li>\n"
-"    <li>Блокуйте стеження (або змініть налаштування, щоб дозволити "
-"його)</li>\n"
+"    <li>Блокуйте стеження (або змініть налаштування, щоб дозволити його)</li>\n"
 "    <li>Видаляйте куки, а також історію пошуку та перегляду</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s створено в Mozilla. Нашою місією є сприяння розвитку здорового та"
-" відкритого Інтернету.<br/>\n"
+"<p>%1$s створено в Mozilla. Нашою місією є сприяння розвитку здорового та відкритого Інтернету.<br/>\n"
 "<a href=\"%2$s\">Докладніше</a></p>"
 
 msgctxt "preference_category_search"
@@ -309,12 +301,8 @@ msgstr "Докладніше"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla намагається збирати лише дані, що необхідні для роботи і "
-"вдосконалення %1$s для кожного."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla намагається збирати лише дані, що необхідні для роботи і вдосконалення %1$s для кожного."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -331,52 +319,50 @@ msgstr "Про %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Встановлені засоби пошуку"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Відновити типові засоби пошуку"
 
 #. Action for adding an additional search engine to the list
 msgctxt "preference_search_add"
 msgid "Add another search engine"
-msgstr ""
+msgstr "Додати інший засіб пошуку"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Вилучити засоби пошуку"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Вилучити"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "Додати вручну"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "Додати засіб пошуку"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Перейдіть на головну сторінку пошукового засобу."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Торкніться до його поля для пошуку."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Торкніться й утримуйте до його поля для пошуку."
 
 msgctxt "tutorial_search_step3"
-msgid ""
-"3. Tap the magnifying glass icon above the keyboard to add the search "
-"engine."
+msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
 msgstr ""
 
 #. Clickable action text that shows when user long-presses on a search engine
@@ -395,9 +381,7 @@ msgid "3. Tap %1$s"
 msgstr ""
 
 msgctxt "tutorial_search_step4"
-msgid ""
-"4. If you don’t see the magnifying glass, try manually adding a search "
-"engine."
+msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
 msgstr ""
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
@@ -414,9 +398,7 @@ msgid "GET STARTED"
 msgstr ""
 
 msgctxt "search_add_hint"
-msgid ""
-"Tap the magnifying glass icon above the keyboard to add this search "
-"engine."
+msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
 msgstr ""
 
 msgctxt "search_add_manually_name"
@@ -609,12 +591,8 @@ msgstr "Знайдіть програму, яка може відкрити по
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Жодна з програм на вашому пристрої не здатна відкрити це посилання. Ви "
-"можете вийти з %1$s для пошуку відповідної програми у %2$s."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Жодна з програм на вашому пристрої не здатна відкрити це посилання. Ви можете вийти з %1$s для пошуку відповідної програми у %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -672,17 +650,13 @@ msgstr "Не вдалося з'єднатися"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Сайт може бути тимчасово недоступний або перевантажений. "
-"Спробуйте знову через деякий час.</li>\n"
-"        <li>Якщо ви не можете завантажити жодної сторінки, перевірте "
-"з'єднання вашого пристрою з мобільною або Wi-Fi мережею.</li>\n"
+"        <li>Сайт може бути тимчасово недоступний або перевантажений. Спробуйте знову через деякий час.</li>\n"
+"        <li>Якщо ви не можете завантажити жодної сторінки, перевірте з'єднання вашого пристрою з мобільною або Wi-Fi мережею.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -699,16 +673,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Перевірте адресу на помилки, такі як\n"
 "          <strong>ww</strong>.example.com замість\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Якщо ви не можете завантажити жодної сторінки, перевірте "
-"з'єднання вашого пристрою з мобільною або Wi-Fi мережею.</li>\n"
+"        <li>Якщо ви не можете завантажити жодної сторінки, перевірте з'єднання вашого пристрою з мобільною або Wi-Fi мережею.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -718,17 +690,13 @@ msgstr "Формат адреси неправильний"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Веб-адреси зазвичай записуються у вигляді "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Переконайтеся, що ви використовуєте дробову риску (тобто "
-"<strong>/</strong>).</li>\n"
+"  <li>Веб-адреси зазвичай записуються у вигляді <strong>http://www.example.com/</strong></li>\n"
+"  <li>Переконайтеся, що ви використовуєте дробову риску (тобто <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -738,13 +706,11 @@ msgstr "Неналежне перенаправлення на сторінці"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Інколи ця проблема може бути спричиненою вимкненням або забороною "
-"приймати куки.</li>\n"
+"  <li>Інколи ця проблема може бути спричиненою вимкненням або забороною приймати куки.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -754,13 +720,11 @@ msgstr "Незрозуміла адреса"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Для відкриття даної адреси вам, можливо, необхідно встановити "
-"додаткове програмне забезпечення.</li>\n"
+"  <li>Для відкриття даної адреси вам, можливо, необхідно встановити додаткове програмне забезпечення.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -770,19 +734,16 @@ msgstr "Не вдалося встановити безпечне з’єдна�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  <li>Це може бути проблемою конфігурації сервера, або хтось намагається\n"
 " видати себе за цей сервер.</li>\n"
-"  <li>Якщо ви раніше успішно підключалися до цього сервера, помилка може"
-" \n"
+"  <li>Якщо ви раніше успішно підключалися до цього сервера, помилка може \n"
 "бути тимчасовою і ви можете повторити спробу пізніше.</li>\n"
 "</ul>"
 
@@ -828,12 +789,8 @@ msgstr "Відкрити посилання в новій вкладці"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Збережені та поширені зображення <b>не видаляються</b> при стиранні "
-"історії %1$s."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Збережені та поширені зображення <b>не видаляються</b> при стиранні історії %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -842,13 +799,8 @@ msgstr "Прокачайте вашу приватність"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"Перейдіть на вищий рівень приватного перегляду. Блокуйте рекламу та інший"
-" вміст, що може стежити за вами на сайтах і сповільнювати завантаження "
-"сторінок."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "Перейдіть на вищий рівень приватного перегляду. Блокуйте рекламу та інший вміст, що може стежити за вами на сайтах і сповільнювати завантаження сторінок."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -857,9 +809,7 @@ msgstr "Ваш пошук, ваш шлях"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "Шукаєте щось інше? Оберіть інший пошуковий засіб в налаштуваннях."
 
 #. First run tour (Shortcut): Title
@@ -871,12 +821,8 @@ msgstr "Додавайте ярлики на головний екран"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Швидко відкривайте свої улюблені сайти у %1$s. Просто оберіть \"Додати на"
-" головний екран\" в меню %1$s."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Швидко відкривайте свої улюблені сайти у %1$s. Просто оберіть \"Додати на головний екран\" в меню %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -887,12 +833,8 @@ msgstr "Зробіть приватність звичкою"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Встановіть %1$s своїм типовим браузером та отримайте переваги приватного "
-"перегляду при переході на веб-сайти з інших програм."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Встановіть %1$s своїм типовим браузером та отримайте переваги приватного перегляду при переході на веб-сайти з інших програм."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -975,13 +917,8 @@ msgstr "Сеанс приватного перегляду"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Сповіщення дозволяють вам стирати дані сеансу %1$s одним дотиком. Вам не "
-"потрібно відкривати програму чи дивитися, що відбувається у вашому "
-"браузері."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Сповіщення дозволяють вам стирати дані сеансу %1$s одним дотиком. Вам не потрібно відкривати програму чи дивитися, що відбувається у вашому браузері."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1000,23 +937,15 @@ msgstr "Завантажити Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s є вільним програмним забезпеченням з відкритим кодом від Mozilla та "
-"інших помічників."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s є вільним програмним забезпеченням з відкритим кодом від Mozilla та інших помічників."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s доступний для вас на умовах <a href=\"%2$s\">Mozilla Public "
-"License</a> та інших ліцензій відкритого коду."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s доступний для вас на умовах <a href=\"%2$s\">Mozilla Public License</a> та інших ліцензій відкритого коду."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1024,27 +953,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Ви не маєте володієте жодними правами чи ліцензіями на торгові марки "
-"Mozilla Foundation чи будь-яких її сторін, включно з Mozilla, Firefox, а "
-"також назвами чи логотипами %1$s. Додаткову інформацію можна знайти <a "
-"href=\"%2$s\">тут</a>."
+"Ви не маєте володієте жодними правами чи ліцензіями на торгові марки Mozilla Foundation чи будь-яких її сторін, включно з Mozilla, Firefox, а також назвами чи логотипами %1$s. Додаткову інформацію "
+"можна знайти <a href=\"%2$s\">тут</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Додатковий програмний код для %1$s доступний на умовах різних інших <a "
-"href=\"%2$s\">ліцензій</a> вільного й відкритого програмного "
-"забезпечення."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Додатковий програмний код для %1$s доступний на умовах різних інших <a href=\"%2$s\">ліцензій</a> вільного й відкритого програмного забезпечення."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1052,12 +972,7 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s також використовує списки блокування від Disconnect Inc. в якості "
-"окремих та незалежних розробок на правах <a href=\"%2$s\">GNU General "
-"Public License v3</a>, і доступно <a href=\"%3$s\">тут</a>."
-
+"%1$s також використовує списки блокування від Disconnect Inc. в якості окремих та незалежних розробок на правах <a href=\"%2$s\">GNU General Public License v3</a>, і доступно <a "
+"href=\"%3$s\">тут</a>."
