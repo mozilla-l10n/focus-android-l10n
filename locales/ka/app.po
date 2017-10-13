@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-13 03:10+0000\n"
+"PO-Revision-Date: 2017-10-13 03:19+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -350,16 +350,16 @@ msgstr "საძიებო სისტემის დამატება"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr "1. საძიებო სისტემის მთავარ გვერდზე შესვლა."
+msgstr "1. გადადით საძიებო სისტემის მთავარ გვერდზე."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr "2. საძიებო სისტემის ძიების ველზე შეხება"
+msgstr "2. შეეხეთ საძიებო სისტემის ძიების ველს."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr "2. საძიებო სისტემის ძიების ველზე დაჭერა."
+msgstr "2. დააჭირეთ საძიებო სისტემის ძიების ველს."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
@@ -370,7 +370,7 @@ msgstr "3. საძიებო სისტემის დასამატ�
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "საძიებო სისტემის დამატება"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -378,11 +378,11 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3. შეეხეთ %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. თუ ვერ ხედავთ გამადიდებელ შუშას, სცადეთ საძიებო სისტემის ხელით დამატება."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -391,58 +391,58 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. თუ არ ჩანს %1$s, სცადეთ საძიებო სისტემის ხელით დამატება."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "დაწყება"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "საძიებო სისტემის დასამატებლად, შეეხეთ კლავიატურის ზემოთ არსებულ, გამადიდებელი შუშის ხატულას."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "გამოსაჩენი სახელი"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "საძიებო სისტემის სახელი"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "საძიებო ფრაზა"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "ჩასვით ან შეიყვანეთ საძიებო ფრაზა. თუ საჭიროა, შეცვალეთ სიტყვა %s-ით."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "მაგალითად: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "საძიებო სისტემის დამატება"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "ახალი საძიებო სისტემა დამატებულია."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "შეამოწმეთ საძიებო ფრაზა და სცადეთ ხელახლა"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
