@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-04 15:39+0000\n"
-"Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
-"Language: id\n"
+"PO-Revision-Date: 2017-10-12 22:07+0000\n"
+"Last-Translator: eljuno <eljunotrie_anggoro@yahoo.co.id>\n"
 "Language-Team: id <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -173,27 +174,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s menempatkan Anda dalam kendali.</p>\n"
 "<p>Gunakan sebagai peramban privat:\n"
 "  <ul>\n"
 "    <li>Cari dan menjelajah langsung di dalam aplikasi</li>\n"
-"    <li>Memblokir pelacak (atau ubah di setelan untuk izinkan "
-"pelacak)</li>\n"
-"    <li>Hapus untuk menghilangkan kuki termasuk juga riwayat pencarian "
-"dan penjelajahan</li>\n"
+"    <li>Memblokir pelacak (atau ubah di setelan untuk izinkan pelacak)</li>\n"
+"    <li>Hapus untuk menghilangkan kuki termasuk juga riwayat pencarian dan penjelajahan</li>\n"
 "  </ul>\n"
 " </p>\n"
-"<p>%1$s diproduksi oleh Mozilla. Misi kami adalah untuk memelihara "
-"Internet yang sehat dan terbuka.<br/> <a href=\"%2$s\">Pelajari lebih "
-"lanjut</a></p>"
+"<p>%1$s diproduksi oleh Mozilla. Misi kami adalah untuk memelihara Internet yang sehat dan terbuka.<br/> <a href=\"%2$s\">Pelajari lebih lanjut</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -305,12 +300,8 @@ msgstr "Pelajari lebih lanjut"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla berusaha untuk mengumpulkan hanya apa yang kami perlu untuk "
-"sediakan dan meningkatkan %1$s untuk setiap orang."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla berusaha untuk mengumpulkan hanya apa yang kami perlu untuk sediakan dan meningkatkan %1$s untuk setiap orang."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -337,15 +328,15 @@ msgstr ""
 #. Action for adding an additional search engine to the list
 msgctxt "preference_search_add"
 msgid "Add another search engine"
-msgstr ""
+msgstr "Tambahkan mesin pencari lainnya"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Hapus mesin pencari"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Hapus"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
@@ -354,7 +345,7 @@ msgstr ""
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "Tambah mesin pencari"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -370,9 +361,7 @@ msgid "2. Long press the search engine’s search field."
 msgstr ""
 
 msgctxt "tutorial_search_step3"
-msgid ""
-"3. Tap the magnifying glass icon above the keyboard to add the search "
-"engine."
+msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
 msgstr ""
 
 #. Clickable action text that shows when user long-presses on a search engine
@@ -380,7 +369,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Tambah mesin pencari"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -391,9 +380,7 @@ msgid "3. Tap %1$s"
 msgstr ""
 
 msgctxt "tutorial_search_step4"
-msgid ""
-"4. If you don’t see the magnifying glass, try manually adding a search "
-"engine."
+msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
 msgstr ""
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
@@ -410,9 +397,7 @@ msgid "GET STARTED"
 msgstr ""
 
 msgctxt "search_add_hint"
-msgid ""
-"Tap the magnifying glass icon above the keyboard to add this search "
-"engine."
+msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
 msgstr ""
 
 msgctxt "search_add_manually_name"
@@ -421,7 +406,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Nama mesin pencari"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -429,7 +414,7 @@ msgstr ""
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
@@ -448,11 +433,11 @@ msgstr ""
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "Tambah mesin pencari"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Mesin pencari baru ditambahkan."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
@@ -605,13 +590,8 @@ msgstr "Temukan aplikasi yang dapat membuka tautan"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. "
-"Anda dapat meninggalkan %1$s untuk mencari di %2$s untuk mendapatkan "
-"aplikasi yang mampu."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Tak ada satu pun aplikasi di perangkat Anda dapat membuka tautan ini. Anda dapat meninggalkan %1$s untuk mencari di %2$s untuk mendapatkan aplikasi yang mampu."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -636,9 +616,7 @@ msgstr "Buka"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Berkas terunduh <b>tidak akan dihapus</b> ketika Anda menghapus riwayat "
-"%1$s."
+msgstr "Berkas terunduh <b>tidak akan dihapus</b> ketika Anda menghapus riwayat %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -671,17 +649,13 @@ msgstr "Tidak dapat tersambung"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Situs ini tidak tersedia untuk sementara atau terlalu sibuk. "
-"Coba lagi dalam beberapa saat.</li>\n"
-"        <li>Jika Anda tidak dapat memuat laman apapun, periksa data "
-"ponsel atau sambungan Wi-Fi Anda.</li>\n"
+"        <li>Situs ini tidak tersedia untuk sementara atau terlalu sibuk. Coba lagi dalam beberapa saat.</li>\n"
+"        <li>Jika Anda tidak dapat memuat laman apapun, periksa data ponsel atau sambungan Wi-Fi Anda.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -698,16 +672,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Periksa alamat untuk kesalahan pengetikan seperti\n"
 "          <strong>ww</strong>.example.com alih-alih\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Jika Anda tidak dapat memuat laman apapun, periksa koneksi "
-"data atau Wi-Fi Anda.</li>\n"
+"        <li>Jika Anda tidak dapat memuat laman apapun, periksa koneksi data atau Wi-Fi Anda.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -717,17 +689,13 @@ msgstr "Alamat tidak valid"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Alamat Web umumnya ditulis seperti "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Pastikan Anda menggunakan garis miring (mis. "
-"<strong>/</strong>).</li>\n"
+"  <li>Alamat Web umumnya ditulis seperti <strong>http://www.example.com/</strong></li>\n"
+"  <li>Pastikan Anda menggunakan garis miring (mis. <strong>/</strong>).</li>\n"
 " </ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -737,13 +705,11 @@ msgstr "Laman tidak teralihkan dengan benar"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Masalah ini kadangkala disebabkan karena fungsi menerima kuki "
-"dinonaktifkan atau ditolak.</li>\n"
+"  <li>Masalah ini kadangkala disebabkan karena fungsi menerima kuki dinonaktifkan atau ditolak.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -753,13 +719,11 @@ msgstr "Alamat tidak dipahami"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Anda mungkin perlu memasang perangkat lunak lain untuk membuka "
-"alamat ini.</li>\n"
+"  <li>Anda mungkin perlu memasang perangkat lunak lain untuk membuka alamat ini.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -769,20 +733,15 @@ msgstr "Sambungan aman gagal"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Hal ini mungkin dikarenakan ada masalah terkait dengan konfigurasi "
-"server, atau bisa jadi ada seseorang mencoba untuk berkedok sebagai "
-"server.</li>\n"
-"  <li>Jika Anda berhasil tersambung ke server ini sebelumnya, gangguan "
-"dapat bersifat sementara, dan Anda dapat mencoba kembali nanti.</li>\n"
+"  <li>Hal ini mungkin dikarenakan ada masalah terkait dengan konfigurasi server, atau bisa jadi ada seseorang mencoba untuk berkedok sebagai server.</li>\n"
+"  <li>Jika Anda berhasil tersambung ke server ini sebelumnya, gangguan dapat bersifat sementara, dan Anda dapat mencoba kembali nanti.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -827,12 +786,8 @@ msgstr "Buka tautan di tab baru"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Gambar yang disimpan dan dibagikan <b>tidak akan dihapus</b> ketika Anda "
-"menghapus riwayat %1$s."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Gambar yang disimpan dan dibagikan <b>tidak akan dihapus</b> ketika Anda menghapus riwayat %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -841,13 +796,8 @@ msgstr "Perkuat privasi Anda"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"Bawa penjelajahan pribadi ke tingkat berikutnya. Blokir iklan dan konten "
-"lainnya yang dapat melacak Anda di seluruh situs dan memperlambat waktu "
-"buka halaman."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "Bawa penjelajahan pribadi ke tingkat berikutnya. Blokir iklan dan konten lainnya yang dapat melacak Anda di seluruh situs dan memperlambat waktu buka halaman."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -856,9 +806,7 @@ msgstr "Pencarian Anda, cara Anda"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "Mencari sesuatu yang berbeda? Pilih mesin pencari baku lainnya di Setelan."
 
 #. First run tour (Shortcut): Title
@@ -870,12 +818,8 @@ msgstr "Tambahkan pintasan ke layar Beranda"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Kembali ke situs favorit Anda di %1$s dengan cepat. Cukup pilih "
-"\"Tambahkan ke layar Beranda\" dari menu %1$s."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Kembali ke situs favorit Anda di %1$s dengan cepat. Cukup pilih \"Tambahkan ke layar Beranda\" dari menu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -886,12 +830,8 @@ msgstr "Jadikan privasi menjadi kebiasaan"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Atur %1$s sebagai peramban utama Anda dan dapatkan keuntungan "
-"penjelajahan pribadi ketika Anda membuka laman web dari aplikasi lainnya."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Atur %1$s sebagai peramban utama Anda dan dapatkan keuntungan penjelajahan pribadi ketika Anda membuka laman web dari aplikasi lainnya."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -974,13 +914,8 @@ msgstr "Sesi penjelajahan pribadi"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Notifikasi memungkinkan Anda menghapus sesi %1$s Anda dengan sekali "
-"sentuh. Anda tak perlu membuka aplikasi atau melihat apa yang berjalan di"
-" peramban Anda."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Notifikasi memungkinkan Anda menghapus sesi %1$s Anda dengan sekali sentuh. Anda tak perlu membuka aplikasi atau melihat apa yang berjalan di peramban Anda."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -999,23 +934,15 @@ msgstr "Unduh Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh "
-"Mozilla dan kontributor lainnya."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s adalah perangkat lunak bebas dan sumber terbuka yang dibuat oleh Mozilla dan kontributor lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">Lisensi "
-"Publik Mozilla</a> dan lisensi sumber terbuka lainnya."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s tersedia untuk Anda di bawah persyaratan <a href=\"%2$s\">Lisensi Publik Mozilla</a> dan lisensi sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1023,9 +950,7 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
 
@@ -1033,12 +958,8 @@ msgstr ""
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Kode sumber tambahan untuk %1$s tersedia dengan berbagai <a "
-"href=\"%2$s\">lisensi</a> bebas dan sumber terbuka lainnya."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Kode sumber tambahan untuk %1$s tersedia dengan berbagai <a href=\"%2$s\">lisensi</a> bebas dan sumber terbuka lainnya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1046,12 +967,7 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s juga menggunakan daftar blokir yang disediakan oleh Disconnect, Inc."
-" sebagai pekerjaan terpisah dan independen di bawah <a href=\"%2$s\">GNU "
-"General Public License v3</a>, dan tersedia <a href=\"%3$s\">di sini</a>."
-
+"%1$s juga menggunakan daftar blokir yang disediakan oleh Disconnect, Inc. sebagai pekerjaan terpisah dan independen di bawah <a href=\"%2$s\">GNU General Public License v3</a>, dan tersedia <a "
+"href=\"%3$s\">di sini</a>."
