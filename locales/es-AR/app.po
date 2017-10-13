@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-13 17:50+0000\n"
+"PO-Revision-Date: 2017-10-13 18:05+0000\n"
 "Last-Translator: gmontagu <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -370,7 +370,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "Agregar motor de búsqueda"
+msgstr "Agregar buscador"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -382,7 +382,7 @@ msgstr "3. Apretá %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr "4. Si no ves la lupa, probá agregar un motor de búsqueda de manera manual."
+msgstr "4. Si no ves la lupa, probá agregar un buscador de manera manual."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -391,7 +391,7 @@ msgstr "4. Si no ves la lupa, probá agregar un motor de búsqueda de manera man
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. Si no ves la %1$s, probá agregar un motor de búsqueda de manera manual."
+msgstr "4. Si no ves la %1$s, probá agregar un buscador de manera manual."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -434,11 +434,11 @@ msgstr ""
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "Agregar buscador"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Se agregó un buscador nuevo."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
