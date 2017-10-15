@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-15 14:30+0000\n"
+"PO-Revision-Date: 2017-10-15 14:36+0000\n"
 "Last-Translator: Ville Pohjanheimo <villepohjanheimo@fastmail.fm>\n"
 "Language-Team: fi <LL@li.org>\n"
 "Language: fi\n"
@@ -795,46 +795,46 @@ msgstr "Tallennettuja ja jaettuja kuvia <b>ei poisteta</b> kun %1$sen selaushist
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Tehosta yksityisyyttäsi"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Vie yksityinen selaus uudelle tasolle. Estä mainoksia ja muuta sisältöä, jotka voivat seurata sinua eri sivustoilla ja hidastaa sivujen latausaikoja."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Sinun haut, sinun ehdoilla"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Haetko jotain erilaista? Valitse asetuksista toinen oletushakukone."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Lisää linkki kotinäkymään"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Avaa suosikkisivusi nopeasti %1$sessa. Valitse vain \"Lisää linkki kotinäkymään\" %1$s valikosta."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Tee yksityisyydestä verkossa tapa"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Aseta %1$s oletusselaimeksesi ja hyödy yksityisestä selaamisesta kun avaat verkkosivuja muista sovelluksista."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -974,3 +974,5 @@ msgstr "Muita osia %1$sin lähdekoodista on saatavilla erinäisten vapaiden ja a
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s käyttää myös Disconnect, Inc.:n toimittamia estolistoja, jotka ovat erillisiä ja itsenäisiä <a href=\"%2$s\">GNU General Public License v3</a>-lisenssin mukaisia töitä ja ne ovat saatavilla <a "
+"href=\"%3$s\">täältä</a>."
