@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-15 13:31+0000\n"
+"PO-Revision-Date: 2017-10-15 13:33+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -399,7 +399,7 @@ msgstr "KEZDŐ LÉPÉSEK"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Ennek a keresőszolgáltatónak a hozzáadásához koppintson a billentyűzet feletti nagyító ikonra."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -411,7 +411,7 @@ msgstr "Keresőszolgáltatás neve"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Használandó keresőkifejezés"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -422,7 +422,7 @@ msgstr "Mentés"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Másoljon vagy írjon be keresőkifejezést. Ha szükséges, helyettesítse a keresőkifejezést ezzel: %s."
 
 #. Example of search engine url
 #, c-format, python-format
