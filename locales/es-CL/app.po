@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-15 03:40+0000\n"
+"PO-Revision-Date: 2017-10-15 04:02+0000\n"
 "Last-Translator: ravmn <ravmn@ravmn.cl>\n"
 "Language-Team: es_CL <LL@li.org>\n"
 "Language: es_CL\n"
@@ -350,20 +350,20 @@ msgstr "Añadir motor de búsqueda"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Ve a la página de inicio del motor de búsqueda"
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Toca el campo de búsqueda del motor de búsqueda."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Mantén presionado el campo de búsqueda del motor de búsqueda."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Toca el ícono de la lupa sobre el teclado para añadir el motor de búsqueda."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -391,7 +391,7 @@ msgstr "4. Si no ves la lupa, intenta añadir un motor de búsqueda manualmente.
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si no ves %1$s, intenta añadir manualmente un motor de búsqueda."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
