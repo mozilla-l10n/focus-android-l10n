@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-15 00:50+0000\n"
+"PO-Revision-Date: 2017-10-15 00:53+0000\n"
 "Last-Translator: nirmalrijal41 <nirmalrijal41@gmail.com>\n"
 "Language-Team: ne <LL@li.org>\n"
 "Language: ne_NP\n"
@@ -134,7 +134,7 @@ msgstr "ब्राउजिङ्ग इतिहास खाली गर्
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "खोल्नुहोस्"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
@@ -147,14 +147,14 @@ msgstr ""
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "मेटाउनुहोस्"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ब्राउजिङ्ग इतिहास खाली गर्नुहोस्"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -436,7 +436,7 @@ msgstr ""
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "आगत खाली गर्नुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -444,13 +444,13 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "खारेज गर्नुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ब्राउजिङ्ग इतिहास खाली गर्नुहोस्"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -458,7 +458,7 @@ msgstr ""
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "विस्तार गर्नुहोस्"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -474,25 +474,25 @@ msgstr ""
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "ट्याब खोल्नुहोस्"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "ट्याब बन्द गर्नुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "सुरक्षित जडान"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "लोड हुँदैछ"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
@@ -549,11 +549,11 @@ msgstr ""
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "टाँस्नुहोस् र जानुहोस्"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "तपाईँका अधिकारहरु"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
