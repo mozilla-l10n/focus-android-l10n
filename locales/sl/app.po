@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-15 09:37+0000\n"
-"Last-Translator: Rok Žerdin <rok.zerdin1990@gmail.com>\n"
+"PO-Revision-Date: 2017-10-16 09:23+0000\n"
+"Last-Translator: Matjaž Horvat <matjaz.horvat@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
@@ -329,7 +329,7 @@ msgstr "Ponastavi privzete iskalnike"
 #. Action for adding an additional search engine to the list
 msgctxt "preference_search_add"
 msgid "Add another search engine"
-msgstr ""
+msgstr "Dodaj drug iskalnik"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -359,7 +359,7 @@ msgstr "2. Tapnite v iskalnem polju iskalnika."
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Podržite prst v iskalnem polju iskalnika."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
@@ -395,7 +395,7 @@ msgstr "4. Če ne vidite %1$s, poskusite ročno dodati iskalnik."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "ZAČNITE"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
@@ -411,7 +411,7 @@ msgstr "Ime iskalnika"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Iskalni niz za uporabo"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -422,7 +422,7 @@ msgstr "Shrani"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Prilepite ali vnesite iskalni niz. Če je potrebno, zamenjajte iskalni izraz z: %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -442,7 +442,7 @@ msgstr "Nov iskalnik dodan."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "Preverite iskalni niz in poskusite znova"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
