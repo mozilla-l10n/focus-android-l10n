@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-16 06:50+0000\n"
+"PO-Revision-Date: 2017-10-16 06:56+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -382,7 +382,7 @@ msgstr "3. %1$s をタップします。"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. 虫眼鏡アイコンが表示されていない場合は、手動で検索エンジンを追加してください。"
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -391,58 +391,58 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. %1$s が表示されていない場合は、検索エンジンを手動で追加してください。"
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "はじめましょう"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "キーボードの上の虫眼鏡アイコンをタップして、この検索エンジンを追加してください。"
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "表示名"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "検索エンジン名"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "使用する検索文字列"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "検索 URL を貼り付けまたは入力してください。必要に応じて、検索語を %s で置き換えてください。"
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "入力例: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "検索エンジンを追加"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "新しい検索エンジンが追加されました。"
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "検索 URL を確認してもう一度試してください。"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
