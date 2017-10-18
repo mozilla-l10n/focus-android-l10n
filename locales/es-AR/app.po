@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-15 17:34+0000\n"
+"PO-Revision-Date: 2017-10-18 21:21+0000\n"
 "Last-Translator: Marcelo Poli <enzomatrix@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -359,11 +359,11 @@ msgstr "2. Presioná en el campo de búsqueda del motor de búsqueda."
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Presión larga en el campo de búsqueda del buscador."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Tocá el ícono de la lupa sobre el teclado para agregar el buscador."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -399,7 +399,7 @@ msgstr "COMENZÁ"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Tocá el ícono de la lupa sobre el teclado para agregar este buscador."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -422,7 +422,7 @@ msgstr "Guardar"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Pegá o ingresá la cadena de búsqueda. SI es necesario, reemplazá el término de búsqueda con %s."
 
 #. Example of search engine url
 #, c-format, python-format
