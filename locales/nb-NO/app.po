@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-16 11:46+0000\n"
+"PO-Revision-Date: 2017-10-18 08:46+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: nb_NO <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -382,7 +382,7 @@ msgstr "3. Trykk på %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4 . Om du ikke ser forstørrelsesglasset, prøv å legge til en søkemotor manuelt."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -391,7 +391,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4 . Om du ikke ser %1$s, prøv å legge til en søkemotor manuelt."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -399,7 +399,7 @@ msgstr "KOM I GANG"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Trykk på forstørrelsesglassikonet overfor tastaturet for å legge til søkemotoren."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -422,7 +422,7 @@ msgstr "Lagre"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Lim eller skriver inn søkestrengen. Om nødvendig, bytt ut søkeordet med: %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -442,7 +442,7 @@ msgstr "Ny søkemotor lagt til."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "Kontroller søkestrengen og prøv på nytt"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
