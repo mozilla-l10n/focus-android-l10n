@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-20 03:10+0000\n"
+"PO-Revision-Date: 2017-10-20 03:22+0000\n"
 "Last-Translator: baldemarls <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -362,7 +362,7 @@ msgstr "2. Katavi cha ma siau nduku motor de busqueda."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Katavi ícono ña sa'a kanu nu teclado tava chikau motor de búsqueda."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -390,7 +390,7 @@ msgstr "4. Tatu kue tuù, ku chika meu nixi ndukuku."
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Tatu kue tuù %1$s, ku chika meu nixi ndukuku."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -398,19 +398,19 @@ msgstr "KI'TSA"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Katavi ícono ña sa'a kanu nu teclado tava chikau motor de búsqueda."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "Sivi kunu snau"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "SIvi ña nduku"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Nduku tu'un kunu kuachu'un"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -421,13 +421,13 @@ msgstr "Chika vaà"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Sti'in a cha'a ña kunu nuduku. A sama ña kunu ndukuku tsi %s."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Sa'an chau'ña: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -441,7 +441,7 @@ msgstr "Ntu tsa'a tsi ña ndukuku."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "Revisa la cadena de búsqueda y vuelve a intentarlo"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -959,7 +959,7 @@ msgstr "Koo licencia kuachu'na marca Fundación Mozilla ni Firefox a inkana, tsi
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Inka <a href=\"%2$s\">licencia</a>ña código abierto tsi gratuitassani inka código fuente kuachu'un tsi %1$s."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
