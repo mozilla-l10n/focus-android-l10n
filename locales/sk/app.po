@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-16 21:34+0000\n"
+"PO-Revision-Date: 2017-10-21 10:45+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -342,7 +342,7 @@ msgstr "Odstrániť"
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "Pridať manuálne"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
@@ -350,16 +350,16 @@ msgstr "Pridanie vyhľadávacieho modulu"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Prejdite na domovskú stránku vyhľadávacieho modulu."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Ťuknite do vyhľadávacieho poľa vyhľadávacieho modulu."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Podržte prst na vyhľadávacom poli vyhľadávacieho modulu."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
@@ -399,7 +399,7 @@ msgstr "ZAČÍNAME"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Tento vyhľadávací modul pridáte ťuknutím na ikonu lupy nad klávesnicou."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -411,7 +411,7 @@ msgstr "Názov vyhľadávacieho modulu"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Výraz vyhľadávania"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -442,7 +442,7 @@ msgstr "Bol pridaný nový vyhľadávací modul."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "Skontrolujte výraz vyhľadávania a skúste to znova"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
