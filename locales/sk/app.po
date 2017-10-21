@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-21 10:51+0000\n"
+"PO-Revision-Date: 2017-10-21 11:31+0000\n"
 "Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
@@ -422,7 +422,7 @@ msgstr "Uložiť"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Prilepte alebo zadajte výraz vyhľadávania. Ak je to nutné, nahraďte výraz s: %s."
 
 #. Example of search engine url
 #, c-format, python-format
