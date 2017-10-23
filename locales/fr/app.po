@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-12 23:27+0000\n"
+"PO-Revision-Date: 2017-10-23 01:47+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -411,7 +411,7 @@ msgstr "Nom du moteur de recherche"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Chaîne de recherche à utiliser"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -422,7 +422,7 @@ msgstr "Enregistrer"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Collez ou saisissez une chaîne de recherche. Si nécessaire, remplacez le terme recherché avec : %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -442,7 +442,7 @@ msgstr "Nouveau moteur de recherche ajouté."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "Vérifiez la chaîne de recherche puis réessayez"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
