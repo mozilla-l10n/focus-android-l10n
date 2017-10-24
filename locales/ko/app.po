@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 17:11+0000\n"
+"PO-Revision-Date: 2017-10-24 17:30+0000\n"
 "Last-Translator: knr1210 <knr1210@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -676,7 +676,7 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>주소를 이런 식으로 잘못 친 것은 아닌지 확인해보세요.\n"
+"        <li>주소에서 다음과 같은 오타를 확인해보세요\n"
 "          <strong>www</strong>.example.com 대신\n"
 "          <strong>ww</strong>.example.com</li>\n"
 "        <li>만약 어떤 페이지도 불러오지 못한다면, 기기의 데이터 연결 상태나 Wi-Fi 상태를 확인해주세요.</li>\n"
@@ -802,7 +802,7 @@ msgstr "한 단계 높은 사생활 보호 브라우징을 즐겨보세요. 사�
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr "나만의 방식으로 검색하기"
+msgstr "검색을 내 입맛대로"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -812,7 +812,7 @@ msgstr "다른 방식으로 검색을 원하세요? 설정에서 다른 검색 �
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr "초기 화면에 바로 가기 넣기"
+msgstr "초기 화면에 바로 가기 추가"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -824,7 +824,7 @@ msgstr "%1$s에서는 자주 방문하는 사이트로 빠르게 이동할 수 �
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr "사생활 보호를 습관화하기"
+msgstr "사생활 보호를 습관처럼"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -935,14 +935,14 @@ msgstr "Firefox 다운로드"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s는 Mozilla와 다른 공헌자들이 만들고 배포하는 무료 오픈 소스 소프트웨어 입니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s는 <a href=\"%2$s\">Mozilla 공개 라이선스</a> 및 기타 다른 오픈 소스 라이선스 이용 약관에 따라 제공됩니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -952,14 +952,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "귀하는 Mozilla와 Firefox, %1$s 명칭이나 로고를 포함한 Mozilla 재단 및 다른 서비스 제공자 소유의 지적재산권으로 보호받는 권리나 라이선스가 부여되는 것이 아님을 인지하셔야 합니다. 추가적인 정보는 <a href=\"%2$s\">다음</a>을 참고하시기 바랍니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s의 소스 코드는 기타 다양한 무료 및 오픈 소스 <a href=\"%2$s\">라이선스</a> 계약에 따라 무료로 제공됩니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
