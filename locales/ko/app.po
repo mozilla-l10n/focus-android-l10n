@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 17:30+0000\n"
+"PO-Revision-Date: 2017-10-24 17:49+0000\n"
 "Last-Translator: knr1210 <knr1210@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -40,7 +40,7 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"자동화된 사생활 보호 브라우저.\n"
+"자동화된 개인 정보 보호 브라우저.\n"
 "쓰고, 지우고. 쓰고, 지우고."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
@@ -181,11 +181,11 @@ msgid ""
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s를 여러 기능으로 사용할 수 있습니다.</p>\n"
-"<p>사생활 보호 브라우저로 사용 :\n"
+"<p>개인 정보 보호 브라우저로 사용:\n"
 "  <ul>\n"
 "    <li>앱에서 검색 및 브라우징하기</li>\n"
 "    <li>추적기 차단(설정을 변경해 허용할 수 있음)</li>\n"
-"    <li>인터넷 기록이나 검색 기록, 그리고 쿠키 삭제</li>\n"
+"    <li>인터넷 기록이나 검색 기록, 쿠키 삭제</li>\n"
 "  </ul>\n"
 "</p>\n"
 "<p>%1$s는 Mozilla의 제품입니다. Mozilla의 사명은 건강하고 개방적인 인터넷을 조성하는 것입니다.<br/><a href=\"%2$s\">더 알아보기</a></p>"
@@ -597,7 +597,7 @@ msgstr "이 링크를 열 수 있는 앱이 설치돼있지 않습니다. %1$s�
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "사생활 보호 브라우징을 종료할까요?"
+msgstr "개인 정보 보호 브라우징을 종료할까요?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -797,7 +797,7 @@ msgstr "개인정보 보호 강화하기"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "한 단계 높은 사생활 보호 브라우징을 즐겨보세요. 사이트의 경계를 넘어 개인정보를 추적하거나, 페이지 로딩 속도를 늦추는 원인이 되는 광고 및 기타 콘텐츠를 자동으로 차단해 줍니다."
+msgstr "한 단계 높은 개인 정보 보호 브라우징을 즐겨보세요. 사이트의 경계를 넘어 개인정보를 추적하거나, 페이지 로딩 속도를 늦추는 원인이 되는 광고 및 기타 콘텐츠를 자동으로 차단해 줍니다."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -875,7 +875,7 @@ msgstr "취소"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "바로 가기가 추적 차단 기능이 해제된 상태에서 열립니다"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -883,7 +883,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "선택한 탭에 링크 열기"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -902,7 +902,7 @@ msgstr "열기"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "개인 정보 보호 브라우징 세션"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -968,4 +968,4 @@ msgstr "%1$s의 소스 코드는 기타 다양한 무료 및 오픈 소스 <a hr
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s는 Disconnect, Inc에서 제공하는 차단목록에서 <a href=\"%2$s\">GNU General Public License v3</a>를 바탕으로 자체적으로 별도로 관리하는 차단목록을 사용합니다. 자세한 내용은 <a href=\"%3$s\">다음</a>에서 확인할 수 있습니다."
