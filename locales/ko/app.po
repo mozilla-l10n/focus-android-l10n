@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 02:44+0000\n"
+"PO-Revision-Date: 2017-10-24 16:50+0000\n"
 "Last-Translator: knr1210 <knr1210@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -479,7 +479,7 @@ msgstr "펼치기"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "열린 탭: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
