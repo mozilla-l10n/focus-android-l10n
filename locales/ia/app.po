@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 02:47+0000\n"
+"PO-Revision-Date: 2017-10-24 02:55+0000\n"
 "Last-Translator: Rodrigo Guerra <rodmguerra@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ia\n"
@@ -964,7 +964,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Le codice fonte additional pro %1$s es disponibile sub varie altere <a href=\"%2$s\">licentias</a> libere e de codice aperite."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -973,4 +973,4 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s usa tamben listas de blocage fornite per Disconnect, Inc. como labores separate e independente sub le <a href=\"%2$s\">Licentia Public GNU v3</a>, e es disponibile <a href=\"%3$s\">hic</a>."
