@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 01:48+0000\n"
+"PO-Revision-Date: 2017-10-24 02:03+0000\n"
 "Last-Translator: knr1210 <knr1210@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -90,7 +90,7 @@ msgstr "초기 화면에 추가하기"
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr ""
+msgstr "새로운 기능"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -280,7 +280,7 @@ msgstr "이미지 차단"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s를 기본 브라우저로 설정"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -306,7 +306,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "개인 정보 보호 정책"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -323,20 +323,20 @@ msgstr ""
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "기본 검색 엔진 설정 초기화"
 
 #. Action for adding an additional search engine to the list
 msgctxt "preference_search_add"
 msgid "Add another search engine"
-msgstr ""
+msgstr "다른 검색 엔진 추가"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "검색 엔진 삭제"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "삭제"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
@@ -345,7 +345,7 @@ msgstr ""
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "검색 엔진 추가"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -369,7 +369,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "검색 엔진 추가"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -433,7 +433,7 @@ msgstr ""
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "검색 엔진 추가"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -469,7 +469,7 @@ msgstr "탐색 기록 지우기"
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "펼치기"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -485,13 +485,13 @@ msgstr ""
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "탭 열기"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "탭 닫기"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -831,7 +831,7 @@ msgstr "사생활 보호를 습관화하기"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s 를 기본 브라우저로 설정하시면, 다른 앱에서 웹페이지를 열어볼 때 언제든지 개인 정보 보호의 혜택을 누릴 수 있습니다."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -891,7 +891,7 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -921,7 +921,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "방문 기록 삭제"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -929,7 +929,7 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Firefox 다운로드"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
