@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 02:03+0000\n"
+"PO-Revision-Date: 2017-10-24 02:44+0000\n"
 "Last-Translator: knr1210 <knr1210@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -78,7 +78,7 @@ msgstr "%1$s로 열기"
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr "다음으로 열기…"
+msgstr "다른 브라우저로 열기…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -142,7 +142,7 @@ msgstr "열기"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "지우고 열기"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -253,7 +253,7 @@ msgstr "스텔스"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "앱 전환 시 현재 앱에서의 웹페이지 정보를 숨김"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -288,7 +288,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "사용 정보 보내기"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -318,7 +318,7 @@ msgstr "%1$s에 대한 정보"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "설치된 검색 엔진 모음"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -780,7 +780,7 @@ msgstr "이미지 저장"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "새 탭으로 링크 열기"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
