@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 01:31+0000\n"
+"PO-Revision-Date: 2017-10-24 01:48+0000\n"
 "Last-Translator: knr1210 <knr1210@gmail.com>\n"
 "Language-Team: ko <LL@li.org>\n"
 "Language: ko\n"
@@ -84,7 +84,7 @@ msgstr "다음으로 열기…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "초기 화면에 추가하기"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -797,7 +797,7 @@ msgstr "개인정보 보호 강화하기"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "한 단계 높은 사생활 보호 브라우징을 즐겨보세요. 사이트의 경계를 넘어 개인정보를 추적하거나, 페이지 로딩 속도를 늦추는 원인이 되는 광고 및 기타 콘텐츠를 자동으로 차단해 줍니다."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -807,24 +807,24 @@ msgstr "나만의 방식으로 검색하기"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "다른 방식으로 검색을 원하세요? 설정에서 다른 검색 엔진을 기본값으로 선택할 수 있습니다."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "초기 화면에 바로 가기 넣기"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s에서는 자주 방문하는 사이트로 빠르게 이동할 수 있습니다. %1$s 메뉴에서 \"초기 화면에 추가하기\" 를 이용하세요."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "사생활 보호를 습관화하기"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -855,19 +855,19 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "초기 화면에 추가하기"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
