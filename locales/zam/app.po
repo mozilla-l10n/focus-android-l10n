@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-10-12 11:20-0700\n"
+"POT-Creation-Date: 2017-10-25 14:25-0700\n"
 "PO-Revision-Date: 2017-08-13 18:34+0000\n"
 "Last-Translator: rodrigo_perez_r <rodrigo_perez_r@yahoo.com>\n"
 "Language: zam\n"
@@ -213,20 +213,34 @@ msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
 msgstr ""
 
+msgctxt "preference_privacy_block_ads_summary"
+msgid "Some ads track site visits, even if you don’t click the ads"
+msgstr ""
+
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
+msgstr ""
+
+msgctxt "preference_privacy_block_analytics_summary"
+msgid "Used to collect, analyze and measure activities like tapping and scrolling"
 msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr ""
 
+msgctxt "preference_privacy_block_social_summary"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
 msgstr ""
 
-msgctxt "preference_privacy_block_content_summary"
-msgid "May break some videos and Web pages"
+msgctxt "preference_privacy_block_content_summary2"
+msgid "Enabling may cause some pages to behave unexpectedly"
 msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -318,9 +332,10 @@ msgctxt "preference_search_restore"
 msgid "Restore default search engines"
 msgstr ""
 
-#. Action for adding an additional search engine to the list
-msgctxt "preference_search_add"
-msgid "Add another search engine"
+#. Action for adding an additional search engine to the list.     The "+" is
+#. used to emphasize that this is an "add" action
+msgctxt "preference_search_add2"
+msgid "+ Add another search engine"
 msgstr ""
 
 msgctxt "preference_search_remove_title"

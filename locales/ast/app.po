@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-10-12 11:20-0700\n"
+"POT-Creation-Date: 2017-10-25 14:25-0700\n"
 "PO-Revision-Date: 2017-10-15 14:48+0000\n"
 "Last-Translator: Enol <enolp@softastur.org>\n"
-"Language-Team: ast <LL@li.org>\n"
 "Language: ast\n"
+"Language-Team: ast <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -174,21 +173,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s date'l control.</p>\n"
 "<p>Úsalu como restolador priváu:\n"
 "  <ul>\n"
 "    <li>Gueta y restola direutamente na aplicación</li>\n"
-"    <li>Bloquia los rastrexadores (o anueva los axustes pa permítilos)</li>\n"
-"    <li>Balera les cookies amás del to historial de restolar y gueta</li>\n"
+"    <li>Bloquia los rastrexadores (o anueva los axustes pa "
+"permítilos)</li>\n"
+"    <li>Balera les cookies amás del to historial de restolar y gueta</li>"
+"\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s produzlu Mozilla. La nuesa misión ye fomentar un internet sano y abierto.<br/>\n"
+"<p>%1$s produzlu Mozilla. La nuesa misión ye fomentar un internet sano y "
+"abierto.<br/>\n"
 "<a href=\"%2$s\">Deprendi mas</a></p>"
 
 msgctxt "preference_category_search"
@@ -223,21 +227,35 @@ msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
 msgstr "Bloquiar rastrexadores publicitarios"
 
+msgctxt "preference_privacy_block_ads_summary"
+msgid "Some ads track site visits, even if you don’t click the ads"
+msgstr ""
+
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
 msgstr "Bloquiar rastrexadores d'analítiques"
+
+msgctxt "preference_privacy_block_analytics_summary"
+msgid "Used to collect, analyze and measure activities like tapping and scrolling"
+msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Bloquiar rastrexadores sociales"
 
+msgctxt "preference_privacy_block_social_summary"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
 msgstr "Bloquiar otros rastrexadores"
 
-msgctxt "preference_privacy_block_content_summary"
-msgid "May break some videos and Web pages"
-msgstr "Quiciabes ruempa dellos vídeos y páxines web"
+msgctxt "preference_privacy_block_content_summary2"
+msgid "Enabling may cause some pages to behave unexpectedly"
+msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -301,8 +319,12 @@ msgstr "Deprendi más"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla esfuérciase en recoyer namái lo que precisa pa fornir y ameyorar %1$s pa tol mundu."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla esfuérciase en recoyer namái lo que precisa pa fornir y ameyorar "
+"%1$s pa tol mundu."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -326,10 +348,11 @@ msgctxt "preference_search_restore"
 msgid "Restore default search engines"
 msgstr "Reafitar motores de gueta"
 
-#. Action for adding an additional search engine to the list
-msgctxt "preference_search_add"
-msgid "Add another search engine"
-msgstr "Amestar otru motor de gueta"
+#. Action for adding an additional search engine to the list.     The "+" is
+#. used to emphasize that this is an "add" action
+msgctxt "preference_search_add2"
+msgid "+ Add another search engine"
+msgstr ""
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -362,8 +385,12 @@ msgid "2. Long press the search engine’s search field."
 msgstr "2. Fai un primíu llargu nel campu de busca del motor de gueta."
 
 msgctxt "tutorial_search_step3"
-msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr "3. Calca nel iconu de la lente d'enriba'l tecláu p'amestar el motor de gueta."
+msgid ""
+"3. Tap the magnifying glass icon above the keyboard to add the search "
+"engine."
+msgstr ""
+"3. Calca nel iconu de la lente d'enriba'l tecláu p'amestar el motor de "
+"gueta."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -381,7 +408,9 @@ msgid "3. Tap %1$s"
 msgstr "3. Calca %1$s"
 
 msgctxt "tutorial_search_step4"
-msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
+msgid ""
+"4. If you don’t see the magnifying glass, try manually adding a search "
+"engine."
 msgstr "4. Si nun ves la lente, tenta d'amestar a mano un motor de gueta."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
@@ -398,7 +427,9 @@ msgid "GET STARTED"
 msgstr "ENTAMAR"
 
 msgctxt "search_add_hint"
-msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
+msgid ""
+"Tap the magnifying glass icon above the keyboard to add this search "
+"engine."
 msgstr "Calca nel iconu de lente enriba'l tecláu p'amestar esti motor de gueta."
 
 msgctxt "search_add_manually_name"
@@ -422,7 +453,9 @@ msgstr "Guardar"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr "Apiega o introduz una cadena de gueta. Si ye preciso, troca'l términu de gueta con: %s."
+msgstr ""
+"Apiega o introduz una cadena de gueta. Si ye preciso, troca'l términu de "
+"gueta con: %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -591,8 +624,12 @@ msgstr "Alcuentra una aplicación que puea abrir l'enllaz"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Denguna aplicación del to preséu ye abrir esti enllaz. Pues colar de %1$s y guetar en %2$s una aplicación compatible."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Denguna aplicación del to preséu ye abrir esti enllaz. Pues colar de %1$s"
+" y guetar en %2$s una aplicación compatible."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -617,7 +654,9 @@ msgstr "Abrir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Los ficheros baxaos <b>nun se desaniciarán</b> cuando balerar l'historial de %1$s."
+msgstr ""
+"Los ficheros baxaos <b>nun se desaniciarán</b> cuando balerar l'historial"
+" de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -650,13 +689,17 @@ msgstr "Nun pue coneutase"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Quiciabes el sitiu tea temporalmente non disponible o perocupáu. Volvi tentalo nunos minutos.</li>\n"
-"        <li>Si nun yes a cargar páxina dala, comprueba la to conexón de datos o'l Wi-Fi del preséu.</li>\n"
+"        <li>Quiciabes el sitiu tea temporalmente non disponible o "
+"perocupáu. Volvi tentalo nunos minutos.</li>\n"
+"        <li>Si nun yes a cargar páxina dala, comprueba la to conexón de "
+"datos o'l Wi-Fi del preséu.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -673,14 +716,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Comprueba los fallos d'escritura na direición como\n"
 "          <strong>ww</strong>.example.com en cuentes de\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Si nun yes a cargar páxina dala, comprueba la to conexón de datos o'l Wi-Fi del preséu.</li>\n"
+"        <li>Si nun yes a cargar páxina dala, comprueba la to conexón de "
+"datos o'l Wi-Fi del preséu.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -690,13 +735,17 @@ msgstr "La direición nun ye válida"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Davezu les direiciones web escríbense como <strong>http://www.exemplu.com/</strong></li>\n"
-"  <li>Asegúrate que tas usando les barres invertíes <strong>/</strong>.</li>\n"
+"  <li>Davezu les direiciones web escríbense como "
+"<strong>http://www.exemplu.com/</strong></li>\n"
+"  <li>Asegúrate que tas usando les barres invertíes "
+"<strong>/</strong>.</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -706,11 +755,13 @@ msgstr "La páxina nun ta redirixendo afayadizamente"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Davezu esti problema pue cáusalu'l desactivar o refugar les cookies.</li>\n"
+"  <li>Davezu esti problema pue cáusalu'l desactivar o refugar les "
+"cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -720,11 +771,13 @@ msgstr "Nun s'entendió la direición"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Quiciabes precises instalar otru software p'abrir esta direición.</li>\n"
+"  <li>Quiciabes precises instalar otru software p'abrir esta "
+"direición.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -734,16 +787,20 @@ msgstr "Falló la conexón segura"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Esto quiciabes seya un problema cola configuración del sirvidor o que\n"
+"  <li>Esto quiciabes seya un problema cola configuración del sirvidor o "
+"que\n"
 "daquién lu tea tentando de suplantar.</li>\n"
-"  <li>Si nel pasáu te coneutesti a esti sirvidor con ésitu, quiciabes el fallu seya\n"
+"  <li>Si nel pasáu te coneutesti a esti sirvidor con ésitu, quiciabes el "
+"fallu seya\n"
 "temporal y pueas tentalo de nueves más sero.</li>\n"
 "</ul>"
 
@@ -789,8 +846,12 @@ msgstr "Abrir enllaz en llingüeta nueva"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Les imáxenes guardaes y compartíes <b>nun se desaniciarán</b> cuando baleres l'historial de %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Les imáxenes guardaes y compartíes <b>nun se desaniciarán</b> cuando "
+"baleres l'historial de %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -799,8 +860,13 @@ msgstr "Potencia la to privacidá"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Lleva'l restolar en privao a un nivel meyor. Bloquia anuncios y otru conteníu que pue rastrexate nes páxines y faen lentos los tiempos de carga."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Lleva'l restolar en privao a un nivel meyor. Bloquia anuncios y otru "
+"conteníu que pue rastrexate nes páxines y faen lentos los tiempos de "
+"carga."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -809,8 +875,12 @@ msgstr "Guetes al to xeitu"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "¿Guetes daqué diferente? Escueyi otru motor de gueta predetermináu nos axustes."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"¿Guetes daqué diferente? Escueyi otru motor de gueta predetermináu nos "
+"axustes."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -821,8 +891,12 @@ msgstr "Amiesta atayos a la to pantalla d'aniciu"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Volvi aína a los tos sitios favoritos en %1$s. Namái esbilla «Amestar a la pantalla d'aniciu» nel menú de %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Volvi aína a los tos sitios favoritos en %1$s. Namái esbilla «Amestar a "
+"la pantalla d'aniciu» nel menú de %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -833,8 +907,12 @@ msgstr "Fai de la privacidá un vezu"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Predetermina %1$s como'l to restolador y consigui los beneficios del restolar en privao cuando abres páxines web dende otres aplicaciones."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Predetermina %1$s como'l to restolador y consigui los beneficios del "
+"restolar en privao cuando abres páxines web dende otres aplicaciones."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -917,8 +995,13 @@ msgstr "Sesión de restolar en privao"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Los avisos déxente balerar la to sesión de %1$s con un toque. Nun precises abrir l'aplicación pa ver lo que ta n'execución nel to restolador."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Los avisos déxente balerar la to sesión de %1$s con un toque. Nun "
+"precises abrir l'aplicación pa ver lo que ta n'execución nel to "
+"restolador."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -937,15 +1020,23 @@ msgstr "Baxar Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s ye un programa de baldre y de códigu abiertu fechu por Mozilla y otros collaboradores."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s ye un programa de baldre y de códigu abiertu fechu por Mozilla y "
+"otros collaboradores."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s ta disponible so los términos de la <a href=\"%2$s\">Mozilla Public License</a> y otres llicencies de códigu abiertu."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s ta disponible so los términos de la <a href=\"%2$s\">Mozilla Public "
+"License</a> y otres llicencies de códigu abiertu."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -953,18 +1044,26 @@ msgstr "%1$s ta disponible so los términos de la <a href=\"%2$s\">Mozilla Publi
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Nun tienes concedíu dengún drechu o llicencia total o parcial sobre les marques rexistraes de la Mozilla Foundation, esto inclúi los nomes y logos Mozilla, Firefox o %1$s. <a href=\"%2$s\">Equí</a> "
-"pue alcontrase información adicional."
+"Nun tienes concedíu dengún drechu o llicencia total o parcial sobre les "
+"marques rexistraes de la Mozilla Foundation, esto inclúi los nomes y "
+"logos Mozilla, Firefox o %1$s. <a href=\"%2$s\">Equí</a> pue alcontrase "
+"información adicional."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "El códigu fonte adicional de %1$s ta disponible so otres <a href=\"%2$s\">llicencies</a> de baldre y códigu abiertu."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"El códigu fonte adicional de %1$s ta disponible so otres <a "
+"href=\"%2$s\">llicencies</a> de baldre y códigu abiertu."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -972,7 +1071,12 @@ msgstr "El códigu fonte adicional de %1$s ta disponible so otres <a href=\"%2$s
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s tamién usa llistaos de bloquéu forníos por Disconnect, Inc. como trabayos separtaos ya independientes so la <a href=\"%2$s\">GNU General Public License v3</a> y disponible <a "
-"href=\"%3$s\">equí</a>."
+"%1$s tamién usa llistaos de bloquéu forníos por Disconnect, Inc. como "
+"trabayos separtaos ya independientes so la <a href=\"%2$s\">GNU General "
+"Public License v3</a> y disponible <a href=\"%3$s\">equí</a>."
+
