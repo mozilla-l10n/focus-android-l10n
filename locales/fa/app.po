@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-26 19:25+0000\n"
+"PO-Revision-Date: 2017-10-26 19:44+0000\n"
 "Last-Translator: Amir Farsi <amir_farsi@ymail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
 "Language: fa\n"
@@ -956,7 +956,7 @@ msgstr "%1$s نرم‌افزاری آزاد و متن‌باز است که تو�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s تحت شرایط <a href=\"%2$s\"> گواهینامه عمومی موزیلا</a> و گواهینامه‌‌‌های دیگر متن باز در دسترس شما است."
+msgstr "%1$s تحت شرایط <a href=\"%2$s\">گواهینامه عمومی موزیلا</a> و گواهینامه‌‌‌های دیگر متن باز در دسترس شما است."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -975,7 +975,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "متن کد بیشتری برای %1$s تحت تعداد از <a href=\"%2$s\"> گواهینامه‌های </a> آزاد و متن باز در دسترس است."
+msgstr "کد منبع بیشتری برای %1$s تحت تعداد دیگری از <a href=\"%2$s\"> گواهینامه‌های</a> آزاد و متن باز در دسترس است."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -984,4 +984,4 @@ msgstr "متن کد بیشتری برای %1$s تحت تعداد از <a href=\"
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s همچنین از فهرست های مسدودی استفاده میکند که توسط Disconnect فراهم شده است. یک کار جدا و مستقل تحت <a href=\"%2$s\">GNU گواهینامه عمومی GNU نسخه3</a>،‌ و <a href=\"%3$s\">اینجا</a> در دسترس است."
+msgstr "%1$s همچنین از فهرست‌های مسدودی فراهم شده توسط Disconnect استفاده می‌کند. به عنوان کارهای جدا و مستقل تحت <a href=\"%2$s\">گواهینامه عمومی GNU نسخه3</a>،‌ و <a href=\"%3$s\">اینجا</a> در دسترس است."
