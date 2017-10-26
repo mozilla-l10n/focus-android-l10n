@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-26 13:52+0000\n"
+"PO-Revision-Date: 2017-10-26 14:16+0000\n"
 "Last-Translator: avelper <avelper@mozilla-hispano.org>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
@@ -225,7 +225,7 @@ msgstr "Bloquear rastreadores de publicidad"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Algunos anuncios, aunque no accedas a ellos, rastrean tus visitas a páginas web"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -233,7 +233,7 @@ msgstr "Bloquear rastreadores analíticos"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Se utilizan para recopilar, analizar y medir tus actividades, como cuándo seleccionas algo o te deslizas por la página"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -241,7 +241,7 @@ msgstr "Bloquear rastreadores sociales"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Incorporados en las páginas para rastrear tus visitas y mostrar funcionalidad, como botones para compartir"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -249,7 +249,7 @@ msgstr "Bloquear rastreadores de otros contenidos"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Si lo activas, puede que algunas páginas no funcionen correctamente"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -342,7 +342,7 @@ msgstr "Restaurar motores de búsqueda predeterminados"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Añadir otro motor de búsqueda"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
