@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-26 19:03+0000\n"
+"PO-Revision-Date: 2017-10-26 19:25+0000\n"
 "Last-Translator: Amir Farsi <amir_farsi@ymail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
 "Language: fa\n"
@@ -956,7 +956,7 @@ msgstr "%1$s نرم‌افزاری آزاد و متن‌باز است که تو�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s اکنون تحت شرایط <a href=\"%2$s\"> گواهینامه عمومی موزیلا</a> و گواهینامه‌‌ی دیگر متن باز در دسترس است."
+msgstr "%1$s تحت شرایط <a href=\"%2$s\"> گواهینامه عمومی موزیلا</a> و گواهینامه‌‌‌های دیگر متن باز در دسترس شما است."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -966,7 +966,9 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr "به شما هیچ گونه گواهی یا اجازه مبتنی بر علائم تجاری از بنیاد موزیلا یا هرگونه شخص ثالثی اعطا نشده است. شامل موزیلا، یا فایرفاکس یا %1$s نام یا نشانی. اطلاعات بیشتر در <a href=\"%2$s\">اینجا</a>."
+msgstr ""
+"به شما هیچ گونه اجازه یا گواهی‌ای برای علامت‌های تجاری بنیاد موزیلا یا هر شخص ثالثی، شامل موزیلا، فایرفاکس یا نام‌ها یا نشان‌های %1$s اعطا نشده است. اطّلاعات بیشتر ممکن است در <a "
+"href=\"%2$s\">اینجا</a> یافت شوند."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
