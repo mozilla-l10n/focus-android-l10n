@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-26 02:51+0000\n"
+"PO-Revision-Date: 2017-10-26 02:52+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -223,7 +223,7 @@ msgstr "封鎖廣告型追蹤器"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "某些廣告就算您不點擊，也會追蹤您造訪的網站"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -231,7 +231,7 @@ msgstr "封鎖分析型追蹤器"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "用來收集、分析、測量點擊與滾動等行為"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -239,7 +239,7 @@ msgstr "封鎖社交追蹤器"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "內嵌於網站，用來追蹤您的造訪紀錄，並提供分享按鈕等功能"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -247,7 +247,7 @@ msgstr "封鎖其他內容追蹤器"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "開啟後，可能會造成某些頁面的行為不正常"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
