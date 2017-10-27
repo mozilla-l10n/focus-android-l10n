@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-27 05:26+0000\n"
+"PO-Revision-Date: 2017-10-27 05:47+0000\n"
 "Last-Translator: um.qshi <um.qshi@gmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
@@ -225,7 +225,7 @@ msgstr "اشتھار ٹریکرز کو بلاک کریں"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "چند اشتہاری ٹریکر سائَٹ دورہ کرتی ہیں حب کہ آپ نے اشتتہارات پر کلک بھی نہ کیا ہو"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -391,7 +391,7 @@ msgstr "تلاش انجن اضافہ کریں"
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3 %1$s کو تھپتھبائیں"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
@@ -424,7 +424,7 @@ msgstr "تلاش انجن کا نام"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "استعمال کرنے کے لیئے اسٹرنگ تلاش کریں"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -441,7 +441,7 @@ msgstr ""
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "مثلاٰ؛ example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
