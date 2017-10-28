@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-26 06:16+0000\n"
+"PO-Revision-Date: 2017-10-26 06:11+0000\n"
 "Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -163,7 +163,7 @@ msgstr "Xóa lịch sử duyệt web"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "Tìm kiếm riêng tư"
+msgstr "Tìm kiếm riêng tư hơn"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -274,7 +274,7 @@ msgstr "Hiệu suất"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "Chặn phông chữ trang web"
+msgstr "Chặn phông chữ trang Web"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -314,7 +314,7 @@ msgstr "Tìm hiểu thêm"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla chỉ thu thập những gì chúng tôi cần để cung cấp và cải tiến %1$s cho tất cả mọi người."
+msgstr "Mozilla chỉ thu thập những gì chúng tôi cần cung cấp và cải tiến %1$s cho tất cả mọi người."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -535,7 +535,7 @@ msgstr "Tùy chọn thêm"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "Tiếp theo"
+msgstr "Điều hướng tiến"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -547,7 +547,7 @@ msgstr "Tải lại trang web"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "Quay lại"
+msgstr "Điều hướng lùi"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -951,14 +951,14 @@ msgstr "Tải Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s là phần mềm tự do nguồn mở được tạo nên bởi Mozilla và các tình nguyện viên khác."
+msgstr "%1$s là phần mềm miễn phí và mã nguồn mở do Mozilla và các cộng tác viên khác cung cấp."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s được cung cấp cho bạn theo các điều khoản của <a href=\"%2$s\">Mozilla Public License</a> và các giấy phép nguồn mở khác."
+msgstr "%1$s được cung cấp cho bạn theo các điều khoản của <a href=\"%2$s\">giấy phép Mozilla Public</a> và các giấy phép nguồn mở khác."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
