@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-12 11:20-0700\n"
-"PO-Revision-Date: 2017-10-24 02:55+0000\n"
+"PO-Revision-Date: 2017-10-29 00:15+0000\n"
 "Last-Translator: Rodrigo Guerra <rodmguerra@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ia\n"
@@ -822,7 +822,7 @@ msgstr "Adde accessos directe a tu schermo initial"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Retorna a tu sitos favorite in %1$s rapidemente. Selectiona simplemente \"Adder a tu schermo initial\" ab le menu."
+msgstr "Retorna a tu sitos favorite in %1$s rapidemente. Selige simplemente \"Adder a tu schermo initial\" ab le menu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -886,7 +886,7 @@ msgstr "Le accesso directe aperira con le protection contra traciamento inactive
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr "Aperir le ligamine in le scheda selectionate"
+msgstr "Aperir le ligamine in le scheda seligite"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
