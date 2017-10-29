@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-29 18:30+0000\n"
+"PO-Revision-Date: 2017-10-29 18:31+0000\n"
 "Last-Translator: Marcelo Poli <enzomatrix@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -249,7 +249,7 @@ msgstr "Bloquear otros rastreadores de contenidos"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Habilitarlos puede causar que algunas páginas se comporten de forma inesperada"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -342,7 +342,7 @@ msgstr "Restaurar los motores de búsuqeda predeterminados"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+Agregar otro buscador"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
