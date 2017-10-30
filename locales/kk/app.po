@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-14 06:22+0000\n"
+"PO-Revision-Date: 2017-10-30 16:52+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
-"Language: kk\n"
 "Language-Team: kk <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -173,25 +174,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s басқаруды қолыңызға береді.</p>\n"
 "<p>Оны жекелік браузері ретінде қолданыңыз:\n"
 "  <ul>\n"
 "    <li>Қолданба ішінен тікелей іздеу және шолу</li>\n"
-"    <li>Трекерлерді блоктаңыз (немесе, оларды рұқсат ету үшін, "
-"баптауларды жаңартыңыз)</li>\n"
+"    <li>Трекерлерді блоктаңыз (немесе, оларды рұқсат ету үшін, баптауларды жаңартыңыз)</li>\n"
 "    <li>Cookies және іздеу мен шолу тарихын кетіру үшін өшіріңіз</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s жасаған Mozilla. Мақсатымыз - интернет денсаулығын және ашықтығын"
-" сақтау.<br/>\n"
+"<p>%1$s жасаған Mozilla. Мақсатымыз - интернет денсаулығын және ашықтығын сақтау.<br/>\n"
 "<a href=\"%2$s\">Көбірек білу</a></p>"
 
 msgctxt "preference_category_search"
@@ -228,7 +225,7 @@ msgstr "Жарнама трекерлерін блоктау"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Кейбір жарналамалар сайт шолуды бақылайды, жарнамаларға шертпесеңіз де"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -236,17 +233,15 @@ msgstr "Аналитикалық трекерлерді блоктау"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Шерту және айналдыру әрекеттерін жинау, зерттеу және өлшеуге пайдаланылады"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Әлеуметтік желілер трекерлерін блоктау"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "Шолуыңызды бақылау және бөлісу батырмалары сияқты мүмкіндіктерді көрсету мақсатымен сайттарға ендірілген"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -254,7 +249,7 @@ msgstr "Басқа құрама трекерлерін блоктау"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Бұны іске қосу кейбір сайттардың мінез-құлығын күтпегендей өзгертеді"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -318,12 +313,8 @@ msgstr "Көбірек білу"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla тек %1$s әркім үшін ұсыну және жақсарту мақсатында керек "
-"деректерді жинауға тырысады."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla тек %1$s әркім үшін ұсыну және жақсарту мақсатында керек деректерді жинауға тырысады."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -351,7 +342,7 @@ msgstr "Үнсіз келісім іздеу жүйелерін қалпына �
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Басқа іздеу жүйесін қосу"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -384,12 +375,8 @@ msgid "2. Long press the search engine’s search field."
 msgstr "2. Іздеу жүйесінің іздеу өрісіне ұзақ басып тұрыңыз."
 
 msgctxt "tutorial_search_step3"
-msgid ""
-"3. Tap the magnifying glass icon above the keyboard to add the search "
-"engine."
-msgstr ""
-"3. Іздеу жүйесін қосу үшін, пернетақта үстіндегі ұлғайтқыш таңбашасына "
-"шертіңіз."
+msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
+msgstr "3. Іздеу жүйесін қосу үшін, пернетақта үстіндегі ұлғайтқыш таңбашасына шертіңіз."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -407,9 +394,7 @@ msgid "3. Tap %1$s"
 msgstr "3. %1$s шертіңіз"
 
 msgctxt "tutorial_search_step4"
-msgid ""
-"4. If you don’t see the magnifying glass, try manually adding a search "
-"engine."
+msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
 msgstr "4. Ұлғайтқыш таңбашасын көрмесеңіз, іздеу жүйесін қолмен қосып көріңіз."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
@@ -426,12 +411,8 @@ msgid "GET STARTED"
 msgstr "БАСТАУ"
 
 msgctxt "search_add_hint"
-msgid ""
-"Tap the magnifying glass icon above the keyboard to add this search "
-"engine."
-msgstr ""
-"Бұл іздеу жүйесін қосу үшін, пернетақта үстіндегі ұлғайтқыш таңбашасына "
-"шертіңіз."
+msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
+msgstr "Бұл іздеу жүйесін қосу үшін, пернетақта үстіндегі ұлғайтқыш таңбашасына шертіңіз."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -454,9 +435,7 @@ msgstr "Сақтау"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
-"Іздеу жолын кірістіріңіз немесе енгізіңіз. Керек болса, іздеу ұғымын "
-"келесімен алмастырыңыз: %s."
+msgstr "Іздеу жолын кірістіріңіз немесе енгізіңіз. Керек болса, іздеу ұғымын келесімен алмастырыңыз: %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -625,12 +604,8 @@ msgstr "Сілтемені аша алатын қолданбаны табу"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Құрылғыңыздағы бірде-бір қолданба бұл сілтемені аша алмайды. Оны аша "
-"алатын қолданбасын %2$s ішінен іздеу үшін, сіз %1$s ішінен шыға аласыз."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Құрылғыңыздағы бірде-бір қолданба бұл сілтемені аша алмайды. Оны аша алатын қолданбасын %2$s ішінен іздеу үшін, сіз %1$s ішінен шыға аласыз."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -655,9 +630,7 @@ msgstr "Ашу"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Сіз %1$s тарихын өшірген кезде жүктеліп алынған файлдар "
-"<b>өшірілмейді</b>."
+msgstr "Сіз %1$s тарихын өшірген кезде жүктеліп алынған файлдар <b>өшірілмейді</b>."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -690,17 +663,13 @@ msgstr "Байланысты орнату сәтсіз аяқталды"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Сайт уақытша қолжетерсіз, немесе сұранымдарға толы шығар. "
-"Кейінірек қайталап көріңіз.</li>\n"
-"        <li>Бірде-бір сайт ашылмаса, мобильді құрылғыңыздың деректер не "
-"Wi-Fi байланысын тексеріңіз.</li>\n"
+"        <li>Сайт уақытша қолжетерсіз, немесе сұранымдарға толы шығар. Кейінірек қайталап көріңіз.</li>\n"
+"        <li>Бірде-бір сайт ашылмаса, мобильді құрылғыңыздың деректер не Wi-Fi байланысын тексеріңіз.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -717,17 +686,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Адресті енгізген кезде қате кетпегенге көз жеткізіңіз, мысалы"
-" \n"
+"        <li>Адресті енгізген кезде қате кетпегенге көз жеткізіңіз, мысалы \n"
 "         <strong>www</strong>.example.com орнына \n"
 "         <strong>ww</strong>.example.com</li>\n"
-"        <li>Бірде-бір сайт ашылмаса, мобильді құрылғыңыздың деректер не "
-"Wi-Fi байланысын тексеріңіз.</li>\n"
+"        <li>Бірде-бір сайт ашылмаса, мобильді құрылғыңыздың деректер не Wi-Fi байланысын тексеріңіз.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -737,17 +703,13 @@ msgstr "Адрес қате"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Веб адрестері әдетте келесідей жазылады - "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. "
-"<strong>/</strong>).</li>\n"
+"  <li>Веб адрестері әдетте келесідей жазылады - <strong>http://www.example.com/</strong></li>\n"
+"  <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -757,13 +719,11 @@ msgstr "Парақтағы бағдарлау дұрыс емес"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бұл мәселе кейде cookies қабылдау сөндірілген кезде болуы "
-"мүмкін.</li>\n"
+"  <li>Бұл мәселе кейде cookies қабылдау сөндірілген кезде болуы мүмкін.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -773,13 +733,11 @@ msgstr "Адресті талдау қатесі"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек "
-"мүмкін.</li>\n"
+"  <li>Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -789,19 +747,15 @@ msgstr "Қауіпсіз байланысты орнату сәтсіз аяқт
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек "
-"серверді басқасымен ауыстырғысы келеді.</li>\n"
-"  <li>Осыған дейін бұл серверге сәтті қосылған болсаңыз, бұл қате уақытша"
-" болуы мүмкін. Біраздан кейін қайталап көріңіз.</li>\n"
+"  <li>Бұл сервердің қатесі болуы мүмкін, немесе біреу сізге керек серверді басқасымен ауыстырғысы келеді.</li>\n"
+"  <li>Осыған дейін бұл серверге сәтті қосылған болсаңыз, бұл қате уақытша болуы мүмкін. Біраздан кейін қайталап көріңіз.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -846,12 +800,8 @@ msgstr "Сілтемені жаңа бетте ашу"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"%1$s тарихы өшірілген кезде сақталған және бөліскен суреттер "
-"<b>өшірілмейді</b>."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "%1$s тарихы өшірілген кезде сақталған және бөліскен суреттер <b>өшірілмейді</b>."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -860,13 +810,8 @@ msgstr "Жекелігіңізді күшейтіңіз"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"Жекелік шолудың келесі деңгейіне өтіңіз. Сайттар арасында сізді "
-"бақылайтын және парақтардың жүктелу уақытын арттыратын жарнама және басқа"
-" құраманы блоктаңыз."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "Жекелік шолудың келесі деңгейіне өтіңіз. Сайттар арасында сізді бақылайтын және парақтардың жүктелу уақытын арттыратын жарнама және басқа құраманы блоктаңыз."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -875,12 +820,8 @@ msgstr "Сіздің іздеулеріңіз, сіздің жолыңызбен
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
-msgstr ""
-"Басқа бірнәрсе іздедіңіз бе? Баптаулардан басқа негізгі іздеу жүйесін "
-"таңдаңыз."
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr "Басқа бірнәрсе іздедіңіз бе? Баптаулардан басқа негізгі іздеу жүйесін таңдаңыз."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -891,12 +832,8 @@ msgstr "Үй экранына жарлықтарды қосыңыз"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"%1$s ішінде таңдамалы сайттарға жылдам оралыңыз. Тек %1$s мәзірінен \"Үй "
-"экранына қосу\" таңдаңыз."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "%1$s ішінде таңдамалы сайттарға жылдам оралыңыз. Тек %1$s мәзірінен \"Үй экранына қосу\" таңдаңыз."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -907,12 +844,8 @@ msgstr "Жекелікті әдет қылыңыз"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"%1$s негізгі браузер ретінде орнатып, басқа қолданбалардан вебпарақтарын "
-"ашу кезінде жекелік шолудың артықшылықтарын алыңыз."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "%1$s негізгі браузер ретінде орнатып, басқа қолданбалардан вебпарақтарын ашу кезінде жекелік шолудың артықшылықтарын алыңыз."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -995,12 +928,8 @@ msgstr "Жекелік шолу сессиясы"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Хабарламалар сізге %1$s сессиясын бір шертумен өшіруді мүмкін етеді. "
-"Сізге браузерді ашуды немесе браузерде не орындалғанын көру керек емес."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Хабарламалар сізге %1$s сессиясын бір шертумен өшіруді мүмкін етеді. Сізге браузерді ашуды немесе браузерде не орындалғанын көру керек емес."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1019,23 +948,15 @@ msgstr "Firefox-ты жүктеп алу"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s - Mozilla және басқа үлес қосушылары жасаған еркін және бастапқы "
-"кодтары ашық бағдарламалық қамтама."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s - Mozilla және басқа үлес қосушылары жасаған еркін және бастапқы кодтары ашық бағдарламалық қамтама."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s сізге <a href=\"%2$s\">Mozilla публикалық лицензиясы</a> және басқа "
-"кодтары ашық лицензиялар аясында қолжетерлік етілген."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s сізге <a href=\"%2$s\">Mozilla публикалық лицензиясы</a> және басқа кодтары ашық лицензиялар аясында қолжетерлік етілген."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1043,26 +964,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Сізге Mozilla Foundation-ның немесе басқа да жақтардың ешбір тіркелген "
-"сауда белгілеріне, соның ішінде Mozilla, Firefox немесе %1$s аттары "
-"немесе логотиптеріне ешбір құқықтар немесе лицензиялар берілмейді. "
-"Қосымша ақпаратты <a href=\"%2$s\">here</a> жерінен табуға болады."
+"Сізге Mozilla Foundation-ның немесе басқа да жақтардың ешбір тіркелген сауда белгілеріне, соның ішінде Mozilla, Firefox немесе %1$s аттары немесе логотиптеріне ешбір құқықтар немесе лицензиялар "
+"берілмейді. Қосымша ақпаратты <a href=\"%2$s\">here</a> жерінен табуға болады."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"%1$s үшін қосымша бастапқы кодтары әр түрлі басқа тегін және бастапқы "
-"кодтары ашық <a href=\"%2$s\">лицензиялар</a> аясында қолжетерлік."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "%1$s үшін қосымша бастапқы кодтары әр түрлі басқа тегін және бастапқы кодтары ашық <a href=\"%2$s\">лицензиялар</a> аясында қолжетерлік."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1070,13 +983,7 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"Сонымен қатар, %1$s Disconnect, Inc. ұсынған блоктізімдерін қолданады, "
-"олар <a href=\"%2$s\">GNU General Public License v3</a> аясында, <a "
-"href=\"%3$s\">осында</a> бөлек және тәуелсіз жұмыстар ретінде "
-"қолжетерлік."
-
+"Сонымен қатар, %1$s Disconnect, Inc. ұсынған блоктізімдерін қолданады, олар <a href=\"%2$s\">GNU General Public License v3</a> аясында, <a href=\"%3$s\">осында</a> бөлек және тәуелсіз жұмыстар "
+"ретінде қолжетерлік."
