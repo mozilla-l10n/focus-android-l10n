@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-28 11:45+0000\n"
-"Last-Translator: Ognyan Kulev <ognyan@ognyankulev.com>\n"
+"PO-Revision-Date: 2017-11-03 10:03+0000\n"
+"Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -233,7 +233,7 @@ msgstr "Спиране на следене с цел анализ"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Използват го, за да събират, анализират и измерват дейности като докосване и скролиране"
+msgstr "Използват го, за да събират, анализират и измерват дейности като докосване и плъзгане"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -274,7 +274,7 @@ msgstr "Производителност"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "Спиране на уебшрифтовете"
+msgstr "Спиране на уеб шрифтовете"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
