@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-01 04:40+0000\n"
+"PO-Revision-Date: 2017-11-07 04:05+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -225,7 +225,7 @@ msgstr "ບັອກຕົວຕິດຕາມຂອງການໂຄສະນ
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "ມີໂຄສະນາບາງໂຕສາມາດຕິດຕາມການເຂົ້າໄປເວັບຕ່າງໆ ເຖິງແມ່ນວ່າທ່ານຈະບໍ່ໄດ້ຄິກໃສ່ໂຄສະນານັ້ນເລີຍ"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -233,7 +233,7 @@ msgstr "ບັອກຕົວຕິດຕາມຂອງການວິເຄາ
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "ໃຊ້ເພື່ອເກັບກຳຮວບຮ່ວມ, ວິເຄາະ ແລະ ວັດແທກກິດຈະກຳເຊັນວ່າການແຕະ ແລະ ການເລື່ອນ"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -241,7 +241,7 @@ msgstr "ບັອກຕົວຕິດຕາມຂອງສືສັງຄົມ
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "ຝັງໄວ້ຢູ່ໃນເວັບໄຊທ໌ເພື່ອຕິດຕາມເບິງການເຂົ້າມາເບິງຂອງທ່ານ ແລະ ເພື່ອສະແດງຟັງຊັນເຊັ່ນວ່າປຸ່ມແບ່ງປັນ"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -249,7 +249,7 @@ msgstr "ບັອກຕົວຕິດຕາມຂອງເນື້ອຫາຕ
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "ການເປີດໃຊ້ງານອາດຈະເຮັດໃຫ້ບາງຫນ້າເຮັດວຽກຜຶດປົກກະຕິ"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -314,12 +314,12 @@ msgstr "ຮຽນຮູ້ເພີ່ມເຕີມ"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla ພະຍາຍາມທີ່ຈະເກັບຮວບຮ່ວມສະເພາະສິ່ງທີ່ຈຳເປັນຕໍ່ການປັບປູງ %1$s ສຳລັບທຸກໆຄົນ."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -331,22 +331,22 @@ msgstr "ກ່ຽວກັບ %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "ໄດ້ທຳການຕິດຕັ້ງເຄື່ອງມືການຄົ້ນຫາແລ້ວ"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "ກູ້ຄືນເຄື່ອງມືພື້ນຖານຂອງການຄົ້ນຫາ"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ ເພີ່ມລະບົບການຊອກຫາຕົວອື່ນ"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "ລຶບເຄື່ອງມືການຄົ້ນຫາ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -355,11 +355,11 @@ msgstr "ລຶບ"
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "ເພີ່ມເອງ"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "ເພີ່ມເຄື່ອງມືການຄົ້ນຫາ"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -383,7 +383,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "ເພີ່ມເຄື່ອງມືການຄົ້ນຫາ"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -420,7 +420,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "ຊື່ເຄື່ອງມືການຄົ້ນຫາ"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -447,7 +447,7 @@ msgstr ""
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "ເພີ່ມເຄື່ອງມືການຄົ້ນຫາ"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -819,7 +819,7 @@ msgstr "ການຄົ້ນຫາໃນແບບຂອງທ່ານເອງ
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "ກຳລັງຊອກຫາບາງສິ່ງບາງຢ່າງທີ່ແຕກຕ່າງບໍ່? ເລືອກເອົາຕົວຄົ້ນຫາພື້ນຖານອື່ນໆໃນການຕັ້ງຄ່າ."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
