@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-03 10:03+0000\n"
+"PO-Revision-Date: 2017-11-07 10:09+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -763,12 +763,12 @@ msgstr "По някаква причина страницата не може д
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr "Споделяне на връзката"
+msgstr "Споделяне на препратката"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr "Копиране адреса на връзката"
+msgstr "Копиране на адреса"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -778,7 +778,7 @@ msgstr "Споделяне на изображението"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "Копиране адреса на изображението"
+msgstr "Копиране на изображението"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -795,7 +795,7 @@ msgstr "Отваряне в раздел"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Запазените и споделените изображения <b>няма да бъдат изтрити</b>при изтриване на историята на %1$s."
+msgstr "Запазените и споделените изображения <b>няма да бъдат изтрити</b> при изтриване на историята на %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -805,7 +805,7 @@ msgstr "Усилете вашата поверителност"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Преминете към следващото ниво на поверителността. Спирайте рекламите и друго съдържание, което следи движенията ви през много сайтове и забавя зареждането на страници."
+msgstr "Преминете към следващото ниво на поверителност. Спирайте рекламите и друго съдържание, което следи движението ви през интернет и забавя зареждането на страниците."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
