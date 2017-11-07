@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-07 10:09+0000\n"
+"PO-Revision-Date: 2017-11-07 10:15+0000\n"
 "Last-Translator: :stoyan <stoyan@gmx.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -84,7 +84,7 @@ msgstr "Отваряне с…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "Добавяне към началния екран"
+msgstr "Добавяне към екрана"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -225,7 +225,7 @@ msgstr "Спиране на следене от реклами"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Някои реклами проследяват посещенията, даже и да не натискате върху рекламите"
+msgstr "Някои реклами проследяват посещенията, даже и да не натискате върху тях"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -654,7 +654,7 @@ msgstr "Проблем при зареждане на страница"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr "Нов опит"
+msgstr "Повторен опит"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
@@ -827,7 +827,7 @@ msgstr "Добавяне на преки пътища към началния е
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "С %1$s можете бързо да се връщате към най-използваните от вас сайтове. Просто изберете „Добавяне към началния екран“ от менюто на %1$s."
+msgstr "С %1$s можете бързо да се връщате към най-използваните от вас сайтове. Просто изберете „Добавяне към екрана“ от менюто на %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -839,7 +839,7 @@ msgstr "Изградете навик за поверителност"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Задайте %1$s като ваш браузър по подразбиране и използвайте предимствата от поверителното четене, когато други приложения ви препращат към Мрежата."
+msgstr "Задайте %1$s като стандартен четец и се възползвайте предимствата на поверителното разглеждане, когато други приложения ви препращат към Мрежата."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -863,7 +863,7 @@ msgstr "–"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr "Добавяне към началния екран"
+msgstr "Добавяне към екрана"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
