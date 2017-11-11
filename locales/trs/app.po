@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-11 01:28+0000\n"
+"PO-Revision-Date: 2017-11-11 01:44+0000\n"
 "Last-Translator: yumatajnga <yumatajnga@gmail.com>\n"
 "Language-Team: trs <LL@li.org>\n"
 "\n"
@@ -408,7 +408,7 @@ msgstr "3. Ga'ui' riña nūn da'nga' nagi'iaj yachij, da' nūtat sa nana'uit."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "Das dugu'najt ma"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -416,7 +416,7 @@ msgstr "Si yugui sa nana'ui'"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Ahuin si gahuin cadena gàrasunt"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -427,13 +427,13 @@ msgstr "Na'ninj sa'"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Gachrun cadenâ garasunt da' nana'uit. Si nuhuij nī gachrû nuguan'' ruat nana'uìt: %s."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Da' gi'ìat: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -447,7 +447,7 @@ msgstr "Ngà nata' a'ngo sa nakà da' nana'uì'."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "Ni'ìaj si hua hue'è sa gachrut nī garahuè ñut"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
