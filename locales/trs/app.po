@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-11 02:43+0000\n"
+"PO-Revision-Date: 2017-11-11 03:28+0000\n"
 "Last-Translator: yumatajnga <yumatajnga@gmail.com>\n"
 "Language-Team: trs <LL@li.org>\n"
 "\n"
@@ -830,14 +830,14 @@ msgstr "Nanikàjt riña nej sitiô nihià’ ruhuât %1$s nanèt chre. Ma sa gi�
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Yitïnj gachē nun ‘ngōrïnt"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Nachrūn %1$s da’ gahuin man nevegador garasūn yitïnjt nī ga’ue garasunt man da’ gachē nu ‘ngorïnt ngà na’nïnt a’ngô da’āj nej pâjina."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -881,7 +881,7 @@ msgstr "Duyichin'"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Nayi’nïnj riña gatū nikô’ nikāj ‘ngō sa dugumîn ñù’ nga aché nun’ sanī huā na’àj man"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
