@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-11 00:52+0000\n"
+"PO-Revision-Date: 2017-11-11 01:28+0000\n"
 "Last-Translator: yumatajnga <yumatajnga@gmail.com>\n"
 "Language-Team: trs <LL@li.org>\n"
 "\n"
@@ -364,11 +364,11 @@ msgstr "2. Ga'ui' ña nù sa nana'uì'."
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr "2. Guta' ra'at ña nù sa nana'uì' si motor sa nana'ui'."
+msgstr "2. Guta' ra'at ña nūn sa nana'ui' si motor sa nana'ui'."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Ga'ui' riña nūn da'nga' nagi'iaj yachij, da' nūtat sa nana'uit."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -387,7 +387,7 @@ msgstr "3. Ga'ui' %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si nitaj si ra'nga' nūn sā nagi'iaj yàchij, ni ga'uè nùta' ma'ant sa nana'uit."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -396,7 +396,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si nit si ra'nga' nū %1$s, ni ga'uè nùta' ma'ant sa nana'uit."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -404,7 +404,7 @@ msgstr "GAYI'I'"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "3. Ga'ui' riña nūn da'nga' nagi'iaj yachij, da' nūtat sa nana'uit."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
