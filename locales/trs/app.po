@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-11 01:44+0000\n"
+"PO-Revision-Date: 2017-11-11 02:43+0000\n"
 "Last-Translator: yumatajnga <yumatajnga@gmail.com>\n"
 "Language-Team: trs <LL@li.org>\n"
 "\n"
@@ -475,7 +475,7 @@ msgstr "Narè' nej nuguan' garajsunt nga ganana'uî't"
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "Nagi'iaj gachrà'"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -485,19 +485,19 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Rakïj ñanj huā ni'nïnj: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "Na'nïn rakïj ñanj"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "Narán rakïj ñanj"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -786,7 +786,7 @@ msgstr "Dunaj ñadu'ua"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Na'nïn' riña a'ngô rakïj ñanj nakàa"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -803,29 +803,29 @@ msgstr "Nagi'iaj nukuaj riña gache nun 'ngorïnt"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Ga’ue gan’ānj ñānt doj ngà riña aché nu huìt. Dure’ asi narán riña nej sa ga’ue gatū naga’nāj nej sa ahī màn ‘iát nī natsij nej diû huin ràn nej pâjina ngà nayi’nïn."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Sa nana’uî’t, si chrējt"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Huā a’ngô sa nana’uî’ raj. Naguī a’ngô sa rugûñu’ūnj da’ nana’uì’t sa huin ruhuât riña configuración."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Gachrūn nej acceso directo riña aga’ ayi’ì sinïnt"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Nanikàjt riña nej sitiô nihià’ ruhuât %1$s nanèt chre. Ma sa gi’iát huin sisī guru’man ra’ât riña tāj \"Nachrun riña aga’ gayi’ì\" riña menú %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
