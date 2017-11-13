@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-11 06:50+0000\n"
-"Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
+"PO-Revision-Date: 2017-11-13 11:20+0000\n"
+"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
@@ -225,7 +225,7 @@ msgstr "বিজ্ঞাপন গোয়েন্দা আটক করুন
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "কিছু বিজ্ঞাপন, আপনি তাতে ক্লিক না করলেও কি সাইট ব্রাউজ করছেন তা ট্র্যাক করে"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -233,7 +233,7 @@ msgstr "এনালেটিকস গোয়েন্দা আটক করু
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "ট্যাপিং বা স্ক্রলিং এর মত কর্মকান্ডের হিসেব রাখতে, বিশ্লেষণ করতে ব্যবহৃত হয়"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -241,7 +241,7 @@ msgstr "সোশ্যাল নেটওয়ার্ক গোয়েন্দ�
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "সাইটে আপনার ব্রাউজ ট্র্যাক করতে এবং শেয়ার বোতামের মত ফাংশনালিটি দেখাতে সাইটে এম্বেড রয়েছে"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -249,7 +249,7 @@ msgstr "অন্যন্য কনটেন্ট গোয়েন্দা আ
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "সক্রিয় করলে কিছু পাতা অপ্রত্যাশিত আচরণ করতে পারে"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -266,7 +266,7 @@ msgstr "অদৃশ্য"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "অ্যাপ বদলের সময় ওয়েবপেইজ আড়াল কর"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -293,7 +293,7 @@ msgstr "ইমেজ ব্লক করুন"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s কে ডিফল্ট ব্রাউজার করুন"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -331,22 +331,22 @@ msgstr "%1$s সম্পর্কে"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "ইন্সটল করা অনুসন্ধান ইঞ্জিন"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "ডিফল্ট অনুসন্ধান ইঞ্জিন পুনরুদ্ধার"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ অন্য অনুসন্ধান ইঞ্জিন যোগ করুন"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "অনুসন্ধান ইঞ্জিন অপসারণ করুন"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "অনুসন্ধান ইঞ্জিন যোগ"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -383,7 +383,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "অনুসন্ধান ইঞ্জিন যোগ"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
