@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-13 14:09+0000\n"
+"PO-Revision-Date: 2017-11-13 14:15+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -116,7 +116,7 @@ msgstr "თქვენი უფლებები"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "მეთვალყურე ელემენტები შეიზღუდა"
+msgstr "შეზღუდული მეთვალყურეები"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -233,7 +233,7 @@ msgstr "სტატისტიკური აღრიცხვის ელ�
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "გამოიყენება აღრიცხვისთვის, დამუშავებისა და ისეთი მოქმედებების შესამოწმებლად, როგორიცაა თითის შეხება და გვერდის გადაადგილება"
+msgstr "გამოიყენება მონაცემთა აღრიცხვისთვის, დამუშავებისა და ისეთი მოქმედებების შესამოწმებლად, როგორიცაა თითის შეხება და გვერდის გადაადგილება"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
