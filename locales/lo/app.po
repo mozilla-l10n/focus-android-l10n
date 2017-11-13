@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-07 04:05+0000\n"
+"PO-Revision-Date: 2017-11-13 15:10+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "ຊື່ທີຈະສະແດງ"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -424,7 +424,7 @@ msgstr "ຊື່ເຄື່ອງມືການຄົ້ນຫາ"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "ຊອກຫາສະຕຣິງທີ່ຈະໃຊ້"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -441,7 +441,7 @@ msgstr ""
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "ຕົວຢ່າງ: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -451,7 +451,7 @@ msgstr "ເພີ່ມເຄື່ອງມືການຄົ້ນຫາ"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "ໄດ້ເພີ້ມເຄືອງມີການຄົ້ນຫາຕົວໃຫມ່ແລ້ວ"
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
