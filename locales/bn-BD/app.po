@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-13 11:20+0000\n"
+"PO-Revision-Date: 2017-11-13 15:25+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -84,7 +84,7 @@ msgstr "এটির সাহায্যে খুলুন…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "হোমস্ক্রিনে যোগ"
+msgstr "নীড় স্ক্রিনে যোগ"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -301,7 +301,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "ব্যবহারের তথ্য পাঠাও"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -420,7 +420,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "অনুসন্ধান ইঞ্জিন নাম"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -447,15 +447,15 @@ msgstr ""
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "অনুসন্ধান ইঞ্জিন যোগ"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "নতুন অনুসন্ধান ইঞ্জিন যোগ হয়েছে।"
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "অনুসন্ধান বাক্য যাচাই করুন এবং পুনরায় চেষ্টা করুন"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
