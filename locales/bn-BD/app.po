@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-13 15:25+0000\n"
+"PO-Revision-Date: 2017-11-13 16:03+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -363,7 +363,7 @@ msgstr "অনুসন্ধান ইঞ্জিন যোগ"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. অনুসন্ধান ইঞ্জিন নীড়পাতায় যান।"
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
@@ -416,7 +416,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "যে নাম দেখাবে"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -424,7 +424,7 @@ msgstr "অনুসন্ধান ইঞ্জিন নাম"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "ব্যবহারের জন্য অনুসন্ধান বাক্য"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -435,13 +435,13 @@ msgstr "সংরক্ষণ"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "অনুসন্ধান বাক্য প্রতিলেপন করুন বা লিখুন। প্রয়োজনে, অনুসন্ধান শব্দ এ দ্বারা বদল করুন: %s।"
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "উদাহরণ: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -828,7 +828,7 @@ msgstr ""
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "নীড় স্ক্রিনে শর্টকাট যোগ করুন"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -899,7 +899,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "নির্বাচিত ট্যাবে লিঙ্ক খুলুন"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -918,7 +918,7 @@ msgstr "খুলুন"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "ব্যক্তিগত ব্রাউজিং সেশন"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
