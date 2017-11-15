@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-10-31 19:58+0000\n"
-"Last-Translator: Dhiraj Kumar Singh <singhdhiraj255@gmail.com>\n"
+"PO-Revision-Date: 2017-11-09 03:42+0000\n"
+"Last-Translator: Arpit Jaiswal <arpit.jaiswal@protonmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr "मुख्य स्क्रीन में जोड़ें"
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr ""
+msgstr "क्या नया है"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -223,7 +223,7 @@ msgstr "विज्ञापन ट्रैकर्स को अवरुद
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "कुछ विज्ञापन साइट पर जाने को ट्रैक करते हैं, भले ही आप उन्हें क्लिक न करें"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -231,7 +231,7 @@ msgstr "विश्लेषणात्मक ट्रैकर्स को 
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "टैपिंग और स्क्रॉलिंग जैसी गतिविधियाँ एकत्र, विश्लेषण और मापने के लिए उपयोग"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -239,7 +239,7 @@ msgstr "सामाजिक ट्रैकर्स को अवरुद्
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "साइटों पर आपके आने जाने पर निगाह रखने और साझा बटन जैसी कार्यक्षमता प्रदर्शित करने के लिए अंत:स्थापित"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -247,7 +247,7 @@ msgstr "अन्य सामग्री ट्रैकर्स को अ�
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "सक्षम करने पर कुछ पृष्ठ अनपेक्षित व्यवहार कर सकते हैं"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -291,7 +291,7 @@ msgstr "चित्रों को बाधित करें"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s को डिफ़ॉल्ट ब्राउज़र बनाएँ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -299,7 +299,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "उपयोग डेटा भेजें"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -312,12 +312,12 @@ msgstr "और अधिक जानें"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए आवश्यकता है."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "गोपनीयता सूचना"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -361,20 +361,20 @@ msgstr "खोज इंजन जोड़ें"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. खोज इंजन के मुखपृष्ठ पर जाएँ."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. खोज इंजन के खोज क्षेत्र में टैप करें."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. खोज इंजन के खोज क्षेत्र को लंबे समय तक दबाएँ."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. खोज इंजन को जोड़ने के लिए कुंजीपटल के ऊपर आवर्धक लेंस आइकन टैप करें."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -393,7 +393,7 @@ msgstr "3. %1$s टैप करें"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. अगर आपको आवर्धक लेंस नहीं दिखता, तो ख़ुद से खोज इंजन जोड़ने की कोशिश करें."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -402,7 +402,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. अगर आपको %1$s नहीं दिखता, तो ख़ुद से खोज इंजन जोड़ने की कोशिश करें."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -410,7 +410,7 @@ msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "इस खोज इंजन को जोड़ने के लिए कीबोर्ड के ऊपर आवर्धक लेंस दबाएं."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -422,7 +422,7 @@ msgstr "खोज इंजन का नाम"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "उपयोग के लिए खोज स्ट्रिंग"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -433,13 +433,13 @@ msgstr "सहेजें"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "खोज स्ट्रिंग चिपकाएँ या दर्ज करें. यदि ज़रूरी हो, तो खोज शब्द को %s से बदलें."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "उदाहरण: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -449,11 +449,11 @@ msgstr "खोज इंजन जोड़ें"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "नया खोज इंजन संकलित."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
-msgstr ""
+msgstr "खोज स्ट्रिंग को जाँचें और फिर से कोशिश करें"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -491,7 +491,7 @@ msgstr "विस्तार"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "खुले टैब: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
@@ -886,7 +886,7 @@ msgstr "रद्द करें"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "शॉर्टकट अक्षम ट्रैकिंग सुरक्षा के साथ खुलेगा"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -913,7 +913,7 @@ msgstr "खोलें"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "निजी ब्राउज़िंग सत्र"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -926,13 +926,13 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "अधिसूचनाएँ आपको आपका %1$s सत्र एक टैप के साथ मिटाने देती हैं. आपको ऐप खोलने या ब्राउज़र में क्या चल रहा है, देखने की ज़रूरत नहीं है."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ब्राउज़िंग इतिहास मिटाएँ"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -940,20 +940,20 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स डाउनलोड करें"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s मोज़िला और अन्य योगदानकर्ताओं द्वारा बनाया गया स्वतंत्र और मुक्त स्रोत सॉफ्टवेयर है."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s <a href=\"%2$s\">मोज़िला सार्वजनिक लाइसेंस</a> और अन्य मुक्त स्रोत लाइसेंस के नियमों के अंतर्गत आपको उपलब्ध कराया जाता है."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -964,13 +964,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"आपको Mozilla Foundation अथवा Mozilla, Firefox या %1$s नाम या प्रतीकचिन्हों सहित किसी भी पक्ष के ट्रेडमार्कों के कोई भी अधिकार या लाइसेन्स प्रदान नहीं किए गए हैं. अतिरिक्त जानकारी <a "
+"href=\"%2$s\">यहाँ</a> मिल सकती है."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s के लिए अतिरिक्त स्रोत कोड कई अन्य निशुल्क और मुक्त स्रोत <a href=\"%2$s\">लाइसेन्सों</a> के अंतर्गत उपलब्ध हैं."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -980,3 +982,5 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s Disconnect, Inc. द्वारा प्रदत्त अवरुद्धसूची का भी उपयोग <a href=\"%2$s\">GNU General Public License v3</a> के अंतर्गत पृथक और स्वतंत्र कार्यों के रूप में करता है, और <a href=\"%3$s\">यहाँ</a> "
+"उपलब्ध है."
