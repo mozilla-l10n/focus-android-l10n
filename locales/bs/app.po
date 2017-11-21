@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-10-25 14:25-0700\n"
-"PO-Revision-Date: 2017-11-21 08:10+0000\n"
+"PO-Revision-Date: 2017-11-21 08:29+0000\n"
 "Last-Translator: Nihad <nihad.suljic92@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bs\n"
@@ -605,60 +605,60 @@ msgstr "Pronađite aplikaciju koja može otvoriti vezu"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Nijedna od aplikacija na vašem uređaju nije u mogućnosti otvoriti vezu. Možete napustiti %1$s da pretražite %2$s za aplikaciju koja može."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Izaći iz privatnog pretraživanja?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s završeno"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Otvori"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Preuzete datoteke <b>neće biti izbrisane</b> kada izbrišete %1$s historiju."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Preuzmi datoteku"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Otkaži"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Preuzmi"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problem učitavanja stranice"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Pokušaj ponovo"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Povezivanje nije moguće"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -667,14 +667,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Stranica je možda trenutno nedostupna ili prezauzeta. Pokušajte ponovo za par minuta.</li>\n"
+"        <li>Ako ne možete učitati nijednu stranicu, provjerite internet na vašem telefonu ili Wi-Fi konekciju.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Veza je istekla"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Server nije pronađen"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -685,10 +689,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Provjerite adresu radi grešaka u kucanju kao što su\n"
+"          <strong>ww</strong>.example.com umjesto\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Ako ne možete učitati nijednu stranicu, provjerite internet na vašem telefonu ili Wi-Fi konekciju.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Adresa je nevažeća"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -697,10 +707,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Web adrese se obično pišu kao <strong>http://www.example.com/</strong></li>\n"
+"  <li>Uvjerite se da koristite kose crte (tj. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Stranica ne preusmjerava pravilno"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
