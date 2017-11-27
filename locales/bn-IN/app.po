@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-10-25 14:25-0700\n"
+"POT-Creation-Date: 2017-11-27 18:36+0100\n"
 "PO-Revision-Date: 2017-11-16 05:58+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
-"Language-Team: bn_IN <LL@li.org>\n"
 "Language: bn_IN\n"
+"Language-Team: bn_IN <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -29,6 +28,10 @@ msgstr "বাতিল"
 msgctxt "action_ok"
 msgid "OK"
 msgstr "ঠিক আছে"
+
+msgctxt "action_save"
+msgid "Save"
+msgstr ""
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -174,21 +177,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s আপনাকে নিয়ন্ত্রণ দেয়।</p>\n"
 "<p>ব্যক্তিগত ব্রাউজার হিসাবে এটিকে ব্যবহার করুন:\n"
 "  <ul>\n"
 "    <li>অ্যাপের মধ্যেই অনুসন্ধান এবং ব্রাউজ করুন</li>\n"
-"    <li>ট্রাকারদেরকে অবরুদ্ধ করুন (অথবা ট্রাকারদের অনুমতি দিতে সেটিংস আপডেট করুন)</li>\n"
-"    <li>সেইসাথে অনুসন্ধান এবং ব্রাউজিংয়ের পূর্ববর্তী তথ্যকে কুকির সাথে মুছুন</li>\n"
+"    <li>ট্রাকারদেরকে অবরুদ্ধ করুন (অথবা ট্রাকারদের অনুমতি দিতে সেটিংস "
+"আপডেট করুন)</li>\n"
+"    <li>সেইসাথে অনুসন্ধান এবং ব্রাউজিংয়ের পূর্ববর্তী তথ্যকে কুকির সাথে "
+"মুছুন</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s তৈরী করেছে Mozilla। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।<br/>\n"
+"<p>%1$s তৈরী করেছে Mozilla। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা "
+"এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।<br/>\n"
 "<a href=\"%2$s\">আরও জানুন</a></p>"
 
 msgctxt "preference_category_search"
@@ -199,6 +207,120 @@ msgstr "অনুসন্ধান"
 msgctxt "preference_search_engine_default"
 msgid "Default"
 msgstr "ডিফল্ট"
+
+#. Text that is shown below a "switch" preference that is enabled.
+msgctxt "preference_state_on"
+msgid "On"
+msgstr ""
+
+#. Text that is shown below a "switch" preference that is disabled.
+msgctxt "preference_state_off"
+msgid "Off"
+msgstr ""
+
+#. Item in settings that will open a new preference screen for configuring the
+#. URL autocomplete behavior.
+msgctxt "preference_subitem_autocomplete"
+msgid "URL Autocomplete"
+msgstr ""
+
+#. Title of "switch" preference that enables/disables autocomplete
+msgctxt "preference_switch_autocomplete"
+msgid "Autocomplete"
+msgstr ""
+
+#. Preference title: URL autocomplete list that ships with Focus/Klar.
+msgctxt "preference_category_autocomplete_preinstalled"
+msgid "Default URL List"
+msgstr ""
+
+#. Preference summary: URL autocomplete list that ships with Focus/Klar.
+#, c-format
+msgctxt "preference_autocomplete_preinstalled_summary"
+msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
+msgstr ""
+
+#. Preference category: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_category_autocomplete_custom"
+msgid "Custom URL"
+msgstr ""
+
+#. Item in autocomplete settings that will open a new preference screen for
+#. adding and removing custom autocomplete URLs
+msgctxt "preference_autocomplete_subitem_customlist"
+msgid "Custom URLs"
+msgstr ""
+
+#. Action at the bottom of the list of custom autocomplete URLs that will open
+#. a new screen to add a new URL to the list.
+msgctxt "preference_autocomplete_action_add"
+msgid "+ Add custom URL"
+msgstr ""
+
+#. Title of the screen for adding custom autocomplete URLs.
+msgctxt "preference_autocomplete_title_add"
+msgid "Add custom URL"
+msgstr ""
+
+msgctxt "preference_autocomplete_title_remove"
+msgid "Remove custom URLs"
+msgstr ""
+
+#. A link to SUMO at autocomplete settings.
+msgctxt "preference_autocomplete_learn_more"
+msgid "Learn more"
+msgstr ""
+
+#. Preference summary: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_autocomplete_custom_summary"
+msgid "Add and manage custom autocomplete URLs."
+msgstr ""
+
+#. Label for the "custom autocomplete URL" input field
+msgctxt "preference_autocomplete_add_title"
+msgid "URL to add"
+msgstr ""
+
+#. "Hint" text for the "custom autocomplete URL" input field. Shown when the
+#. field is empty.
+msgctxt "preference_autocomplete_add_hint"
+msgid "Paste or enter URL"
+msgstr ""
+
+#. Example how a custom domain autocomplete URL be added (e.g. without
+#. http://)
+msgctxt "preference_autocomplete_add_example"
+msgid "Example: example.com"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): A "handle" that
+#. allows the user to reorder custom autocomplete URLs
+msgctxt "preference_autocomplete_handle_content_description"
+msgid "-"
+msgstr ""
+
+#. Confirmation "snackbar" shown after a new custom autocomplete URL has been
+#. added.
+msgctxt "preference_autocomplete_add_confirmation"
+msgid "New custom URL added."
+msgstr ""
+
+#. Menu item to remove existing autocomplete URLs.
+msgctxt "preference_autocomplete_menu_remove"
+msgid "Remove"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Button that
+#. will delete all selected custom autocomplete URLs.
+msgctxt "preference_autocomplete_action_remove_content_description"
+msgid "Remove"
+msgstr ""
+
+#. Error message shown if the entered custom autocomplete URL is not valid or
+#. empty.
+msgctxt "preference_autocomplete_add_error"
+msgid "Double-check the URL you entered."
+msgstr ""
 
 msgctxt "preference_language"
 msgid "Language"
@@ -225,7 +347,9 @@ msgstr "বিজ্ঞাপন সন্মন্ধিত ট্রাকা�
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "এমন কিছু বিজ্ঞাপন আছে যেগুলিতে আপনি ক্লিক না করা সত্ত্বেও সেগুলি সাইট ভিজিট করাকে ট্র্যাক করে"
+msgstr ""
+"এমন কিছু বিজ্ঞাপন আছে যেগুলিতে আপনি ক্লিক না করা সত্ত্বেও সেগুলি সাইট "
+"ভিজিট করাকে ট্র্যাক করে"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -233,15 +357,21 @@ msgstr "অ্যানালিটিক ট্রাকারদেরকে �
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "ট্যাপিং বা স্ক্রলিং এর মত ক্রিয়াকলাপগুলি সংগ্রহ, বিশ্লেষণ এবং পরিমাপ করতে ব্যবহৃত হয়"
+msgstr ""
+"ট্যাপিং বা স্ক্রলিং এর মত ক্রিয়াকলাপগুলি সংগ্রহ, বিশ্লেষণ এবং পরিমাপ "
+"করতে ব্যবহৃত হয়"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "সামাজিক ট্রাকারদেরকে অবরুদ্ধ করুন"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "আপনার ভিজিট ট্র্যাক করতে এবং শেয়ার বোতামগুলির মত কার্যকারিতা দেখাতে সাইটে এম্বেড রয়েছে"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"আপনার ভিজিট ট্র্যাক করতে এবং শেয়ার বোতামগুলির মত কার্যকারিতা দেখাতে সাইটে"
+" এম্বেড রয়েছে"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -313,8 +443,12 @@ msgstr "আরও জানুন"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla কেবলমাত্র সেটি সংগ্রহ করে যেটা আমাদের দেওয়া প্রয়োজন এবং সকলের জন্য %1$s এর উন্নতি করে।"
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla কেবলমাত্র সেটি সংগ্রহ করে যেটা আমাদের দেওয়া প্রয়োজন এবং সকলের "
+"জন্য %1$s এর উন্নতি করে।"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -375,8 +509,12 @@ msgid "2. Long press the search engine’s search field."
 msgstr "2. সার্চ ইঞ্জিনের অনুসন্ধান ক্ষেত্রটি দীর্ঘক্ষণ টিপুন।"
 
 msgctxt "tutorial_search_step3"
-msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr "3. সার্চ ইঞ্জিন যোগ করার জন্য কীবোর্ডের উপরে বিবর্ধক কাচ আইকনটি ট্যাপ করুন।"
+msgid ""
+"3. Tap the magnifying glass icon above the keyboard to add the search "
+"engine."
+msgstr ""
+"3. সার্চ ইঞ্জিন যোগ করার জন্য কীবোর্ডের উপরে বিবর্ধক কাচ আইকনটি ট্যাপ "
+"করুন।"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -394,8 +532,12 @@ msgid "3. Tap %1$s"
 msgstr "3. %1$s তে ট্যাপ করুন"
 
 msgctxt "tutorial_search_step4"
-msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr "4. যদি আপনি বিবর্ধিত কাচ দেখতে না পান, তাহলে একটি সার্চ ইঞ্জিন ম্যানুয়ালি যোগ করার চেষ্টা করুন।"
+msgid ""
+"4. If you don’t see the magnifying glass, try manually adding a search "
+"engine."
+msgstr ""
+"4. যদি আপনি বিবর্ধিত কাচ দেখতে না পান, তাহলে একটি সার্চ ইঞ্জিন "
+"ম্যানুয়ালি যোগ করার চেষ্টা করুন।"
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -404,15 +546,21 @@ msgstr "4. যদি আপনি বিবর্ধিত কাচ দেখ�
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. যদি আপনি %1$s দেখতে না পান, তাহলে একটি সার্চ ইঞ্জিন ম্যানুয়ালি যোগ করার চেষ্টা করুন।"
+msgstr ""
+"4. যদি আপনি %1$s দেখতে না পান, তাহলে একটি সার্চ ইঞ্জিন ম্যানুয়ালি যোগ "
+"করার চেষ্টা করুন।"
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
 msgstr "শুরু করা যাক"
 
 msgctxt "search_add_hint"
-msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr "এই সার্চ ইঞ্জিন যোগ করার জন্য কীবোর্ডের উপরে বিবর্ধক কাচ আইকনটি ট্যাপ করুন।"
+msgid ""
+"Tap the magnifying glass icon above the keyboard to add this search "
+"engine."
+msgstr ""
+"এই সার্চ ইঞ্জিন যোগ করার জন্য কীবোর্ডের উপরে বিবর্ধক কাচ আইকনটি ট্যাপ "
+"করুন।"
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -435,7 +583,9 @@ msgstr "সংরক্ষণ করুন"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr "অনুসন্ধান স্ট্রিংটি পেস্ট করুন বা লিখুন। যদি প্রয়োজন হয়, %s দ্বারা অনুসন্ধানের শব্দ প্রতিস্থাপন করুন।"
+msgstr ""
+"অনুসন্ধান স্ট্রিংটি পেস্ট করুন বা লিখুন। যদি প্রয়োজন হয়, %s দ্বারা "
+"অনুসন্ধানের শব্দ প্রতিস্থাপন করুন।"
 
 #. Example of search engine url
 #, c-format, python-format
@@ -456,6 +606,18 @@ msgstr "নতুন সার্চ ইঞ্জিন যোগ করা হ�
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
 msgstr "সার্চ স্ট্রিং পরীক্ষা করুন এবং পুনরায় চেষ্টা করুন"
+
+msgctxt "search_add_error_empty_name"
+msgid "Enter search engine name"
+msgstr ""
+
+msgctxt "search_add_error_empty_search"
+msgid "Enter search string"
+msgstr ""
+
+msgctxt "search_add_error_format"
+msgid "Check that search string matches Example format"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -604,8 +766,12 @@ msgstr "একটি অ্যাপ অনুসন্ধান করেন �
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান "
+"করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -663,13 +829,17 @@ msgstr "সংযোগ করতে ব্যর্থ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
-"        <li>যদি আপনি কোন পেজ লোড করতে ব্যর্থ হন, আপনার ডিভাইসের মোবাইল ডেটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। "
+"কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
+"        <li>যদি আপনি কোন পেজ লোড করতে ব্যর্থ হন, আপনার ডিভাইসের মোবাইল "
+"ডেটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -686,14 +856,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>টাইপজনিত ভুলের জন্য ঠিকানা পরীক্ষা করুন যেমন\n"
 "          <strong>ww</strong>.example.com বদলে\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>যদি আপনি কোন পেজ লোড করতে ব্যর্থ হন, আপনার ডিভাইসের মোবাইল ডেটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"        <li>যদি আপনি কোন পেজ লোড করতে ব্যর্থ হন, আপনার ডিভাইসের মোবাইল "
+"ডেটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -703,13 +875,17 @@ msgstr "ঠিকানাটি বৈধ নয়"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ওয়েব ঠিকানা সাধারণত যেভাবে লেখা হয় <strong>http://www.example.com/</strong></li>\n"
-"  <li>আপনি যে ফরোয়ার্ড স্ল্যাস ব্যবহার করছেন তা নিশ্চিত করুন (অর্থাৎ <strong>/</strong>)।</li>\n"
+"  <li>ওয়েব ঠিকানা সাধারণত যেভাবে লেখা হয় "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>আপনি যে ফরোয়ার্ড স্ল্যাস ব্যবহার করছেন তা নিশ্চিত করুন (অর্থাৎ "
+"<strong>/</strong>)।</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -719,11 +895,13 @@ msgstr "পেজ থেকে সঠিকরূপে অনুরোধ প�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে এই সমস্যা দেখা দেওয়ার সম্ভাবনা রয়েছে।</li>\n"
+"  <li>কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে এই সমস্যা দেখা দেওয়ার "
+"সম্ভাবনা রয়েছে।</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -733,11 +911,13 @@ msgstr "ঠিকানাটি বোঝা যায়নি"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>চিহ্নিত ঠিকানা খোলার জন্য সম্ভবত কয়েকটি সফ্টওয়্যার ইনস্টল করা আবশ্যক।</li>\n"
+"  <li>চিহ্নিত ঠিকানা খোলার জন্য সম্ভবত কয়েকটি সফ্টওয়্যার ইনস্টল করা "
+"আবশ্যক।</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -747,17 +927,22 @@ msgstr "নিরাপদ সংযোগ স্থাপন করতে ব�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>সার্ভারের কনফিগারেশনের ত্রুটির কারণে এই সমস্যাটি হতে পারে, অথবা হতে পারে \n"
+"  <li>সার্ভারের কনফিগারেশনের ত্রুটির কারণে এই সমস্যাটি হতে পারে, অথবা হতে"
+" পারে \n"
 "কেউ সার্ভারের ছদ্মবেশ ধারণ করার চেষ্টা করছেন।</li>\n"
-"  <li>যদি পূর্বে আপনি কখনো এই সার্ভারের সাথে সংযুক্ত হয়ে থাকেন, তাহলে সমস্যাটি\n"
-"অস্থায়ী হতে পারে, এবং আপনি কিছুক্ষণ পর আবার চেষ্টা করে দেখতে পারেন।</li>\n"
+"  <li>যদি পূর্বে আপনি কখনো এই সার্ভারের সাথে সংযুক্ত হয়ে থাকেন, তাহলে "
+"সমস্যাটি\n"
+"অস্থায়ী হতে পারে, এবং আপনি কিছুক্ষণ পর আবার চেষ্টা করে দেখতে পারেন।</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -802,8 +987,12 @@ msgstr "নতুন ট্যাবে লিঙ্ক খুলুন"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "সংরক্ষিত এবং শেয়ার করা ছবিগুলি <b>মুছে ফেলা হবে না</b> যখন আপনি %1$s ইতিহাস মুছবেন।"
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"সংরক্ষিত এবং শেয়ার করা ছবিগুলি <b>মুছে ফেলা হবে না</b> যখন আপনি %1$s "
+"ইতিহাস মুছবেন।"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -812,8 +1001,13 @@ msgstr "আপনার গোপনীয়তা দৃঢ় করুন"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "ব্যক্তিগত ব্রাউজিং কে আরও উন্নত করুন। বিজ্ঞাপনগুলি এবং অন্যান্য সামগ্রী অবরোধ করুন যা আপনাকে সাইট জুড়ে ট্র্যাক করতে পারে এবং পেজ লোডিং এর সময় কমান।"
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"ব্যক্তিগত ব্রাউজিং কে আরও উন্নত করুন। বিজ্ঞাপনগুলি এবং অন্যান্য সামগ্রী "
+"অবরোধ করুন যা আপনাকে সাইট জুড়ে ট্র্যাক করতে পারে এবং পেজ লোডিং এর সময় "
+"কমান।"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -822,7 +1016,9 @@ msgstr "আপনার অনুসন্ধান, আপনার পথ"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr "আলাদা কিছু খুঁজছেন? সেটিংসে গিয়ে অন্য ডিফল্ট সার্চ ইঞ্জিন চয়ন করুন।"
 
 #. First run tour (Shortcut): Title
@@ -834,8 +1030,12 @@ msgstr "আপনার হোম স্ক্রিনে শর্টকাট
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "%1$s এ আপনার প্রিয় সাইটগুলিতে দ্রুত ফিরে আসুন। %1$s মেনু থেকে \"হোম স্ক্রীনে যোগ করুন\" নির্বাচন করুন।"
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"%1$s এ আপনার প্রিয় সাইটগুলিতে দ্রুত ফিরে আসুন। %1$s মেনু থেকে \"হোম "
+"স্ক্রীনে যোগ করুন\" নির্বাচন করুন।"
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -846,8 +1046,13 @@ msgstr "গোপনীয়তাকে একটি অভ্যাসে প
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "আপনার ডিফল্ট ব্রাউজার হিসাবে %1$s সেট করুন এবং আপনি অন্যান্য অ্যাপ্লিকেশানগুলি থেকে ওয়েবপেজ খুললে ব্যক্তিগত ব্রাউজিংয়ের সুবিধাগুলি পান।"
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"আপনার ডিফল্ট ব্রাউজার হিসাবে %1$s সেট করুন এবং আপনি অন্যান্য "
+"অ্যাপ্লিকেশানগুলি থেকে ওয়েবপেজ খুললে ব্যক্তিগত ব্রাউজিংয়ের সুবিধাগুলি "
+"পান।"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -930,8 +1135,12 @@ msgstr "ব্যক্তিগত ব্রাউজিং সেশন"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "বিজ্ঞপ্তিগুলি যা আপনাকে আপনার মুছতে দেয় আপনার %1$s সেশন একটি ট্যাপেই। আপনাকে অ্যাপ্লিকেশন খুলতে বা আপনার ব্রাউজারে কি চলছে দেখতে হবে না।"
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"বিজ্ঞপ্তিগুলি যা আপনাকে আপনার মুছতে দেয় আপনার %1$s সেশন একটি ট্যাপেই। "
+"আপনাকে অ্যাপ্লিকেশন খুলতে বা আপনার ব্রাউজারে কি চলছে দেখতে হবে না।"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -950,15 +1159,23 @@ msgstr "Firefox ডাউনলোড করুন"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s মুক্ত এবং ওপেন সোর্স সফটওয়্যার Mozilla এবং অন্যান্য অবদানকারীর দ্বারা তৈরি।"
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s মুক্ত এবং ওপেন সোর্স সফটওয়্যার Mozilla এবং অন্যান্য অবদানকারীর "
+"দ্বারা তৈরি।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s আপনার কাছে <a href=\"%2$s\">Mozilla Public License </a> এবং অন্যান্য ওপেন সোর্স লাইসেন্সের শর্তাবলী অনুসারে উপলব্ধ করা হয়েছে।"
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s আপনার কাছে <a href=\"%2$s\">Mozilla Public License </a> এবং অন্যান্য"
+" ওপেন সোর্স লাইসেন্সের শর্তাবলী অনুসারে উপলব্ধ করা হয়েছে।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -966,18 +1183,25 @@ msgstr "%1$s আপনার কাছে <a href=\"%2$s\">Mozilla Public Licens
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Mozilla ফাউন্ডেশন বা অন্য দল, যেমন Mozilla, Firefox অথবা %1$s এর নাম বা লোগো সহ কোনও পক্ষের ট্রেডমার্কের জন্য আপনার কোন অধিকার বা লাইসেন্স নেই। অতিরিক্ত তথ্য <a href=\"%2$s\">এখানে</a> পাওয়া যেতে "
-"পারে।"
+"Mozilla ফাউন্ডেশন বা অন্য দল, যেমন Mozilla, Firefox অথবা %1$s এর নাম বা "
+"লোগো সহ কোনও পক্ষের ট্রেডমার্কের জন্য আপনার কোন অধিকার বা লাইসেন্স নেই। "
+"অতিরিক্ত তথ্য <a href=\"%2$s\">এখানে</a> পাওয়া যেতে পারে।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s এর জন্য অতিরিক্ত সোর্স কোড অন্যান্য বিনামূল্যে এবং ওপেন সোর্স <a href=\"%2$s\">লাইসেন্সগুলি</a> এর অধীনে উপলব্ধ।"
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"%1$s এর জন্য অতিরিক্ত সোর্স কোড অন্যান্য বিনামূল্যে এবং ওপেন সোর্স <a "
+"href=\"%2$s\">লাইসেন্সগুলি</a> এর অধীনে উপলব্ধ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -985,5 +1209,12 @@ msgstr "%1$s এর জন্য অতিরিক্ত সোর্স কো
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s ও Disconnect, Inc, দ্বারা প্রদত্ত ব্লকস্ট্রিস্ট ব্যবহার করে, <a href=\"%2$s\">GNU জেনারেল পাবলিক লাইসেন্স v3</a> র অধীনে পৃথক এবং স্বাধীন কাজ হিসাবে এবং <a href=\"%3$s\">এখানে</a> পাওয়া যাবে।"
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s ও Disconnect, Inc, দ্বারা প্রদত্ত ব্লকস্ট্রিস্ট ব্যবহার করে, <a "
+"href=\"%2$s\">GNU জেনারেল পাবলিক লাইসেন্স v3</a> র অধীনে পৃথক এবং স্বাধীন"
+" কাজ হিসাবে এবং <a href=\"%3$s\">এখানে</a> পাওয়া যাবে।"
+
