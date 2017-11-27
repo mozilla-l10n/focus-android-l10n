@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-10-25 14:25-0700\n"
+"POT-Creation-Date: 2017-11-27 18:36+0100\n"
 "PO-Revision-Date: 2017-10-16 02:59+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language: az\n"
@@ -28,6 +28,10 @@ msgstr "Ləğv et"
 msgctxt "action_ok"
 msgid "OK"
 msgstr "Tamam"
+
+msgctxt "action_save"
+msgid "Save"
+msgstr ""
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -201,6 +205,120 @@ msgstr "Axtar"
 msgctxt "preference_search_engine_default"
 msgid "Default"
 msgstr "İlkin hal"
+
+#. Text that is shown below a "switch" preference that is enabled.
+msgctxt "preference_state_on"
+msgid "On"
+msgstr ""
+
+#. Text that is shown below a "switch" preference that is disabled.
+msgctxt "preference_state_off"
+msgid "Off"
+msgstr ""
+
+#. Item in settings that will open a new preference screen for configuring the
+#. URL autocomplete behavior.
+msgctxt "preference_subitem_autocomplete"
+msgid "URL Autocomplete"
+msgstr ""
+
+#. Title of "switch" preference that enables/disables autocomplete
+msgctxt "preference_switch_autocomplete"
+msgid "Autocomplete"
+msgstr ""
+
+#. Preference title: URL autocomplete list that ships with Focus/Klar.
+msgctxt "preference_category_autocomplete_preinstalled"
+msgid "Default URL List"
+msgstr ""
+
+#. Preference summary: URL autocomplete list that ships with Focus/Klar.
+#, c-format
+msgctxt "preference_autocomplete_preinstalled_summary"
+msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
+msgstr ""
+
+#. Preference category: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_category_autocomplete_custom"
+msgid "Custom URL"
+msgstr ""
+
+#. Item in autocomplete settings that will open a new preference screen for
+#. adding and removing custom autocomplete URLs
+msgctxt "preference_autocomplete_subitem_customlist"
+msgid "Custom URLs"
+msgstr ""
+
+#. Action at the bottom of the list of custom autocomplete URLs that will open
+#. a new screen to add a new URL to the list.
+msgctxt "preference_autocomplete_action_add"
+msgid "+ Add custom URL"
+msgstr ""
+
+#. Title of the screen for adding custom autocomplete URLs.
+msgctxt "preference_autocomplete_title_add"
+msgid "Add custom URL"
+msgstr ""
+
+msgctxt "preference_autocomplete_title_remove"
+msgid "Remove custom URLs"
+msgstr ""
+
+#. A link to SUMO at autocomplete settings.
+msgctxt "preference_autocomplete_learn_more"
+msgid "Learn more"
+msgstr ""
+
+#. Preference summary: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_autocomplete_custom_summary"
+msgid "Add and manage custom autocomplete URLs."
+msgstr ""
+
+#. Label for the "custom autocomplete URL" input field
+msgctxt "preference_autocomplete_add_title"
+msgid "URL to add"
+msgstr ""
+
+#. "Hint" text for the "custom autocomplete URL" input field. Shown when the
+#. field is empty.
+msgctxt "preference_autocomplete_add_hint"
+msgid "Paste or enter URL"
+msgstr ""
+
+#. Example how a custom domain autocomplete URL be added (e.g. without
+#. http://)
+msgctxt "preference_autocomplete_add_example"
+msgid "Example: example.com"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): A "handle" that
+#. allows the user to reorder custom autocomplete URLs
+msgctxt "preference_autocomplete_handle_content_description"
+msgid "-"
+msgstr ""
+
+#. Confirmation "snackbar" shown after a new custom autocomplete URL has been
+#. added.
+msgctxt "preference_autocomplete_add_confirmation"
+msgid "New custom URL added."
+msgstr ""
+
+#. Menu item to remove existing autocomplete URLs.
+msgctxt "preference_autocomplete_menu_remove"
+msgid "Remove"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Button that
+#. will delete all selected custom autocomplete URLs.
+msgctxt "preference_autocomplete_action_remove_content_description"
+msgid "Remove"
+msgstr ""
+
+#. Error message shown if the entered custom autocomplete URL is not valid or
+#. empty.
+msgctxt "preference_autocomplete_add_error"
+msgid "Double-check the URL you entered."
+msgstr ""
 
 msgctxt "preference_language"
 msgid "Language"
@@ -478,6 +596,18 @@ msgstr "Yeni axtarış mühərriyi əlavə edildi."
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
 msgstr "Axtarış sətrini təkrar yoxlayın"
+
+msgctxt "search_add_error_empty_name"
+msgid "Enter search engine name"
+msgstr ""
+
+msgctxt "search_add_error_empty_search"
+msgid "Enter search string"
+msgstr ""
+
+msgctxt "search_add_error_format"
+msgid "Check that search string matches Example format"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
