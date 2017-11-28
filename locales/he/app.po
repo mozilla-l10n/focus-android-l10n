@@ -2,24 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-27 18:36+0100\n"
-"PO-Revision-Date: 2017-10-26 09:37+0000\n"
+"PO-Revision-Date: 2017-11-28 16:32+0000\n"
 "Last-Translator: ItielMaN <itiel_yn8@walla.com>\n"
-"Language: he\n"
 "Language-Team: he <LL@li.org>\n"
-"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (!((n >= 0 && n <= "
-"10)))) && (((n % 10) == 0))) ? 2 : (((n == 1)) && ((0 == 0))) ? 0 : (((n "
-"== 2)) && ((0 == 0))) ? 1 : 3)\n"
+"Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -33,7 +32,7 @@ msgstr "אישור"
 
 msgctxt "action_save"
 msgid "Save"
-msgstr ""
+msgstr "שמירה"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -179,12 +178,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>השליטה חוזרת לידיך עם %1$s.</p>\n"
@@ -195,8 +192,7 @@ msgstr ""
 "    <li>ניתן לאפס כדי למחוק עוגיות כמו גם את היסטוריית החיפוש</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s מבית מוזילה Mozilla. המטרה שלנו היא לטפח אינטרנט בריא ופתוח.<br/>"
-"\n"
+"<p>%1$s מבית מוזילה Mozilla. המטרה שלנו היא לטפח אינטרנט בריא ופתוח.<br/>\n"
 "<a href=\"%2$s\">מידע נוסף</a></p>"
 
 msgctxt "preference_category_search"
@@ -211,116 +207,116 @@ msgstr "בררת מחדל"
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "פעיל"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "כבוי"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr ""
+msgstr "השלמת כתובת אוטומטית"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr ""
+msgstr "השלמה אוטומטית"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "רשימת כתובות ברירת מחדל"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "יש להפעיל לטובת השלמה אוטומטית של %1$s בלמעלה מ־450 כתובות נפוצות בסרגל הכתובת."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "כתובת מותאמת אישית"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "כתובות מותאמות אישית"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ הוספת כתובת מותאמת אישית"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "הוספת כתובת מותאמת אישית"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "הסרת כתובות מותאמות אישית"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "מידע נוסף"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "הוספה וניהול של כתובת השלמה אוטומטית בהתאמה אישית."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "כתובת להוספה"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "נא להדביק או להקליד כתובת"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "דוגמה: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "נוספה כתובת מותאמת אישית חדשה."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "הסרה"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "הסרה"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "נא לבדוק שוב את הכתובת שהקלדת."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -362,9 +358,7 @@ msgid "Block social trackers"
 msgstr "חסימת רכיבי מעקב חברתיים"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
 msgstr "מוטמעות באתרים לצורך מעקב אחר הביקורים שלך והצגת רכיבים כגון כפתורי שיתוף"
 
 msgctxt "preference_privacy_block_content"
@@ -437,9 +431,7 @@ msgstr "מידע נוסף"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr "Mozilla חותרת לאיסוף המידע שנדרש לצורך שיפור %1$s לטובת הכלל."
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -501,9 +493,7 @@ msgid "2. Long press the search engine’s search field."
 msgstr "2. ללחוץ לחיצה ארוכה על שדה החיפוש של מנוע החיפוש."
 
 msgctxt "tutorial_search_step3"
-msgid ""
-"3. Tap the magnifying glass icon above the keyboard to add the search "
-"engine."
+msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
 msgstr "3. ללחוץ על סמל זכוכית המגדלת שמעל למקלדת כדי להוסיף את מנוע החיפוש."
 
 #. Clickable action text that shows when user long-presses on a search engine
@@ -522,9 +512,7 @@ msgid "3. Tap %1$s"
 msgstr "3. ללחוץ על %1$s"
 
 msgctxt "tutorial_search_step4"
-msgid ""
-"4. If you don’t see the magnifying glass, try manually adding a search "
-"engine."
+msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
 msgstr "4. אם זכוכית המגדלת לא מופיעה, כדאי לנסות להוסיף מנוע חיפוש ידנית."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
@@ -541,14 +529,12 @@ msgid "GET STARTED"
 msgstr "יסודות"
 
 msgctxt "search_add_hint"
-msgid ""
-"Tap the magnifying glass icon above the keyboard to add this search "
-"engine."
+msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
 msgstr "יש ללחוץ על סמל הזכוכית המגדלת שמעל למקלדת כדי להוסיף את מנוע החיפוש הזה."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr "שם לתצוגה"
+msgstr "שם להצגה"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -567,9 +553,7 @@ msgstr "שמירה"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
-"יש להדביק או להקליד מחרוזת לחיפוש. במידת הצורך, יש להחליף את הביטוי "
-"לחיפוש ב־: %s."
+msgstr "יש להדביק או להקליד מחרוזת לחיפוש. במידת הצורך, יש להחליף את הביטוי לחיפוש ב־: %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -585,7 +569,7 @@ msgstr "הוספת מנוע חיפוש"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr "מנוע חיפוש חדש התווסף."
+msgstr "נוסף מנוע חיפוש חדש."
 
 msgctxt "search_add_error"
 msgid "Check the search string and try again"
@@ -593,15 +577,15 @@ msgstr "נא לבדוק את מחרוזת החיפוש ולנסות שוב"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "נא להקליד שם למנוע החיפוש"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "נא להקליד מחרוזת חיפוש"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "יש לבדוק שמחרוזת החיפוש תואמת לתבנית שבדוגמה"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -750,12 +734,8 @@ msgstr "חיפוש יישומון שיוכל לפתוח את הקישור"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"אף אחד מהיישומים שבהתקן שלך יכולים לפתוח את הקישור הזה. ניתן לעזוב את "
-"%1$s כדי לחפש תחת %2$s יישומון שיכול לבצע זאת."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "אף אחד מהיישומים שבהתקן שלך יכולים לפתוח את הקישור הזה. ניתן לעזוב את %1$s כדי לחפש תחת %2$s יישומון שיכול לבצע זאת."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -813,17 +793,13 @@ msgstr "לא ניתן להתחבר"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>האתר עשוי להיות לא זמין כעת או עמוס. נא לנסות שוב בעוד מספר "
-"רגעים.</li>\n"
-"        <li>אם לא ניתן לטעון גם דפים אחרים, נא לבדוק את חיבור הנתונים או "
-"האינטרנט האלחוטי של ההתקן שברשותך.</li>\n"
+"        <li>האתר עשוי להיות לא זמין כעת או עמוס. נא לנסות שוב בעוד מספר רגעים.</li>\n"
+"        <li>אם לא ניתן לטעון גם דפים אחרים, נא לבדוק את חיבור הנתונים או האינטרנט האלחוטי של ההתקן שברשותך.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -840,16 +816,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>נא לוודא שהכתובת הוכנסה כראוי, למשל\n"
 "          <strong>ww</strong>.example.com במקום\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>אם אין אפשרות לטעון דפים אחרים, נא לבדוק את חיבור הנתונים או "
-"האינטרנט האלחוטי של ההתקן.</li>\n"
+"        <li>אם אין אפשרות לטעון דפים אחרים, נא לבדוק את חיבור הנתונים או האינטרנט האלחוטי של ההתקן.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -859,17 +833,13 @@ msgstr "כתובת זו אינה חוקית"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>כתובות אינטרנט לרוב נכתבות בצורה דומה לזו: "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>יש לוודא כי נעשה שימוש בלוכסנים קדמיים (כלומר "
-"<strong>/</strong>).</li>\n"
+"  <li>כתובות אינטרנט לרוב נכתבות בצורה דומה לזו: <strong>http://www.example.com/</strong></li>\n"
+"  <li>יש לוודא כי נעשה שימוש בלוכסנים קדמיים (כלומר <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -879,13 +849,11 @@ msgstr "הדף מבצע העברה לא תקינה"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>פעולה זו נגרמת לעתים כאשר עוגיות מנוטרלות או כאשר מסרבים לקבל "
-"עוגיות.</li>\n"
+"  <li>פעולה זו נגרמת לעתים כאשר עוגיות מנוטרלות או כאשר מסרבים לקבל עוגיות.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -895,8 +863,7 @@ msgstr "כתובת זו אינה מובנת"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -910,19 +877,15 @@ msgstr "קישור מאובטח נכשל"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ייתכן שישנה בעיה בהגדרות השרת או שגורם כלשהו מנסה להתחזות "
-"אליו.</li>\n"
-"  <li>במידה שהצלחת להתחבר לאתר כראוי בעבר, ייתכן ששגיאה זו היא זמנית "
-"בלבד, ואפשר יהיה לנסות שוב מאוחר יותר.</li>\n"
+"  <li>ייתכן שישנה בעיה בהגדרות השרת או שגורם כלשהו מנסה להתחזות אליו.</li>\n"
+"  <li>במידה שהצלחת להתחבר לאתר כראוי בעבר, ייתכן ששגיאה זו היא זמנית בלבד, ואפשר יהיה לנסות שוב מאוחר יותר.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -967,9 +930,7 @@ msgstr "פתיחת קישור בלשונית חדשה"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "תמונות שמורות ומשותפות <b>לא יימחקו</b> בעת מחיקת ההיסטוריה של %1$s."
 
 #. First run tour (Default browser): Title
@@ -979,12 +940,8 @@ msgstr "חיזוק הפרטיות שלך"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"לקחת את הגלישה המאובטחת לרמה הבאה. ניתן לחסום פרסומות ותוכן אחר שעשוי "
-"לסייע במעקב אחריך בין אתרים שונים ולהפריע לזמני טעינת עמודים."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "לקחת את הגלישה המאובטחת לרמה הבאה. ניתן לחסום פרסומות ותוכן אחר שעשוי לסייע במעקב אחריך בין אתרים שונים ולהפריע לזמני טעינת עמודים."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -993,9 +950,7 @@ msgstr "החיפוש שלך, בדרך שלך"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "לא מה שחיפשת? ניתן לבחור במנוע חיפוש אחר כברירת מחדל בהגדרות."
 
 #. First run tour (Shortcut): Title
@@ -1007,12 +962,8 @@ msgstr "הוספת קיצורי דרך למסך הבית שלך"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"ניתן לחזור לאתרים המועדפים עליך ב־%1$s בקלות. עליך פשוט לבחור באפשרות "
-"„הוספה למסך הבית” מהתפריט %1$s."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "ניתן לחזור לאתרים המועדפים עליך ב־%1$s בקלות. עליך פשוט לבחור באפשרות „הוספה למסך הבית” מהתפריט %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1023,12 +974,8 @@ msgstr "להפוך את הפרטיות להרגל"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"ניתן להגדיר את %1$s בתור דפדפן ברירת המחדל שלך ולקבל את היתרונות של גלישה"
-" פרטים בעת פתיחת עמודי אינטרנט מיישומונים אחרים."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "ניתן להגדיר את %1$s בתור דפדפן ברירת המחדל שלך ולקבל את היתרונות של גלישה פרטים בעת פתיחת עמודי אינטרנט מיישומונים אחרים."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1111,12 +1058,8 @@ msgstr "הפעלה בגלישה פרטית"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"התרעות מאפשרות לך למחוק את ההפעלה של %1$s בנגיעה קלה. אין צורך לפתוח את "
-"היישומון או לראות מה פועל בדפדפן שלך."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "התרעות מאפשרות לך למחוק את ההפעלה של %1$s בנגיעה קלה. אין צורך לפתוח את היישומון או לראות מה פועל בדפדפן שלך."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1135,21 +1078,15 @@ msgstr "הורדת Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr "%1$s היא תכנית חופשית ובקוד פתוח שפותחה על ידי Mozilla ותורמים נוספים."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s זמין לשימושך תחת תנאי <a href=\"%2$s\">הרשיון הציבורי שלMozilla</a> "
-"ורשיונות קוד פתוח אחרים."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s זמין לשימושך תחת תנאי <a href=\"%2$s\">הרשיון הציבורי שלMozilla</a> ורשיונות קוד פתוח אחרים."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1157,25 +1094,16 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"אין לך כל זכות או רשיונות על סימני המסחר של קרן Mozilla או לכל גוף שהוא, "
-"לרבות Mozilla,‏ Firefox או השמות והלוגואים של %1$s. ניתן למצוא מידע נוסף "
-"<a href=\"%2$s\">כאן</a>."
+msgstr "אין לך כל זכות או רשיונות על סימני המסחר של קרן Mozilla או לכל גוף שהוא, לרבות Mozilla,‏ Firefox או השמות והלוגואים של %1$s. ניתן למצוא מידע נוסף <a href=\"%2$s\">כאן</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"קוד מקור נוסף עבור %1$s זמין תחת מגוון <a href=\"%2$s\">רישיונות</a> קוד "
-"פתוח נוספים."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "קוד מקור נוסף עבור %1$s זמין תחת מגוון <a href=\"%2$s\">רישיונות</a> קוד פתוח נוספים."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1183,12 +1111,5 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"ב־%1$s נעשה גם שימוש ברשימות חסימה מאת Disconnect בע״מ כעבודות נפרדות "
-"ועצמריות תחת <a href=\"%2$s\">גרסה 3 של הרשיון הציבורי הכללי שלGNU</a>, "
-"והוא זמין <a href=\"%3$s\">כאן</a>."
-
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "ב־%1$s נעשה גם שימוש ברשימות חסימה מאת Disconnect בע״מ כעבודות נפרדות ועצמריות תחת <a href=\"%2$s\">גרסה 3 של הרשיון הציבורי הכללי שלGNU</a>, והוא זמין <a href=\"%3$s\">כאן</a>."
