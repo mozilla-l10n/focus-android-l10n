@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: focus-android\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-27 18:36+0100\n"
-"PO-Revision-Date: 2017-11-28 15:30+0000\n"
+"PO-Revision-Date: 2017-11-28 15:32+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -300,24 +300,24 @@ msgstr "—"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Dodano nowy adres."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Usuń"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Usuń"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Sprawdź poprawność wpisanego adresu."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -578,15 +578,15 @@ msgstr "Sprawdź poprawność ciągu wyszukiwania i spróbuj ponownie"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Wpisz nazwę wyszukiwarki"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Wpisz ciąg wyszukiwania"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Upewnij się, że ciąg wyszukiwania zgadza się z formatem przykładu"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
