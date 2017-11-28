@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-27 18:36+0100\n"
-"PO-Revision-Date: 2017-11-28 12:48+0000\n"
+"PO-Revision-Date: 2017-11-28 12:56+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: fy_NL <LL@li.org>\n"
 "Language: fy_NL\n"
@@ -218,12 +218,12 @@ msgstr "Ut"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "URL-autofoltôgje"
+msgstr "URL's automatysk oanfolje"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr "Autofoltôgje"
+msgstr "Automatysk oanfolje"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
@@ -234,7 +234,7 @@ msgstr "Standert URL-list"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Autofoltôgje yn de adresbalke foar 450 populêre URL's yn %1$s ynskeakelje."
+msgstr "Skeakel dit yn om %1$s automatysk mear as 450 populêre URL’s yn de adresbalke oanfolje te litten."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -256,67 +256,67 @@ msgstr "+ Oanpaste URL tafoegje"
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Oanpaste URL tafoegje"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Oanpaste URL’s fuortsmite"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynfo"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Eigen URL’s foar automatysk oanfoljen tafoegje en beheare."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "Ta te foegjen URL"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Plak of fier URL yn"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Foarbyld: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Nije oanpaste URL tafoege."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Fuortsmite"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Fuortsmite"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Kontrolearje de ynfierde URL."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -577,15 +577,15 @@ msgstr "Kontrolearje de sykterm en probearje opnij"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Fier namme fan sykmasine yn"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Fier syksterm yn"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Kontrolearje oft sykterm oan foarbyldnotaasje foldocht"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
