@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-27 18:36+0100\n"
-"PO-Revision-Date: 2017-11-28 06:47+0000\n"
+"PO-Revision-Date: 2017-11-28 07:04+0000\n"
 "Last-Translator: Nihad <nihad.suljic92@gmail.com>\n"
 "Language-Team: bs <LL@li.org>\n"
 "Language: bs\n"
@@ -234,89 +234,89 @@ msgstr "Izvorna URL lista"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Omogućite da %1$s automatski završi preko 450 popularnih URL adresa u adresnoj traci."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "Prilagođeni URL"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Prilagođeni URL-ovi"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ Dodaj prilagođeni URL"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Dodaj prilagođeni URL"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Ukloni prilagođene URL-ove"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Saznajte više"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Dodajte i upravljajte prilagođenim automatski završenim URL-ovima."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL za dodavanje"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Zalijepite ili unesite URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Primjer: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Novi prilagođeni URL dodan."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Ukloni"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Dvaput provjerite URL koji ste unijeli."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -577,15 +577,15 @@ msgstr "Provjerite tekst pretrage i pokušajte ponovo"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Unesite naziv pretraživača"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Unesite string za pretragu"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Provjerite da traženi string odgovara formatu primjera"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
