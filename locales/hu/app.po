@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-27 18:36+0100\n"
-"PO-Revision-Date: 2017-11-29 19:30+0000\n"
+"PO-Revision-Date: 2017-11-29 19:33+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -281,7 +281,7 @@ msgstr "Hozzáadandó URL-ek"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "URL beillesztése vagy megadása"
+msgstr "Illessze be, vagy adja meg az URL-t"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -577,15 +577,15 @@ msgstr "Ellenőrizze a keresési karakterláncot, és próbálja újra"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Adja meg a keresőszolgáltatás nevét"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Adja meg a keresési szöveget"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Ellenőrizze, hogy a keresési szöveg egyezik-e a példa formátumával"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
