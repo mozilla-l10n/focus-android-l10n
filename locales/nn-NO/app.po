@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-27 18:36+0100\n"
-"PO-Revision-Date: 2017-11-29 10:54+0000\n"
+"PO-Revision-Date: 2017-11-29 13:25+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -251,7 +251,7 @@ msgstr "Tilpassa nettadresser"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ Legg til tilpassa nettadresser"
+msgstr "+ Legg til tilpassa nettadresse"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
@@ -585,7 +585,7 @@ msgstr "Skriv inn søkjestreng"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Kontroller at søkjestrengen passar med dømeformatet"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
