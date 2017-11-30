@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-11-30 05:49+0000\n"
+"PO-Revision-Date: 2017-11-30 06:09+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -288,63 +288,63 @@ msgstr "-"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "A jíía vii URL ntee."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Xita"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Xita"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Natee tuku URL nteenu."
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Tu´un"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Kua vaji ka̱a̱"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Nánuku kua vaji"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Yɨ´ɨ yu´u"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Chiyu´u daa tutu xiko nantiñu"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Daa tutu xiko, sunika ntu sinenuma, nitada noo´o daa nnánukunu nuu web"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Chiyu´u daa ka̱a̱ nita noo´o"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Ni´idama jee xitutuda, jee chunku´va a sa´a jii a ke´i"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Chiyu´u daa ka̱a̱ sociales"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
