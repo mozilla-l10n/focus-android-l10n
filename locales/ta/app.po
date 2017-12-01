@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-01 05:52+0000\n"
+"PO-Revision-Date: 2017-12-01 06:24+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
@@ -1061,7 +1061,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "உலாவல் வரலாற்றை அழி"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1069,13 +1069,13 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "பயர்பாக்சைப் பதிவிறக்கு"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s மொசில்லா மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற திறந்தமூல மென்பொருள் ஆகும்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
