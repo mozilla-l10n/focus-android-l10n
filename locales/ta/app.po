@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-01 06:24+0000\n"
+"PO-Revision-Date: 2017-12-01 10:40+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
@@ -232,7 +232,7 @@ msgstr "இயல்பு URL பட்டியல்"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "முகவரிப்பட்டையில் 450 பிரபல URLs உடைய %1$s தானியங்குநிரப்பலைக் கொண்டிருக்க செயற்படுத்தவும்."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -1055,7 +1055,7 @@ msgstr "அந்தரங்க உலாவல் அமர்வு"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "அறிவிப்புகள் உங்கள் %1$s அமர்வை ஒரு தட்டில் அழிக்க அனுமதிக்கிறது. நீங்கள் செயலியைத் திறக்கவோ உலாவியில் என்ன இருக்கிறது என்று பார்க்கவோ தேவையில்லை."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1082,7 +1082,7 @@ msgstr "%1$s மொசில்லா மற்றும் பிற பங்�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">மொசில்லா பொது உரிமம்</a> மற்றும் பிற திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1093,13 +1093,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"உங்களுக்கு மொசில்லா அறக்கட்டளையின் அல்லது பிற தரப்பின் வணிகச்சின்னங்கள் மீது எந்த உரிமைகளும் உரிமங்களும் வழப்படவில்லை. இதில் மொசில்லா, பயர்பாக்ஸ் அல்லது %1$s பெயர்கள் அல்லது லாகோக்கள் அடங்கும். "
+"கூடுதல் விவரவங்களை <a href=\"%2$s\">இங்கே</a> காணலாம்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s உடைய கூடுதல் மூல நிரல் மற்ற கட்டற்ற திறந்த மூல <a href=\"%2$s\">உரிமங்கள்</a> கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1108,4 +1110,4 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s டிஸ்கணக்ட் இன்க். நிறுவனத்தின் தடைப்பட்டியல்களையும் பயன்படுத்துகிறது. இது தனித்த சுதந்தரிப் பணியாக <a href=\"%2$s\">GNUபொது உரிமம் v3</a> கீழ், <a href=\"%3$s\">இங்கே</a> கிடைக்கிறது."
