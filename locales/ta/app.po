@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-01 05:50+0000\n"
+"PO-Revision-Date: 2017-12-01 05:52+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
 "Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
@@ -971,7 +971,7 @@ msgstr "தனியுரிமையை ஒரு பழக்கமாக்�
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s உலாவியை முன்னிருப்பாக அமைப்பதன் மூலம் பிற செயலிகளிலிருந்து வலைத்தளங்களைத் திறக்கும்போது அந்தரங்க உலாவலின் நன்மையைப் பெறலாம்."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1015,7 +1015,7 @@ msgstr "ரத்து"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "சுருக்குவழி பின்தொடரல் பாதுகாப்பு முடக்கப்பட்டு திறக்கும்"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1023,7 +1023,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "இணைப்பைத் தேர்ந்தெடுத்த கீற்றில் திற"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1042,7 +1042,7 @@ msgstr "திற"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "அந்தரங்க உலாவல் அமர்வு"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
