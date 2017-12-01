@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-11-30 06:28+0000\n"
+"PO-Revision-Date: 2017-12-01 03:30+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -24,12 +24,12 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Ntuvi"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "action_save"
 msgid "Save"
@@ -38,31 +38,31 @@ msgstr "Chuva´a"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Nánuku a xiin chu´un iin nuu"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr ""
+msgstr "Nánuku yɨɨ yu´u."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Daa nnánukunu nnaá."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Nuku jii %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Kua´a..."
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaces with the name of the browser like: "Open with
@@ -71,7 +71,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Sine jii %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -81,35 +81,35 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Sine jii…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Tee-ma nuu kajie´e"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr "Nakuvi a jíia íyo"
+msgstr "Nakuvi a jíía íyo"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Ke´i"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Jiee ya´a"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Chinei"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Daa tutu nichi no´o"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -404,7 +404,7 @@ msgstr "Sa´a %1$s navegador xinañu´u ya´a"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr "Mozila"
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
