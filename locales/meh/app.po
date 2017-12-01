@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-01 03:48+0000\n"
+"PO-Revision-Date: 2017-12-01 04:07+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -453,21 +453,21 @@ msgstr "Ka̱a̱ nánuku yɨ´ɨ"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Na tee tuku ka̱a̱ nánuku kua vaji"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Tee inka ka̱a̱ nánuku"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Xita ka̱a̱ nánuku"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Xita"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
