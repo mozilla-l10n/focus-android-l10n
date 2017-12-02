@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-02 09:30+0000\n"
+"PO-Revision-Date: 2017-12-02 09:33+0000\n"
 "Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
 "Language: fa\n"
@@ -234,7 +234,7 @@ msgstr "فهرستِ پیش‌فرض URL"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "برای داشتن تکمیل خودکار %1$s برای بیش از ۴۵۰ نشانی محبوب در نوار آدرس، فعال کنید."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -316,7 +316,7 @@ msgstr "حذف"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "نشانی که وارد کردید را دوباره بررسی کنید."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -573,15 +573,15 @@ msgstr "موتور جست‌وجو جدید اضافه شد."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "نام موتور جست‌وجو را وارد کنید"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "رشتهٔ جست‌وجو را وارد کنید"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "بررسی کنید که رشته جست‌وجو با شکل و قالب نمونهٔ ارائه شده مطابقت دارد"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
