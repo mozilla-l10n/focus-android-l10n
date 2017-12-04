@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-04 13:44+0000\n"
+"PO-Revision-Date: 2017-12-04 13:53+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -251,7 +251,7 @@ msgstr "カスタム URL"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+カスタム URL を追加"
+msgstr "+ カスタム URL を追加"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
@@ -460,7 +460,7 @@ msgstr "既定の検索エンジンを復元"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "+別の検索エンジンを追加"
+msgstr "+ 別の検索エンジンを追加"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
