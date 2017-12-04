@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-04 21:28+0000\n"
+"PO-Revision-Date: 2017-12-04 21:45+0000\n"
 "Last-Translator: hotep12 <hotep12@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -522,7 +522,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "Tur biñuy wané"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -530,11 +530,11 @@ msgstr ""
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Seet string biñuy jëfandiko"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "Dinc"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
@@ -565,7 +565,7 @@ msgstr ""
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Dugalal seetug string gui"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
@@ -583,7 +583,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Nëb"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
@@ -607,37 +607,37 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Tabs yi ubeeku %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "Ubbil been a tab"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "Tëjël tab bi"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Lonkoo gu wóor"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Mugi yeeb"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Yeeb na dali web bi"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -655,7 +655,7 @@ msgstr ""
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Yeebaat dali web bi"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -668,7 +668,7 @@ msgstr ""
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Dag dali web biy yeebu"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
