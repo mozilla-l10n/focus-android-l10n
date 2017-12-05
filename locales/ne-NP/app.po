@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 11:30+0000\n"
+"PO-Revision-Date: 2017-12-05 11:32+0000\n"
 "Last-Translator: Roshan Gautam <roosan.gm@gmail.com>\n"
 "Language-Team: ne <LL@li.org>\n"
 "Language: ne_NP\n"
@@ -649,19 +649,19 @@ msgstr "थप विकल्पहरू"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "अगाडि जानुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "वेबसाइट पुन: लोड गर्नुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "पछाडि जानुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -696,7 +696,7 @@ msgstr "तपाईँका अधिकारहरु"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "लिङ्कलाई अर्को अनुप्रयोगमा खोल्नुहोस्"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -732,7 +732,7 @@ msgstr ""
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s सकियो"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
