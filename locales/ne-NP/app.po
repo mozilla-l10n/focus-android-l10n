@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 11:06+0000\n"
+"PO-Revision-Date: 2017-12-05 11:30+0000\n"
 "Last-Translator: Roshan Gautam <roosan.gm@gmail.com>\n"
 "Language-Team: ne <LL@li.org>\n"
 "Language: ne_NP\n"
@@ -399,7 +399,7 @@ msgstr "तस्बिरहरू अवरुद्ध गर्नुहो�
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s लाई पूर्वनिर्धारित ब्राउजर बनाउनुहोस्"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -420,7 +420,7 @@ msgstr "अझ जान्नुहोस्"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla सबैको लागि %1$s प्रदान र सुधार गर्न आवश्यक कुरा मात्र संकलन गर्ने प्रयास गर्दछ ।"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -497,7 +497,7 @@ msgstr "खोज इन्जिन थप्नुहोस्"
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "३. %1$s थिच्नुहोस्"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
@@ -514,7 +514,7 @@ msgstr ""
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
@@ -547,7 +547,7 @@ msgstr ""
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Example: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -557,15 +557,15 @@ msgstr "खोज इन्जिन थप्नुहोस्"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "नयाँ खोजी इन्जिन थपियो ।"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "खोजी इन्जिनको नाम प्रविष्ट गर्नुहोस्"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "खोजी स्ट्रिङ प्रविष्ट गर्नुहोस्"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
@@ -637,13 +637,13 @@ msgstr "लोड हुँदैछ"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "वेबसाइट लोड भयो"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "थप विकल्पहरू"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
