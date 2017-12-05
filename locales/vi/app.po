@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 05:50+0000\n"
+"PO-Revision-Date: 2017-12-05 06:10+0000\n"
 "Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -228,95 +228,95 @@ msgstr "Tự động điền"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Danh sách URL mặc định"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Cho phép tự đồng điền %1$s trên 450 URL phổ biến trên thanh địa chỉ."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "URL tùy chỉnh"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "URL tùy chỉnh"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ Thêm URL tùy chỉnh"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Thêm URL tùy chỉnh"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Loại bỏ các URL tùy chỉnh"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Tìm hiểu thêm"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Thêm và quản lý các URL tùy chỉnh tự động điền."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL muốn thêm"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Dán hoặc nhập URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Ví dụ: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "URL tùy chỉnh mới đã được thêm vào."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Loại bỏ"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Loại bỏ"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Kiểm tra lại URL mà bạn đã nhập."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -359,7 +359,7 @@ msgstr "Chặn trình theo dõi xã hội"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Được nhúng vào các trang để theo dõi lượt truy cập của bạn và để hiển thị tính năng chẳng hạn như các nút chia sẻ"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -367,7 +367,7 @@ msgstr "Chặn trình theo dõi khác"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Việc kích hoạt có thể khiến một số trang hoạt động không như mong đợi"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -460,7 +460,7 @@ msgstr "Khôi phục công cụ tìm kiếm mặc định"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Thêm công cụ tìm kiếm khác"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -485,16 +485,16 @@ msgstr "1. Vào trang chủ công cụ tìm kiếm."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Chạm vào trong ô tìm kiếm của công cụ tìm kiếm."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Nhấn và giữ ô tìm kiếm của công cụ tìm kiếm."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Nhấn vào biểu tưởng kính lúp trên bàn phím để thêm công cụ tìm kiếm."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -513,7 +513,7 @@ msgstr "3. Chạm %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. Nếu bạn không thấy biểu tượng kính lúp, thử thêm công cụ tìm kiếm theo cách thủ công."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -522,7 +522,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Nếu bạn không nhìn thấy %1$s, thử thêm công cụ tìm kiếm theo cách thủ công."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
