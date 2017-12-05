@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 12:50+0000\n"
+"PO-Revision-Date: 2017-12-05 12:53+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -458,16 +458,16 @@ msgstr ""
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr "Dindi"
+msgstr "Far"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "Yokk ak-sa-loxo"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "Yokk ab seetukaay"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -491,7 +491,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Yokk ab seetukaay"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -499,7 +499,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr "3. Bëssal %1$s"
+msgstr "3. Bësal %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
@@ -532,7 +532,7 @@ msgstr "Turu seetukaay bi"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "Seet string biñuy jëfandiko"
+msgstr "Mbindum seet mees di jëfandikoo"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
