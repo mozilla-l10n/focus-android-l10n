@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-04 21:45+0000\n"
-"Last-Translator: hotep12 <hotep12@gmail.com>\n"
+"PO-Revision-Date: 2017-12-05 12:30+0000\n"
+"Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
 "MIME-Version: 1.0\n"
@@ -37,26 +37,28 @@ msgstr "Denc"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "Seet walla duggal ag màkkaan"
+msgstr "Seet walla dugal ag màkkaan"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Njoow ci sutura doxal boppam.\n"
+"Joow. Far. Tambaliwaat."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Farees na jaar-jaaru sag njoow."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Seet %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -70,7 +72,7 @@ msgstr "Séddoo…"
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Ubbi ak %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -80,13 +82,13 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Ubbi ak..."
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "Yokk ci Home screen bi"
+msgstr "Yokk ci njëlbéenu sa xoolu"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -96,7 +98,7 @@ msgstr "Lou bees"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "Jekkal yi"
+msgstr "Jekk-jekkal"
 
 msgctxt "menu_about"
 msgid "About"
@@ -108,7 +110,7 @@ msgstr "Ndimbal"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Say yelleef"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -118,7 +120,7 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Téyees na toppaatekat yi"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -133,7 +135,7 @@ msgstr "Séddoo ci"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Far jaar-jaaru njoow gi"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -144,21 +146,21 @@ msgstr "Ubbi"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "Far te Ubbi"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr "Fompë"
+msgstr "Far"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Fompë jaar-jaaru joow gi"
+msgstr "Far jaar-jaaru njoow gi"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -185,22 +187,22 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Seet"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Wàccaale"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr "Tal"
+msgstr "Taalees"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr "Fay"
+msgstr "Fayees"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
