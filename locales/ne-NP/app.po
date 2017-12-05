@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 04:30+0000\n"
+"PO-Revision-Date: 2017-12-05 04:40+0000\n"
 "Last-Translator: Roshan Gautam <roosan.gm@gmail.com>\n"
 "Language-Team: ne <LL@li.org>\n"
 "Language: ne_NP\n"
@@ -304,7 +304,7 @@ msgstr "हटाउनुहोस्"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "तपाइँले प्रविष्ट गर्नुभएको URL पुन: जाँच गर्नुहोस् ।"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -327,7 +327,7 @@ msgstr "गोपनीयता"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "विज्ञापन ट्रयाकरहरू अवरुद्द गर्नुहोस्"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -335,15 +335,15 @@ msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "विश्लेषणात्मक ट्रयाकहरू अवरुद्द गर्नुहोस्"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "ट्याप गर्ने र स्क्रोल गर्ने जस्ता क्रियाकलापहरू संकलन, विश्लेषण र माप गर्न प्रयोग गरियो"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "सामाजिक ट्रयाकहरू अवरुद्द गर्नुहोस्"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -668,7 +668,7 @@ msgstr ""
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "वेबसाइट लोड गर्न रोक्नुहोस्"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -681,7 +681,7 @@ msgstr ""
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "ट्रयाकरहरू अवरुद्द गर्नुहोस्"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
