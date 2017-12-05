@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 04:40+0000\n"
+"PO-Revision-Date: 2017-12-05 11:06+0000\n"
 "Last-Translator: Roshan Gautam <roosan.gm@gmail.com>\n"
 "Language-Team: ne <LL@li.org>\n"
 "Language: ne_NP\n"
@@ -351,18 +351,18 @@ msgstr ""
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "अन्य सामग्री ट्रयाकरहरू ब्लक गर्नुहोस्"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "सक्षम पार्नाले केहि पृष्ठहरू अनपेक्षित रूपमा व्यवहार गर्न सक्छन्"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "चुपचाप"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -372,7 +372,7 @@ msgstr ""
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "अनुप्रयोगहरू स्विच गर्दा वेबपेजहरू लुकाउनुहोस्"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -380,17 +380,17 @@ msgstr "कार्यसम्पादन"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "वेब फन्टहरू अवरुद्ध गर्नुहोस्"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "प्रतीकहरू वा तस्विरहरु हराउन सक्छन्"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "तस्बिरहरू अवरुद्ध गर्नुहोस्"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -407,7 +407,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "उपयोग डाटा पठाउनुहोस्"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -448,11 +448,11 @@ msgstr "पूर्वानिर्धारीत खोज इन्जि�
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ अ‌र्को खोजी इन्जिन थप्नुहोस्"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "खोजी इन्जिनहरू हटाउनुहोस्"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -461,7 +461,7 @@ msgstr "हटाउनुहोस्"
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "अाफैँ थप्नुहोस्"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
@@ -469,7 +469,7 @@ msgstr "खोज इन्जिन थप्नुहोस्"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "१. खोजी इन्जिनको गृहपृष्ठमा जानुहोस् ।"
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
@@ -522,15 +522,15 @@ msgstr ""
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "देखाउने नाम"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "खोजी इन्जिनको नाम"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "प्रयोग गर्न स्ट्रिङ खोजी गर्नुहोस्"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
