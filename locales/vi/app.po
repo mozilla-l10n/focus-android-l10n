@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 06:10+0000\n"
+"PO-Revision-Date: 2017-12-05 06:16+0000\n"
 "Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -530,7 +530,7 @@ msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Nhấn vào biểu tượng kính lúp trên bàn phím để thêm công cụ tìm kiếm này."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -573,15 +573,15 @@ msgstr "Đã thêm công cụ tìm kiếm mới."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Nhập tên công cụ tìm kiếm"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Nhập chuỗi tìm kiếm"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Kiểm tra xem chuỗi tìm kiếm có đúng với định dạng như ở ví dụ không"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -939,7 +939,7 @@ msgstr "Tăng quyền riêng tư của bạn"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Duyệt web ở chế độ riêng tư để nâng cao bảo mật. Giúp làm giảm thời gian tải trang và chặn các quảng cáo và nội dung mà có thể theo dõi bạn trên các trang web."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
