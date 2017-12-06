@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 03:27+0000\n"
+"PO-Revision-Date: 2017-12-06 03:47+0000\n"
 "Last-Translator: lilymeheret22 <lilymeheret22@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: am\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "መሰረዝ"
+msgstr "ሰርዝ"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -274,47 +274,47 @@ msgstr "ተጨማሪ እወቅ"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "አክል ወይም አደራጅ ብጁ ራስ-አጠናቅቅ URLs"
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL መጨመር"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "ለጥፍ ወይም ግባ URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "ምሳሌ : ምሳሌ.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "አዲስ ብጁ URL ታክሏል"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
@@ -339,7 +339,7 @@ msgstr ""
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "የግል መብት መጠበቅ"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
@@ -775,7 +775,7 @@ msgstr ""
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "አውርድ"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -959,35 +959,35 @@ msgstr ""
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "እለፍ"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "ቀጣይ"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. The title of a dialog we show when the user selected a menu action to add
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "ወደ መነሻ ማያ ገጽ ጨምር"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "ጨምር"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "አጥፋ"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -1003,7 +1003,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "በተመረጠው ትር መገናኛውን ክፈት"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1011,7 +1011,7 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "ክፍት"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1022,7 +1022,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "የግል የማሰሻ ክፍል"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1041,7 +1041,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "የማሰሻ ታሪክን አጥፋ"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1049,7 +1049,7 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "ፋየርፎክስ አውርድ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
