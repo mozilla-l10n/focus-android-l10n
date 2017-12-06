@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-06 03:47+0000\n"
+"PO-Revision-Date: 2017-12-06 21:37+0000\n"
 "Last-Translator: lilymeheret22 <lilymeheret22@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: am\n"
@@ -324,18 +324,18 @@ msgstr ""
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "ቋንቋ"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "የስርዓት ነባሪ"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "ነባሪ ፍለጋ"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
