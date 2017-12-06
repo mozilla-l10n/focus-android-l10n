@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 16:58+0000\n"
+"PO-Revision-Date: 2017-12-06 10:05+0000\n"
 "Last-Translator: Benny Chandra <bennychandra@gmail.com>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -217,7 +217,7 @@ msgstr "Nonaktif"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr ""
+msgstr "Lengkapi-otomatis URL"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
@@ -238,13 +238,13 @@ msgstr "Aktifkan agar %1$s melengkapi otomatis lebih dari 450 URL populer di bil
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "URL Ubahsuai"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "URL Ubahsuai"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -255,7 +255,7 @@ msgstr "+ Tambah URL ubahsuai"
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Tambah URL ubahsuai"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
@@ -489,7 +489,7 @@ msgstr "2. Ketuk kolom pencarian mesin pencari."
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Tekan lama pada kolom pencarian mesin pencari."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
@@ -541,7 +541,7 @@ msgstr "Nama mesin pencari"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "String pencarian untuk digunakan"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
