@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-05 06:57+0000\n"
+"PO-Revision-Date: 2017-12-05 07:00+0000\n"
 "Last-Translator: S M Sarwar Nobin <smsarwar1996@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -228,7 +228,7 @@ msgstr ""
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "ডিফল্ট URL লিস্ট"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -239,28 +239,28 @@ msgstr ""
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "কাস্টোম URL"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "কাস্টোম URLs"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ কাস্টোম URL যোগ করুন"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "কাস্টোম URL যোগ করুন"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "কাস্টোম URL মুছে দিন"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -299,7 +299,7 @@ msgstr "-"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "নতুন কাস্টোম URL যোগ করা হয়েছে।"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -473,7 +473,7 @@ msgstr "অপসারণ"
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "ম্যানুয়ালি যোগ করুন"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
@@ -619,7 +619,7 @@ msgstr "প্রসারণ"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "ট্যাব খোলা: %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
@@ -966,7 +966,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "গোপনীয়তাকে অভ্যাসে পরিনত করুন"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
