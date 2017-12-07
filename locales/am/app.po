@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-07 02:10+0000\n"
+"PO-Revision-Date: 2017-12-07 02:30+0000\n"
 "Last-Translator: lilymeheret22 <lilymeheret22@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: am\n"
@@ -415,22 +415,22 @@ msgstr "ምስሎችን አግድ"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "አከናውን %1$s ነባሪ አሳሽ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "ሞዚላ"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "የአጠቃቀም ውሂብ ይላኩ"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "ተጨማሪ ይወቁ"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
@@ -441,71 +441,71 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "የግላዊነት ማሳወቂያ"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "ስለ %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "የተጫኑ የፍለጋ ፕሮግራሞች"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "ነባሪ የፍለጋ ፕሮግራሞችን ወደነበረበት መልስ"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ ሌላ የፍለጋ ፕሮግራም አክል"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "የፍለጋ ፕሮግራሞችን አስወግድ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "በእጅ ያክሉ"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "የፍለጋ ፕሮግራም አክል"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. ወደ የፍለጋ ፕሮግራም መነሻ ገጽ ይሂዱ"
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. ወደ የፍለጋ ፕሮግራም የፍለጋ መስክ ውስጥ መታ ያድርጉ"
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. የፍለጋ ፕሮግራም የፍለጋ መስኩን በረጅሙ ይጫኑ"
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. የፍለጋ ፕሮግራሙን ለማከል ከቁልፍ ሰሌዳው በላይ የማጉሊያውን አዶ ጠቅ ያድርጉ"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "የፍለጋ ፕሮግራም አክል\n"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -513,11 +513,11 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3. መታ ያድርጉ %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. የማጉሊያውን መነፅር ካላዩት የመፈለጊያ ሞተር እራስዎ በማከል ይቀይሩት"
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
