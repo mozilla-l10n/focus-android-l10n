@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-08 22:28+0000\n"
+"PO-Revision-Date: 2017-12-08 22:41+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
 "Language-Team: sr <LL@li.org>\n"
 "Language: sr\n"
@@ -223,7 +223,7 @@ msgstr "URL aутоматско завршавање"
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr "Ауто-завршетак"
+msgstr "Аутоматско завршавање"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
@@ -245,7 +245,7 @@ msgstr "Прилагођене URL адресе"
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "Прилагођене адресе"
+msgstr "Прилагођене URL адресе"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -260,7 +260,7 @@ msgstr "Додај URL"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "Уклони прилагођени URLs"
+msgstr "Уклони URL адресе"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -270,7 +270,7 @@ msgstr "Сазнајте више"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "Додајте и управљајте аутоматски завршеним URLs адресама."
+msgstr "Додавање и управљање аутоматски завршеним URL адресама."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -454,7 +454,7 @@ msgstr "Инсталирани претраживачи"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "Врати на подразумеване претраживаче"
+msgstr "Врати на подразумеване"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
