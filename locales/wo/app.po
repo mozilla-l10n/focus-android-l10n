@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-09 11:04+0000\n"
+"PO-Revision-Date: 2017-12-09 11:28+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -879,6 +879,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Lii man naa nekk jafe-jafe ci jekk-jekkalu joxekaay bi, walla it kenn kuy jéem a dugg ci sa diggante ak joxekaay bi ci boppam.</li>\n"
+"  <li>Su fekkee mas ngaa lonku ci bii joxekaay jamono ci ginnaaw, Njuumte gi man naa doon lu jamonowe, kon di la digal nga jéemaat ci kanam.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -886,7 +890,7 @@ msgstr "Oops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Lenn tere na yebug xët wii antu."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -911,44 +915,44 @@ msgstr "Duppi màkkaanu nataal bi"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Denc nataal bi"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr "Ubbi lëkkalekaay bi ci tab bou béss"
+msgstr "Ubbi lëkkalekaay bi ci làcc wu wees"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Péeñ yiñ nga séddoo ak yi nga denc <b>deesu leen far</b> soo fare jaar-jaaru %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Dooleel sa sutura"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Yóbbul njoow ci sutura ci geneen tolluwaay. Téyeel siiwal yeek yeneen ëmbeef yi lay man topp ci yeneen dal yi te di yeexal yebug xët yi."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Seet ak noo ko bëggee"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Leneen ngay seet? Tànnal beneen seetukaay ci jekk-jekkal yi."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Yokki lëkkalekaay ci njëlbeenu sa xoolu"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
