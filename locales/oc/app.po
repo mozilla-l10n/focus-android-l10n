@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-09 13:31+0000\n"
+"PO-Revision-Date: 2017-12-09 13:38+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: oc\n"
@@ -167,7 +167,7 @@ msgstr "Escafar l'istòric de navigacion"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Recèrca privada"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -229,7 +229,7 @@ msgstr ""
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "Adreça personalizada"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Blocar los traçadors d’estatisticas"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
@@ -345,7 +345,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Blocar los traçadors de malhums socials"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -471,27 +471,27 @@ msgstr "Apondre un motor de recèrca"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Anatz a la pagina d’un motor de recèrca."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Tocatz lo camp de recèrca del motor de recèrca."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Tenètz quichat lo camp de recèrca."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Tocatz l’icòna de la lópia ennaut del clavièr per apondre lo motor de recèrca."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "Ajustar un motor de recèrca"
+msgstr "Apondre un motor de recèrca"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -503,7 +503,7 @@ msgstr "3. Tocatz %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. Se vesètz pas l‘icòna de la lópia, ensajatz d’apondre manualament lo motor."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -512,7 +512,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Se vesètz pas %1$s, ensajatz d’apondre manualament lo motor."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -567,11 +567,11 @@ msgstr "Picatz lo nom del novèl motor de recèrca"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Picar una cadena de recèrca"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Verificatz que la cadena de recèrca siá al format de l’exemple"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -657,7 +657,7 @@ msgstr ""
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Actualizar la pagina"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -683,7 +683,7 @@ msgstr ""
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Blocar los traçadors"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -712,7 +712,7 @@ msgstr ""
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Trobar una aplicacion per dobrir aqueste ligam"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -727,7 +727,7 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Sortir de la navigacion privada ?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
