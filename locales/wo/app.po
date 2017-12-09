@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-09 09:10+0000\n"
+"PO-Revision-Date: 2017-12-09 09:31+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -234,33 +234,33 @@ msgstr "Limu màkkaan yim wàccaale"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Doxalal ngir %1$s man di la mottalil lu romb 450 màkkaani web yu siiw ci bànqaasu màkkaan bi."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr "Jëmmal URL bi"
+msgstr "Màkkaan gees jëmmal"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "Jëmmal URL yi"
+msgstr "Màkkaan yees jëmmal"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ Yokk jëmmalug URL"
+msgstr "+ Yokkal ag màkkaan gees jëmmal"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "Yokk jëmmaloug URL"
+msgstr "Yokkal ag màkkaan gees jëmmal"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "Dindi Jëmmaloug URL yi"
+msgstr "Dindi màkkaan gees Jëmmal"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -270,36 +270,36 @@ msgstr "Gën a xam"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Yokkal te yor mottali gu boppu yu màkkaan yees jëmmal."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr "URL bouñuy yokk"
+msgstr "Màkkaan gees war a yokk"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Tafal wala duggalal URL"
+msgstr "Tafal wala bind ag màkkaan"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Misaal: misaal.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Yokkees na màkkaan gees jëmmal gu bees."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -316,7 +316,7 @@ msgstr "Dindi"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Xoolaatal màkkaan gi nga bind."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -326,12 +326,12 @@ msgstr "Làkk"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Wàccaaleeg noste gi"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr "Seet guiñu diglé"
+msgstr "Seetukaay gim wàccaale"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -339,15 +339,15 @@ msgstr "Sutura"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Téyé ad trackers yi"
+msgstr "Téye siiwalkat yiy toppaate"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Yenn siiwal yi, donte bësoo ci, man nañoo topp dal yi ngay ubbi"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Téyé analytic trackers yi"
+msgstr "Téye xayma yiy toppaate"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
