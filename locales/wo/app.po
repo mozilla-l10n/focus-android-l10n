@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-09 09:31+0000\n"
+"PO-Revision-Date: 2017-12-09 09:49+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -339,7 +339,7 @@ msgstr "Sutura"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Téye siiwalkat yiy toppaate"
+msgstr "Téye toppkati siiwal"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -347,34 +347,34 @@ msgstr "Yenn siiwal yi, donte bësoo ci, man nañoo topp dal yi ngay ubbi"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Téye xayma yiy toppaate"
+msgstr "Téye toppkati xayma"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Dees leen di jëfandikoo ngir dajale, saytu ak natt yëngu-yëngu yu mel ni bës walla yéegal-wàcce aw xët"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Téyé social trackers"
+msgstr "Téye toppkati mbaali mboolaay"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Dees leen di dugalaale ci dali web yi ngir topp sag njoow ak di wone ay solo niki bësu ngir séddoo"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Téyé yaneen content trackers yi"
+msgstr "Téye yaneen toppkati ëmbéef"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Doxal gi man naa jur yenn xëti web yi am doxaliin gees foogulwoon"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Nëbbu"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
