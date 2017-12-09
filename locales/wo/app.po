@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-09 11:28+0000\n"
+"PO-Revision-Date: 2017-12-09 11:43+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -959,27 +959,27 @@ msgstr "Yokki lëkkalekaay ci njëlbeenu sa xoolu"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Dellu ci say dal yi nga taamu ci %1$s ci lu gaaw. Doy na nga bës ci \"Yokk ci njëlbeenu xoolu bi\" ci njëlu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Def joow ci sutura doon jikko"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Def %1$s sa joowukaay bu njëkk te jariñoo mbaaxi njoow ci sutura sooy ubbi xëti web ci yeneen jëfekaay."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr "OK, Dégg nala!"
+msgstr "OK, Dégg naa la!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr "Jalla ci béneen"
+msgstr "Tëb"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
@@ -989,25 +989,25 @@ msgstr "Toftal"
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. The title of a dialog we show when the user selected a menu action to add
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Yokk ci njëlbéenu sa xoolu"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr "Jokk"
+msgstr "Yokk"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr "Bayyi"
+msgstr "Neenal"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -1015,7 +1015,7 @@ msgstr "Bayyi"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Wii ñall suy ubbeeku kaaraange lank-toppaate gi du dox"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1023,7 +1023,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr "Ubbi lëkkalekaay gi ci tab bi ñu taan a"
+msgstr "Ubbi lëkkalekaay bi làcc wi nga tànn"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1042,7 +1042,7 @@ msgstr "Ubbi"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Ubbig njoow ci sutura"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1061,7 +1061,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr "Fompë jaar-jaaru joow gi"
+msgstr "Far jaar-jaaru njoow gi"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
