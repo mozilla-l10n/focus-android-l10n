@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-03 10:09+0000\n"
+"PO-Revision-Date: 2017-12-09 08:46+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: oc\n"
@@ -56,7 +56,7 @@ msgstr ""
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Recercar %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -70,7 +70,7 @@ msgstr "Partejar…"
 #, c-format
 msgctxt "menu_open_with_default_browser"
 msgid "Open with %1$s"
-msgstr ""
+msgstr "Dobrir amb %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -80,35 +80,35 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser"
 msgid "Open with…"
-msgstr ""
+msgstr "Dobrir amb…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Apondre a l’ecran d’acuèlh"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr ""
+msgstr "Novetats"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "A prepaus"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Vòstres dreits"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -118,13 +118,13 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Traçadors blocats"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Partejar via"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -133,12 +133,12 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Netejar l’istoric de navigacion"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Dobrir"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
@@ -151,7 +151,7 @@ msgstr ""
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "Escafar"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -185,22 +185,22 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Recercar"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Per defaut"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "Activat"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "Desactivat"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
@@ -253,7 +253,7 @@ msgstr ""
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Ne saber mai"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
@@ -263,7 +263,7 @@ msgstr ""
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "Adreça d'apondre"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
@@ -292,13 +292,13 @@ msgstr ""
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Suprimir"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Suprimir"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
@@ -308,13 +308,13 @@ msgstr ""
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Lenga"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Valors per defaut del sistèma"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Vida privada"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
@@ -414,7 +414,7 @@ msgstr ""
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Ne saber mai"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
@@ -522,19 +522,19 @@ msgstr ""
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "Nom d’ensenhar"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Nom del motor de recèrca"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Motor de recèrca d’emplegar"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "Enregistrar"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
@@ -547,21 +547,21 @@ msgstr ""
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Exemple : exemple.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "Apondre un motor de recèrca"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Novèl motor de recèrca apondut."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Picatz lo nom del novèl motor de recèrca"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -583,13 +583,13 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Remandar"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Netejar l’istoric de navigacion"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -597,7 +597,7 @@ msgstr ""
 #. or erasing the browsing history.
 msgctxt "content_description_fab_expand"
 msgid "Expand"
-msgstr ""
+msgstr "Desplegar"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -607,31 +607,31 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Onglet dobèrts : %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr ""
+msgstr "Dobrir un onglet"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr ""
+msgstr "Tampar l’onglet"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Connexion segura"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Cargament"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
@@ -643,7 +643,7 @@ msgstr ""
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Mai d'opcions"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -692,7 +692,7 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Vòstres dreits"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
@@ -754,21 +754,21 @@ msgstr ""
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Anullar"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Telecargar"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problèma en cargar la pagina"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Tornar ensajar"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
@@ -859,32 +859,32 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Partejar lo ligam"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Copiar l'adreça del ligam"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Partejar l’imatge"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Copiar l'adreça de l’imatge"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Enregistrar l’imatge"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Dobrir dins un onglet novèl"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -939,15 +939,15 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Comprés !"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Passar"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Seguent"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -965,13 +965,13 @@ msgstr ""
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Apondre"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Anullar"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -995,7 +995,7 @@ msgstr ""
 #. the new link in the selected           existing tab.
 msgctxt "dialog_opentab_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Dobrir"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1006,7 +1006,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Navigacion privada"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1025,7 +1025,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Netejar l’istoric de navigacion"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1033,7 +1033,7 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Telecargar Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
