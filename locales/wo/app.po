@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-09 09:49+0000\n"
+"PO-Revision-Date: 2017-12-09 10:09+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -384,25 +384,25 @@ msgstr "Nëbbu"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Nëbb xëti web yi sooy jàll ci beneen jëfekaay"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Gaawaay"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "Téyé Web fonts yi"
+msgstr "Téye loyi web yi"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Mën a joggé si icons wala nataals yu reer"
+msgstr "Man naa jur njunj walla péeñ yu dul feeñ"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "Téyé nataals yi"
+msgstr "Téye péeñ yi"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -419,52 +419,52 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Yónneey njoxe ci njëfandikoo gi"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr "Gën a xam"
+msgstr "Gën ce xam"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla li mu soxla rekk, te manul ñàkk, lay jéem a dajale ngir man a gënal %1$s ngir nun ñépp."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Sàrti Sutura"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Ñeel %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Seetukaay yiñ fi sàmp"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Delloo seetukaay yi na ñu meloon"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Yokk ab seetukaay"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Far ay seetukaay"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -481,20 +481,20 @@ msgstr "Yokk ab seetukaay"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Dem ci xët-wu-njëkk wu seetukaay bi."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Bës ci binduwaayu seetukaay bi."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Bësal te téye lu yàgg ci binduwaayu seetukaay bi."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Bësal ci njunj biy rëyal bu sa arafukaay ngir yokk seetukaay bi."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
