@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-10 21:50+0000\n"
+"PO-Revision-Date: 2017-12-10 22:10+0000\n"
 "Last-Translator: ibrahima fall <ibou02@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: wo\n"
@@ -1093,13 +1093,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Joxuñula genn yelleef walla sañal ci jëfandikoo turu Mozilla Foundation walla yu ñeneen, bokk nañ ci tur walla màndargay Mozilla, Firefox walla %1$s. Manees naa fekk yeneeni xibaar <a "
+"href=\"%2$s\">fii</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Yeneen gongikuwaayu yoon yu %1$s jàppandi nañ ci ron yeneen <a href=\"%2$s\">sañal</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1108,4 +1110,4 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s dafay jëfandikoo ay limi téye yu Disconnect, Inc. di jébbale ci liggéeyu boppam ci ron <a href=\"%2$s\">GNU General Public License v3</a>, te jàppandi <a href=\"%3$s\">fii</a>."
