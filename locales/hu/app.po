@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-10 10:56+0000\n"
+"PO-Revision-Date: 2017-12-11 08:34+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -941,7 +941,7 @@ msgstr "Tuningolja fel az adatvédelmét"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Emelje a privát a böngészést a következő szintre. Blokkolja a hirdetéseket, és más tartalmakat, amelyek követhetik az oldalak között, és lelassíthatják a betöltési sebességet."
+msgstr "Emelje a privát böngészést a következő szintre. Blokkolja a hirdetéseket, és más tartalmakat, amelyek követhetik az oldalak között, és lelassíthatják a betöltési sebességet."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -951,7 +951,7 @@ msgstr "Az Ön keresése, az Ön útja"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Valami mást keres? Válasszon másik alapértelmezett keresőmotort a Beállításokban."
+msgstr "Valami mást keres? Válasszon másik alapértelmezett keresőszolgáltatást a Beállításokban."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -963,7 +963,7 @@ msgstr "Adjon ikonokat a kezdőképernyőre"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Térjen vissza gyorsan a kedven oldalaihoz a %1$sban. Csak válassza a „Hozzáadás a kezdőképernyőre” lehetőséget a %1$s menüből."
+msgstr "Térjen vissza gyorsan a kedvenc oldalaihoz a %1$sban. Csak válassza a „Hozzáadás a kezdőképernyőre” lehetőséget a %1$s menüből."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
