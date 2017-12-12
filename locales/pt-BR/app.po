@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-09 06:43+0000\n"
+"PO-Revision-Date: 2017-12-12 05:58+0000\n"
 "Last-Translator: Marco Aurélio <fxhelp@yahoo.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -281,7 +281,7 @@ msgstr "URL a adicionar"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Cole ou digite a URL"
+msgstr "Cole ou digite o URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -299,7 +299,7 @@ msgstr "-"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "Nova URL personalizada adicionada."
+msgstr "Novo URL personalizado adicionado."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -316,7 +316,7 @@ msgstr "Remover"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "Verifique novamente a URL digitada."
+msgstr "Verifique novamente o URL digitado."
 
 msgctxt "preference_language"
 msgid "Language"
