@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-15 17:07+0000\n"
+"PO-Revision-Date: 2017-12-15 17:30+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: oc\n"
@@ -270,7 +270,7 @@ msgstr "Ne saber mai"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Apondre e gerir las adreças personalizadas per las completar automaticament."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -316,7 +316,7 @@ msgstr "Suprimir"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Mercés de verificar las adreças picadas."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -343,7 +343,7 @@ msgstr "Blocar los traçadors publicitaris "
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "De publicitats vos seguèsson, amai las cliquetz pas"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -351,7 +351,7 @@ msgstr "Blocar los traçadors d’estatisticas"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Servisson a reculhir, analisar e mesurar las activitats coma la tòca o desfilament"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -359,15 +359,15 @@ msgstr "Blocar los traçadors de malhums socials"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Son embarcats dins de sites per traçar vòstras visitas e mostrar de foncionalitat coma los botons de partatge"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Blocar los autres traçadors de contengut"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Activar aquesta opcion pòt provocar de problèmas sus de paginas"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -661,7 +661,7 @@ msgstr "Mai d'opcions"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Avançar dins l’istoric"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -673,7 +673,7 @@ msgstr "Actualizar la pagina"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Tornar"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -686,7 +686,7 @@ msgstr "Quitar de cargar lo site web"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Tornar a l’aplicacion precedenta"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -716,7 +716,7 @@ msgstr "Dobrir lo ligam dins una autra aplicacion"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Sètz per quitar %1$s per dobrir aqueste ligam dins %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -826,7 +826,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Redireccion de pagina incorrècta"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -837,7 +837,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "La connexion es pas estada compresa"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
