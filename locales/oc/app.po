@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-11-29 17:05-0800\n"
-"PO-Revision-Date: 2017-12-17 11:56+0000\n"
+"PO-Revision-Date: 2017-12-18 18:49+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: oc\n"
@@ -731,7 +731,7 @@ msgstr "Trobar una aplicacion per dobrir aqueste ligam"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Cap de las aplicacions de l’ordenador pòt pas dobrir aqueste ligam. Podètz quitar %1$s per cercar dins %2$s una aplicacion que pòt lo dobrir."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
