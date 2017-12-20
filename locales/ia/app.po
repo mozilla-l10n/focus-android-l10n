@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-20 01:16+0000\n"
+"PO-Revision-Date: 2017-12-20 13:50+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -219,7 +219,7 @@ msgstr "Disactivar"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr ""
+msgstr "Auto-completamento del URL"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
@@ -229,7 +229,7 @@ msgstr "Auto-completar"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Lista de URL predefinite"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
