@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-21 03:11+0000\n"
+"PO-Revision-Date: 2017-12-21 03:30+0000\n"
 "Last-Translator: lilymeheret22 <lilymeheret22@gmail.com>\n"
 "Language-Team: am <LL@li.org>\n"
 "Language: am\n"
@@ -843,6 +843,10 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>የድረ-ገጽ አድራሻዎች ብዙውን ጊዜ እንዲህ ይነበባሉ<strong>http://www.example.com/</strong></li>\n"
+"  <li>ወደፊት ቀስቶችን እየተጠቀሙ መሆንዎን ያረጋግጡ(ምሳሌ<strong>/</strong>)</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -868,6 +872,9 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>ይህን አድራሻ ለመክፈት ሌላ ሶፍትዌር መጫን ሊያስፈልግዎ ይችላል</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -882,6 +889,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>ይሄ በሰረቨር ውቅር ላይ ችግር ሊሆን ይችላል  ወይም ሰረቨርን ለማስመሰል የሚሞክር የሆነ ሰው ሊሆን ይችላል</li>\n"
+"  <li>ከዚህ በፊት ከዚህ ሰረቨር  በተሳካ ሁኔታ ከተገናኙ ስህተቱ ጊዜያዊ ሊሆን ይችላል እና ቆይተው እንደገና መሞከር ይችላሉ</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -926,7 +937,7 @@ msgstr "አገናኙን በአዲስ ትር ውስጥ ይክፈቱ"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "የተቀመጡ እና የተጋሩ ምስሎች<b>አይሰርዝም</b>ሲደመስሱ%1$sታሪክ"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -936,7 +947,7 @@ msgstr "ግላዊነትዎን ያስፉ"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "የግል ፍለጋን ወደ ቀጣዩ ደረጃ ይወስዳል::በጣቢያዎች ውስጥ እርስዎን ሊከታተል የሚችል እና የገፅ ጭነት ጊዜዎችን ማደንዘዝ ማስታወቂያዎችን እና ሌላ ይዘትን አግድ"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -946,19 +957,19 @@ msgstr "የእርስዎ ፍለጋ, የእርስዎ መንገድ"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "የሆነ የተለየ ነገር በመፈለግ ላይ? በቅንብሮች ውስጥ ሌላ ነባሪ የፍለጋ ፕሮግራም ይምረጡ"
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "ወደ መነሻ ማያ ገጽዎ አቋራጮችን ያክሉ"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "ወደ እርስዎ ተወዳጅ ጣቢያዎች ይመለሱ %1$s በፍጥነት:: በቀላሉ ይምረጡ \"ወደ መነሻ ማያ ገጽ አክል\" ከ ዘንድ %1$s ምናሌ::"
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
