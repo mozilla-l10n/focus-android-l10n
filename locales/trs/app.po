@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-26 03:31+0000\n"
+"PO-Revision-Date: 2017-12-26 03:45+0000\n"
 "Last-Translator: yumatajnga <yumatajnga@gmail.com>\n"
 "Language-Team: trs <LL@li.org>\n"
 "\n"
@@ -237,32 +237,32 @@ msgstr "Nagi'iaj mu'ù URL"
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Nagi'iaj mu'ù nej URL"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ Nùto' sa nagi'iaj ma'ān URL"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Nùto' sa nagi'iaj ma'ān URL"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Nadure' sa nagi'iaj ma'ān URL"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Gahuin chrūn doj"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Noto' sa nagi'iaj ma'ān daran' URL."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -273,13 +273,13 @@ msgstr "URL nuto'"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Gàchru' URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Dànaj gachrunt: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
@@ -291,7 +291,7 @@ msgstr "-"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "URL naka doj nga nata'"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -308,7 +308,7 @@ msgstr "Guxūn"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Ni'iaj si hua hue'è URL gachrunt."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -569,7 +569,7 @@ msgstr "Si yugui sa nana'ui'"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "'Ngò sa nana'ui' na nī hue ge danaj gu'naj ma."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -577,7 +577,7 @@ msgstr "Duguatûj sa nanikò' dugui'i"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Ni'iaj ni' si ru' da'uì gà nianj huin hua ma"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
