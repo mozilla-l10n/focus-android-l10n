@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-20 21:01+0000\n"
+"PO-Revision-Date: 2017-12-27 20:56+0000\n"
 "Last-Translator: Michal Vašíček <michalvasicek@icloud.com>\n"
 "Language-Team: cs <LL@li.org>\n"
 "Language: cs\n"
@@ -760,7 +760,7 @@ msgstr "Otevřít"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Stažené soubory <b>nebudou odstraněny</b> při vymazání historie prohlížení aplikace %1$s."
+msgstr "Stažené soubory <b>nebudou smazány</b> při vymazání historie prohlížení aplikace %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
