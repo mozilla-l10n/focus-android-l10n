@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-29 10:12+0000\n"
-"Last-Translator: Sahithi <sahithi.thinker@gmail.com>\n"
+"PO-Revision-Date: 2017-12-29 12:59+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr "సరే"
 
 msgctxt "action_save"
 msgid "Save"
-msgstr ""
+msgstr "భద్రపరుచు"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -263,7 +263,7 @@ msgstr ""
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "ఇంకా తెలుసుకోండి"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
@@ -285,7 +285,7 @@ msgstr ""
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "ఉదాహరణ: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
@@ -524,7 +524,7 @@ msgstr ""
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "మొదలుపెట్టు"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
