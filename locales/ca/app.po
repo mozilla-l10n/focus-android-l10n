@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-27 18:05+0000\n"
+"PO-Revision-Date: 2018-01-09 20:18+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -285,7 +285,7 @@ msgstr ""
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Exemple: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
@@ -939,7 +939,7 @@ msgstr "Potencieu la privadesa"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Porteu la navegació privada al nivell superior. Bloqueu anuncis i altre contingut que us fan el seguiment i alenteixen la càrrega de les pàgines."
+msgstr "Porteu la navegació privada a un altre nivell. Bloqueu anuncis i altre contingut que us fan el seguiment i alenteixen la càrrega de les pàgines."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
