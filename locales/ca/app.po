@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-09 20:18+0000\n"
+"PO-Revision-Date: 2018-01-09 20:51+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -232,7 +232,7 @@ msgstr "Llista d'URL per defecte"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Activeu-lo per fer permetre que el %1$s empleni automàticament més de 450 URL populars a la barra d'adreces."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -268,7 +268,7 @@ msgstr "Més informació"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Afegiu i gestioneu els URL d'emplenament automàtic personalitzats."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -279,7 +279,7 @@ msgstr "URL per afegir"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Enganxeu o escriviu un URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -297,7 +297,7 @@ msgstr "-"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "S'ha afegit un URL personalitzat nou."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -314,7 +314,7 @@ msgstr "Elimina"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Reviseu l'URL que heu introduït."
 
 msgctxt "preference_language"
 msgid "Language"
