@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-18 04:55+0000\n"
+"PO-Revision-Date: 2018-01-10 20:30+0000\n"
 "Last-Translator: baldemarls <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -227,7 +227,7 @@ msgstr "Chaa"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "URLs ña tsa sa'an inka"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -269,7 +269,7 @@ msgstr "Skua'a kuakaa"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Chaa a sama URLs tana kuni meu."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -315,7 +315,7 @@ msgstr "Xitaá"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Chaa va'a URL."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -1111,4 +1111,4 @@ msgstr "Inka <a href=\"%2$s\">licencia</a>ña código abierto tsi gratuitassani 
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s kuu kuachu'un listas ña tsasi DIsconnect, Inc. tana inka chu'un tsi <a href=\"%2$s\">Licencia Pública General de GNU v3</a>, cha ku ntaneu ña <a href=\"%3$s\">yo'o</a>."
