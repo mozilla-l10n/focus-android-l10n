@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-10 20:30+0000\n"
+"PO-Revision-Date: 2018-01-10 20:36+0000\n"
 "Last-Translator: baldemarls <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -233,7 +233,7 @@ msgstr "URLs ña tsa sa'an inka"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Kuachi'in tava %1$s na skuti 450 URLs ña kuaka che'e na nu direcciòn."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -576,7 +576,7 @@ msgstr "Chaa sivi ña kunu nduku"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "Tsa inka'a iin ña nduku tsi sivi yoo."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
