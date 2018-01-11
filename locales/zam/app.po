@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-11 17:31+0000\n"
+"PO-Revision-Date: 2018-01-11 17:41+0000\n"
 "Last-Translator: rodrigo_perez_r <rodrigo_perez_r@yahoo.com>\n"
 "Language-Team: zam <LL@li.org>\n"
 "\n"
@@ -377,7 +377,7 @@ msgstr ""
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Sà dè kèy sín"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
@@ -426,7 +426,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "M-bláb kùe"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -630,13 +630,13 @@ msgstr "TòɁw lô (lawo)"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Mgéy sín"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Mdé láɁ ní"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
@@ -660,7 +660,7 @@ msgstr ""
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "TeɁ zàp lô"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -673,7 +673,7 @@ msgstr ""
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "B-láɁ mdé láɁ=y"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -777,7 +777,7 @@ msgstr "Bí~rè lìy"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Gadt m-tòb kí kùe"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -859,7 +859,7 @@ msgstr "Oops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Gádt mdé láɁ=n yêts ré"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1011,7 +1011,7 @@ msgstr "Mb-šàlɁ lá"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Lút ta níe kúe"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
