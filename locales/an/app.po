@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-18 22:30+0000\n"
+"PO-Revision-Date: 2018-01-18 22:40+0000\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -102,15 +102,15 @@ msgstr "Achustes"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr "Sobre"
+msgstr "Quanto a"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Aduyar"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Los tuyos dreitos"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -120,13 +120,13 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Trackers blocaus"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Compartir vía"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -135,39 +135,39 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Borrar l'historial de navegación"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Ubrir"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "Borrar y ubrir"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr ""
+msgstr "Borrar"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Borrar l'historial de navegación"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Buscar en privau"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -184,123 +184,133 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s te da lo control.</p>\n"
+"<p>Usa-lo como un navegador privau:\n"
+"  <ul>\n"
+"    <li>Busca y navega directament en l'app</li>\n"
+"    <li>Bloca los trackers (u modifica los achustes pa permitir trackers)</li>\n"
+"    <li>Borra cookies, asinas como los historials de busqueda y de navegación</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<a href=\"%2$s\">Learn more</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Per defecto"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "Activau"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "Desactivau"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr ""
+msgstr "Autocompletar URL"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr ""
+msgstr "Autocompletar"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Lista URL per defecto"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Activar pa tener autocompletau de %1$s con 450 URLs populars en a barra d'adrezas."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr ""
+msgstr "URL personalizada"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "URLs personalizadas"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ Anyader URL personalizada"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Anyader URL personalizada"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Borrar URLs personalizadas"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Saber-ne mas"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Anyader y chestionar l'autocompletau personalizau d'URLs."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL a anyader"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Apegar u escribir URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Eixemplo: eixemplo.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
 msgctxt "preference_autocomplete_handle_content_description"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Nueva URL personalizada anyadida."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Borrar"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Borrar"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
