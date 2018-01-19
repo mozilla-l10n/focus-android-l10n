@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-19 07:38+0000\n"
+"PO-Revision-Date: 2018-01-19 07:59+0000\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -454,54 +454,54 @@ msgstr "Motors de busqueda instalaus"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Restaurar los motors de busqueda per defecto"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Anyader belatro motor de busqueda"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Sacar motors de busqueda"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr ""
+msgstr "Anyader manualment"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "Anyader motor de busqueda"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Ves ta la pachina web d'o motor de busqueda."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Toca en o campo de busqueda d'o motor."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Mantiene pretau lo campo de busqueda d'o motor."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Toca l'icono d'a lupa dencima d'o teclau pa anyader lo motor de busqueda."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Anyader motor de busqueda"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -509,11 +509,11 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3. Toca %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si no veyes la lupa, preba d'anyader manualment lo motor de busqueda."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -522,66 +522,66 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. Si no veyes %1$s, mira d'anyader manualment lo motor de busqueda."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "PRIMERS PASOS"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Toca l'icono d'a lupa dencima d'o teclau pa anyader este motor de busqueda."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "Nombre a amostrar"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Nombre d'o motor de busqueda"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Cadena de busqueda a emplegar"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "Alzar"
 
 #. Explanation of how to add search string, with instruction on how to modify
 #. the string if necessary. The string "%s" should not be changed or removed.
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Apega u escribe la cadena de busqueda. Si cal, substituye lo termen de busqueda per: %s."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Eixemplo: eixemplo.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "Anyader motor de busqueda"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Nuevo motor de busqueda anyadiu."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Escribir lo nombre d'o motor de busqueda"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "Un motor de busqueda instalau ye emplegando ya ixe nombre."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Escribe la cadena de busqueda"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
