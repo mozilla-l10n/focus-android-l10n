@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-19 08:50+0000\n"
+"PO-Revision-Date: 2018-01-19 09:07+0000\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -760,35 +760,35 @@ msgstr "Ubrir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Los fichers descargaus <b>no se detectarán</b> quan borres l'historial de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Descargar lo fichero"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problema en cargar la pachina"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Tornar a intentar-lo"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Imposible de connectar-se"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -797,14 +797,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Lo puesto ye temporalment inaccesible u masiau acupau. Torna a prebar-lo en un ratet.</li>\n"
+"        <li>Si no yes capable de cargar garra pachina, compreba la connexión de datos u Wi-Fi d'o tuyo dispositivo.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "La connexión ha caducau"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "No s'ha trobau lo servidor"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -815,10 +819,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Compreba l'adreza, no cosa que tiengas errors como\n"
+"          <strong>ww</strong>.eixemplo.com enguís de\n"
+"          <strong>www</strong>.eixemplo.com</li>\n"
+"        <li>Si no puetz cargar garra pachina, compreba la tuya connexión de datos u Wi-Fi.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "L'adreza no ye valida"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -827,10 +837,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Per un regular las adrezas web s'escriben asinas: <strong>http://www.example.com/</strong></li>\n"
+"  <li>Asegura-te de que yes usando barras abocadas enta debant (i.e. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Esta pachina no ye correctament redireccionada"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -838,10 +852,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Este problema puede deber-se a haber desactivau u refusau los cookies.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "No s'ha reconoixiu l'adreza"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -849,10 +866,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Igual te cal instalar belatro software pa ubrir esta adreza.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "La connexión segura ha fallau"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -863,56 +883,62 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Talment siga un problema d'a configuración d'o servidor, u podría \n"
+"estar que belún siga mirando de fer-se pasar per lo servidor.</li>\n"
+"  <li>Si t'hebas connectau en o pasau a este servidor, talment se tracte \n"
+"d'una error temporal, torna a intentar-lo dimpués.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Ui"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Per bell razón no s'ha puesto cargar esta pachina."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Compartir lo vinclo"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Copiar l'adreza d'o vinclo"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Compartir la imachen"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Copiar l'adreza d'a imachen"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Alzar la imachen"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Ubrir lo vinclo en una nueva pestanya"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Las imachens alzadas y compartidas <b>no se borrarán</b> quan borres l'historial de %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Refuerza la tuya privacidat"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
