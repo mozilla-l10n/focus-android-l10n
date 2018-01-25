@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-01-12 15:43+0000\n"
+"PO-Revision-Date: 2018-01-25 18:06+0000\n"
 "Last-Translator: rodrigo_perez_r <rodrigo_perez_r@yahoo.com>\n"
 "Language-Team: zam <LL@li.org>\n"
 "\n"
@@ -217,7 +217,7 @@ msgstr "Mkéy"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "URL dób lá"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -288,7 +288,7 @@ msgstr "-"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Dób lá URL kùb."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -391,7 +391,7 @@ msgstr ""
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Ná-lòt lù mòn"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -470,7 +470,7 @@ msgstr "M-tòb yíʔb-kwàɁn"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1.Gúa lô xán"
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
@@ -515,7 +515,7 @@ msgstr ""
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
@@ -648,7 +648,7 @@ msgstr "Lô nó-šàlɁ"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Wì kó ták lìl"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -789,7 +789,7 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Gàdt là nì"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
@@ -830,7 +830,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Ngyé-n men rè"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
