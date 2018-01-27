@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-16 19:27+0000\n"
-"Last-Translator: Marco Aurélio <fxhelp@yahoo.com>\n"
+"PO-Revision-Date: 2018-01-27 17:52+0000\n"
+"Last-Translator: Maykon Chagas <mchagas@riseup.net>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -202,7 +202,7 @@ msgstr "Pesquisar"
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr "Predefinido"
+msgstr "Padrão"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -228,7 +228,7 @@ msgstr "Preenchimento automático"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr "Lista de URL predefinida"
+msgstr "Lista de URL padrão"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -331,7 +331,7 @@ msgstr "Padrão do sistema"
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr "Pesquisa predefinida"
+msgstr "Pesquisa padrão"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -411,7 +411,7 @@ msgstr "Bloquear imagens"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "Definir o %1$s como navegador predefinido"
+msgstr "Definir o %1$s como navegador padrão"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -454,7 +454,7 @@ msgstr "Mecanismos de pesquisa instalados"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "Restaurar mecanismos de pesquisa predefinido"
+msgstr "Restaurar os mecanismos de pesquisa padrões"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
@@ -951,7 +951,7 @@ msgstr "Pesquise à sua maneira"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Procurando algo diferente? Escolha outro mecanismo de pesquisa predefinido em Configurações."
+msgstr "Procurando algo diferente? Escolha outro mecanismo de pesquisa padrão em Configurações."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -975,7 +975,7 @@ msgstr "Faça da privacidade um hábito"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Defina o %1$s como seu navegador predefinido e obtenha os benefícios da navegação privativa quando abrir páginas de outros aplicativos."
+msgstr "Defina o %1$s como seu navegador padrão e obtenha os benefícios da navegação privativa quando abrir páginas de outros aplicativos."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
