@@ -16,7 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Pontoon\n"
 
@@ -275,13 +275,13 @@ msgstr ""
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL যোগ করতে"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "URL পেস্ট অথবা প্রবেশ করান"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -316,7 +316,7 @@ msgstr "অপসারণ"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "যে URL টি আপনি দিলেন তা ডবল চেক করুন।"
 
 msgctxt "preference_language"
 msgid "Language"
