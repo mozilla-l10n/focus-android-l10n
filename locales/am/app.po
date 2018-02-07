@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2017-12-21 03:30+0000\n"
+"PO-Revision-Date: 2018-02-07 04:01+0000\n"
 "Last-Translator: lilymeheret22 <lilymeheret22@gmail.com>\n"
 "Language-Team: am <LL@li.org>\n"
 "Language: am\n"
@@ -981,7 +981,7 @@ msgstr "ግላዊነት የማድረግ ልማድ ያድርጉ"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "እንደ %1$s ነባሪ አሳሽዎ አድርገው ያቀናብሩ እና የድር ገጾች ከሌላ መተግበሪያዎች ሲከፍቱ የግል ማሰሻዎችን ጥቅሞች ያግኙ"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1025,7 +1025,7 @@ msgstr "አጥፋ"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "አቋራጭ ከተሰናከለ ከመከታተያ ጥበቃ ጋር ይከፈታል"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1033,7 +1033,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr "በተመረጠው ትር መገናኛውን ክፈት"
+msgstr ""
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
