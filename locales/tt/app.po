@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-03-01 12:43+0000\n"
+"PO-Revision-Date: 2018-03-01 13:29+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt\n"
@@ -326,12 +326,12 @@ msgstr "Тел"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Система теле"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
 msgid "Default search"
-msgstr ""
+msgstr "Стандарт эзләү системасы"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -339,7 +339,7 @@ msgstr "Хосусыйлык"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Реклама трекерларын блоклау"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -347,7 +347,7 @@ msgstr "Кайбер рекламалар, сез аларга басмасаг�
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Аналитика трекерларын блоклау"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
