@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-03-01 12:09+0000\n"
+"PO-Revision-Date: 2018-03-01 12:29+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt\n"
@@ -44,8 +44,8 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Автоматик шәхси гизү.\n"
-"Гизү. Бетерү. Кабатлау."
+"Автоматик рәвештә яшерен гизү.\n"
+"Гиз һәм бетер. Бетте-китте."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -167,7 +167,7 @@ msgstr "Гизү тарихын бетерү"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr ""
+msgstr "Яшерен эзләү"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
