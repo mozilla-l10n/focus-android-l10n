@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-03-02 18:53+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"PO-Revision-Date: 2018-03-03 12:10+0000\n"
+"Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt\n"
 "MIME-Version: 1.0\n"
@@ -351,7 +351,7 @@ msgstr "Аналитика трекерларын блоклау"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Басу һәм скроллинг кебек активлыкларны җыю, анализлау һәм үлчәү өчен кулланылалар"
+msgstr "Басу һәм скроллинг кебек хәрәкәтләрне җыю, анализлау һәм үлчәү өчен кулланылалар"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -359,22 +359,22 @@ msgstr "Социаль челтәр трекерларын блоклау"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Сез зиярат иткән сайтларны күзәтү һәм \"Уртаклашу\" төймәләре кебек мөмкинлекләрне күрсәтү өчен сайтларга куелалар"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Башка эчтәлек трекерларын блоклау"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Моны кабызу кайбер сәхифәләрнең көтелгәнчә эшләмәвенә сәбәп була ала"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "Яшерен куллану"
+msgstr "Яшерен"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -384,25 +384,25 @@ msgstr "Яшерен куллану"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Кулланмаларны авыштырганда веб-сәхифәләрне яшерү"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Җитештерүчәнлек"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Веб-шрифтларны блоклау"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Билге һәм рәсемнәрнең күренмәвенә сәбәп була ала"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr ""
+msgstr "Рәсемнәрне блоклау"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -411,7 +411,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s'ны төп гизгеч итү"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -419,7 +419,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Куллану мәгълүматларын җибәрү"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -432,12 +432,12 @@ msgstr "Күбрәк өйрәнү"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla %1$s'ны һәркемгә дә тәкъдим итү һәм яхшырту өчен кирәкле мәгълүматларны гына җыярга тырыша."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Хосусыйлык сәясәте"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
