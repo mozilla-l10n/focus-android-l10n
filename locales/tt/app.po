@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-03-03 12:10+0000\n"
+"PO-Revision-Date: 2018-03-03 12:26+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt\n"
@@ -460,7 +460,7 @@ msgstr "Стандарт эзләү системаларын яңадан тор
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "+ Башка эзләү системасын өстәү"
+msgstr "+ Башка бер эзләү системасын өстәү"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -481,20 +481,20 @@ msgstr "Эзләү системасын өстәү"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr ""
+msgstr "1. Эзләү системасының баш битен ачыгыз."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. Эзләү системасының эзләү кырына басыгыз."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. Эзләү системасының эзләү кырына озак басып торыгыз."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. Эзләү системасын өстәр өчен, клавиатура өстендәге лупа билгесенә басыгыз."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -509,11 +509,11 @@ msgstr "Эзләү системасын өстәү"
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr ""
+msgstr "3. %1$s'гә басыгыз"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. Лупа күренмәсә, эзләү системасын кулдан өстәп карагыз."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -522,7 +522,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. %1$s күренмәсә, эзләү системасын кулдан өстәп карагыз."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -530,7 +530,7 @@ msgstr "БАШЛАУ"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "Бу эзләү систамасын өстәү өчен, клавиатура өстендәге лупа билгесенә басыгыз."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -553,7 +553,7 @@ msgstr "Саклау"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "Эзләү юлын ябыштырыгыз яки языгыз. Кирәк булса, эзләү терминын %s белән алыштырыгыз."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -591,7 +591,7 @@ msgstr "Эзләү юлының Мисал форматына туры килү�
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Кертү кырын чистарту"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
