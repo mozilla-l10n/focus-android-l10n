@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2017-12-08 12:40-0800\n"
-"PO-Revision-Date: 2018-03-03 12:49+0000\n"
+"PO-Revision-Date: 2018-03-03 12:53+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tt\n"
@@ -760,7 +760,7 @@ msgstr "Ачу"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Сез %1$s тарихын чистартканда, йөкләнеп алынган файллар <b>бетерелмәячәк</b>."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -780,15 +780,15 @@ msgstr "Йөкләп алу"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Cәхифәне йөкләгәндә хата китте"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Янәдән тырышу"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr "Тоташып булмый"
+msgstr "Тоташып булмады"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
