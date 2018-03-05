@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: focus-android\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-05 19:58+0100\n"
-"PO-Revision-Date: 2018-03-05 23:11+0000\n"
+"PO-Revision-Date: 2018-03-05 23:12+0000\n"
 "Last-Translator: Piotr Drąg <piotrdrag@gmail.com>\n"
 "Language-Team: Polish <community-poland@mozilla.org>\n"
 "Language: pl\n"
@@ -73,7 +73,7 @@ msgstr "Udostępnij…"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Otwórz w aplikacji %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -83,7 +83,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "Otwórz w…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
