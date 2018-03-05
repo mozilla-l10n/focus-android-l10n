@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-12-08 12:40-0800\n"
+"POT-Creation-Date: 2018-03-05 19:58+0100\n"
 "PO-Revision-Date: 2017-11-16 05:58+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language: bn_IN\n"
@@ -65,13 +65,13 @@ msgid "Share…"
 msgstr "শেয়ার করুন…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
-#. %1$s will be       replaces with the name of the browser like: "Open with
-#. Firefox" or "Open with Chrome". Some       links can be opened by native
-#. apps that aren't a browser, e.g. "Open with YouTube"
+#. %1$s will be       replaced with the name of the browser like: "Open in
+#. Firefox" or "Open in Chrome". Some       links can be opened by native apps
+#. that aren't a browser, e.g. "Open in YouTube"
 #, c-format
-msgctxt "menu_open_with_default_browser"
-msgid "Open with %1$s"
-msgstr "%1$s ব্যবহার করে খুলুন"
+msgctxt "menu_open_with_default_browser2"
+msgid "Open in %1$s"
+msgstr ""
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -79,9 +79,9 @@ msgstr "%1$s ব্যবহার করে খুলুন"
 #. the default browser. Clicking this menu item will show       a screen with
 #. multiple browsers (or other apps that can open the current URL) to choose
 #. from.
-msgctxt "menu_open_with_a_browser"
-msgid "Open with…"
-msgstr "এর সাথে খুলুন…"
+msgctxt "menu_open_with_a_browser2"
+msgid "Open in…"
+msgstr ""
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -1217,4 +1217,17 @@ msgstr ""
 "%1$s ও Disconnect, Inc, দ্বারা প্রদত্ত ব্লকস্ট্রিস্ট ব্যবহার করে, <a "
 "href=\"%2$s\">GNU জেনারেল পাবলিক লাইসেন্স v3</a> র অধীনে পৃথক এবং স্বাধীন"
 " কাজ হিসাবে এবং <a href=\"%3$s\">এখানে</a> পাওয়া যাবে।"
+
+#. Text shown in prompts for GeckoView
+msgctxt "gv_prompt_username_hint"
+msgid "Username"
+msgstr ""
+
+msgctxt "gv_prompt_password_hint"
+msgid "Password"
+msgstr ""
+
+msgctxt "gv_prompt_clear"
+msgid "Clear"
+msgstr ""
 
