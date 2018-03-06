@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-05 19:58+0100\n"
-"PO-Revision-Date: 2018-03-06 11:06+0000\n"
+"PO-Revision-Date: 2018-03-06 11:29+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: sq <LL@li.org>\n"
 "Language: sq\n"
@@ -184,7 +184,7 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s jua lë juve kontrollin.</p>\n"
+"<p>%1$s-i jua lë juve kontrollin.</p>\n"
 "<p>Përdoreni si një shfletues privat:\n"
 "  <ul>\n"
 "    <li>Bëni kërkime dhe shfletoni drejt e nga aplikacioni</li>\n"
@@ -192,7 +192,7 @@ msgstr ""
 "    <li>Fshini cookies, si dhe historik kërkimesh dhe shfletimesh</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s prodhohet nga Mozilla. Misioni ynë është të përkujdeset për një Internet të shëndetshëm, të hapur.<br/>\n"
+"<p>%1$s-i prodhohet nga Mozilla. Misioni ynë është të përkujdesemi për një Internet të shëndetshëm, të hapur.<br/>\n"
 "<a href=\"%2$s\">Mësoni më tepër</a></p>"
 
 msgctxt "preference_category_search"
@@ -411,7 +411,7 @@ msgstr "Blloko figura"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "Bëje %1$s shfletuesin parazgjedhje"
+msgstr "Bëje %1$s-in shfletuesin parazgjedhje"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -432,7 +432,7 @@ msgstr "Mësoni më tepër"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla rreket të grumbullojë vetëm sa na duhen për të ofruar dhe përmirësuar %1$s për këdo."
+msgstr "Mozilla rreket të grumbullojë vetëm sa na duhen për të ofruar dhe përmirësuar %1$s-in për këdo."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -522,7 +522,7 @@ msgstr "4. Nëse s’e shihni lupën, provoni ta shtoni dorazi motorin e kërkim
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. Nëse s’e shihni %1$s, provoni ta shtoni dorazi motorin e kërkimeve."
+msgstr "4. Nëse s’shihni %1$s, provoni ta shtoni dorazi motorin e kërkimeve."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -735,7 +735,7 @@ msgstr "Gjeni një aplikacion që mund të hapë lidhjen"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Asnjë nga aplikacionet në pajisjen tuaj s’është në gjendje të hapë këtë lidhje. Mund të lini %1$s të kërkojë në %2$s për një aplikacion që mundet."
+msgstr "Asnjë nga aplikacionet në pajisjen tuaj s’është në gjendje të hapë këtë lidhje. Mund të lini %1$s-in të kërkojë në %2$s për një aplikacion që mundet."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -975,7 +975,7 @@ msgstr "Bëjeni zakon privatësinë"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Vëreni %1$s si shfletuesin tuaj parazgjedhje dhe përfitoni të mirat e shfletimit privat kur hapni faqe në web që nga aplikacione të tjera."
+msgstr "Vëreni %1$s-in si shfletuesin tuaj parazgjedhje dhe përfitoni të mirat e shfletimit privat, kur hapni faqe në web që nga aplikacione të tjera."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
