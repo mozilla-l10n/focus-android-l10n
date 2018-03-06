@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-05 19:58+0100\n"
-"PO-Revision-Date: 2018-03-06 09:40+0000\n"
+"PO-Revision-Date: 2018-03-06 11:06+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: sq <LL@li.org>\n"
 "Language: sq\n"
@@ -343,7 +343,7 @@ msgstr "Blloko gjurmues reklamash"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Disa reklama ndjekin vizita sajti, madje edhe kur nuk klikoni mbi reklamat"
+msgstr "Disa reklama ndjekin vizita sajti, madje edhe kur s’klikoni mbi reklamat"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -398,7 +398,7 @@ msgstr "Blloko shkronja Web"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Mund të sjellë në mungesë ikonash ose figurash"
+msgstr "Mund të sjellë mungesë ikonash ose figurash"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -513,7 +513,7 @@ msgstr "3. Prekeni %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr "4. Nëse nuk e shihni lupën, provoni ta shtoni doras motorin e kërkimeve."
+msgstr "4. Nëse s’e shihni lupën, provoni ta shtoni dorazi motorin e kërkimeve."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -522,7 +522,7 @@ msgstr "4. Nëse nuk e shihni lupën, provoni ta shtoni doras motorin e kërkime
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. Nëse nuk e shihni %1$s, provoni ta shtoni doras motorin e kërkimeve."
+msgstr "4. Nëse s’e shihni %1$s, provoni ta shtoni dorazi motorin e kërkimeve."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -760,7 +760,7 @@ msgstr "Hape"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Kartelat e shkarkuara <b>nuk do të fshihen</b> kur të fshini historikun e %1$s-it."
+msgstr "Kartelat e shkarkuara <b>s’do të fshihen</b>, kur të fshini historikun e %1$s-it."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -1059,7 +1059,7 @@ msgstr "Sesion shfletimi privat"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Njoftimet ju lejonë të fshini me një prekje sesionin tuaj %1$s. Nuk ju duhet të hapni aplikacionin apo të shihni se ç’po xhiron në shfletuesin tuaj."
+msgstr "Njoftimet ju lejojnë të fshini me një prekje sesionin tuaj %1$s. S’ju duhet të hapni aplikacionin apo të shihni se ç’po xhiron në shfletuesin tuaj."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
