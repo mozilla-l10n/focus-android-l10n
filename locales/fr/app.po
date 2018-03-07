@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-05 19:58+0100\n"
-"PO-Revision-Date: 2018-03-05 23:35+0000\n"
+"PO-Revision-Date: 2018-03-07 17:34+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
@@ -72,7 +72,7 @@ msgstr "Partager…"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Ouvrir avec %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -82,7 +82,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "Ouvrir avec…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -1117,12 +1117,12 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "Nom d’utilisateur"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Effacer"
