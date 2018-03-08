@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-05 19:58+0100\n"
-"PO-Revision-Date: 2018-03-07 00:14+0000\n"
+"PO-Revision-Date: 2018-03-08 21:07+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -1087,7 +1087,7 @@ msgstr "%1$s — Mozilla һәм башка катнашучылар ясаган
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s <a href=\"%2$s\">Mozilla Public License</a> һәм башка ачык чыганак лицензияләренең шартлары белән тәкъдим ителә."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1104,7 +1104,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s өчен өстәмә чыганак кодлары берничә башка ирекле һәм ачык чыганак <a href=\"%2$s\">лицензияләре</a> белән тәкъдим ителә."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
