@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-03-05 19:58+0100\n"
+"POT-Creation-Date: 2018-03-09 19:13+0100\n"
 "PO-Revision-Date: 2017-11-16 05:58+0000\n"
 "Last-Translator: Biraj  Karmakar <brnet00@gmail.com>\n"
 "Language: bn_IN\n"
@@ -120,6 +120,15 @@ msgstr "আপনার অধিকার"
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
 msgstr "ট্র্যাকারদের অবরুদ্ধ করা হয়েছে"
+
+#. This is a small text at the bottom of the menu shown in a "custom tab" for
+#. branding purposes.      See
+#. https://github.com/mozilla-mobile/focus-android/issues/2106       %1$s will
+#. be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "menu_custom_tab_branding"
+msgid "Powered by %1$s"
+msgstr ""
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -1229,5 +1238,26 @@ msgstr ""
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
+msgstr ""
+
+#. Text shown in Security Information Popup
+#. Text to denote secure or insecure connection
+msgctxt "security_popup_secure_connection"
+msgid "Secure Connection"
+msgstr ""
+
+msgctxt "security_popup_insecure_connection"
+msgid "Insecure Connection"
+msgstr ""
+
+#. %1$s will be replaced with organization that granted the SSL certificate
+#, c-format
+msgctxt "security_popup_security_verified"
+msgid "Verified by: %1$s"
+msgstr ""
+
+#. Content Description of Security Icon in toolbar
+msgctxt "site_security_icon_content_description"
+msgid "Site Security"
 msgstr ""
 
