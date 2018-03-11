@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-10 08:12+0000\n"
-"Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
+"PO-Revision-Date: 2017-12-05 07:21+0000\n"
+"Last-Translator: S M Sarwar Nobin <smsarwar1996@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
@@ -279,7 +279,7 @@ msgstr "আরও জানুন"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "কাস্টোম অটোকমপ্লিট URLs যোগ এবং ম্যানেজ করুন।"
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -494,16 +494,16 @@ msgstr "1. অনুসন্ধান ইঞ্জিন নীড়পাতা�
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. সার্চ ইঞ্জিনের সার্চ ফিল্ডটিতে আলতো চাপুন।"
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2. সার্চ ইঞ্জিনের সার্চ ফিল্ডটি দীর্ঘক্ষণ টিপুন।"
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. সার্চ ইঞ্জিন যোগ করার জন্য কীবোর্ডের উপরে ম্যাগনিফিকেশনের আইকনটি আলতো চাপুন।"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -535,7 +535,7 @@ msgstr ""
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr ""
+msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
@@ -594,7 +594,7 @@ msgstr "অনুসন্ধান বাক্য দিন"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "সার্চ স্ট্রিংটি যেটি উদাহরণ ফরম্যাটের সাথে মেলে তা চেক করুন"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -962,7 +962,7 @@ msgstr ""
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "অন্য কিছু খুঁজছেন? সেটিংস এ অন্য ডিফল্ট সার্চ ইঞ্জিন পছন্দ করুন।"
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
