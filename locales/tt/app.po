@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-15 21:55+0000\n"
+"PO-Revision-Date: 2018-03-15 23:18+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -985,7 +985,7 @@ msgstr "Хосусыйлыкны гадәткә кертү"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s'ны төп гизгечегез итеп сайлап, башка кулланмалардан сайтларны ачканда да яшерен гизү мөмкинлегеннән файда күрегез."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1029,7 +1029,7 @@ msgstr "Баш тарту"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Ярлык Күзәтүчеләрдән Саклау режимы сүндерелгән килеш ачылачак"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
