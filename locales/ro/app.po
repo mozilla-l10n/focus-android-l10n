@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-13 14:04+0000\n"
-"Last-Translator: siparon <siparon@gmail.com>\n"
+"PO-Revision-Date: 2018-03-07 10:10+0000\n"
+"Last-Translator: vladioan3 <vladioan3@gmail.com>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -72,7 +72,7 @@ msgstr "Partajează…"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Deschide în %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -82,7 +82,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "Deschide în…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -1130,15 +1130,15 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "Utilizator"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Curăță"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
