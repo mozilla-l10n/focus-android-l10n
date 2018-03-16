@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-09 22:08+0000\n"
+"PO-Revision-Date: 2018-03-16 23:28+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: sq <LL@li.org>\n"
 "Language: sq\n"
@@ -120,7 +120,7 @@ msgstr "Të drejtat Tuaja"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "U bllokuan gjurmues"
+msgstr "Gjurmues të bllokuar"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -832,7 +832,7 @@ msgstr ""
 "        <li>Kontrolloni adresën për gabime shkrimi, të tilla si\n"
 "          <strong>ww</strong>.example.com, në vend se\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>Nëse s’jeni në gjendje të ngarkoni asnjë faqe, kontrolloni lidhjen data ose Wi-Fi të pajisjes suaj celulare.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
