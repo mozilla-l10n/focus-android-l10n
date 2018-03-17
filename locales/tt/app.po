@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-15 23:18+0000\n"
+"PO-Revision-Date: 2018-03-17 00:10+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -1107,6 +1107,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Сезгә Mozilla Foundation'ның яисә башка тарафларның һичбер теркәлгән сәүдә билгеләренә, шул исәптән Mozilla, Firefox яисә %1$s исемнәре яки логотипларына бернинди дә хокуклар я лицензияләр бирелми. "
+"Өстәмә мәгълүматны <a href=\"%2$s\">монда</a> табып була."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1122,7 +1124,7 @@ msgstr "%1$s өчен өстәмә чыганак кодлары берничә 
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "Моннан тыш, %1$s Disconnect, Inc. тәэмин иткән блоклау исемлекләрен куллана, аларны <a href=\"%2$s\">GNU General Public License v3</a> шартлары илә һәм түләүсез <a href=\"%3$s\">монда</a> алып була."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
