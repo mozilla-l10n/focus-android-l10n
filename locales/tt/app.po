@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-17 13:30+0000\n"
+"PO-Revision-Date: 2018-03-17 13:50+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -297,7 +297,7 @@ msgstr "URL'ны ябыштырыгыз яки языгыз"
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr "Мәсәлән: example.com"
+msgstr "Мисал: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
@@ -569,7 +569,7 @@ msgstr "Эзләнәсе сүз я сүзтезмәне ябыштырыгыз �
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr "Мәсәлән: example.com/search/?q=%s"
+msgstr "Мисал: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -587,21 +587,21 @@ msgstr "Эзләү системасының исемен кертегез"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr "Әлеге исем бер урнаштырылган эзләү системасы тарафыннан кулланыла инде."
+msgstr "Әлеге исем урнаштырылган бер эзләү системасы тарафыннан кулланыла инде."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr "Эзләү юлын кертү"
+msgstr "Эзләнәсе сүзтезмәне кертегез"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr "Эзләү юлының Мисал форматына туры килүен тикшерегез"
+msgstr "Эзләнәсе сүзтезмәнең Мисал форматына туры килүен тикшерегез"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "Кертү кырын чистарту"
+msgstr "Кертелгәнне чистарту"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -681,7 +681,7 @@ msgstr "Алга бару"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "Веб-сайтны яңадан йөкләү"
+msgstr "Сайтны яңадан йөкләү"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -700,14 +700,14 @@ msgstr "Веб-сайтны йөкләүне туктату"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "Соңгы кулланмага кире кайту"
+msgstr "Соңгы кушымтага кире кайту"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "Трекерларны блоклау"
+msgstr "Эзәрлекләүчеләрне блоклау"
 
 #. This is a context menu item shown when long pressing on the URL bar.
 #. Selecting it will copy the text from the clipboard into the URL bar and open
@@ -718,11 +718,11 @@ msgstr "Ябыштыру һәм күчү"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr "Сезнең хокукларыгыз"
+msgstr "Хокукларыгыз"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Сылтаманы башка кулланмада ачу"
+msgstr "Сылтаманы башка кушымтада ачу"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -736,7 +736,7 @@ msgstr "Бу сылтаманыі %2$s ярдәме белән ачу өчен, 
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "Сылтаманы ача алучы кулланма табу"
+msgstr "Сылтаманы ача алучы кушымта табу"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -745,13 +745,13 @@ msgstr "Сылтаманы ача алучы кулланма табу"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Җиһазыгыздагы бер кулланма да бу сылтаманы ача алмый. Аны ача ала торган кулланманы %2$s эченнән эзләү өчен, Сез %1$s'тан чыга аласыз."
+msgstr "Җиһазыгыздагы бер кушымта да бу сылтаманы ача алмый. Аны ача ала алучы кушымтаны %2$s эченнән эзләү өчен, Сез %1$s'тан чыга аласыз."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "Яшерен гизү режимыннан чыгаргамы?"
+msgstr "Хосусый гизү режимыннан чыгаргамы?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -794,7 +794,7 @@ msgstr "Cәхифәне йөкләгәндә хата китте"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr "Янәдән тырышу"
+msgstr "Янәдән тырышып карау"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
@@ -808,7 +808,7 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Сайт вакытлыча сүнгән я бик мәшгуль булырга мөмкин. Берничә минуттан янә тырышып карагыз.</li>\n"
+"        <li>Сайт вакытлыча сүнгән я бик мәшгуль булырга мөмкин. Берничә минуттан янәдән тырышып карагыз.</li>\n"
 "        <li>Һичбер сәхифә дә ачылмаса җиһазыгызның мобиль Интернет яисә Wi-Fi бәйләнешен тикшерегез.</li>\n"
 "      </ul>"
 
@@ -838,7 +838,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr "Адрес дөрес түгел"
+msgstr "Адрес хаталы"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -848,8 +848,8 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Веб адреслары гадәттә түбәндәгечә языла - <strong>http://www.example.com/</strong></li>\n"
-"  <li>Адресларда сулга табан түгел, ә уңга авыш бүлү билгесен (ягъни бу <strong>/</strong>) кулланыгыз .</li>\n"
+"  <li>Веб адреслары гадәттә түбәндәгечә языла — <strong>http://www.example.com/</strong></li>\n"
+"  <li>Адресларда сулга түгел, ә бәлки уңга авыш бүлү билгесен кулланасы (ягъни бу билге: <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
