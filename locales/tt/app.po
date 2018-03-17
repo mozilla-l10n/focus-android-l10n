@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-17 00:12+0000\n"
+"PO-Revision-Date: 2018-03-17 12:46+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -45,21 +45,21 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Автоматик рәвештә яшерен гизү.\n"
-"Гиз һәм бетер. Бетте-китте."
+"Автоматик рәвештә хосусый гизү.\n"
+"Гизегез. Бетерегез. Кабатлагыз."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Сезнең гизү тарихыгыз бетерелде."
+msgstr "Гизү тарихыгыз бетерелде."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "%1$s эзләү"
+msgstr "%1$s дип эзләү"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -83,7 +83,7 @@ msgstr "%1$s белән ачу"
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr "... ярдәмендә ачу"
+msgstr "... белән ачу"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -121,7 +121,7 @@ msgstr "Хокукларыгыз"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Блокланган трекерләр"
+msgstr "Блокланган эзәрлекләүчеләр"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
