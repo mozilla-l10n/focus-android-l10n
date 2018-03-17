@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-17 00:10+0000\n"
+"PO-Revision-Date: 2018-03-17 00:12+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -973,7 +973,7 @@ msgstr "Өй экранына ярлыклар өстәгез"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s эчендә иң яраткан сайтларыгызга тиз генә кире кайта аласыз. %1$s менюсыннан \"Өй экранына кушуны\" сайлау гына кирәк."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
