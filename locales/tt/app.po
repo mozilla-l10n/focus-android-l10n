@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-17 13:08+0000\n"
+"PO-Revision-Date: 2018-03-17 13:30+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -244,7 +244,7 @@ msgstr "Стандарт URL исемлеге"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "450'дән артык мәшһүр сайт өчен %1$s'та автотөгәлләүне кабызу."
+msgstr "450'дән артык мәшһүр сайт адреслары өчен %1$s'та автотөгәлләүне кабызу."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -297,7 +297,7 @@ msgstr "URL'ны ябыштырыгыз яки языгыз"
 #. http://)
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr "Мисал: example.com"
+msgstr "Мәсәлән: example.com"
 
 #. Content description (not visible, for screen readers etc.): A "handle" that
 #. allows the user to reorder custom autocomplete URLs
@@ -326,7 +326,7 @@ msgstr "Бетерү"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "Керткән URL'ны яңадан тикшерегез."
+msgstr "Кертелгәг URL'ны яңадан тикшерегез."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -349,15 +349,15 @@ msgstr "Хосусыйлык"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Реклама трекерларын блоклау"
+msgstr "Реклама эзәрлекләүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Кайбер рекламалар, сез аларга басмасагыз да, сайтка керүне теркәп бара"
+msgstr "Кайбер рекламалар, сез аларга басмасагыз да, сайтка керүләрегезне күзәтеп тора"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Аналитика трекерларын блоклау"
+msgstr "Аналитика эзәрлекләүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
@@ -365,7 +365,7 @@ msgstr "Басу һәм скроллинг кебек хәрәкәтләрне �
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Социаль челтәр трекерларын блоклау"
+msgstr "Социаль челтәр эзәрлекләүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -373,7 +373,7 @@ msgstr "Сез зиярат иткән сайтларны күзәтү һәм \"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Башка эчтәлек трекерларын блоклау"
+msgstr "Башка эчтәлек эзәрлекләүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -384,7 +384,7 @@ msgstr "Моны кабызу кайбер сәхифәләрнең көтелг
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "Яшерен"
+msgstr "Күренмәслек"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -436,13 +436,13 @@ msgstr "Куллану мәгълүматларын җибәрү"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr "Күбрәк өйрәнү"
+msgstr "Күбрәк белү"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla %1$s'ны һәркемгә дә тәкъдим итү һәм яхшырту өчен кирәкле мәгълүматларны гына җыярга тырыша."
+msgstr "Mozilla, %1$s'ны һәркемгә дә тәкъдим итү һәм яхшырту өчен кирәкле мәгълүматларны гына җыярга тырыша."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -500,11 +500,11 @@ msgstr "2. Эзләү системасының эзләү кырына басы�
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr "2. Эзләү системасының эзләү кырына озак басып торыгыз."
+msgstr "2. Эзләү системасының эзләү кырына озак итеп басып торыгыз."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr "3. Эзләү системасын өстәр өчен, клавиатура өстендәге лупа билгесенә басыгыз."
+msgstr "3. Эзләү системасын өстәү өчен, клавиатура өстендәге лупа билгесенә басыгыз."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -519,7 +519,7 @@ msgstr "Эзләү системасын өстәү"
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr "3. %1$s'гә басыгыз"
+msgstr "3. %1$s төймәсенә басыгыз"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
@@ -552,7 +552,7 @@ msgstr "Эзләү системасының исеме"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "Эзләү өчен юл"
+msgstr "Эзләнәчәк сүз я сүзтезмә"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -563,13 +563,13 @@ msgstr "Саклау"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr "Эзләү юлын ябыштырыгыз яки языгыз. Кирәк булса, эзләү терминын %s белән алыштырыгыз."
+msgstr "Эзләнәсе сүз я сүзтезмәне ябыштырыгыз яки языгыз. Кирәк булса, эзләнәчәк сүз я сүзтезмәне %s белән алыштырыгыз."
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr "Мисал: example.com/search/?q=%s"
+msgstr "Мәсәлән: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -583,7 +583,7 @@ msgstr "Яңа эзләү системасы өстәлде."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "Эзләү системасының исемен кертү"
+msgstr "Эзләү системасының исемен кертегез"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
