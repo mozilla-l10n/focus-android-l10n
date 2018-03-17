@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-17 15:03+0000\n"
+"PO-Revision-Date: 2018-03-17 15:28+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -258,12 +258,12 @@ msgstr "URL personalitzats"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ Afegeix URL personalitzat"
+msgstr "+ Afegeix un URL personalitzat"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "Afegeix URL personalitzat"
+msgstr "URL personalitzat nou"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
@@ -484,7 +484,7 @@ msgstr "Afegeix manualment"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr "Afegeix un motor de cerca"
+msgstr "Motor de cerca nou"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -1122,8 +1122,8 @@ msgstr "Hi ha codi font addicional del %1$s que està disponible sota diverses a
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"El %1$ també utilitza llistes de bloquejos proporcionades per Disconnect, Inc. que es mantenen de forma independentment i separada sota la <a href=\"%2$s\">Llicència Pública General de GNU v3</a> i "
-"que estan disponibles <a href=\"%3$s\">aquí</a>."
+"El %1$s també utilitza llistes de bloquejos proporcionades per Disconnect, Inc. que es mantenen de forma independentment i separada sota la <a href=\"%2$s\">Llicència Pública General de GNU v3</a> i"
+" que estan disponibles <a href=\"%3$s\">aquí</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
