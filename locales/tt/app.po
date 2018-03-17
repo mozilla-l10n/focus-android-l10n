@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-17 13:50+0000\n"
+"PO-Revision-Date: 2018-03-17 14:10+0000\n"
 "Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
@@ -863,7 +863,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бу проблема кайвакыт кукилар сүндерелгән булганга яки аларны кабул итүдән баш тартканга килеп чыга..</li>\n"
+"  <li>Кайвакыт бу проблема кукилар сүндерелгән булганга яки аларны кабул итүдән баш тартканга килеп чыга.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -882,7 +882,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr "Хәвефсез бәйләнеш кору уңышсыз тәмамланды"
+msgstr "Хәвефсез бәйләнеш кору хатасы"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -894,8 +894,8 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бу серверның хатасы булуы мөмкин, яисә кемнеңдер Сезгә кирәк серверны башкасы белән алыштырасы килә.</li>\n"
-"  <li>Моңа кадәр бу серверга уңышлы тоташкан булсагыз, бу хата вакытлыча гына булырга мөмкин. Берәздән янәдән тырышып карагыз.</li>\n"
+"  <li>Бу сервер көйләүләрендәге хата белән бәйле булырга мөмкин, яисә кемдер Сезгә кирәкле серверны икенче берәве белән алыштырырга тырыша.</li>\n"
+"  <li>Моңа кадәр бу серверга уңышлы тоташа торган булсагыз, бу хата вакытлыча гына булырга мөмкин. Берәздән янәдән тырышып карагыз.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -941,7 +941,7 @@ msgstr "Сылтаманы яңа биттә ачу"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "%1$s тарихын бетергәндә, сакланган яки уртаклашынган рәсемнәр <b>бетерелмәячәк</b>."
+msgstr "%1$s тарихын бетергәндә, сакланган яки уртаклашылган рәсемнәр <b>бетерелмәячәк</b>."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -951,7 +951,7 @@ msgstr "Хосусыйлыгызны көчәйтегез"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Яшерен гизүне яңа дәрәҗәгә күтәрегез. Сайтлар аша Сезне күзәтүче һәм сәхифәләрнең йөкләнү вакытын арттыручы рекламаларны һәм башка эчтәлекләрне блоклагыз."
+msgstr "Хосусый гизүне яңа дәрәҗәгә күтәрегез. Сайтлар аша Сезне эзәрлекләүче һәм сәхифәләрнең йөкләнү вакытын арттыручы рекламаларны һәм башка эчтәлекләрне блоклагыз."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -973,7 +973,7 @@ msgstr "Өй экранына ярлыклар өстәгез"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "%1$s эчендә иң яраткан сайтларыгызга тиз генә кире кайта аласыз. %1$s менюсыннан \"Өй экранына кушуны\" сайлау гына кирәк."
+msgstr "%1$s'та иң яраткан сайтларыгызга тиз генә кире кайта аласыз. Моның өчен %1$s менюсыннан \"Өй экранына кушуны\" сайлау җитә."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -985,7 +985,7 @@ msgstr "Хосусыйлыкны гадәткә кертү"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "%1$s'ны төп гизгечегез итеп сайлап, башка кулланмалардан сайтларны ачканда да яшерен гизү мөмкинлегеннән файда күрегез."
+msgstr "%1$s'ны төп гизгечегез итеп сайлап, башка кушымталардан сайтларны ачканда да хосусый гизү мөмкинлегеннән файда күрегез."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1009,7 +1009,7 @@ msgstr "-"
 #. the current website as a shortcut to the home screen.
 msgctxt "dialog_addtohomescreen_title"
 msgid "Add to Home screen"
-msgstr "Өй экранына кую"
+msgstr "Өй экранына өстәү"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
@@ -1029,7 +1029,7 @@ msgstr "Баш тарту"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr "Ярлык Күзәтүчеләрдән Саклау режимы сүндерелгән килеш ачылачак"
+msgstr "Ярлык Эзәрлекләүчеләрдән Саклау режимы сүндерелгән килеш ачылачак"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1056,7 +1056,7 @@ msgstr "Ачу"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr "Яшерен гизү утырышы"
+msgstr "Хосусый гизү утырышы"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1069,7 +1069,7 @@ msgstr "Яшерен гизү утырышы"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Бердерүләр аша %1$s утырышыгызны бер орыну белән бетерә аласыз. Сезгә кулланманы ачуның яисә гизгечтә нәрсә ачык икәнен күрүнең кирәге калмый."
+msgstr "Бердерүләр аша %1$s утырышыгызны бер орыну белән бетерә аласыз. Кушымтаны ачу яисә гизгечтә нәрсә ачык икәнен күрү кирәк түгел."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1096,7 +1096,7 @@ msgstr "%1$s — Mozilla һәм башка катнашучылар ясаган
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">Mozilla Public License</a> һәм башка ачык чыганак лицензияләренең шартлары белән тәкъдим ителә."
+msgstr "%1$s <a href=\"%2$s\">Mozilla Public License</a> һәм башка ачык чыганак лицензияләренең шартлары белән нәшер ителә."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1115,7 +1115,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s өчен өстәмә чыганак кодлары берничә башка ирекле һәм ачык чыганак <a href=\"%2$s\">лицензияләре</a> белән тәкъдим ителә."
+msgstr "%1$s өчен өстәмә чыганак кодлары берничә башка ирекле һәм ачык чыганак <a href=\"%2$s\">лицензияләре</a> белән нәшер ителә."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1124,7 +1124,9 @@ msgstr "%1$s өчен өстәмә чыганак кодлары берничә 
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "Моннан тыш, %1$s Disconnect, Inc. тәэмин иткән блоклау исемлекләрен куллана, аларны <a href=\"%2$s\">GNU General Public License v3</a> шартлары илә һәм түләүсез <a href=\"%3$s\">монда</a> алып була."
+msgstr ""
+"Моннан тыш, %1$s Disconnect, Inc. тәэмин иткән блоклау исемлекләрен куллана, аларны <a href=\"%2$s\">GNU General Public License v3</a> шартлары белән һәм түләүсез <a href=\"%3$s\">монда</a> табып "
+"була."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1153,7 +1155,7 @@ msgstr "Хәвефсез булмаган бәйләнеш"
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr "Расланган: %1$s"
+msgstr "Раслаучы: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
