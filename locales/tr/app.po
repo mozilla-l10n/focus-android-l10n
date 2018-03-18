@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-15 23:02+0000\n"
+"PO-Revision-Date: 2018-03-18 11:38+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -237,7 +237,7 @@ msgstr "Otomatik tamamla"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr "Varsayılan URL listesi"
+msgstr "Varsayılan adres listesi"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -963,7 +963,7 @@ msgstr "Başka bir şey mi arıyorsunuz? Ayarlar menüsünden varsayılan arama 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr "Kısayolları ana ekranınıza ekleyin"
+msgstr "Kısayolları ana ekranına ekle"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -975,7 +975,7 @@ msgstr "%1$s’ta sevdiğiniz sitelere çabucak ulaşabilirsiniz. %1$s menüsün
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr "Hep gizli kalın"
+msgstr "Hep gizli kal"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
