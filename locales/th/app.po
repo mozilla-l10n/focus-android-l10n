@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-10 06:57+0000\n"
+"PO-Revision-Date: 2018-03-20 15:57+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -807,7 +807,7 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ไซต์อาจใช้งานไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li>\n"
+"        <li>ไซต์อาจใช้ไม่ได้ชั่วคราวหรือกำลังทำงานหนักเกินไป ลองอีกครั้งในอีกสักครู่</li>\n"
 "        <li>หากคุณไม่สามารถโหลดหน้าใด ๆ ได้ ตรวจสอบการเชื่อมต่อข้อมูลหรือ Wi-Fi ของอุปกรณ์มือถือของคุณ</li>\n"
 "      </ul>"
 
@@ -1093,7 +1093,7 @@ msgstr "%1$s เป็นซอฟต์แวร์ฟรีและเปิ�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s ให้คุณใช้งานภายใต้เงื่อนไขของ <a href=\"%2$s\">Mozilla Public License</a> และสัญญาอนุญาตการเปิดต้นฉบับอื่น ๆ"
+msgstr "%1$s ให้คุณใช้ภายใต้เงื่อนไขของ <a href=\"%2$s\">Mozilla Public License</a> และสัญญาอนุญาตการเปิดต้นฉบับอื่น ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1110,7 +1110,7 @@ msgstr "คุณไม่ได้รับสิทธิหรือสัญ
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้งานได้ภายใต้ <a href=\"%2$s\">สัญญาอนุญาต</a> ฟรีและเปิดต้นฉบับต่าง ๆ"
+msgstr "โค้ดต้นฉบับเพิ่มเติมสำหรับ %1$s ใช้ได้ภายใต้ <a href=\"%2$s\">สัญญาอนุญาต</a> ฟรีและเปิดต้นฉบับต่าง ๆ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1119,7 +1119,7 @@ msgstr "โค้ดต้นฉบับเพิ่มเติมสำหร
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s ยังใช้รายการปิดกั้นที่จัดหาโดย Disconnect, Inc. ซึ่งเป็นงานแยกและเป็นอิสระภายใต้ <a href=\"%2$s\">GNU General Public License v3</a> และใช้งานได้ <a href=\"%3$s\">ที่นี่</a>"
+msgstr "%1$s ยังใช้รายการปิดกั้นที่จัดหาโดย Disconnect, Inc. ซึ่งเป็นงานแยกและเป็นอิสระภายใต้ <a href=\"%2$s\">GNU General Public License v3</a> และใช้ได้ <a href=\"%3$s\">ที่นี่</a>"
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
