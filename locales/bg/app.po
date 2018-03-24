@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-20 09:58+0000\n"
-"Last-Translator: :stoyan <stoyan@gmx.com>\n"
+"PO-Revision-Date: 2018-03-24 18:05+0000\n"
+"Last-Translator: Ognyan Kulev <ognyan@ognyankulev.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -248,7 +248,7 @@ msgstr "Включете, за да имате в лентата за адрес
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
-msgstr "Потребителски адрес"
+msgstr "Потребителски адреси"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
@@ -265,11 +265,11 @@ msgstr "+ Добавяне на потребителски адрес"
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "Добавяне на потребителски адрес"
+msgstr "Добавяне на адрес"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "Премахване на потребителски адрес"
+msgstr "Премахване на адреси"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -887,7 +887,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Това или е проблем с настройките на сървъра, или някой се опитва се представи за него.</li>\n"
+"  <li>Това или е проблем с настройките на сървъра, или някой се опитва да се представи за него.</li>\n"
 "  <li>Ако преди това успешно сте се свързвали с него, има вероятност грешката да е временна и може да опитате по-късно.</li>\n"
 "</ul>"
 
