@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-27 05:05+0000\n"
+"PO-Revision-Date: 2018-03-27 11:09+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "विश्लेषण ट्रैकर्स ब्लौक करऽ"
+msgstr "रद करऽ"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -59,12 +59,12 @@ msgstr "तोरोऽ ब्रॉउजिंग इतिहास के �
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr " %1$s लेली खोजहोऽ"
+msgstr " %1$s लेली खोजऽ"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "शेयर करहोऽ…"
+msgstr "शेयर करऽ…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
