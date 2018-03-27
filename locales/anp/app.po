@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-27 11:09+0000\n"
+"PO-Revision-Date: 2018-03-27 11:20+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -73,7 +73,7 @@ msgstr "शेयर करऽ…"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr " %1$s में खोलऽ"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -83,13 +83,13 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "इकरा में खोलऽ"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "होम स्क्रीन मे जोड़होऽ"
+msgstr "होम स्क्रीन मे जोड़ऽ"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -103,7 +103,7 @@ msgstr "सेटिंग्स"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr "के संबंध मे"
+msgstr "के संबंध मेंं"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -136,7 +136,7 @@ msgstr ""
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "एकरा द्वारा शेयर करहोऽ"
+msgstr "एकरा द्वारा शेयर करऽ"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -150,7 +150,7 @@ msgstr "ब्राउज़िंग इतिहास मेटाभोऽ"
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr "खोलहोऽ"
+msgstr "खोलऽ"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
