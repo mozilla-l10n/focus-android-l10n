@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-28 05:51+0000\n"
+"PO-Revision-Date: 2018-03-28 06:04+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -444,12 +444,12 @@ msgstr "गोपनीय सूचना "
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s कऽ बारो मऽ"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "खोजलो ईंजनों इंसटौल करऽ"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -464,11 +464,11 @@ msgstr ""
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "खोजलो ईंजनों हटाभोऽ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "हटाभोऽ"
 
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
