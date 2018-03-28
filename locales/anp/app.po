@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-28 05:19+0000\n"
+"PO-Revision-Date: 2018-03-28 05:51+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "रद करऽ"
+msgstr "मोज़िल्ला"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -411,22 +411,22 @@ msgstr "चित्रों कऽ ब्लौक करऽ"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s कऽ मूलभूत ब्रोजर बनाबऽ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "मोज़िल्ला"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "डाटा उपयोगभेल भेजऽ"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "अधिक जानऽ"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
@@ -437,7 +437,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "गोपनीय सूचना "
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
