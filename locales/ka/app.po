@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-03-21 18:15+0000\n"
+"PO-Revision-Date: 2018-03-31 02:33+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -202,7 +202,7 @@ msgstr ""
 "  </ul>\n"
 "</p>\n"
 "<p>%1$s შექმნილია Mozilla-ს მიერ. ჩვენი მიზანი, ინტერნეტის გახსნილობა და სიჯანსაღეა.<br/>\n"
-"<a href=\"%2$s\">შეიტყვეთ მეტი</a></p>"
+"<a href=\"%2$s\">ვრცლად</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -435,7 +435,7 @@ msgstr "მონაცემების გაგზავნა"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr "შეიტყვეთ მეტი"
+msgstr "იხილეთ ვრცლად"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
