@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-04-02 06:34+0000\n"
+"PO-Revision-Date: 2018-04-04 12:08+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -735,7 +735,7 @@ msgstr ""
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "એક એપ્લિકેશન શોધો જે લિંક ખોલી શકે છે"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -750,7 +750,7 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "ખાનગી બ્રાઉઝિંગ બહાર નીકળીએ?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -797,7 +797,7 @@ msgstr "ફરી પ્રયત્ન કરો"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "જોડાવામાં અસમર્થ"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -809,11 +809,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "જોડાણ સમયસમાપ્તિ"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "સર્વર મળ્યું નહિં"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -839,7 +839,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "પૃષ્ઠ યોગ્ય રીતે પુનઃનિર્દેશિત નથી"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -847,10 +847,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"   <li>અમુક વાર કુકીઓ સ્વીકારવાનું નિષ્ક્રિય કરવાથી કે રદ કરવાથી આ સમસ્યા સર્જાય છે.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "સરનામું સમજાયું ન હતું"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -858,10 +861,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"   <li>તમારે આ સરનામાંને ખોલવા માટે બીજા સોફ્ટવેરને સ્થાપિત કરવાની જરૂર પડી શકે છે.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "સુરક્ષિત જોડાણ નિષ્ફળ"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -875,7 +881,7 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "ઊફ્ફ"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
@@ -884,7 +890,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "લિંક વહેંચો"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
@@ -921,7 +927,7 @@ msgstr ""
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "તમારી ગોપનીયતા વધારો"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
@@ -953,7 +959,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "ગોપનીયતા એક આદત બનાવો"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
