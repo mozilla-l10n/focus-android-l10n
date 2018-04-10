@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-04-07 15:59+0000\n"
+"PO-Revision-Date: 2018-04-10 18:31+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -447,7 +447,7 @@ msgstr "%1$s कऽ बारो मऽ"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "खोजलो ईंजनों इंसटौल करऽ"
+msgstr "सर्च ईंजनों इंसटौल करऽ"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -499,7 +499,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "खोजलो ईंजनों जोरहोऽ"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -532,7 +532,7 @@ msgstr ""
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr ""
+msgstr "नाम दोहो देख्वे खातिरोऽ"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
