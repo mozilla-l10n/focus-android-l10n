@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-04-10 18:31+0000\n"
+"PO-Revision-Date: 2018-04-10 18:40+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -458,11 +458,11 @@ msgstr ""
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "दोसरो खोजलो ईंजनों जोरऽ"
+msgstr "दोसरो सर्च ईंजनों जोरऽ"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "खोजलो ईंजनों हटाभोऽ"
+msgstr "सर्च ईंजनों हटाभोऽ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -475,7 +475,7 @@ msgstr ""
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr ""
+msgstr "सर्च ईंजनों जोरहोऽ"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
@@ -499,7 +499,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "खोजलो ईंजनों जोरहोऽ"
+msgstr "सर्च ईंजनों जोरहोऽ"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -536,7 +536,7 @@ msgstr "नाम दोहो देख्वे खातिरोऽ"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "सर्च ईंजन कऽ नाम"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -563,7 +563,7 @@ msgstr ""
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr ""
+msgstr "सर्च ईंजन जोरहोऽ"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
