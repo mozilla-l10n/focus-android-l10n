@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-03-09 19:13+0100\n"
+"POT-Creation-Date: 2018-04-11 13:53-0700\n"
 "PO-Revision-Date: 2017-12-26 03:45+0000\n"
 "Last-Translator: yumatajnga <yumatajnga@gmail.com>\n"
 "Language: trs\n"
@@ -247,6 +247,11 @@ msgctxt "preference_category_autocomplete_custom"
 msgid "Custom URL"
 msgstr "Nagi'iaj mu'ù URL"
 
+#. Preference category: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_category_autocomplete_custom_urls"
+msgid "Custom URLs"
+msgstr ""
+
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
@@ -413,6 +418,16 @@ msgstr "Ga'ue narugui'ìj riña a'ngô ikono"
 msgctxt "preference_performance_block_images"
 msgid "Block images"
 msgstr "Si ga'nïnjt gahui imâjen"
+
+msgctxt "preference_performance_block_javascript"
+msgid "Block JavaScript"
+msgstr ""
+
+#. This text is shown below setting for disabling JavaScript. Some websites
+#. may not work correctly when JavaScript is disabled
+msgctxt "preference_performance_block_javascript_summary"
+msgid "Pages may load faster, but may also behave unexpectedly"
+msgstr ""
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
