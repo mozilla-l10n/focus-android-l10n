@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-11 13:53-0700\n"
+"POT-Creation-Date: 2018-04-12 14:33-0700\n"
 "PO-Revision-Date: 2018-03-14 01:53+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language: zh_Hans_CN\n"
@@ -273,6 +273,11 @@ msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
 msgstr "添加自定义网址"
 
+#. Label for the button to quick add custom autocomplete URLs.
+msgctxt "custom_autocomplete_quick_add"
+msgid "Add custom URL"
+msgstr ""
+
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "移除自定义网址"
@@ -385,6 +390,25 @@ msgstr "拦截其他内容跟踪器"
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
 msgstr "启用可能导致部分网站工作异常"
+
+msgctxt "preference_privacy_category_cookies"
+msgid "Block cookies"
+msgstr ""
+
+#. Three options for Cookie blocking. Yes (All cookies Blocked), Block
+#. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
+#. blocked)
+msgctxt "preference_privacy_should_block_cookies_no_option"
+msgid "No"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
+msgid "Block 3rd-party cookies only"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_yes_option"
+msgid "Yes"
+msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
