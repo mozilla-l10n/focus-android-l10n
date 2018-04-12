@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-11 13:53-0700\n"
-"PO-Revision-Date: 2018-04-12 08:30+0000\n"
+"PO-Revision-Date: 2018-04-12 08:48+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -666,13 +666,13 @@ msgstr "लोडिंग"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "वेबसाईट लोड भेलऽ"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "अधिकोऽ विकल्प"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -697,13 +697,13 @@ msgstr ""
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "लोडिंग वेबसाईट रोकऽ"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "पहलो एप्प मे चलऽ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -717,7 +717,7 @@ msgstr "ट्रेकर्स ब्लोक करऽ"
 #. the URL or perform a search.
 msgctxt "context_menu_paste_go"
 msgid "Paste & Go"
-msgstr ""
+msgstr "पेस्ट आरु गो"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -725,7 +725,7 @@ msgstr "तोहरो अधिकर"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "दोसरो एप्प मे लिंक खोलऽ"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -761,7 +761,7 @@ msgstr "प्राइवेट ब्रउजिंग मिटाभऽ"
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s पूरा भेलऽ"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
