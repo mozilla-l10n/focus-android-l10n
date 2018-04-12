@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-11 13:53-0700\n"
+"POT-Creation-Date: 2018-04-12 14:33-0700\n"
 "PO-Revision-Date: 2018-03-13 10:16+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language: az\n"
@@ -274,6 +274,11 @@ msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
 msgstr "Fərdi ünvan əlavə et"
 
+#. Label for the button to quick add custom autocomplete URLs.
+msgctxt "custom_autocomplete_quick_add"
+msgid "Add custom URL"
+msgstr ""
+
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "Fərdi ünvanı sil"
@@ -390,6 +395,25 @@ msgstr "Digər məzmun izləyicilərini əngəllə"
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
 msgstr "Aktivləşdirmə bəzi səhifələrdə gözlənilməz səhvlərə səbəb ola bilər"
+
+msgctxt "preference_privacy_category_cookies"
+msgid "Block cookies"
+msgstr ""
+
+#. Three options for Cookie blocking. Yes (All cookies Blocked), Block
+#. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
+#. blocked)
+msgctxt "preference_privacy_should_block_cookies_no_option"
+msgid "No"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
+msgid "Block 3rd-party cookies only"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_yes_option"
+msgid "Yes"
+msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
