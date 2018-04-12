@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-11 13:53-0700\n"
-"PO-Revision-Date: 2018-04-12 03:32+0000\n"
+"PO-Revision-Date: 2018-04-12 04:10+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -259,7 +259,7 @@ msgstr "საკუთარი URL-ები"
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "საკუთარი URLs მისამართები"
+msgstr "საკუთარი URL მისამართები"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -274,7 +274,7 @@ msgstr "საკუთარი URL მისამართის დამა
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "საკუთარი URLs მისამართების წაშლა"
+msgstr "საკუთარი URL მისამართების წაშლა"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -284,7 +284,7 @@ msgstr "ვრცლად"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "დაამატეთ და მართეთ საკუთარი URLs მისამართები."
+msgstr "დაამატეთ და მართეთ საკუთარი URL მისამართები."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
