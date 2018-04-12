@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-11 13:53-0700\n"
-"PO-Revision-Date: 2018-04-12 14:10+0000\n"
+"PO-Revision-Date: 2018-04-12 14:27+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -420,13 +420,13 @@ msgstr "Bloquear imágenes"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Bloquear JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Las páginas podrán cargar más rápido, pero también pueden comportarse de manera inesperada"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
