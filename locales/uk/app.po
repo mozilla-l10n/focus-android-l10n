@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-11 13:53-0700\n"
-"PO-Revision-Date: 2018-04-12 10:30+0000\n"
+"PO-Revision-Date: 2018-04-12 10:32+0000\n"
 "Last-Translator: Artem Polivanchuk <artem@mozilla.org.ua>\n"
 "Language-Team: uk <LL@li.org>\n"
 "Language: uk\n"
@@ -426,7 +426,7 @@ msgstr "Блокувати JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Сторінки можуть завантажуватись швидше, але при цьому можуть неправильно працювати"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
