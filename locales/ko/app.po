@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-11 13:53-0700\n"
+"POT-Creation-Date: 2018-04-12 14:33-0700\n"
 "PO-Revision-Date: 2018-03-11 01:41+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
@@ -273,6 +273,11 @@ msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
 msgstr "사용자 정의 URL 추가"
 
+#. Label for the button to quick add custom autocomplete URLs.
+msgctxt "custom_autocomplete_quick_add"
+msgid "Add custom URL"
+msgstr ""
+
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "사용자 정의 URL 삭제"
@@ -385,6 +390,25 @@ msgstr "기타 콘텐츠 추적기 차단"
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
 msgstr "설정 시 웹 페이지가 제대로 표시되지 않을 수 있습니다"
+
+msgctxt "preference_privacy_category_cookies"
+msgid "Block cookies"
+msgstr ""
+
+#. Three options for Cookie blocking. Yes (All cookies Blocked), Block
+#. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
+#. blocked)
+msgctxt "preference_privacy_should_block_cookies_no_option"
+msgid "No"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
+msgid "Block 3rd-party cookies only"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_yes_option"
+msgid "Yes"
+msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from

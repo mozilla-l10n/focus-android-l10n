@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-11 13:53-0700\n"
+"POT-Creation-Date: 2018-04-12 14:33-0700\n"
 "PO-Revision-Date: 2018-03-15 00:26+0000\n"
 "Last-Translator: Arun Kumar|அருண் குமார் <thangam.arunx@gmail.com>\n"
 "Language: ta\n"
@@ -276,6 +276,11 @@ msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
 msgstr "தனிபயன் URL சேர்"
 
+#. Label for the button to quick add custom autocomplete URLs.
+msgctxt "custom_autocomplete_quick_add"
+msgid "Add custom URL"
+msgstr ""
+
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "தனிபயன் URLs நீக்கு"
@@ -392,6 +397,25 @@ msgstr "உள்ளடக்க பின்தொடரிகளைத் த�
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
 msgstr "செயற்படுத்துவது சில பக்கங்கள் எதிர்பாராமல் தவறாகச் செயல்பட காரணமாகலாம்"
+
+msgctxt "preference_privacy_category_cookies"
+msgid "Block cookies"
+msgstr ""
+
+#. Three options for Cookie blocking. Yes (All cookies Blocked), Block
+#. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
+#. blocked)
+msgctxt "preference_privacy_should_block_cookies_no_option"
+msgid "No"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
+msgid "Block 3rd-party cookies only"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_yes_option"
+msgid "Yes"
+msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
