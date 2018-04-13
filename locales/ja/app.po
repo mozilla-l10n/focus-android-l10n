@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-12 14:33-0700\n"
-"PO-Revision-Date: 2018-04-13 01:49+0000\n"
+"PO-Revision-Date: 2018-04-13 01:50+0000\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -390,7 +390,7 @@ msgstr "有効にすると、ページによっては予期せぬ動作をする
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr "Cookie を拒否"
+msgstr "Cookie をブロック"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -401,7 +401,7 @@ msgstr "いいえ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "サードパーティ Cookie のみブロック"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
