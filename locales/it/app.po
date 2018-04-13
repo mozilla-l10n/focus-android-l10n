@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-12 14:33-0700\n"
-"PO-Revision-Date: 2018-04-13 14:12+0000\n"
-"Last-Translator: Sav22999 <saverio.morelli@outlook.it>\n"
+"PO-Revision-Date: 2018-04-13 14:39+0000\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: it <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -401,11 +401,11 @@ msgstr "No"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Blocca solo cookie di terze parti"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -450,7 +450,7 @@ msgstr "Blocca JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Il caricamento delle pagine può velocizzarsi, ma potrebbero anche verificarsi errori imprevisti"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
