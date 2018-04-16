@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-12 14:33-0700\n"
-"PO-Revision-Date: 2018-04-16 12:47+0000\n"
+"PO-Revision-Date: 2018-04-16 17:51+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -44,7 +44,7 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr "स्वचालित निजी ब्रॉउजिंग.ब्रॉउज. मेटाभोऽ. दोहराभोऽ.\n"
+msgstr "स्वचालित निजी ब्रॉउजिंग.ब्रॉउज. मेटाभोऽ. दोहराभोऽ."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -57,12 +57,12 @@ msgstr "तोरोऽ ब्रॉउजिंग इतिहास के �
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr " %1$s लेली खोजऽ"
+msgstr "%1$s लेली खोजऽ"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "शेयर करऽ…"
+msgstr "शेयर करियै…"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -71,7 +71,7 @@ msgstr "शेयर करऽ…"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr " %1$s में खोलऽ"
+msgstr "%1$s में खोलियै"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -81,13 +81,13 @@ msgstr " %1$s में खोलऽ"
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr "इकरा में खोलऽ"
+msgstr "इकरा में खोलियै…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "होम स्क्रीन मे जोड़ऽ"
+msgstr "होम स्क्रीन मेंं जोड़ि‍यै"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -128,13 +128,13 @@ msgstr "ट्रैकर ब्लॉक भेलैऽ"
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr ""
+msgstr "%1$s के द्वारा चलाएल जाए रहलो छऽ"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "एकरा द्वारा शेयर करऽ"
+msgstr "एकरा द्वारा शेयर करहोऽ"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -148,13 +148,13 @@ msgstr "ब्राउज़िंग इतिहास मेटाभोऽ"
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr "खोलऽ"
+msgstr "खोलहोऽ"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr "मेटाभोऽ आरू खोलऽ"
+msgstr "मेटाभोऽ आरू खोलहोऽ"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -168,7 +168,7 @@ msgstr "मेटाभोऽ"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "ब्राउज़िंग इतिहास मेटाभोऽ"
+msgstr "ब्राउज़िंग इतिहास मेटाबि‍यैै"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
