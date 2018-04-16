@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-12 14:33-0700\n"
-"PO-Revision-Date: 2018-04-16 17:51+0000\n"
+"PO-Revision-Date: 2018-04-16 18:09+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -175,7 +175,7 @@ msgstr "ब्राउज़िंग इतिहास मेटाबि‍�
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "निजी रूप सँ खोजऽ"
+msgstr "निजी रूप सँ खोजि‍यै"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -254,21 +254,21 @@ msgstr "पसंदीदा URLs"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ अपन पसंदीदा URL जोड़होऽ"
+msgstr "+ अपन पसंदीदा URL जोड़ि‍यैै"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "पसंदीदा URL जोड़होऽ"
+msgstr "पसंदीदा URL जोड़ि‍यैै"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr "पसंदीदा URL जोड़होऽ"
+msgstr "पसंदीदा URL जोड़ि‍यैै"
 
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "पसंदीदा URLs हटाभोऽ"
+msgstr "पसंदीदा URLs जोड़ि‍यैै"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -278,7 +278,7 @@ msgstr "बेसी जानकारी"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "जोरहो आरु मेनेज करहो पसंदीदा अपनो सँ पूर्ण URLs"
+msgstr " जोड़ि‍यैै आरु मेनेज करि‍यैै पसंदीदा अपनो सँ पूर्ण URLs."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -289,7 +289,7 @@ msgstr "जोड़ए लेली URL"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "URL पेस्ट करहोऽ या भरहोऽ"
+msgstr "URL पेस्ट करि‍यै या भरि‍यै"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -324,7 +324,7 @@ msgstr "हटाभोऽ"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "जे URL भरने छहोऽ ओकराऽ फिनु सँ जाँच करहोऽ."
+msgstr "जे URL भरने छहोऽ ओकराऽ फिनु सँ जाँच करि‍यै."
 
 msgctxt "preference_language"
 msgid "Language"
