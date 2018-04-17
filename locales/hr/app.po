@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-12 14:33-0700\n"
+"POT-Creation-Date: 2018-04-17 16:18-0700\n"
 "PO-Revision-Date: 2017-12-15 14:45+0000\n"
 "Last-Translator: Karlo Prikratki <karlo.prikratki@outlook.com>\n"
 "Language: hr\n"
@@ -1211,5 +1211,9 @@ msgstr ""
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
+msgstr ""
+
+msgctxt "preference_autocomplete_duplicate_url_error"
+msgid "URL already exists"
 msgstr ""
 
