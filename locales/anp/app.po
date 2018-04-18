@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-18 18:32+0000\n"
+"PO-Revision-Date: 2018-04-18 19:08+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -518,11 +518,11 @@ msgstr "सर्च ईंजनों जोरियै"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr "1. सर्च ईंजन के होमपेज पर जाभोऽ"
+msgstr "1. सर्च ईंजन के होमपेज पर जाभोऽ."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr "2. सर्च इंजन कs खोज फ़ील्ड में टैप करियै"
+msgstr "2. सर्च इंजन कs खोज फ़ील्ड में टैप करियै."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
@@ -531,14 +531,14 @@ msgstr "2.बेसि देर तक सर्च इंजन कs सर्
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr ""
+msgstr "3. सर्च इंजन के जोड़ेे लs किबोर्ड के ऊपर मेग्निफाइंग लेंस आइकन टैप करियै."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "सर्च ईंजनों जोरहोऽ"
+msgstr "सर्च ईंजन जोरियै"
 
 #. An alternative string for Step 3 of the tutorial. Parameter 1 is
 #. action_option_add_search_engine, which is the action text that the tutorial
@@ -546,11 +546,11 @@ msgstr "सर्च ईंजनों जोरहोऽ"
 #, c-format
 msgctxt "tutorial_search_step3_alternative"
 msgid "3. Tap %1$s"
-msgstr "3. दाबिए %1$s"
+msgstr "3. टैप %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr ""
+msgstr "4. अगर तोहरो मेग्निफाइंग लेंस नै मिललs, मैन्युअल रूप सs एक सर्च इंजन जोड़यै."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -559,7 +559,7 @@ msgstr ""
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr ""
+msgstr "4. अगर तोहरो %1$s नै मिललs, मैन्युअल रूप सs एक सर्च इंजन जोड़यै."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -567,11 +567,11 @@ msgstr "गेट स्टारटेड"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr ""
+msgstr "सर्च इंजन के जोड़ेे लs किबोर्ड के ऊपर मेग्निफाइंग लेंस आइकन टैप करियै."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
-msgstr "नाम दोहो देखेलऽ"
+msgstr "नाम दोहो देखबे लऽ"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
