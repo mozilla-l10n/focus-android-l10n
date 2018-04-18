@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-18 17:51+0000\n"
+"PO-Revision-Date: 2018-04-18 18:04+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -379,7 +379,7 @@ msgstr "सक्षम करै सऽ कुछ पृष्ठों के 
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr "सबऽ कुकिज ब्लोक करऽ"
+msgstr "सबऽ कुकिज ब्लोक करियै"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -390,7 +390,7 @@ msgstr "नैय"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr "खलि 3र्ड पार्टी कऽ ब्लोक करऽ"
+msgstr "खालि 3र्ड पार्टी कऽ ब्लोक करियै"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -411,7 +411,7 @@ msgstr "गोपनीयता"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "ऐप्स कs स्विच कर समय वेबपेज छिपाबियै"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -419,7 +419,7 @@ msgstr "प्रदर्शन"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "वेब फ्रंटौं कऽ ब्लौक करऽ"
+msgstr "वेब फ्रंटौं कऽ ब्लौक करियै"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -429,7 +429,7 @@ msgstr "सायद ईकोन आरु चित्रों के रि�
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
-msgstr "चित्रों कऽ ब्लौक करऽ"
+msgstr "चित्रों कऽ ब्लौक करियै"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
@@ -439,7 +439,7 @@ msgstr "ब्लोक JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "पेज तेजो से लोड हो सके छs, मगर अप्रत्याशित रूप सs व्यवहार भी करि सके छs"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -448,7 +448,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "%1$s कऽ मूलभूत ब्रोजर बनाबऽ"
+msgstr "%1$s कऽ मूलभूत ब्रोजर बनाबियै"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -456,14 +456,14 @@ msgstr "मोज़िल्ला"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr "डाटा उपयोगभेल भेजऽ"
+msgstr "डाटा उपयोग भेल भेजियै"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr "अधिक जानऽ"
+msgstr "अधिक जानियै"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
