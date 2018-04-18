@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-18 18:04+0000\n"
+"PO-Revision-Date: 2018-04-18 18:32+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -469,7 +469,7 @@ msgstr "अधिक जानियै"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "मोज़िला खालि उ चीजो क जमा करे ल प्रयास कर छs जे %1$s दै छs आरु जेकरो सुधार करै के जरुरी छs."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -486,22 +486,22 @@ msgstr "%1$s कऽ बारो मऽ"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "सर्च ईंजनों इंसटौल करऽ"
+msgstr "सर्च ईंजनों इंसटौल करियै"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "डिफ़ॉल्ट सर्च इंजन कs रिस्टोर करियै"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "दोसरो सर्च ईंजनों जोरऽ"
+msgstr "दोसरो सर्च ईंजन जोरियै"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "सर्च ईंजनों हटाभोऽ"
+msgstr "सर्च ईंजनों हटाभियै"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -510,24 +510,24 @@ msgstr "हटाभोऽ"
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr "मेनवली जोरहोऽ"
+msgstr "मेनवली जोरियै"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr "सर्च ईंजनों जोरहोऽ"
+msgstr "सर्च ईंजनों जोरियै"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr "1. सर्च ईंजन के होमपेज पर जाऽ"
+msgstr "1. सर्च ईंजन के होमपेज पर जाभोऽ"
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr ""
+msgstr "2. सर्च इंजन कs खोज फ़ील्ड में टैप करियै"
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr ""
+msgstr "2.बेसि देर तक सर्च इंजन कs सर्च फ़ील्ड के दाबियै."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
