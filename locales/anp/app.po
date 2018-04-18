@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-18 19:08+0000\n"
+"PO-Revision-Date: 2018-04-18 19:22+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -590,7 +590,7 @@ msgstr "सेव करियै"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
+msgstr "सर्च स्ट्रिंग कs पेस्ट या इंटर करियै. अगर जरुरि छs. सर्च शब्द कs %s के जगह बदलियै."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -602,7 +602,7 @@ msgstr "उदाहरण: example.com/search/?q=%s"
 #. service to describe the icon for adding a search engine
 msgctxt "accessibility_announcement_search"
 msgid "Add search engine"
-msgstr "सर्च ईंजन जोरहोऽ"
+msgstr "सर्च ईंजन जोरियै"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -610,7 +610,7 @@ msgstr "नया सर्च ईंजन जुरलो छै"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "सर्च ईंजन के नाम लिखऽ"
+msgstr "सर्च ईंजन के नाम लिखियै"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
