@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-19 16:49+0000\n"
+"PO-Revision-Date: 2018-04-19 17:03+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -772,13 +772,13 @@ msgstr "एगो ऐप ढूंढें लs जो लिंक खोल �
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "तोहरो डिवाइस के कोनो ऐप ई लिंक कs खोल्य नै सकै छs. तोय एगो ऐप के लिए %2$s खोजै लs %1$s छोड़ सकै छs जे कैर सकै छs."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "प्राइवेट ब्रउजिंग मिटाभऽ"
+msgstr "प्राइवेट ब्रउजिंग मिटाभो की ?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
