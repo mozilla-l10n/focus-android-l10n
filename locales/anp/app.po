@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-19 17:03+0000\n"
+"PO-Revision-Date: 2018-04-19 17:29+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -347,11 +347,11 @@ msgstr "गोपनीयता"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "विज्ञापन ट्रैकर्स कs ब्लॉक करयै"
+msgstr "विज्ञापन ट्रैकर्स कs ब्लॉक करियै"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "कुछ विज्ञापन साइट विज़िट ट्रैक करै छ , भले तोय विज्ञापन पर क्लिक नै करियै"
+msgstr "कुछ विज्ञापन साइट विजिट ट्रैक करै छs , भले तोय विज्ञापन पर क्लिक नै करियै"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -359,7 +359,7 @@ msgstr "एनालेटिक ट्रैकर्स ब्लौक कर
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "इकट्ठा करे लऽ, विश्लेषण और मापे लऽ उपयोग करलो जाय छै"
+msgstr "इकट्ठा करे लऽ, विश्लेषण और मापे लऽ उपयोग करलो जाय छs"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -390,7 +390,7 @@ msgstr "नैय"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr "खालि 3र्ड पार्टी कऽ ब्लोक करियै"
+msgstr "खालि 3र्ड पार्टी कूकीज ब्लोक करियै"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -469,7 +469,7 @@ msgstr "अधिक जानs"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोजिल्ला खालि उ चीजोंं क जमा करे ल प्रयास करै छs जे %1$s दै छs आरु जेकरो सुधार करै के जरुरी छs."
+msgstr "मोजिल्ला खालि उ चीजोंं क जमा करे ल प्रयास करै छs जे %1$s दै छs आरु जेकरो सुधार करै के जरुरी छै."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -522,12 +522,12 @@ msgstr "1. सर्च ईंजन कऽ होमपेज पर जाभ�
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr "2. सर्च इंजन कs खोज फिल्ड में टैप करियै."
+msgstr "2. सर्च इंजन कs सर्च फिल्ड में टैप करियै."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr "2. बेसि देर तक सर्च इंजन कs सर्च फिल्ड कऽ दाबियै."
+msgstr "2. बेसि देर तक सर्च इंजन के सर्च फिल्ड कऽ दाबियै."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
@@ -575,7 +575,7 @@ msgstr "नाम दोहो देखबे लऽ"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr "सर्च ईंजन कऽ नाम"
+msgstr "सर्च ईंजन नाम"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -797,12 +797,12 @@ msgstr "खोलऽ"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "डाउनलोड करलो फ़ाइलें <b> जब तोय %1$s इतिहास कs मिटैभो तs </b> हटाल्य नै जैतs."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr "फाईल डाउनलोड करऽ"
+msgstr "फाईल डाउनलोड करियै"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -817,7 +817,7 @@ msgstr "डाउनलोड करऽ"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "प्रोब्लेम पेज लोड भे रहल छs"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
