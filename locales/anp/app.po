@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-19 18:12+0000\n"
+"PO-Revision-Date: 2018-04-19 18:44+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -192,6 +192,16 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s आपनो कs कन्ट्रोल मे रखs.</p>\n"
+"<p>एकरा निजि ब्राउजर के रुप मs काम लs:\n"
+"  <ul>\n"
+"    <li>ऐप में सही खोज आरु ब्राउज करs</li>\n"
+"    <li>ट्रकेर्स ब्लोक(या ट्रैकर्स कs अनुमति दैय खातिर सेटिंग्स अपडेट करs)</li>\n"
+"    <li>कुकीज के साथ सर्च आरु ब्राउज़िंग इतिहास कs हटबे लs मिटाएं</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$sमोज़िला द्वारा उत्पादित,आपनो लक्ष्य स्वस्थ कs बढ़ावा देनाय छs,इंटरनेट खोलs.<br/>\n"
+"<a href=\"%2$s\">अधिक जानs</a></p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -232,7 +242,7 @@ msgstr "मूलभूत URL सूची"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "पता बार म 450 सs जादा लोकप्रिय यूआरएल %1$s खुद्दे पुरा करे लs सक्षम करs"
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom"
@@ -1148,7 +1158,7 @@ msgstr "सुरक्षित कनेक्सन"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "असुरक्षित कनेक्शन"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
