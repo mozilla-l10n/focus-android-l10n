@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-19 00:14+0000\n"
+"PO-Revision-Date: 2018-04-19 14:14+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -324,7 +324,7 @@ msgstr "हटाभोऽ"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "जे URL भरने छहोऽ ओकराऽ फिनु सँ जाँच करि‍यै."
+msgstr "जे URL भरने छहोऽ ओकरा फिनु सँ जाँच करि‍यै."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -334,7 +334,7 @@ msgstr "भाषा"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "सिस्टम मूलभूत"
+msgstr "मूलभूत सिस्टम"
 
 #. This is the title of the dialog for selecting a new default search engine
 msgctxt "preference_dialog_title_search_engine"
@@ -347,11 +347,11 @@ msgstr "गोपनीयता"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "विज्ञापन ट्रैकर्स क ब्लॉक करयैऽ"
+msgstr "विज्ञापन ट्रैकर्स कs ब्लॉक करयै"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "कुछ विज्ञापन साइट विज़िट ट्रैक करै छ , भले तोय विज्ञापन पर क्लिक न करियैऽ"
+msgstr "कुछ विज्ञापन साइट विज़िट ट्रैक करै छ , भले तोय विज्ञापन पर क्लिक नै करियै"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -359,7 +359,7 @@ msgstr "एनालेटिक ट्रैकर्स ब्लौक कर
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "इकट्ठा करे लऽ, विश्लेषण और मापे लऽ उपयोग करलो जाय छऽ"
+msgstr "इकट्ठा करे लऽ, विश्लेषण और मापे लऽ उपयोग करलो जाय छै"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -411,7 +411,7 @@ msgstr "गोपनीयता"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr "ऐप्स कs स्विच कर समय वेबपेज छिपाबियै"
+msgstr "ऐप्स कs स्विच करै समय वेबपेज छिपाबियै"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -439,7 +439,7 @@ msgstr "ब्लोक JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "पेज तेजो से लोड हो सके छs, मगर अप्रत्याशित रूप सs व्यवहार भी करि सके छs"
+msgstr "पेज तेजो से लोड हो सके छs, मगर अप्रत्याशित रूप सs व्यवहार भी कैर सके छs"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -452,7 +452,7 @@ msgstr "%1$s कऽ मूलभूत ब्रोजर बनाबियै"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr "मोज़िल्ला"
+msgstr "मोजिल्ला"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
@@ -463,13 +463,13 @@ msgstr "डाटा उपयोग भेल भेजियै"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr "अधिक जानियै"
+msgstr "अधिक जानs"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोज़िला खालि उ चीजो क जमा करे ल प्रयास कर छs जे %1$s दै छs आरु जेकरो सुधार करै के जरुरी छs."
+msgstr "मोजिल्ला खालि उ चीजोंं क जमा करे ल प्रयास करै छs जे %1$s दै छs आरु जेकरो सुधार करै के जरुरी छs."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -486,12 +486,12 @@ msgstr "%1$s कऽ बारो मऽ"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "सर्च ईंजनों इंसटौल करियै"
+msgstr "सर्च ईंजनों कs इंसटौल करियै"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "डिफ़ॉल्ट सर्च इंजन कs रिस्टोर करियै"
+msgstr "डिफॉल्ट सर्च इंजन कs रिस्टोर करियै"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
@@ -514,24 +514,24 @@ msgstr "मेनवली जोरियै"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
-msgstr "सर्च ईंजनों जोरियै"
+msgstr "सर्च ईंजन जोरियै"
 
 msgctxt "tutorial_search_step1"
 msgid "1. Go to the search engine homepage."
-msgstr "1. सर्च ईंजन के होमपेज पर जाभोऽ."
+msgstr "1. सर्च ईंजन कऽ होमपेज पर जाभोऽ."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr "2. सर्च इंजन कs खोज फ़ील्ड में टैप करियै."
+msgstr "2. सर्च इंजन कs खोज फिल्ड में टैप करियै."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
 msgid "2. Long press the search engine’s search field."
-msgstr "2.बेसि देर तक सर्च इंजन कs सर्च फ़ील्ड के दाबियै."
+msgstr "2. बेसि देर तक सर्च इंजन कs सर्च फिल्ड कऽ दाबियै."
 
 msgctxt "tutorial_search_step3"
 msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr "3. सर्च इंजन के जोड़ेे लs किबोर्ड के ऊपर मेग्निफाइंग लेंस आइकन टैप करियै."
+msgstr "3. सर्च इंजन के जोड़ेे लs किबोर्ड के ऊपर मेग्निफाइंग लेंस आइकन कऽ टैप करियै."
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -550,7 +550,7 @@ msgstr "3. टैप %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr "4. अगर तोहरो मेग्निफाइंग लेंस नै मिललs, मैन्युअल रूप सs एक सर्च इंजन जोड़यै."
+msgstr "4. अगर तोहरो मेग्निफाइंग लेंस नै मिललs, मैन्युअल रूप सs एगो सर्च इंजन जोड़यै."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -559,7 +559,7 @@ msgstr "4. अगर तोहरो मेग्निफाइंग लें
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. अगर तोहरो %1$s नै मिललs, मैन्युअल रूप सs एक सर्च इंजन जोड़यै."
+msgstr "4. अगर तोहरो %1$s नै मिललs, मैन्युअल रूप सs एगो सर्च इंजन जोड़यै."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
@@ -579,7 +579,7 @@ msgstr "सर्च ईंजन कऽ नाम"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "सर्च ईंजन उपयोग लऽ"
+msgstr "सर्च स्ट्रिंग उपयोग लऽ"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -622,13 +622,13 @@ msgstr "सर्च स्ट्रिंग लिखियै"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr " सर्च स्ट्रिंग मैच प्रारूप उदाहरण कs जांचियै"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "इनपुट मिटाभोऽ"
+msgstr "इनपुट मिटाभियै"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -642,7 +642,7 @@ msgstr "रद करऽ"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "ब्राउजर हिस्ट्री मिटाभोऽ"
+msgstr "ब्राउजिंग हिस्ट्री मेटाभियै"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -660,25 +660,25 @@ msgstr "फैलाबऽ"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr "टैवो खोलहोऽ %1$s"
+msgstr "%1$s टैवो खोलियै"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
 msgctxt "content_description_open_tab"
 msgid "Open tab"
-msgstr "टैव खोलऽ"
+msgstr "टैव खोलियै"
 
 #. Description of the "X" button used to close a new temporary tab ("close" is
 #. a verb), not displayed and read only by screenreaders.
 msgctxt "content_description_close_tab"
 msgid "Close tab"
-msgstr "टैव बंद करऽ"
+msgstr "टैव बंद करियै"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "सुरक्षित कनेक्सन"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -708,13 +708,13 @@ msgstr "नेभिगेट आगे भेजऽ"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "वेबसाईट फेनु लोड करऽ"
+msgstr "वेबसाईट फेनु लोड करियै"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "नेभिगेट पिछु करऽ"
+msgstr "नेभिगेट पिछु करियै"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
