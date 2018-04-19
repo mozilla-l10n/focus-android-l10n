@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-19 17:50+0000\n"
+"PO-Revision-Date: 2018-04-19 18:12+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -949,7 +949,7 @@ msgstr "सहेजअ आरु बाटा चित्र <b>जब तो�
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "अपनो गोपनीयता पर पावर दोहो"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
@@ -959,7 +959,7 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "तोहरो सर्च, तोहरो रस्ता"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -969,7 +969,7 @@ msgstr ""
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "अपनो होम स्क्रीन पर शॉर्टकट जोड़हो"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -981,7 +981,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "आदत कs गोपनीयता बनाभो"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -1032,7 +1032,7 @@ msgstr "रद"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "ट्रैकिंग सुरक्षा अक्षम कs साथ शॉर्टकट खुल जैतs"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1040,7 +1040,7 @@ msgstr ""
 #. selects a tab to replace with the          new URL.
 msgctxt "dialog_opentab_title"
 msgid "Open link in selected tab"
-msgstr ""
+msgstr "निरधारित टैब में लिंक खोलियै"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1059,7 +1059,7 @@ msgstr "खोलऽ"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "निजी ब्राउज़िंग सत्र"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1144,7 +1144,7 @@ msgstr "हटाभोऽ"
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "सुरक्षित कनेक्सन"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
@@ -1154,13 +1154,13 @@ msgstr ""
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "%1$s द्वारा सत्यापित"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "साइट सुरक्षा"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL पहलो से मौजूद छs"
