@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-19 17:29+0000\n"
+"PO-Revision-Date: 2018-04-19 17:50+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -628,7 +628,7 @@ msgstr " सर्च स्ट्रिंग मैच प्रारूप �
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "इनपुट मिटाभियै"
+msgstr "इनपुट मेटाभियै"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -749,7 +749,7 @@ msgstr "तोहरो अधिकर"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "दोसरो एप्प मे लिंक खोलऽ"
+msgstr "दोसरो एप्प मे लिंक खोलियै"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -837,7 +837,7 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "कनेक्शन के समय समाप्त भे गेल छs"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
@@ -867,7 +867,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "पेज ठीक से रीडायरेक्ट नै कैर रहल छs"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -889,7 +889,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "सुरक्षित कनेक्शन विफल"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -907,7 +907,7 @@ msgstr "ओफऽ"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "कुछ कारनो से पेज लोड नै ले रहलोऽ छै"
+msgstr "कुछ कारनोंं से पेज लोड नै भे रहलोऽ छै."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -944,7 +944,7 @@ msgstr "लिंक के नया टैब मे खोलऽ"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "सहेजअ आरु बाटा चित्र <b>जब तोय %1$s इतिहास कs मिटैभो तs </b> हटाल्य नै जैतs."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
