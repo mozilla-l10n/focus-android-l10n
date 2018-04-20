@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-20 17:11+0000\n"
+"PO-Revision-Date: 2018-04-20 17:45+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1106,7 +1106,7 @@ msgstr "निजी ब्राउज़िंग सत्र"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "सुचना एक टैप के साथ %1$s सिजन मिटाभो. आपनो के ऐप खोलै या आपनो ब्राउज़र में कि चलि रहल छै देखै के जरुरि नै छs."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1133,7 +1133,7 @@ msgstr "%1$s मुफ्तो के आरु ओपन सौर्स स�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s आपनो कs<a href=\"%2$s\">मोज़िला पब्लिक लाइसेंस</a>आरु दोसरो ओपन सोर्स लाइसेंस कs शर्तों के तहत उपलब्ध कराल्य गेल छs."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
