@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-20 18:20+0000\n"
+"PO-Revision-Date: 2018-04-20 18:38+0000\n"
 "Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "रद"
+msgstr "हटभियै"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -817,7 +817,7 @@ msgstr "फाईल डाउनलोड करियै"
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr "रद"
+msgstr "हटभियै"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
@@ -1058,7 +1058,7 @@ msgstr "जोरऽ"
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr "रद"
+msgstr "हटभियै"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -1162,6 +1162,8 @@ msgstr "%1$s कs खातिर एडिसनल स्रोत कोड �
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s डिस्कनेक्ट द्वारा प्रदान करल ब्लॉकलिस्ट के भी उपयोग करै छ, इंक. <a href=\"%2$s\"> जीएनयू जनरल पब्लिक लाइसेंस v3 </a> क तहत अलगो आरु स्वतंत्र काम क रूप में, आरु उपलब्ध <a href=\"%3$s\"> यहां "
+"</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
