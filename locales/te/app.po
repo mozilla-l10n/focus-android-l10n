@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-23 09:32+0000\n"
+"PO-Revision-Date: 2018-04-23 10:29+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -442,7 +442,7 @@ msgstr "బొమ్మలను నిరోధించు"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "జావాస్క్రిప్టును నిరోధించు"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -1204,4 +1204,4 @@ msgstr "సైటు భద్రత"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "చిరునామా ఇప్పటికే ఉంది"
