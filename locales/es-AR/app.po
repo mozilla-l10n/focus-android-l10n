@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-23 16:50+0000\n"
+"PO-Revision-Date: 2018-04-23 17:02+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -561,7 +561,7 @@ msgstr "3. Aprete %1$s"
 
 msgctxt "tutorial_search_step4"
 msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr "4. Si no ves la lupa, probá agregar un buscador de manera manual."
+msgstr "4. Si no ve la lupa, pruebe agregar un buscador de manera manual."
 
 #. An alternative string for Step 4 of tutorial. Instruction with suggested
 #. action to add search engine, and alternative if that fails. Parameter 1 is
@@ -570,15 +570,15 @@ msgstr "4. Si no ves la lupa, probá agregar un buscador de manera manual."
 #, c-format
 msgctxt "tutorial_search_step4_alternative"
 msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. Si no ves la %1$s, probá agregar un buscador de manera manual."
+msgstr "4. Si no ve la %1$s, pruebe agregar un buscador de manera manual."
 
 msgctxt "tutorial_search_finish"
 msgid "GET STARTED"
-msgstr "COMENZÁ"
+msgstr "GET STARTED"
 
 msgctxt "search_add_hint"
 msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr "Tocá el ícono de la lupa sobre el teclado para agregar este buscador."
+msgstr "Toque el ícono de la lupa sobre el teclado para agregar este buscador."
 
 msgctxt "search_add_manually_name"
 msgid "Name to display"
@@ -601,7 +601,7 @@ msgstr "Guardar"
 #, c-format, python-format
 msgctxt "search_add_manually_string_hint"
 msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr "Pegá o ingresá la cadena de búsqueda. SI es necesario, reemplazá el término de búsqueda con %s."
+msgstr "Pegue o ingrese la cadena de búsqueda. Si es necesario, reemplace el término de búsqueda con %s."
 
 #. Example of search engine url
 #, c-format, python-format
@@ -768,7 +768,7 @@ msgstr "Abrir enlace en otra aplicación"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Podés dejar que %1$s abra este enlace en %2$s."
+msgstr "Puede dejar que %1$s abra este enlace en %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -868,10 +868,10 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Fijate si la dirección no tiene errores de tipeo como\n"
+"        <li>Fíjese si la dirección no tiene errores de tipeo como\n"
 "          <strong>ww</strong>.example.com en vez de\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>Si no puede cargar ninguna página, verifique la conexión de datos o Wi-Fi de su dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -915,12 +915,12 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Necesitás instalar otro software para abrir esta dirección.</li>\n"
+"  <li>Podría ser necesario instalar otro software para abrir esta dirección.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr "Fallo en conexión segura"
+msgstr "Fallo la conexión segura"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -934,8 +934,8 @@ msgstr ""
 "<ul>\n"
 "  <li>Podría haber un problema con la configuración del servidor o podría ser\n"
 "alguien tratando de hacerse pasar por ese servidor.</li>\n"
-"  <li>Si te conectaste exitosamente a este servidor en el pasado, el error puede\n"
-"ser temporal y podés probar más tarde.</li>\n"
+"  <li>Si se conectó exitosamente a este servidor en el pasado, el error puede\n"
+"ser temporal y puede probar más tarde.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -981,27 +981,27 @@ msgstr "Abrir enlace en nueva pestaña"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "La imágenes que guardaste y compartiste <b>no serán borradas</b> cuando borres el historial de %1$s."
+msgstr "La imágenes que guardó y compartió <b>no serán borradas</b> cuando borre el historial de %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr "Potenciá tu privacidad"
+msgstr "Potencie su privacidad"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Llevá la navegación privada al siguiente nivel. Bloqueá publicidades y otro contenido que puede reastrearte en todos los sitios y empantanar los tiempos de carga de las páginas."
+msgstr "Lleve la navegación privada al siguiente nivel. Bloquee publicidades y otro contenido que puede rastrearlo en todos los sitios y lentificar los tiempos de carga de las páginas."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr "Tu búsqueda, tu manera"
+msgstr "Su búsqueda, a su manera"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "¿Buscás algo diferente? Elegí otro buscador predeterminado en la configuración."
+msgstr "¿Busca algo diferente? Elija otro buscador predeterminado en la configuración."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1013,19 +1013,19 @@ msgstr "Agregar accesos directos a la pantalla principal"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Volvé a tus sitios favoritos en %1$s rápidamente. Seleccioná \"Agregar a pantalla de inicio\" en el menú de %1$s."
+msgstr "Vuelva a sus sitios favoritos en %1$s rápidamente. Seleccione \"Agregar a pantalla de inicio\" en el menú de %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr "Hacé de la privacidad un hábito"
+msgstr "Haga un hábito de la privacidad"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Establecé %1$s como tu navegador predeterminado y obtené los beneficios de la navegación privada cuando abrís páginas web desde otras aplicaciones."
+msgstr "Establezca %1$s como su navegador predeterminado y obtenga los beneficios de la navegación privada cuando abra páginas web desde otras aplicaciones."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1109,7 +1109,7 @@ msgstr "Sesión de navegación privada"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Las notificaciones permiten borrar la sesión de %1$s con un toque. No necesitás abrir la aplicación o ver lo que está funcionando en el navegador."
+msgstr "Las notificaciones permiten borrar la sesión de %1$s con un toque. No necesita abrir la aplicación o ver lo que está corriendo en el navegador."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
