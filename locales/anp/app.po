@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-20 18:38+0000\n"
-"Last-Translator: kumarrituraj2000 <kumarrituraj2000@gmail.com>\n"
+"PO-Revision-Date: 2018-04-23 05:32+0000\n"
+"Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: anp\n"
@@ -24,7 +24,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "हटभियै"
+msgstr "कैंसिल"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -44,13 +44,13 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr "स्वचालित निजी ब्रॉउजिंग.ब्रॉउज. मेटाभोऽ. दोहराभोऽ."
+msgstr "स्वचालित निजी ब्रॉउजिंग.ब्रॉउज. मेटैइयै. दोहरैइयै."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "तोरोऽ ब्रॉउजिंग इतिहास के मेटाए देलोऽ गेलए."
+msgstr "अपना के ब्रॉउजिंग इतिहास के मेटाए देलोऽ गेलए."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
