@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-24 16:14+0000\n"
+"PO-Revision-Date: 2018-04-24 17:45+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -629,7 +629,7 @@ msgstr "Ya hay instalado un buscador con ese nombre."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr "Escribir cadena de búsqueda"
+msgstr "Ingresar cadena de búsqueda"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
@@ -783,7 +783,7 @@ msgstr "Buscar una app que pueda abrir el enlace"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ninguna de las apps en el dispositivo puede abrir este enlace. Podés dejar que %1$s busque en %2$s una app que pueda."
+msgstr "Ninguna de las apps en el dispositivo puede abrir este enlace. Puede dejar que %1$s busque en %2$s una app compatible."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -846,8 +846,8 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>El sitio puede estar temporariamente inaccesible o demasiado ocupado. Intentá nuevamente en unos momentos.</li>\n"
-"        <li>Si no podés cargar ninguna página, verificá la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>El sitio puede estar temporariamente inaccesible o demasiado ocupado. Intente nuevamente en unos momentos.</li>\n"
+"        <li>Si no puede cargar ninguna página, verifique la conexión de datos o Wi-Fi de su dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -887,12 +887,12 @@ msgid ""
 msgstr ""
 "<ul>\n"
 "  <li>Las direcciones web normalmente se escriben como <strong>http://www.example.com/</strong></li>\n"
-"  <li>Asegurate de usar las barras correctas (ej. <strong>/</strong>).</li>\n"
+"  <li>Asegúrese de usar las barras correctas (ej. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr "La página no está siendo redireccionada correctamente"
+msgstr "La página no se redirecciona correctamente"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -901,7 +901,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Este problema puede estar causado a veces por deshabilitar o rechazar cookies.</li>\n"
+"  <li>Este problema puede estar a veces causado por deshabilitar o rechazar cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1069,7 +1069,7 @@ msgstr "Cancelar"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr "El acceso directo se abrirá con protección de rastreo desactivada"
+msgstr "El acceso directo se abrirá con la protección de rastreo desactivada"
 
 #. When the limit of concurrent tabs is reached and the user wants to open
 #. another tab then we show a dialog to select a tab          that will be
@@ -1109,7 +1109,7 @@ msgstr "Sesión de navegación privada"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Las notificaciones permiten borrar la sesión de %1$s con un toque. No necesita abrir la aplicación o ver lo que está corriendo en el navegador."
+msgstr "Las notificaciones le permiten borrar la sesión de %1$s con un toque. No necesita abrir la aplicación o ver lo que está corriendo en el navegador."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1147,8 +1147,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"No tiene derecho o licencia sobre las marcas registradas de la Fundación Mozilla ni cualquier otra parte interesada, incluidos los nombres o logos de Mozilla, Firefox o %1$s. Puede encontrar más "
-"información <a href=\"%2$s\">aquí</a>."
+"No tiene derecho o licencia sobre las marcas registradas de la Fundación Mozilla ni sobre cualquier otra parte interesada, incluidos los nombres o logos de Mozilla, Firefox o %1$s. Puede encontrar "
+"más información <a href=\"%2$s\">aquí</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
