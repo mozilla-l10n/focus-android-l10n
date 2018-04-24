@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-24 15:48+0000\n"
+"PO-Revision-Date: 2018-04-24 16:08+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -430,13 +430,13 @@ msgstr "Rendimiento"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "Bloquear tipografía web"
+msgstr "Bloquear fuentes web"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Puede resultar en que falten iconos o imágenes"
+msgstr "Puede resultar en la falta de iconos o imágenes"
 
 msgctxt "preference_performance_block_images"
 msgid "Block images"
@@ -502,7 +502,7 @@ msgstr "Motores de búsqueda instalados"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "Restaurar los motores de búsuqeda predeterminados"
+msgstr "Restaurar los motores de búsqueda predeterminados"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
@@ -521,7 +521,7 @@ msgstr "Eliminar"
 #. Clickable text in tutorial to open a dialog to manually add a search engine
 msgctxt "tutorial_search_manually_add"
 msgid "Manually add"
-msgstr "Agregar manualmente"
+msgstr "Agregar de forma manual"
 
 msgctxt "tutorial_search_title"
 msgid "Add search engine"
@@ -533,7 +533,7 @@ msgstr "1. Vaya a la página de inicio del motor de búsqueda."
 
 msgctxt "tutorial_search_step2"
 msgid "2. Tap into the search engine’s search field."
-msgstr "2. Presione en el campo de búsqueda del motor de búsqueda."
+msgstr "2. Toque en el campo de búsqueda del motor de búsqueda."
 
 #. An alternative string for Step 2 of the tutorial
 msgctxt "tutorial_search_step2_alternative"
