@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-23 17:02+0000\n"
+"PO-Revision-Date: 2018-04-24 15:48+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -129,7 +129,7 @@ msgstr "Rastreadores bloqueados"
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr "Impulsado por %1$s"
+msgstr "Accionado por %1$s"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -176,7 +176,7 @@ msgstr "Borrar historial de navegación"
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "Búsqueda privada"
+msgstr "Buscar en privado"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -193,8 +193,8 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s te da el control.</p>\n"
-"<p>Usalo como un navegador privado:\n"
+"<p>%1$s le da el control.</p>\n"
+"<p>Úselo como un navegador privado:\n"
 "  <ul>\n"
 "    <li>Buscar y navegar en la aplicación</li>\n"
 "    <li>Bloquear rastreadores (o actualizar opciones para permitir rastreadores)</li>\n"
@@ -412,7 +412,7 @@ msgstr "Sí"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "Cautela"
+msgstr "Invisible"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
