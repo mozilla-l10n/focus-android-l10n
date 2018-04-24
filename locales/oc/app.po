@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-24 04:48+0000\n"
+"PO-Revision-Date: 2018-04-24 16:11+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: oc <LL@li.org>\n"
 "\n"
@@ -45,14 +45,14 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Navigacion privada automatica.\n"
-"Navigatz. Escafatz. Tornatz-i."
+"Navegacion privada automatica.\n"
+"Navegatz. Escafatz. Tornatz-i."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Vòstre istòric de navigacion es estat escafat."
+msgstr "Vòstre istoric de navegacion es estat escafat."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -145,7 +145,7 @@ msgstr "Partejar via"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "Netejar l’istoric de navigacion"
+msgstr "Netejar l’istoric de navegacion"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -170,7 +170,7 @@ msgstr "Escafar"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Escafar l'istòric de navigacion"
+msgstr "Escafar l'istoric de navegacion"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -195,9 +195,9 @@ msgid ""
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s vos dòna lo contròla.</p>\n"
-"<p>Utiliza-lo coma un navigator privat :\n"
+"<p>Utiliza-lo coma un navegador privat :\n"
 "  <ul>\n"
-"    <li>Recercatz e navigatz dins l’aplicacion</li>\n"
+"    <li>Recercatz e navegatz dins l’aplicacion</li>\n"
 "    <li>Blocatz los traçadors (se cambiatz pas lo paramètre)</li>\n"
 "    <li>Escafatz los cookies e los istorics de recèrcas e navegacion</li>\n"
 "  </ul>\n"
@@ -460,7 +460,7 @@ msgstr "Las paginas pòdon se cargar mai rapidament, mas pòdon se comportar pas
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "Far que %1$s siá lo navigator per defaut"
+msgstr "Far que %1$s siá lo navegador per defaut"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -654,7 +654,7 @@ msgstr "Remandar"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "Netejar l’istoric de navigacion"
+msgstr "Netejar l’istoric de navegacion"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -790,7 +790,7 @@ msgstr "Cap de las aplicacions de l’ordenador pòt pas dobrir aqueste ligam. P
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "Sortir de la navigacion privada ?"
+msgstr "Sortir de la navegacion privada ?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -990,7 +990,7 @@ msgstr "Refortissètz vòstra vida privada"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Passatz a un nivèl mai naut de navigacion privada. Oblidetz las reclamas e los autres contenguts que pòdon vos traçar de sites en sites e rendon pesucas las paginas."
+msgstr "Passatz a un nivèl mai naut de navegacion privada. Oblidetz las reclamas e los autres contenguts que pòdon vos traçar de sites en sites e rendon pesucas las paginas."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1024,7 +1024,7 @@ msgstr "Vòstra vida priva a vòstras mans"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Fasètz de %1$s vòstre navigator per defaut e aprofeitatz d’una navigacion privada tre que dobrissètz una pagina web d’una autras aplicacions."
+msgstr "Fasètz de %1$s vòstre navegador per defaut e aprofeitatz d’una navegacion privada tre que dobrissètz una pagina web d’una autras aplicacions."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1095,7 +1095,7 @@ msgstr "Dobrir"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr "Navigacion privada"
+msgstr "Navegacion privada"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
