@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-24 16:11+0000\n"
+"PO-Revision-Date: 2018-04-24 16:13+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: oc <LL@li.org>\n"
 "\n"
@@ -809,7 +809,7 @@ msgstr "Dobrir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Los fichièrs telecargats <b>seràn pas suprimits</b> en netejar l’istòric de %1$s."
+msgstr "Los fichièrs telecargats <b>seràn pas suprimits</b> en netejar l’istoric de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -980,7 +980,7 @@ msgstr "Dobrir dins un onglet novèl"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Los imatges salvagardats o partejats <b>seràn pas suprimits</b> en netejar vòstre istòric %1$s."
+msgstr "Los imatges salvagardats o partejats <b>seràn pas suprimits</b> en netejar vòstre istoric %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1108,13 +1108,13 @@ msgstr "Navegacion privada"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Las notificacions permeton de suprimir la session de %1$s amb una tòca. Cal pas dobrir l’aplicacion nimai mostrar lo contengut del navigator."
+msgstr "Las notificacions permeton de suprimir la session de %1$s amb una tòca. Cal pas dobrir l’aplicacion nimai mostrar lo contengut del navegador."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr "Netejar l’istoric de navigacion"
+msgstr "Netejar l’istoric de navegacion"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
