@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-23 15:58+0000\n"
+"PO-Revision-Date: 2018-04-25 03:21+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -50,14 +50,14 @@ msgstr "स्वचालित निजी ब्रॉउजिंग.ब्
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "अपना के ब्रॉउजिंग इतिहास के मेटाए देलोऽ गेलए."
+msgstr "अपनो के ब्रॉउजिंग इतिहास के मेटाए देलोऽ गेलए."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "%1$s लेली खोजऽ"
+msgstr "%1$s लेली खोजहो"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -119,7 +119,7 @@ msgstr "अपने के अधिकार"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "ट्रैकर ब्लॉक भेलैऽ"
+msgstr "ट्रैकर ब्लॉक भेलै"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
