@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-04-25 16:09+0000\n"
+"PO-Revision-Date: 2018-04-25 16:19+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tsz\n"
@@ -194,38 +194,38 @@ msgstr "<p>%1$s xanhatatakuarhi.</p>"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Jirinhani"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Pént'ani"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "Étskuni"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "P'atani"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr ""
+msgstr "URL Karanharhikuarini"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr ""
+msgstr "Karanharhikuarini"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "URL Miyuntskwarhu pént'ani"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
