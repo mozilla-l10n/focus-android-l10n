@@ -6,17 +6,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-17 16:18-0700\n"
+"POT-Creation-Date: 2018-04-26 14:07-0700\n"
 "PO-Revision-Date: 2018-04-20 08:09+0000\n"
 "Last-Translator: صفا الفليج <safa1996alfulaij@gmail.com>\n"
-"Language-Team: ar <LL@li.org>\n"
 "Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=((((n % 100) >= 3 && (n % 100) <= 10)) ?"
+" 3 : (((n % 100) >= 11 && (n % 100) <= 99)) ? 4 : ((n == 1)) ? 1 : ((n =="
+" 2)) ? 2 : ((n == 0)) ? 0 : 5)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -185,10 +186,12 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>يعطيك %1$s الدفة.</p>\n"
@@ -244,11 +247,6 @@ msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar
 msgstr "فعّله ليُكمل %1$s تلقائيا أكثر من ٤٥٠ عنوان وب في شريط العناوين."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
-msgctxt "preference_category_autocomplete_custom"
-msgid "Custom URL"
-msgstr "مسار مخصص"
-
-#. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
 msgstr "مسارات مخصصة"
@@ -275,6 +273,7 @@ msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr "أضِف مسارا مخصصا"
 
+#. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "أزِل المسارات المخصصة"
@@ -305,12 +304,6 @@ msgstr "ألصِق مسارا أو أدخِله"
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
 msgstr "مثال: example.com"
-
-#. Content description (not visible, for screen readers etc.): A "handle" that
-#. allows the user to reorder custom autocomplete URLs
-msgctxt "preference_autocomplete_handle_content_description"
-msgid "-"
-msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
@@ -345,11 +338,6 @@ msgctxt "preference_language_systemdefault"
 msgid "System default"
 msgstr "المبدئية للنظام"
 
-#. This is the title of the dialog for selecting a new default search engine
-msgctxt "preference_dialog_title_search_engine"
-msgid "Default search"
-msgstr "محرك البحث المبدئي"
-
 msgctxt "preference_category_privacy"
 msgid "Privacy"
 msgstr "الخصوصية"
@@ -375,7 +363,9 @@ msgid "Block social trackers"
 msgstr "احجب المتعقبات الاجتماعية"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
 msgstr "تُضمّن في المواقع لتتعقب زياراتك ولعرض بعض الخصائص مثل أزرار المشاركة"
 
 msgctxt "preference_privacy_block_content"
@@ -436,10 +426,6 @@ msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
 msgstr "قد يسبب اختفاء بعض الأيقونات أو الصور"
 
-msgctxt "preference_performance_block_images"
-msgid "Block images"
-msgstr "احجب الصور"
-
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
 msgstr "احجب جافاسكرِبت"
@@ -477,7 +463,9 @@ msgstr "اطّلع على المزيد"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
 msgstr "تحاول موزيلا ألا تجمع أكثر مما تحتاجه لإتاحة %1$s و تحسينه للجميع."
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -516,71 +504,12 @@ msgctxt "preference_search_remove"
 msgid "Remove"
 msgstr "أزِل"
 
-#. Clickable text in tutorial to open a dialog to manually add a search engine
-msgctxt "tutorial_search_manually_add"
-msgid "Manually add"
-msgstr "أضِف يدويا"
-
-msgctxt "tutorial_search_title"
-msgid "Add search engine"
-msgstr "أضف محرك بحث"
-
-msgctxt "tutorial_search_step1"
-msgid "1. Go to the search engine homepage."
-msgstr "1. انتقل إلى صفحة محرك البحث."
-
-msgctxt "tutorial_search_step2"
-msgid "2. Tap into the search engine’s search field."
-msgstr "2. انقر حقل البحث في محرك البحث."
-
-#. An alternative string for Step 2 of the tutorial
-msgctxt "tutorial_search_step2_alternative"
-msgid "2. Long press the search engine’s search field."
-msgstr "2. اضغط مطولا على حقل البحث في محرك البحث."
-
-msgctxt "tutorial_search_step3"
-msgid "3. Tap the magnifying glass icon above the keyboard to add the search engine."
-msgstr "3. انقر أيقونة العدسة المكبرة أعلى لوحة المفاتيح لإضافة محرك البحث."
-
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
 msgstr "أضف محرك بحث"
-
-#. An alternative string for Step 3 of the tutorial. Parameter 1 is
-#. action_option_add_search_engine, which is the action text that the tutorial
-#. is referring to
-#, c-format
-msgctxt "tutorial_search_step3_alternative"
-msgid "3. Tap %1$s"
-msgstr "3. انقر %1$s"
-
-msgctxt "tutorial_search_step4"
-msgid "4. If you don’t see the magnifying glass, try manually adding a search engine."
-msgstr "4. إن لم تكن الأيقونة ظاهرة، جرب إضافة محرك البحث يدويا."
-
-#. An alternative string for Step 4 of tutorial. Instruction with suggested
-#. action to add search engine, and alternative if that fails. Parameter 1 is
-#. &action_option_add_search_engine, which is the clickable action text for
-#. adding a search engine.
-#, c-format
-msgctxt "tutorial_search_step4_alternative"
-msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. إن لم يكن %1$s ظاهرا، جرب إضافة محرك البحث يدويا."
-
-msgctxt "tutorial_search_finish"
-msgid "GET STARTED"
-msgstr "ابدأ"
-
-msgctxt "search_add_hint"
-msgid "Tap the magnifying glass icon above the keyboard to add this search engine."
-msgstr "انقر أيقونة العدسة المكبرة أعلى لوحة المفاتيح لإضافة محرك البحث هذا."
-
-msgctxt "search_add_manually_name"
-msgid "Name to display"
-msgstr "اسم العرض"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -594,24 +523,11 @@ msgctxt "search_add_manually_save"
 msgid "Save"
 msgstr "احفظ"
 
-#. Explanation of how to add search string, with instruction on how to modify
-#. the string if necessary. The string "%s" should not be changed or removed.
-#, c-format, python-format
-msgctxt "search_add_manually_string_hint"
-msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr "انقر أو أدخِل نص البحث. إن استلزم الأمر اسبتدل مصطلح البحث بِ‍: ‎%s."
-
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
 msgstr "مثال: example.com/search/?q=%s"
-
-#. This text is not visible. Instead it will be read by the accessibility
-#. service to describe the icon for adding a search engine
-msgctxt "accessibility_announcement_search"
-msgid "Add search engine"
-msgstr "أضف محرك بحث"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -653,14 +569,6 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "امسح تأريخ التصفح"
 
-#. Content description (not visible, for screen readers etc.): A floating
-#. action button that       is shown on top of the web content. Clicking the
-#. button shows (expands) the menu for switching       tabs, adding a new tab
-#. or erasing the browsing history.
-msgctxt "content_description_fab_expand"
-msgid "Expand"
-msgstr "وسِّع"
-
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
 #. displayed and read only by screenreaders. %1$s will be replaced with the
@@ -670,18 +578,6 @@ msgstr "وسِّع"
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
 msgstr "الألسنة المفتوحة: %1$s"
-
-#. Description of the "+" button used to open a new temporary tab ("open" is a
-#. verb), not displayed and read only by screenreaders.
-msgctxt "content_description_open_tab"
-msgid "Open tab"
-msgstr "افتح لسانا"
-
-#. Description of the "X" button used to close a new temporary tab ("close" is
-#. a verb), not displayed and read only by screenreaders.
-msgctxt "content_description_close_tab"
-msgid "Close tab"
-msgstr "أغلق اللسان"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -745,13 +641,6 @@ msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
 msgstr "احجب المتعقّبات"
 
-#. This is a context menu item shown when long pressing on the URL bar.
-#. Selecting it will copy the text from the clipboard into the URL bar and open
-#. the URL or perform a search.
-msgctxt "context_menu_paste_go"
-msgid "Paste & Go"
-msgstr "ألصق و اذهب"
-
 msgctxt "your_rights"
 msgid "Your Rights"
 msgstr "حقوقك"
@@ -780,8 +669,12 @@ msgstr "ابحث عن تطبيق يدعم فتح الرابط"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "لا يوجد أي تطبيق على جهازك يدعم فتح هذا الرابط. يمكنك مغادرة %1$s للبحث في %2$s عن تطبيق يدعم الرابط."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"لا يوجد أي تطبيق على جهازك يدعم فتح هذا الرابط. يمكنك مغادرة %1$s للبحث "
+"في %2$s عن تطبيق يدعم الرابط."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -839,13 +732,17 @@ msgstr "تعذّر الاتصال"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا بعد قليل.</li>\n"
-"        <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة البيانات أو الشبكة اللاسلكية.</li>\n"
+"        <li>قد يكون الموقع غير متاح مؤقتًا أو مشغولًا جدًا. حاول مجددًا "
+"بعد قليل.</li>\n"
+"        <li>إن لم تكن تستطيع تحميل أي صفحة، تحقق من اتصال جوّالك بشبكة "
+"البيانات أو الشبكة اللاسلكية.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -862,14 +759,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>تحقق من عدم وجود أي أخطاء في العنوان مثل\n"
 "          ‏‪<strong>ww</strong>.example.com‬ بدلًا من\n"
 "          ‏‪<strong>www</strong>.example.com‬‏</li>\n"
-"        <li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة البيانات أو الشبكة اللاسلكية.</li>\n"
+"        <li>إن لم تكن قادرًا على تحميل أي صفحة، تحقق من اتصال جهازك بشبكة"
+" البيانات أو الشبكة اللاسلكية.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -879,13 +778,17 @@ msgstr "العنوان غير صالح"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>تُكتب عناوين الوب عادة على الشكل التالي <strong>‪http://www.example.com/‬</strong>‏</li>\n"
-"  <li>تأكد أنك تستخدم الشرطة المائلة إلى اليمين (أي <strong>/</strong>).</li> \n"
+"  <li>تُكتب عناوين الوب عادة على الشكل التالي "
+"<strong>‪http://www.example.com/‬</strong>‏</li>\n"
+"  <li>تأكد أنك تستخدم الشرطة المائلة إلى اليمين (أي "
+"<strong>/</strong>).</li> \n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -895,7 +798,8 @@ msgstr "لا تعيد الصفحة التوجيه بشكل سليم"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -909,7 +813,8 @@ msgstr "العنوان غير مفهوم"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -923,9 +828,11 @@ msgstr "فشل الاتصال الآمن"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -978,7 +885,9 @@ msgstr "افتح الرابط في لسان جديد"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr "الصور المحفوظة و المُشاركة <b>لن تُحذف</b> عندما تمسح تأريخ %1$s."
 
 #. First run tour (Default browser): Title
@@ -988,8 +897,12 @@ msgstr "حسّن خصوصيتك"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "انتقل بالتصفّح الخاص إلى المستوى التالي. احجب الإعلانات وغيرها من المحتويات التي تتعقبك أثناء التصفح وتأخذ من وقت تحميل الصفحات."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"انتقل بالتصفّح الخاص إلى المستوى التالي. احجب الإعلانات وغيرها من "
+"المحتويات التي تتعقبك أثناء التصفح وتأخذ من وقت تحميل الصفحات."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -998,7 +911,9 @@ msgstr "تبحثُ بأسلوبك أنت"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr "أتبحث عن شيء مختلف؟ اختر محرّك بحث آخر ليكون المبدئي من الإعدادات."
 
 #. First run tour (Shortcut): Title
@@ -1010,8 +925,12 @@ msgstr "أضف اختصارات إلى الشاشة الرئيسية"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "عُد إلى مواقعك المفضلة في %1$s بسرعة. اختر ”أضف إلى الشاشة الرئيسية“ من قائمة %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"عُد إلى مواقعك المفضلة في %1$s بسرعة. اختر ”أضف إلى الشاشة الرئيسية“ من "
+"قائمة %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1022,8 +941,12 @@ msgstr "اجعل من الخصوصية عادة"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "اضبط %1$s ليكون المتصفّح المبدئي وتمتع بفوائد التصفح الخاص عندما تفتح موقعا من تطبيق آخر."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"اضبط %1$s ليكون المتصفّح المبدئي وتمتع بفوائد التصفح الخاص عندما تفتح "
+"موقعا من تطبيق آخر."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1042,12 +965,6 @@ msgstr "التالي"
 msgctxt "content_blocking_disabled"
 msgid "-"
 msgstr "-"
-
-#. The title of a dialog we show when the user selected a menu action to add
-#. the current website as a shortcut to the home screen.
-msgctxt "dialog_addtohomescreen_title"
-msgid "Add to Home screen"
-msgstr "أضِف إلى شاشة البداية"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
@@ -1068,22 +985,6 @@ msgstr "ألغِ"
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
 msgstr "سيُفتح الاختصار مع تعطيل الحماية من التعقب"
-
-#. When the limit of concurrent tabs is reached and the user wants to open
-#. another tab then we show a dialog to select a tab          that will be
-#. overridden with the new link. This is the title of the dialog where the user
-#. selects a tab to replace with the          new URL.
-msgctxt "dialog_opentab_title"
-msgid "Open link in selected tab"
-msgstr "افتح الرابط في اللسان المحدّد"
-
-#. When the limit of concurrent tabs is reached and the user wants to open
-#. another tab then we show a dialog to select a tab          that will be
-#. overridden with the new link. This is the label of the action/button to open
-#. the new link in the selected           existing tab.
-msgctxt "dialog_opentab_action_open"
-msgid "Open"
-msgstr "افتح"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1106,8 +1007,12 @@ msgstr "جلسة تصفح الخاص"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "تتيح لك التنبيهات مسح جلسة %1$s بضغطة واحدة. لا تحتاج إلى فتح التطبيق أو رؤية ما المعروض فيه."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"تتيح لك التنبيهات مسح جلسة %1$s بضغطة واحدة. لا تحتاج إلى فتح التطبيق أو "
+"رؤية ما المعروض فيه."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1126,15 +1031,21 @@ msgstr "نزّل فَيرفُكُس"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
 msgstr "%1$s برمجية حرة مفتوحة المصدر صنعتها موزيلا ومساهمين آخرين."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "يُتاح لك %1$s وفق بنود <a href=\"%2$s\">رخصة موزيلا العامة</a> وترخيصات المصادر المفتوحة الأخرى."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"يُتاح لك %1$s وفق بنود <a href=\"%2$s\">رخصة موزيلا العامة</a> وترخيصات "
+"المصادر المفتوحة الأخرى."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1142,17 +1053,25 @@ msgstr "يُتاح لك %1$s وفق بنود <a href=\"%2$s\">رخصة موزي�
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"لا يعطيك هذا أي حقوق أو تراخيص للعلامات التجارية لمؤسسة موزيلا أو أي طرف آخر، متضمنًا أسماء موزيلا أو فَيَرفُكس أو %1$s أو شعاراتها. يمكنك الاطلاع على مزيد من المعلومات من <a href=\"%2$s\">هنا</a>."
+"لا يعطيك هذا أي حقوق أو تراخيص للعلامات التجارية لمؤسسة موزيلا أو أي طرف "
+"آخر، متضمنًا أسماء موزيلا أو فَيَرفُكس أو %1$s أو شعاراتها. يمكنك الاطلاع"
+" على مزيد من المعلومات من <a href=\"%2$s\">هنا</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "النصوص المصدرية الإضافية لِ‍ %1$s متاحة وفق <a href=\"%2$s\">رخص</a> البرمجيات الحرة والمفتوحة المصدر الأخرى."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"النصوص المصدرية الإضافية لِ‍ %1$s متاحة وفق <a href=\"%2$s\">رخص</a> "
+"البرمجيات الحرة والمفتوحة المصدر الأخرى."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1160,8 +1079,14 @@ msgstr "النصوص المصدرية الإضافية لِ‍ %1$s متاحة �
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "يستخدم %1$s قوائم المنع التي توفّرها شركة Disconnect, Inc كأعمال منفصلة ومستقرّة برخصة <a href=\"%2$s\">غنو العمومية الإصدارة الثالثة</a>، وهي متاحة <a href=\"%3$s\">هنا</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"يستخدم %1$s قوائم المنع التي توفّرها شركة Disconnect, Inc كأعمال منفصلة "
+"ومستقرّة برخصة <a href=\"%2$s\">غنو العمومية الإصدارة الثالثة</a>، وهي "
+"متاحة <a href=\"%3$s\">هنا</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1200,3 +1125,4 @@ msgstr "أمن الموقع"
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
 msgstr "المسار موجود بالفعل"
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-17 16:18-0700\n"
+"POT-Creation-Date: 2018-04-26 14:07-0700\n"
 "PO-Revision-Date: 2018-03-11 01:41+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
@@ -247,11 +247,6 @@ msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar
 msgstr "주소창에서 450개가 넘는 URL의 %1$s 자동 완성 기능을 사용하세요."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
-msgctxt "preference_category_autocomplete_custom"
-msgid "Custom URL"
-msgstr "사용자 정의 URL"
-
-#. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
 msgstr ""
@@ -278,6 +273,7 @@ msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr ""
 
+#. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "사용자 정의 URL 삭제"
@@ -308,12 +304,6 @@ msgstr "URL 입력 또는 붙여넣기"
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
 msgstr "예: example.com"
-
-#. Content description (not visible, for screen readers etc.): A "handle" that
-#. allows the user to reorder custom autocomplete URLs
-msgctxt "preference_autocomplete_handle_content_description"
-msgid "-"
-msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
@@ -347,11 +337,6 @@ msgstr "언어"
 msgctxt "preference_language_systemdefault"
 msgid "System default"
 msgstr "시스템 기본값"
-
-#. This is the title of the dialog for selecting a new default search engine
-msgctxt "preference_dialog_title_search_engine"
-msgid "Default search"
-msgstr "기본 검색"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -441,10 +426,6 @@ msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
 msgstr "아이콘 또는 이미지가 누락될 수 있음"
 
-msgctxt "preference_performance_block_images"
-msgid "Block images"
-msgstr "이미지 차단"
-
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
 msgstr ""
@@ -523,77 +504,12 @@ msgctxt "preference_search_remove"
 msgid "Remove"
 msgstr "삭제"
 
-#. Clickable text in tutorial to open a dialog to manually add a search engine
-msgctxt "tutorial_search_manually_add"
-msgid "Manually add"
-msgstr "직접 추가하기"
-
-msgctxt "tutorial_search_title"
-msgid "Add search engine"
-msgstr "검색 엔진 추가"
-
-msgctxt "tutorial_search_step1"
-msgid "1. Go to the search engine homepage."
-msgstr "1. 검색 엔진의 홈페이지로 이동합니다."
-
-msgctxt "tutorial_search_step2"
-msgid "2. Tap into the search engine’s search field."
-msgstr "2. 검색 엔진의 검색 창을 탭합니다."
-
-#. An alternative string for Step 2 of the tutorial
-msgctxt "tutorial_search_step2_alternative"
-msgid "2. Long press the search engine’s search field."
-msgstr "2. 검색 엔진의 검색 창을 길게 누릅니다."
-
-msgctxt "tutorial_search_step3"
-msgid ""
-"3. Tap the magnifying glass icon above the keyboard to add the search "
-"engine."
-msgstr "3. 키보드 위의 돋보기 아이콘을 눌러 이 검색 엔진을 추가합니다."
-
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
 msgstr "검색 엔진 추가"
-
-#. An alternative string for Step 3 of the tutorial. Parameter 1 is
-#. action_option_add_search_engine, which is the action text that the tutorial
-#. is referring to
-#, c-format
-msgctxt "tutorial_search_step3_alternative"
-msgid "3. Tap %1$s"
-msgstr "3. %1$s을 누릅니다."
-
-msgctxt "tutorial_search_step4"
-msgid ""
-"4. If you don’t see the magnifying glass, try manually adding a search "
-"engine."
-msgstr "4. 돋보기 아이콘이 나타나지 않는 경우, 직접 검색 엔진을 추가할 수 있습니다."
-
-#. An alternative string for Step 4 of tutorial. Instruction with suggested
-#. action to add search engine, and alternative if that fails. Parameter 1 is
-#. &action_option_add_search_engine, which is the clickable action text for
-#. adding a search engine.
-#, c-format
-msgctxt "tutorial_search_step4_alternative"
-msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. %1$s이 나타나지 않는 경우, 직접 검색 엔진을 추가할 수 있습니다."
-
-msgctxt "tutorial_search_finish"
-msgid "GET STARTED"
-msgstr "시작하기"
-
-msgctxt "search_add_hint"
-msgid ""
-"Tap the magnifying glass icon above the keyboard to add this search "
-"engine."
-msgstr "이 검색 엔진을 사용하시려면 키보드 위의 돋보기 아이콘을 누르세요."
-
-msgctxt "search_add_manually_name"
-msgid "Name to display"
-msgstr "표시할 이름"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -607,24 +523,11 @@ msgctxt "search_add_manually_save"
 msgid "Save"
 msgstr "저장"
 
-#. Explanation of how to add search string, with instruction on how to modify
-#. the string if necessary. The string "%s" should not be changed or removed.
-#, c-format, python-format
-msgctxt "search_add_manually_string_hint"
-msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr "검색 문구를 붙여넣거나 입력하세요. 필요한 경우, 검색 용어를 %s로 바꾸실 수 있습니다."
-
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
 msgstr "예: example.com/search/?q=%s"
-
-#. This text is not visible. Instead it will be read by the accessibility
-#. service to describe the icon for adding a search engine
-msgctxt "accessibility_announcement_search"
-msgid "Add search engine"
-msgstr "검색 엔진 추가"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -666,14 +569,6 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "탐색 기록 지우기"
 
-#. Content description (not visible, for screen readers etc.): A floating
-#. action button that       is shown on top of the web content. Clicking the
-#. button shows (expands) the menu for switching       tabs, adding a new tab
-#. or erasing the browsing history.
-msgctxt "content_description_fab_expand"
-msgid "Expand"
-msgstr "펼치기"
-
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
 #. displayed and read only by screenreaders. %1$s will be replaced with the
@@ -683,18 +578,6 @@ msgstr "펼치기"
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
 msgstr "열린 탭: %1$s"
-
-#. Description of the "+" button used to open a new temporary tab ("open" is a
-#. verb), not displayed and read only by screenreaders.
-msgctxt "content_description_open_tab"
-msgid "Open tab"
-msgstr "탭 열기"
-
-#. Description of the "X" button used to close a new temporary tab ("close" is
-#. a verb), not displayed and read only by screenreaders.
-msgctxt "content_description_close_tab"
-msgid "Close tab"
-msgstr "탭 닫기"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -757,13 +640,6 @@ msgstr "이전 앱으로 돌아가기"
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
 msgstr "추적기 차단"
-
-#. This is a context menu item shown when long pressing on the URL bar.
-#. Selecting it will copy the text from the clipboard into the URL bar and open
-#. the URL or perform a search.
-msgctxt "context_menu_paste_go"
-msgid "Paste & Go"
-msgstr "붙여넣고 바로 가기"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -1078,12 +954,6 @@ msgctxt "content_blocking_disabled"
 msgid "-"
 msgstr "-"
 
-#. The title of a dialog we show when the user selected a menu action to add
-#. the current website as a shortcut to the home screen.
-msgctxt "dialog_addtohomescreen_title"
-msgid "Add to Home screen"
-msgstr "초기 화면에 추가하기"
-
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
@@ -1103,22 +973,6 @@ msgstr "취소"
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
 msgstr "바로 가기가 추적 차단 기능이 해제된 상태에서 열립니다"
-
-#. When the limit of concurrent tabs is reached and the user wants to open
-#. another tab then we show a dialog to select a tab          that will be
-#. overridden with the new link. This is the title of the dialog where the user
-#. selects a tab to replace with the          new URL.
-msgctxt "dialog_opentab_title"
-msgid "Open link in selected tab"
-msgstr "선택한 탭에 링크 열기"
-
-#. When the limit of concurrent tabs is reached and the user wants to open
-#. another tab then we show a dialog to select a tab          that will be
-#. overridden with the new link. This is the label of the action/button to open
-#. the new link in the selected           existing tab.
-msgctxt "dialog_opentab_action_open"
-msgid "Open"
-msgstr "열기"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.

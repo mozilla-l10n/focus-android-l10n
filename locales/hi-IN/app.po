@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-17 16:18-0700\n"
+"POT-Creation-Date: 2018-04-26 14:07-0700\n"
 "PO-Revision-Date: 2018-02-04 17:28+0000\n"
 "Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
 "Language: hi_IN\n"
@@ -247,11 +247,6 @@ msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar
 msgstr "पता पट्ट में 450 लोकप्रिय URLs पर %1$s स्वत: पूर्णता के लिए सक्षम करें."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
-msgctxt "preference_category_autocomplete_custom"
-msgid "Custom URL"
-msgstr "उपभोक्ता संशोधित URL"
-
-#. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
 msgstr ""
@@ -278,6 +273,7 @@ msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr ""
 
+#. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
 msgstr "उपभोक्ता संशोधित URL हटाएँ"
@@ -308,12 +304,6 @@ msgstr "URL पेस्ट करें या दर्ज करें"
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
 msgstr "उदाहरण: example.com"
-
-#. Content description (not visible, for screen readers etc.): A "handle" that
-#. allows the user to reorder custom autocomplete URLs
-msgctxt "preference_autocomplete_handle_content_description"
-msgid "-"
-msgstr "-"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
@@ -347,11 +337,6 @@ msgstr "भाषा"
 msgctxt "preference_language_systemdefault"
 msgid "System default"
 msgstr "प्रणाली तयशुदा"
-
-#. This is the title of the dialog for selecting a new default search engine
-msgctxt "preference_dialog_title_search_engine"
-msgid "Default search"
-msgstr "तयशुदा खोज़"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -443,10 +428,6 @@ msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
 msgstr "अनुपस्थित प्रतीकों या छवियों के रूप में परिणाम हो सकता है"
 
-msgctxt "preference_performance_block_images"
-msgid "Block images"
-msgstr "चित्रों को बाधित करें"
-
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
 msgstr ""
@@ -527,79 +508,12 @@ msgctxt "preference_search_remove"
 msgid "Remove"
 msgstr "हटाएँ"
 
-#. Clickable text in tutorial to open a dialog to manually add a search engine
-msgctxt "tutorial_search_manually_add"
-msgid "Manually add"
-msgstr "हस्तचालित रूप से जोड़ें"
-
-msgctxt "tutorial_search_title"
-msgid "Add search engine"
-msgstr "खोज इंजन जोड़ें"
-
-msgctxt "tutorial_search_step1"
-msgid "1. Go to the search engine homepage."
-msgstr "1. खोज इंजन के मुखपृष्ठ पर जाएँ."
-
-msgctxt "tutorial_search_step2"
-msgid "2. Tap into the search engine’s search field."
-msgstr "2. खोज इंजन के खोज क्षेत्र में टैप करें."
-
-#. An alternative string for Step 2 of the tutorial
-msgctxt "tutorial_search_step2_alternative"
-msgid "2. Long press the search engine’s search field."
-msgstr "2. खोज इंजन के खोज क्षेत्र को लंबे समय तक दबाएँ."
-
-msgctxt "tutorial_search_step3"
-msgid ""
-"3. Tap the magnifying glass icon above the keyboard to add the search "
-"engine."
-msgstr "3. खोज इंजन को जोड़ने के लिए कुंजीपटल के ऊपर आवर्धक लेंस आइकन टैप करें."
-
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
 msgstr "खोज इंजन जोड़ें"
-
-#. An alternative string for Step 3 of the tutorial. Parameter 1 is
-#. action_option_add_search_engine, which is the action text that the tutorial
-#. is referring to
-#, c-format
-msgctxt "tutorial_search_step3_alternative"
-msgid "3. Tap %1$s"
-msgstr "3. %1$s टैप करें"
-
-msgctxt "tutorial_search_step4"
-msgid ""
-"4. If you don’t see the magnifying glass, try manually adding a search "
-"engine."
-msgstr ""
-"4. अगर आपको आवर्धक लेंस नहीं दिखता, तो ख़ुद से खोज इंजन जोड़ने की कोशिश "
-"करें."
-
-#. An alternative string for Step 4 of tutorial. Instruction with suggested
-#. action to add search engine, and alternative if that fails. Parameter 1 is
-#. &action_option_add_search_engine, which is the clickable action text for
-#. adding a search engine.
-#, c-format
-msgctxt "tutorial_search_step4_alternative"
-msgid "4. If you don’t see %1$s, try manually adding a search engine."
-msgstr "4. अगर आपको %1$s नहीं दिखता, तो ख़ुद से खोज इंजन जोड़ने की कोशिश करें."
-
-msgctxt "tutorial_search_finish"
-msgid "GET STARTED"
-msgstr "GET STARTED"
-
-msgctxt "search_add_hint"
-msgid ""
-"Tap the magnifying glass icon above the keyboard to add this search "
-"engine."
-msgstr "इस खोज इंजन को जोड़ने के लिए कीबोर्ड के ऊपर आवर्धक लेंस दबाएं."
-
-msgctxt "search_add_manually_name"
-msgid "Name to display"
-msgstr "प्रदर्शित करने के लिए नाम"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -613,26 +527,11 @@ msgctxt "search_add_manually_save"
 msgid "Save"
 msgstr "सहेजें"
 
-#. Explanation of how to add search string, with instruction on how to modify
-#. the string if necessary. The string "%s" should not be changed or removed.
-#, c-format, python-format
-msgctxt "search_add_manually_string_hint"
-msgid "Paste or enter search string. If necessary, replace search term with: %s."
-msgstr ""
-"खोज स्ट्रिंग चिपकाएँ या दर्ज करें. यदि ज़रूरी हो, तो खोज शब्द को %s से "
-"बदलें."
-
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
 msgstr "उदाहरण: example.com/search/?q=%s"
-
-#. This text is not visible. Instead it will be read by the accessibility
-#. service to describe the icon for adding a search engine
-msgctxt "accessibility_announcement_search"
-msgid "Add search engine"
-msgstr "खोज इंजन जोड़ें"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -674,14 +573,6 @@ msgctxt "content_description_erase"
 msgid "Erase browsing history"
 msgstr "ब्राउज़िंग इतिहास मिटाएँ"
 
-#. Content description (not visible, for screen readers etc.): A floating
-#. action button that       is shown on top of the web content. Clicking the
-#. button shows (expands) the menu for switching       tabs, adding a new tab
-#. or erasing the browsing history.
-msgctxt "content_description_fab_expand"
-msgid "Expand"
-msgstr "विस्तार"
-
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
 #. displayed and read only by screenreaders. %1$s will be replaced with the
@@ -691,18 +582,6 @@ msgstr "विस्तार"
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
 msgstr "खुले टैब: %1$s"
-
-#. Description of the "+" button used to open a new temporary tab ("open" is a
-#. verb), not displayed and read only by screenreaders.
-msgctxt "content_description_open_tab"
-msgid "Open tab"
-msgstr "टैब खोलें"
-
-#. Description of the "X" button used to close a new temporary tab ("close" is
-#. a verb), not displayed and read only by screenreaders.
-msgctxt "content_description_close_tab"
-msgid "Close tab"
-msgstr "टैब बंद करें"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -765,13 +644,6 @@ msgstr "पिछले ऐप पर वापस जाएँ"
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
 msgstr "ट्रैकर्स को अवरुद्ध करें"
-
-#. This is a context menu item shown when long pressing on the URL bar.
-#. Selecting it will copy the text from the clipboard into the URL bar and open
-#. the URL or perform a search.
-msgctxt "context_menu_paste_go"
-msgid "Paste & Go"
-msgstr "पेस्ट करें व जाएँ"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -1102,12 +974,6 @@ msgctxt "content_blocking_disabled"
 msgid "-"
 msgstr "-"
 
-#. The title of a dialog we show when the user selected a menu action to add
-#. the current website as a shortcut to the home screen.
-msgctxt "dialog_addtohomescreen_title"
-msgid "Add to Home screen"
-msgstr "मुख्य स्क्रीन में जोड़ें"
-
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
@@ -1127,22 +993,6 @@ msgstr "रद्द करें"
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
 msgstr "शॉर्टकट अक्षम ट्रैकिंग सुरक्षा के साथ खुलेगा"
-
-#. When the limit of concurrent tabs is reached and the user wants to open
-#. another tab then we show a dialog to select a tab          that will be
-#. overridden with the new link. This is the title of the dialog where the user
-#. selects a tab to replace with the          new URL.
-msgctxt "dialog_opentab_title"
-msgid "Open link in selected tab"
-msgstr "चयनित टैब में कड़ी खोलें"
-
-#. When the limit of concurrent tabs is reached and the user wants to open
-#. another tab then we show a dialog to select a tab          that will be
-#. overridden with the new link. This is the label of the action/button to open
-#. the new link in the selected           existing tab.
-msgctxt "dialog_opentab_action_open"
-msgid "Open"
-msgstr "खोलें"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
