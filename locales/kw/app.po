@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-04-29 16:30+0000\n"
+"PO-Revision-Date: 2018-04-29 16:35+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
@@ -28,35 +28,35 @@ msgstr "Hedhi"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "action_save"
 msgid "Save"
-msgstr ""
+msgstr "Gwitha"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Hwilas po trigva"
 
 msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr ""
+msgstr "Peuri privedh awtomatek."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Diles re beu agas istori peuri."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Hwilas %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
