@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-04-30 01:50+0000\n"
+"PO-Revision-Date: 2018-04-30 01:59+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
@@ -325,17 +325,17 @@ msgstr "Dilea"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Gwrewgh gwirya an URL entrys genowgh."
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Yeth"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Defowt an system"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
