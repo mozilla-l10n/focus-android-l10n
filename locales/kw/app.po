@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-04-30 02:48+0000\n"
+"PO-Revision-Date: 2018-04-30 03:08+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
@@ -355,49 +355,49 @@ msgstr "Lettya helerghellow dielvenna"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Usyes rag kuntel, dielvenna ha musura gwriansow kepar ha tappya ha skrollya"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Lettya helerghellow kowethasek"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Keworrys war wiasvaow rag helerghi agas vysytyansow ha rag diskwedhes taklow kepar ha botonyow kevranna"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Lettya helerghellow dalgh erel"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Gallosegi a allsa kawsya kudynnow war neb folennow"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "Lettya cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "Sevel orth lettya"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Cookies 3a parti yn unnik"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "Pub cookie oll"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "Modh kel"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -407,31 +407,31 @@ msgstr ""
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Kudha folennow gwias pan ow skwychya towlennow"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Performans"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Lettya fontys gwias"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Neb arwodhigow po imajys a allsa mos dhe goll"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Lettya JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Folennow a allsa karga moy uskis, mes y hallsa bos kudynnow dhedha ynwedh"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -440,22 +440,22 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "Gul dhe %1$s an beurell dhefowt"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Danvon data devnydh"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Dyski moy"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
