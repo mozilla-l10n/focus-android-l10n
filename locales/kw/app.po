@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-04-30 00:54+0000\n"
+"PO-Revision-Date: 2018-04-30 01:20+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
@@ -72,7 +72,7 @@ msgstr "Kevranna…"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Ygeri yn %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -82,23 +82,23 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "Ygeri yn…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "Keworra dhe'n skrin dre"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr ""
+msgstr "Pandr'yw nowydh"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Settyansow"
 
 msgctxt "menu_about"
 msgid "About"
@@ -110,7 +110,7 @@ msgstr "Gweres"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Agas gwiryow"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -120,7 +120,7 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Helerghellow lettys"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -129,7 +129,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr ""
+msgstr "Nerthys gans %1$s"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
