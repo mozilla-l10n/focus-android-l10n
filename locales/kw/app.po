@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-04-30 09:14+0000\n"
+"PO-Revision-Date: 2018-04-30 15:48+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=(n==0)?0:(n==1)?1:(n%100==2)?2:(n%100==3)?3:(n%100==1||n%100==21||n%100==41||n%100==61||n%100==81)?4:5;\n"
+"Plural-Forms: nplurals=6; plural=(n==0)?0:(n==1)?1:((n%100==2||n%100==22||n%100==42||n%100==62||n%100==82)||((n%1000==0&&n%100000>=1000&&n%100000<=20000)||(n%20000==0)&&n%1000000!=0))?2:(n%100==3||n%100==23||n%100==43||n%100==63||n%100==83)?3:(n%100==1||n%100==21||n%100==41||n%100==61||n%100==81)?4:5;\n"
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Pontoon\n"
 
@@ -822,58 +822,58 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Oups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Ny yllyn karga an folen ma rag neb acheson."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Ranna an gevren"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Kopia trigva an gevren"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Ranna an imach"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Kopia trigva an imach"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Gwitha an imach"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Ygeri an gevren yn tabb nowydh"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "<b>Ny vydh diles</b> imajys gwithys ha rynnys pan wrellowgh hwi dilea istori %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Kenerthowgh agas privetter"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Kemerowgh peuri privedh dhe'n nivel nessa. Lettyowgh argemynnow ha dalgh aral a yll agas helerghi a-dreus dhe wiasvaow ha lenthe karga folennow."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
