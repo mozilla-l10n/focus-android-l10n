@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-04-30 15:48+0000\n"
+"PO-Revision-Date: 2018-05-01 02:11+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
@@ -878,66 +878,66 @@ msgstr "Kemerowgh peuri privedh dhe'n nivel nessa. Lettyowgh argemynnow ha dalgh
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Hwilas y'gas fordh hwi"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Ow hwilas neppyth dyffrans? Dewisewgh jynn-hwilas defowt aral y'n settyansow."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Keworra skochfordh dhe'gas skrin dre"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Dehwelowgh dhe'gas gwiasvaow meurgerys yn %1$s yn uskis. Dewisowgh \"Keworra dhe'n skrin dre\" y'n rol %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Gwrewgh dhe brivetter usadow"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Settyowgh %1$s avel agas peurell dhefowt ha kevowgh an lesow a beuri privedh pan wrellowgh hwi ygeri folennow gwias dhyworth towlennow erel."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Hepkor"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Nessa"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Keworra"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Hedhi"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -945,7 +945,7 @@ msgstr ""
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "An skodhfordh a wra ygeri gans difresyans rag helerghi diallosegys"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -956,7 +956,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Esedhek peuri privedh"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
