@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-01 14:29+0000\n"
+"PO-Revision-Date: 2018-05-01 14:35+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kw\n"
@@ -227,7 +227,7 @@ msgstr "Marow"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "Kollenwel awtomatek a drigvaow"
+msgstr "Kollenwel awtomatek a URLs"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
@@ -296,7 +296,7 @@ msgstr "An URL dhe geworra"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Glusa po entra URL"
+msgstr "Glusowgh po entrowgh URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -512,7 +512,7 @@ msgstr "Hanow an jynn-hwilas"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "Korden hwilas dhe usya"
+msgstr "An gorden hwilas dhe usya"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -530,7 +530,7 @@ msgstr "Jynn-hwilas nowydh keworrys."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "Keworrewgh hanow an jynn hwilas"
+msgstr "Keworrowgh hanow an jynn-hwilas"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
@@ -538,11 +538,11 @@ msgstr "Yma jynn-hwilas ynstallyes owth usya an hanow na seulabrys."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr "Entrewgh korden hwilas"
+msgstr "Entrowgh korden hwilas"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr "Checkyewgh bos an gorden hwilas na an keth furv ha'n ensampel"
+msgstr "Checkyowgh bos an gorden hwilas na an keth furv ha'n ensampel"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
