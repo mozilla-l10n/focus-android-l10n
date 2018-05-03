@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-03 23:29+0000\n"
+"PO-Revision-Date: 2018-05-03 23:48+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -420,17 +420,17 @@ msgstr "वेब फ्रंट ब्लौक करियै"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "सायद ईकोन आरु चित्रों के रिजल्ट गुम भेल छऽ"
+msgstr "आइकन अथवा छवि गुम हुए सकै छै"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr "ब्लोक JavaScript"
+msgstr " JavaScript ब्लौक करियै"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "पेज तेजो से लोड हो सके छs, मगर अप्रत्याशित रूप सs व्यवहार भी कैर सके छs"
+msgstr "पेज तेजी सँ लोड हुए सकै छै, मगर अनजान व्यवहार भी करै सकै छै"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -439,64 +439,64 @@ msgstr "पेज तेजो से लोड हो सके छs, मगर
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "%1$s कऽ मूलभूत ब्रोजर बनाबियै"
+msgstr "%1$s कऽ मूलभूत ब्रॉजर बनैइयै"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr "मोजिल्ला"
+msgstr "मोजिला"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr "डाटा उपयोग भेल भेजियै"
+msgstr "उपयोग डेटा भेजियै"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr "अधिक जानs"
+msgstr "अधिक जानियैs"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोजिल्ला खालि उ चीजोंं कऽ जमा करे ल प्रयास करै छs जे %1$s दै छs आरु जेकरो सुधार करै के जरुरी छै."
+msgstr "मोजिला केवल ओ चीज के जमा करै छै जकरा %1$s मे सभक लेली सुधार करै केरो आवश्यक्ता छै."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr "गोपनीय सूचना"
+msgstr "गोपनीयता सूचना"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "%1$s कऽ बारो मऽ"
+msgstr "%1$s के बारे मे"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "सर्च ईंजनों कs इंसटौल करियै"
+msgstr "सर्च ईंजन इंसटॉल करलो गेलै"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "डिफॉल्ट सर्च इंजन कs रिस्टोर करियै"
+msgstr "डिफॉल्ट सर्च इंजन के रिस्टोर करियै"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "दोसरो सर्च ईंजन जोरियै"
+msgstr "+ अन्य सर्च इंजन जोड़ियै"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "सर्च ईंजनों हटाभियै"
+msgstr "सर्च ईंजन हटैइयै"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr "हटाभोऽ"
+msgstr "हटैइयै"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -511,7 +511,7 @@ msgstr "सर्च ईंजन नाम"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "सर्च स्ट्रिंग उपयोग लऽ"
+msgstr "उपयोग लेली सर्च स्ट्रिंग"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -525,19 +525,19 @@ msgstr "उदाहरण: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr "नया सर्च ईंजन जुरलो छै"
+msgstr "नया सर्च ईंजन जोड़लो गेल."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "सर्च ईंजन के नाम लिखियै"
+msgstr "सर्च ईंजन केरो नाम भरियै"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr "एक इंस्टोल्ड सर्च इंजन पहलो सs उ नाम के उपयोग करि रहल छs."
+msgstr "एक ठो इंस्टॉल करल सर्च इंजन पहिने सs ओए नाम के उपयोग करि रहलो छै."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr "सर्च स्ट्रिंग लिखियै"
+msgstr "सर्च स्ट्रिंग भरियै"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
