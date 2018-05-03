@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-03 17:09+0000\n"
+"PO-Revision-Date: 2018-05-03 17:23+0000\n"
 "Last-Translator: seinlin.maung <seinlin.maung@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -82,7 +82,7 @@ msgstr "%1$s တွင်ဖွင့်ပါ"
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "...တွင် ဖွင့်ရန်"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -216,12 +216,12 @@ msgstr "မူလသတ်မှတ်ချက်"
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "ဖွင့်ပါ"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "ပိတ်ပါ"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
@@ -248,39 +248,39 @@ msgstr ""
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr ""
+msgstr "စိတ်ကြိုက် URLs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "စိတ်ကြိုက် URLs"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ စိတ်ကြိုက် URLs တိုးရန်"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "စိတ်ကြိုက် URLs တိုးရန်"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "စိတ်ကြိုက် URLs တိုးရန်"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "စိတ်ကြိုက် URLs ဖယ်ရှားရန်"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "ပိုမိုလေ့လာရန်"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
@@ -290,7 +290,7 @@ msgstr ""
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "တိုးမဲ့ URL"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
@@ -347,7 +347,7 @@ msgstr "ကြော်ငြာနောက်ယောက်ခံ ကိရ�
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "အချို့သော ကြော်ငြာများသည် ၎င်းတို့ကို ကလစ်နှိပ်ခြင်း မပြုလုပ်ပါပဲနှင့် ဆိုက်များကြည့်ရှုခြင်းကို မှတ်သားသည်။"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -355,7 +355,7 @@ msgstr "သရုပ်ခွဲလေ့လာသည့် နောက်ယ�
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "တို့ထိခြင်း၊ အထက်/အောက်ရွှေ့ခြင်း စသည့် လှုပ်ရှားမှုများကို စုဆောင်းရန်၊ ပိုင်းခြားစိတ်ဖြာရန်နှင့် တိုင်းတာရန်အတွက် အသုံးပြုသည်။"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -363,7 +363,7 @@ msgstr "လူမှုမီဒီယာ နောက်ယောင်ခံ�
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "ဝဘ်ဆိုက်များတွင် မြှုပ်ထည့်ထားခြင်းသည် လည်ပတ်ခြင်းကို မှတ်သားရန်နှင့် မျှဝေခလုတ်များကဲသို့ လုပ်ဆောင်မှုများကို ပြသရန်အတွက် ဖြစ်သည်။"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -371,7 +371,7 @@ msgstr "အခြားသော အကြောင်းအရာနောက�
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "လုပ်ဆောင်ချက်ကို ဖွင့်လိုက်ခြင်းသည် အချို့သော ဝဘ်စာမျက်နှာများ၏ လုပ်ဆောင်ချက်များကို ထိခိုက်စေနိုင်သည်။"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -382,7 +382,7 @@ msgstr ""
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "မဟုတ်ပါ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -390,7 +390,7 @@ msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "ဟုတ်ပါသည်"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -425,7 +425,7 @@ msgstr "အိုင်ကွန်များ သို့မဟုတ် ရ�
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "JavaScript ကိုပိတ်ဆို့ရန်"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -504,7 +504,7 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "ရှာဖွေရေး အင်ဂျင် တိုးရန်"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
