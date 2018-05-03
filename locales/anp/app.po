@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-01 17:02+0000\n"
-"Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
+"PO-Revision-Date: 2018-05-03 23:29+0000\n"
+"Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: anp\n"
@@ -44,20 +44,20 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr "स्वचालित निजी ब्रॉउजिंग.ब्रॉउज. मेटैइयै. दोहरैइयै."
+msgstr "स्वचालित निजी ब्रॉउजिंग. ब्रॉउज. मेटैइयै. दोहरैइयै."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "अपनो के ब्रॉउजिंग इतिहास के मेटाए देलोऽ गेलए."
+msgstr "अहाँ के ब्रॉउजिंग इतिहास के मेटाए देलोऽ गेलए."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "%1$s लेली खोजहो"
+msgstr "%1$s लेली खोजियै"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -109,7 +109,7 @@ msgstr "मदत"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr "अपने के अधिकार"
+msgstr "अहाँ के अधिकार"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -195,12 +195,12 @@ msgstr ""
 "<p>%1$s आपना कन्ट्रोल मे रखियैs.</p>\n"
 "<p>एकरा निजि ब्राउजर के रुप में काम लियs:\n"
 "  <ul>\n"
-"    <li>ऐप में सही खोजऽ आरु ब्राउज करियै</li>\n"
+"    <li>ऐप में सही खोजियै आरु ब्राउज करियै</li>\n"
 "    <li>ट्रकेर्स ब्लोक(या ट्रैकर्स कs अनुमति दिय खातिर सेटिंग्स अपडेट करियै)</li>\n"
 "    <li>कुकीज के साथ सर्च आरु ब्राउज़िंग इतिहास के हटाबै लेली मेटैइयै</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$sमोज़िला द्वारा उत्पादित,आपनो लक्ष्य स्वस्थ कs बढ़ावा देनाय छs,इंटरनेट खोलियै.<br/>\n"
+"<p>%1$sमोज़िला द्वारा उत्पादित,आपनो लक्ष्य स्वस्थ कs बढ़ावा देनाय छै, इंटरनेट खोलियै.<br/>\n"
 "<a href=\"%2$s\">बेसी जानियै</a></p>"
 
 msgctxt "preference_category_search"
@@ -242,7 +242,7 @@ msgstr "मूलभूत URL सूची"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "पता बार म 450 सs जादा लोकप्रिय यूआरएल %1$s खुद्दे पुरा करे लs सक्षम करियै."
+msgstr "पता बार मे 450 सs जादा लोकप्रिय यूआरएल %1$s खुद्दे पूरा करै लs सक्षम करियै."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -259,22 +259,22 @@ msgstr "पसंदीदा URLs"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ अपन पसंदीदा URL जोड़ि‍यैै"
+msgstr "+ अपन पसंदीदा URL जोड़ि‍यै"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "पसंदीदा URL जोड़ि‍यैै"
+msgstr "पसंदीदा URL जोड़ि‍यै"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr "पसंदीदा URL जोड़ि‍यैै"
+msgstr "पसंदीदा URL जोड़ि‍यै"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "पसंदीदा URLs जोड़ि‍यैै"
+msgstr "पसंदीदा URLs जोड़ि‍यै"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -284,7 +284,7 @@ msgstr "बेसी जानकारी"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "जोड़ि‍यैै आरु मेनेज करि‍यैै पसंदीदा अपनो सँ पूर्ण URLs."
+msgstr "जोड़ि‍यै आरु मैनेज करि‍यै पसंदीदा अपना सँ पूर्ण URLs."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -312,19 +312,19 @@ msgstr "नया उपभोक्ता पसंदीदा URL जोड�
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr "हटाभोऽ"
+msgstr "हटैइयै"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr "हटाभोऽ"
+msgstr "हटैइयै"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "जे URL भरने छहोऽ ओकरा फिनु सँ जाँच करि‍यै."
+msgstr "जे URL भरने छथिन ओकरा फिनु सँ जाँच करि‍यै."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -346,7 +346,7 @@ msgstr "विज्ञापन ट्रैकर्स कs ब्लॉक �
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "कुछ विज्ञापन साइट विजिट ट्रैक करै छs , भले तोय विज्ञापन पर क्लिक नै करियै"
+msgstr "कुछ विज्ञापन साइट विजिट ट्रैक करै छै, भले अहाँ विज्ञापन पर क्लिक नै करै छी"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -354,15 +354,15 @@ msgstr "एनालेटिक ट्रैकर्स ब्लौक कर
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "इकट्ठा करे लऽ, विश्लेषण और मापे लऽ उपयोग करलो जाय छs"
+msgstr "इकट्ठा करै लऽ, विश्लेषण और मापे लऽ उपयोग करलो जाय छै"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "सोसिअल ट्रैकर्स ब्लौक करियै"
+msgstr "सोशल ट्रैकर्स ब्लौक करियै"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "अपनो यात्रि सिनि कऽ ट्रैक करे लऽ साइटों पर एंबेडेड आरु शेयर बटन जैसनो कार्यक्षमता देखबे लऽ"
+msgstr "साइट पर अहाँ के आबै जाए पर निगरानी राखए आरू शेयर बटन जेहन कार्यक्षमता प्रदर्शित करए लेली अंत:स्थापित"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -370,11 +370,11 @@ msgstr "दोसरो कोंटेंट ट्रैकर्स ब्ल
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr "सक्षम करै सऽ कुछ पृष्ठों के व्यवहार अप्रत्याशित रूप हो सकै छऽ"
+msgstr "सक्षम करै सऽ कुछ पृष्ठ के व्यवहार अप्रत्याशित हुए सकै छै"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr "सबऽ कुकिज ब्लोक करियै"
+msgstr "कुकीज ब्लौक करियै"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -385,11 +385,11 @@ msgstr "नैय"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr "खालि 3र्ड पार्टी कूकीज ब्लोक करियै"
+msgstr "खाली 3र्ड पार्टी कूकीज ब्लौक करियै"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr "हॉ"
+msgstr "हौं"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -406,7 +406,7 @@ msgstr "गोपनीयता"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr "ऐप्स कs स्विच करै समय वेबपेज छिपाबियै"
+msgstr "ऐप्स कs स्विच करै समय वेबपेज नुकैइयै"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -414,7 +414,7 @@ msgstr "प्रदर्शन"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "वेब फ्रंटौं कऽ ब्लौक करियै"
+msgstr "वेब फ्रंट ब्लौक करियै"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
