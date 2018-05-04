@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-04 00:28+0000\n"
+"PO-Revision-Date: 2018-05-04 00:50+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -765,13 +765,13 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>वेब एड्रेस आमतौर पर लिखल जाय छ <strong>http://www.example.com/</strong></li>\n"
-"  <li>सुनिश्चित करऽ कि तोय आगे स्लैश के उपयोग कैर रहल छऽ (i.e. <strong>/</strong>).</li>\n"
+"  <li>वेब पता आमतौर पर <strong>http://www.example.com/</strong> जेना लिखलो रहै छै</li>\n"
+"  <li>सुनिश्चित करू जे अहाँ फॉरवर्ड स्लैश केरो उपयोग करि रहलो छी (यानी <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr "पेज ठीक से रीडायरेक्ट नै कैर रहल छs"
+msgstr "पेज ठीक से रीडायरेक्ट नै भ्या रहलो छै"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -780,12 +780,12 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ई प्रोब्लेम कभी-कभी कुकीजो कऽ अस्वीकार करै या अस्वीकार करै के कारण होय सकै छऽ.</li>\n"
+"  <li>कखनो-कखनो ई समस्या केरो कारण कुकीज़ के स्वीकार करए सँ मना कएनाय या अक्षम कएनाय भाया सकै छै.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr "ई एड्रैस नै समझलिए"
+msgstr "पता बुझल नैय गेलो रहै"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -794,7 +794,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>तोहरो ई एड्रेस क खोलै लऽ दोसरो सॉफ़्टवेयर इंसटोल करै के जरुरी हो सकै छऽ.</li>\n"
+"  <li>अहाँ के ई पता खोलए लेली आन सॉफ़्टवेयर संस्थापित करए केरो आवश्यकता भ्या सकै छै.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -811,47 +811,48 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ई सर्वर कs कॉन्फ़िगरेशन में कोय समस्या हो सकै छs, आरु ई सर्वर कs प्रतिरूपण करै क कोशिश करि रहल छs.</li>\n"
-"  <li>अगर तोय ठीक सs इ सर्वर से कनेक्ट कैर लेने छोs, गलती अस्थायी भे सकै छs, आरु आपनो क फेनु बाद मे कोशिस के सकै छs.</li>\n"
+"  <li>ई सर्वर के कॉन्फ़िगरेशन में समस्या भ्या सकै छै, या ई हुए सकै छै\n"
+"कि कोय सर्वर सँ जाली रूप सँ जुड़ए केरो प्रयास करि रहलो छै.</li>\n"
+"  <li>अगर अहाँ पहिले में ई सर्वर सँ सफलतापूर्वक जुड़ि चुकल छी, तँ त्रुटि अस्थायी भ्या सकै छै, आरू अहाँ बाद में पुनः प्रयास करि सकै छी.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr "ओफऽ"
+msgstr "ओह"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "कुछ कारनोंं से पेज लोड नै भे रहलोऽ छै."
+msgstr "हम कोनो कारण सँ ई पृष्ठ लोड नय करि सकै छी."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr "लिंक बाटऽ"
+msgstr "लिंक शेयर करियै"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr "लिंक एड्रेस कोपी करऽ"
+msgstr "लिंक एड्रेस कॉपी करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr "चित्र बाटऽ"
+msgstr "चित्र शेयर करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "इमेज एड्रेस कोपी करऽ"
+msgstr "इमेज पता कॉपी करियै"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr "चित्र सहेजऽ"
+msgstr "चित्र सहेजियै"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr "लिंक के नया टैब मे खोलऽ"
+msgstr "लिंक नया टैब में खोलियै"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
