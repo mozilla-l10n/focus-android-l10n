@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-04 00:50+0000\n"
+"PO-Revision-Date: 2018-05-04 01:10+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -859,63 +859,63 @@ msgstr "लिंक नया टैब में खोलियै"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "सहेजअ आरु बाटा चित्र <b>जब तोय %1$s इतिहास कs मिटैभो तs </b> हटाल्य नै जैतs."
+msgstr "सहेजलो गेल आरू शेयर कएल गेल छवि <b>हटाएलो नय जाएत</b> जखन अहाँ %1$s इतिहास के मेटाएबै."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr "अपनो गोपनीयता पर पावर दोहो"
+msgstr "अपन गोपनीयता के बढ़ैइयै"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "अगलो लेवल पे निजी ब्राउज़िंग लs,विज्ञापनों और दोसरो सामग्री कs ब्लॉक करियै जे आपनो साइट पर ट्रैक कैर सकै छs और पृष्ठ लोड समय क दबाय सकै छs."
+msgstr "निजी ब्राउज़िंग के अगिला स्तर धरि लिअ. विज्ञापन आरू आन सामग्री के ब्लॉक करू जे अहाँक सभ साइट के ट्रैक करि सकै छै आरू पृष्ठ लोड समय के बढ़ाए दै छै."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr "तोहरो सर्च, तोहरो रस्ता"
+msgstr "अहाँक खोज, अहाँक रस्ता"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "कुछ अलग खातिर खोजियै? सेटिंग्स में एगो और डिफ़ॉल्ट खोज इंजन चुनियै."
+msgstr "कुछ अलग खोजि रहलो छी? सेटिंग्स में दोसर डिफ़ॉल्ट खोज इंजन चुनियै."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr "अपनो होम स्क्रीन पर शॉर्टकट जोड़हो"
+msgstr "अपन मुख्य स्क्रीन पर शॉर्टकट जोड़ियै"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "आपनो पसंदिदा साइट %1$s मे जल्दी लोटियै. %1$s मेनू से बस \"होम स्क्रीन जोर\" कs चयन करियै."
+msgstr "%1$s में अपन पसंदीदा साइट पर तेज़ी सँ वापस जइयै. बस %1$s मेनू से \"मुख्य स्क्रीन पर जोड़ियै\" चुनियै."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr "आदत कs गोपनीयता बनाभो"
+msgstr "गोपनीयता अपन आदत बनैइयै"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "अपनओ डिफ़ॉल्ट ब्राउज़र के रूप मs %1$s सेट करs आरु जब आपनो दोसरो ऐप्स से वेबपृष्ठ खोलभो त निजी ब्राउज़िंग के लाभ मिलतs."
+msgstr "%1$s क अपनो तयशुदा ब्राउज़र रूप में सेट करू आरू जखन अहाँ आन ऐप सँ वेबपृष्ठ खोलै छी तब निजी ब्राउज़िंग केरो फायदा प्राप्त करियै."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr "ठिक छऽ, मिलि गेलऽ"
+msgstr "ठीक, बुझि गेलियै!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr "छोरऽ"
+msgstr "छोड़ियै"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr "अगलोऽ"
+msgstr "अगिला"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -927,7 +927,7 @@ msgstr "-"
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr "जोरऽ"
+msgstr "जोड़ियै"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
@@ -941,7 +941,7 @@ msgstr "कैंसिल"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr "ट्रैकिंग सुरक्षा अक्षम कs साथ शॉर्टकट खुल जैतs"
+msgstr "शॉर्टकट अक्षम ट्रैकिंग सुरक्षा केरो साथ खुलत"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -965,13 +965,13 @@ msgstr "निजी ब्राउज़िंग सत्र"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "सुचना एक टैप के साथ %1$s सिजन मिटाभो. आपनो के ऐप खोलै या आपनो ब्राउज़र में कि चलि रहल छै देखै के जरुरि नै छs."
+msgstr "अधिसूचनाएँ अहाँक अपन %1$s सत्र एक टैप सँग मेटाबै दय छै. अहाँक ऐप खोलए या ब्राउज़र में कथि भ्या रहलो छै, देखए केरो ज़रूरत नय छै."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr "ब्राउज़िंग इतिहास मेटाभोऽ"
+msgstr "ब्राउज़िंग इतिहास मेटैइयै"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -979,20 +979,20 @@ msgstr "ब्राउज़िंग इतिहास मेटाभोऽ"
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr "फायरफोक्स डाउनलोड करऽ"
+msgstr "फ़ायरफ़ॉक्स डाउनलोड करियै"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s मुफ्तो के आरु ओपन सौर्स सोफ्टवेयर छिए जैय मोजिला आरु दोसरो क्न्ट्रिब्युटर द्वारा बनैलो गेल छै"
+msgstr "%1$s मोज़िला आरू आन योगदानकर्ता द्वारा बनाएल गेलो स्वतंत्र आरू मुक्त स्रोत सॉफ्टवेयर छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s आपनो कs<a href=\"%2$s\">मोज़िला पब्लिक लाइसेंस</a>आरु दोसरो ओपन सोर्स लाइसेंस कs शर्तों के तहत उपलब्ध कराल्य गेल छs."
+msgstr "%1$s <a href=\"%2$s\">मोज़िला सार्वजनिक लाइसेंस</a> आरू आन मुक्त स्रोत लाइसेंस केरो नियम के अंतर्गत अहाँ के उपलब्ध करैलो जाए छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1003,15 +1003,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"आपनो कs मोज़िला फाउंडेशन या कोनो पार्टी के ट्रेडमार्क के लिए कोय अधिकार या लाइसेंस नै देल गेल छs,मोज़िला सहित, फ़ायरफ़ॉक्स या %1$s नाम या लोगो. अतिरिक्त जानकारी <a href=\"%2$s\"> यहां </a> मिल सकै "
-"छs."
+"अहाँ के Mozilla Foundation अथवा Mozilla, Firefox या %1$s नाम या प्रतीकचिन्ह सहित कोनो पक्ष के ट्रेडमार्क के कोनो भी अधिकार या लाइसेन्स प्रदान नय कएलो गेलो छै. अतिरिक्त जानकारी <a "
+"href=\"%2$s\">एतय</a> भेटि सकै छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s कs खातिर एडिसनल स्रोत कोड विभिन्न दोसरो मुक्त आरु मुक्त स्रोत<a href=\"%2$s\"> लाइसेंस</a>के अंतर्गत उपलब्ध छs."
+msgstr "%1$s लेली अतिरिक्त स्रोत कोड अनेक आन निशुल्क आरू मुक्त स्रोत <a href=\"%2$s\">लाइसेन्स</a> केरो अंतर्गत उपलब्ध छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
