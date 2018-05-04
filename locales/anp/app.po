@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-04 01:10+0000\n"
+"PO-Revision-Date: 2018-05-04 01:13+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1021,27 +1021,27 @@ msgstr "%1$s लेली अतिरिक्त स्रोत कोड अ
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s डिस्कनेक्ट द्वारा प्रदान करल ब्लॉकलिस्ट के भी उपयोग करै छ, इंक. <a href=\"%2$s\"> जीएनयू जनरल पब्लिक लाइसेंस v3 </a> क तहत अलगो आरु स्वतंत्र काम क रूप में, आरु उपलब्ध <a href=\"%3$s\"> यहां "
-"</a>."
+"%1$s Disconnect, Inc. द्वारा देलो गेल अवरुद्धसूची केरो भी उपयोग <a href=\"%2$s\">GNU General Public License v3</a> के अंतर्गत पृथक आरू स्वतंत्र कार्य के रूप में करै छै, आरू <a href=\"%3$s\">यहाँ</a>"
+" उपलब्ध छै."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr "यूजरनेम"
+msgstr "यूजरनाम"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr "पसवर्ड"
+msgstr "पासवर्ड"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr "हटाभोऽ"
+msgstr "हटैइयै"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr "सुरक्षित कनेक्सन"
+msgstr "सुरक्षित कनेक्शन"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
@@ -1060,4 +1060,4 @@ msgstr "साइट सुरक्षा"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr "URL पहलो से मौजूद छs"
+msgstr "URL पहले से मौजूद छै"
