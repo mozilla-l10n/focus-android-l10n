@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-03 23:48+0000\n"
+"PO-Revision-Date: 2018-05-03 23:58+0000\n"
 "Last-Translator: Sangeeta Kumari <sangeeta09@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -541,13 +541,13 @@ msgstr "सर्च स्ट्रिंग भरियै"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr "सर्च स्ट्रिंग मैच प्रारूप उदाहरण कs जांचियै"
+msgstr "जाँचू जे सर्च स्ट्रिंग उदाहरण प्रारूप सँ मेल करै छै"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "इनपुट मेटाभियै"
+msgstr "इनपुट मेटैइयै"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -555,13 +555,13 @@ msgstr "इनपुट मेटाभियै"
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr "रद करऽ"
+msgstr "रद्द करियै"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "ब्राउजिंग हिस्ट्री मेटाभियै"
+msgstr "ब्राउजिंग इतिहास मेटैइयै"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -571,7 +571,7 @@ msgstr "ब्राउजिंग हिस्ट्री मेटाभि�
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr "%1$s टैवो खोलियै"
+msgstr "%1$s टैब खोलियै"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -583,25 +583,25 @@ msgstr "सुरक्षित कनेक्सन"
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr "लोडिंग"
+msgstr "लोड भ्या रहलो छै"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "वेबसाईट लोड भेलऽ"
+msgstr "वेबसाईट लोड भेलै"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr "अधिकोऽ विकल्प"
+msgstr "अधिक विकल्प"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr "नेभिगेट आगे भेजऽ"
+msgstr "आगाँ मार्गनिर्देशित करियै"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -613,35 +613,35 @@ msgstr "वेबसाईट फेनु लोड करियै"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "नेभिगेट पिछु करियै"
+msgstr "पाछाँ मार्गनिर्देशित करियै"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "लोडिंग वेबसाईट रोकियै"
+msgstr "लोड भ्या रहलो वेबसाईट के रोकियै"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "पहलो एप्प मेंं चलऽ"
+msgstr "पिछला ऐप पर वापस घुरियैs"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ट्रेकर्स ब्लोक करियै"
+msgstr "ट्रेकर्स ब्लॉक करियै"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr "तोहरो अधिकर"
+msgstr "अहाँ के अधिकार"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "दोसरो एप्प मे लिंक खोलियै"
+msgstr "दोसर एप मे लिंक खोलियै"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -649,13 +649,13 @@ msgstr "दोसरो एप्प मे लिंक खोलियै"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "तोय लिंक %2$s में खोलै लs %1$s छोड़ सकै छs."
+msgstr "अहाँ लिंक %2$s में खोलै लेली %1$s छोड़ि सकै छी."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "एगो ऐप ढूंढें लs जो लिंक खोल सकै छs"
+msgstr "एकठो ऐप खोजू जे लिंक खोलि सकैत छै"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
