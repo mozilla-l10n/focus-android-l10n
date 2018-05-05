@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-05 11:06+0000\n"
+"PO-Revision-Date: 2018-05-05 11:18+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -407,7 +407,7 @@ msgstr "તરકિબ"
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "એપ્લિકેશન્સને સ્વિચ કરતી વખતે વેબપૃષ્ઠો છુપાવો"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -431,7 +431,7 @@ msgstr "JavaScript અવરોધ"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "પૃષ્ઠો વધુ ઝડપથી લોડ થઈ શકે છે, પરંતુ અણધારી રૂપે વર્તન પણ કરી શકે છે"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -440,7 +440,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s મૂળભૂત બ્રાઉઝર બનાવો"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -461,7 +461,7 @@ msgstr "વધુ શીખો"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "મોઝિલા માત્ર દરેકને માટે %1$s પ્રદાન અને સુધારવાની જરૂર છે તે એકત્રિત કરવાનો પ્રયત્ન કરે છે."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -522,7 +522,7 @@ msgstr "સંગ્રહો"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "ઉદાહરણ: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -534,15 +534,15 @@ msgstr "શોધ એંજીન નામ દાખલ કરો"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "એક સ્થાપિત શોધ એંજીન પહેલેથી જ તે નામનો ઉપયોગ કરી રહ્યું છે."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "શબ્દમાળા દાખલ કરો"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "તે તપાસણી કરો કે શબ્દમાળા ઉદાહરણ ફોર્મેટ સાથે મેળ ખાય છે"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -1031,7 +1031,7 @@ msgstr "અસુરક્ષિત જોડાણ"
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "દ્વારા ખાતરી થઈ: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
