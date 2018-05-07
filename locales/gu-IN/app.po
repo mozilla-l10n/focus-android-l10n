@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-05 11:18+0000\n"
-"Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
+"PO-Revision-Date: 2018-02-09 07:33+0000\n"
+"Last-Translator: Hariom Panchal <hariompanchal6079@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
@@ -650,7 +650,7 @@ msgstr "અન્ય એપ્લિકેશનમાં લિંક ખોલ
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "તમે %2$sમાં આ લિંકને ખોલવા માટે %1$s છોડી શકો છો."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
