@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-26 14:07-0700\n"
-"PO-Revision-Date: 2018-05-09 17:13+0000\n"
+"PO-Revision-Date: 2018-05-09 17:32+0000\n"
 "Last-Translator: Chris AtLee <chris@atlee.ca>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_CA\n"
@@ -530,25 +530,25 @@ msgstr "New search engine added."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Enter search engine name"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "An installed search engine is already using that name."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Enter search string"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Check that search string matches Example format"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Clear input"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -556,13 +556,13 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Dismiss"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Erase browsing history"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -572,25 +572,25 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Tabs open: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Secure connection"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Website loaded"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
