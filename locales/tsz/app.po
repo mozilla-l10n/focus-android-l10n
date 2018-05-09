@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-05-09 19:11+0000\n"
+"PO-Revision-Date: 2018-05-09 19:25+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tsz\n"
@@ -447,7 +447,7 @@ msgstr "Eranharhikwaecha kókamintu jatsïranhati, nájkuru nántarkuni jamaka"
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "Íni %1$s jirinhatarantskwani pént'ani"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -455,7 +455,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Jatanhekwa ampe axani"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -468,7 +468,7 @@ msgstr "Sánteru mítini"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla jánkurhintasïnti mítini ampe manka sésimintu ánchitaka %1$sm yamintuecha jimpo."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
