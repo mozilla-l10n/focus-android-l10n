@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-05-09 19:25+0000\n"
+"PO-Revision-Date: 2018-05-11 14:09+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tsz\n"
@@ -480,7 +480,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "Ankueri %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -490,7 +490,7 @@ msgstr "Jirinhatarantskwaecha jatsïrakurhikataecha"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Jirinhatarantskwaechani pént'ani"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
