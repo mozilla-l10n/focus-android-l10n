@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-26 14:07-0700\n"
+"POT-Creation-Date: 2018-05-15 17:10-0700\n"
 "PO-Revision-Date: 2018-04-18 17:26+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language: th\n"
@@ -63,6 +63,11 @@ msgstr "ค้นหา %1$s"
 msgctxt "menu_share"
 msgid "Share…"
 msgstr "แบ่งปัน…"
+
+#. Menu item: Report an issue on the current site
+msgctxt "menu_report_site_issue"
+msgid "Report Site Issue"
+msgstr ""
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -206,6 +211,57 @@ msgstr ""
 "ภารกิจของเราคือส่งเสริมอินเทอร์เน็ตที่สมบูรณ์และเปิดกว้าง<br/>\n"
 "<a href=\"%2$s\">เรียนรู้เพิ่มเติม</a></p>"
 
+#. Header for the Privacy and Security settings menu
+msgctxt "preference_privacy_and_security_header"
+msgid "Privacy & Security"
+msgstr ""
+
+#. Preference summary for settings related to privacy and security
+msgctxt "preference_privacy_and_security_summary"
+msgid "Tracking, cookies, data choices"
+msgstr ""
+
+#. Preference category description for settings related to search, set default
+#. and autocomplete are settings a user can find and change inside the "search"
+#. settings screen
+msgctxt "preference_search_summary"
+msgid "Set default, autocomplete"
+msgstr ""
+
+#. Preference category description for settings screen for settings related to
+#. Mozilla
+#. About the app and help are links that are inside this menu
+#. %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_mozilla_summary"
+msgid "About %1$s, help"
+msgstr ""
+
+#. Preference category for ad blocking and tracking protection settings
+msgctxt "preference_category_tracking_protection"
+msgid "Tracking Protection"
+msgstr ""
+
+#. Preference category for settings related to controlling web content
+msgctxt "preference_category_web_content"
+msgid "Web Content"
+msgstr ""
+
+#. Preference category: stealth settings for while switching apps
+msgctxt "preference_category_switching_apps"
+msgid "Switching Apps"
+msgstr ""
+
+#. Preference category for General Settings
+msgctxt "preference_category_general"
+msgid "General"
+msgstr ""
+
+#. Preference category for settings about sending usage data
+msgctxt "preference_category_data_collection_use"
+msgid "Data Collection & Use"
+msgstr ""
+
 msgctxt "preference_category_search"
 msgid "Search"
 msgstr "ค้นหา"
@@ -276,6 +332,16 @@ msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr "เพิ่ม URL ที่กำหนดเอง"
 
+#. Preference category for settings about cookies and site data
+msgctxt "preference_category_cookies"
+msgid "Cookies and Site Data"
+msgstr ""
+
+#. Preference category for settings about data choices
+msgctxt "preference_category_data_choices"
+msgid "Data Choices"
+msgstr ""
+
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
@@ -304,6 +370,11 @@ msgstr "วางหรือป้อน URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
+msgctxt "preference_autocomplete_add_example2"
+msgid "Example: mozilla.org"
+msgstr ""
+
+#. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
 msgstr "ตัวอย่าง: example.com"
