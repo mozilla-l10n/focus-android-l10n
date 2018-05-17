@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-15 17:10-0700\n"
-"PO-Revision-Date: 2018-05-17 03:30+0000\n"
+"PO-Revision-Date: 2018-05-17 03:39+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -225,7 +225,7 @@ msgstr "Traciamento, cookies, electiones de datos"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Definir option base, autocompletion"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -234,32 +234,32 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "A proposito de %1$s, adjuta"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Protection contra le traciamento"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Contento de web"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Navigation trans le applicationes"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Collection e uso de datos"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -332,12 +332,12 @@ msgstr "Adder URL personalisate"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies e datos de sitos"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Selectiones de datos"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -369,7 +369,7 @@ msgstr "Colla o insere le URL"
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "Exemplo: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
