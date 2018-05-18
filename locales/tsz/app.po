@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-05-18 18:46+0000\n"
+"PO-Revision-Date: 2018-05-18 19:11+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tsz\n"
@@ -983,24 +983,24 @@ msgstr "Ch'éeti jirinhanstkwa, ch'éeti jánkwa"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Ampema jirinhantaxakiri? Máteru jirinhatarantskwani eraku pékurhintskwaecharhu."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Wenakwarhu jurhikutakwaechani kuparhataa"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Ch'éeti eranharhikukwaecharhu kw'anhatsent'ani %1$s kókamintu. Eraku \"Wenakwarhu kúparhatani\" %1$s jatakwarhu."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Méntku ísï jirikurhiparini"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -1011,7 +1011,7 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Ya, parini!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
@@ -1149,21 +1149,21 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "Jakankurhikwa"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Mítintskwa"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Ampakerani"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Kwatakata inchaparhakwa"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
