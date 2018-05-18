@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-05-17 20:12+0000\n"
+"PO-Revision-Date: 2018-05-18 16:50+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tsz\n"
@@ -777,14 +777,14 @@ msgstr "Áamku ma úratarakwa úa mítani íni eranharhikwa. Úakari wént'ani %
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Xipatinku Jirinhantskwarhu Wéntari?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s k'amakukata"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
@@ -796,7 +796,7 @@ msgstr "Mítani"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Patsakurhikataecha <b>áamku kéntinhaa</b> énkari miatskwani %1$s kéntitaka."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -816,7 +816,7 @@ msgstr "Jatsïrakurhini"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Wantanhietaeri eranharhikwa"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -824,7 +824,7 @@ msgstr "Tsek'tant'ani"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Áamku úa inchaparhatani"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
