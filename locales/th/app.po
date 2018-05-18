@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-15 17:10-0700\n"
-"PO-Revision-Date: 2018-05-18 13:47+0000\n"
+"PO-Revision-Date: 2018-05-18 15:13+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -224,7 +224,7 @@ msgstr "การติดตาม, คุกกี้, ทางเลือ�
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "ตั้งค่าเริ่มต้น, การเติมอัตโนมัติ"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -233,7 +233,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "เกี่ยวกับ %1$s, ช่วยเหลือ"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
