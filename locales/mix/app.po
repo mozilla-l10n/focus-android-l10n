@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-15 17:10-0700\n"
-"PO-Revision-Date: 2018-05-18 01:26+0000\n"
+"PO-Revision-Date: 2018-05-18 01:42+0000\n"
 "Last-Translator: bttaveronica <bttaveronica@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -223,7 +223,7 @@ msgstr "Lista ña rastreo, cookies tsi tutu"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Chikai tana xina, cha ntacha'a mií ña"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -257,7 +257,7 @@ msgstr "Ntií"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Satutu kue tutu cha nchi vai"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -433,7 +433,7 @@ msgstr "Kasi ña ndukuyo"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Ntachiiaña nu ke sitiotava ntanii ña ntsinu cha snai boton tana kua'á"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -501,7 +501,7 @@ msgstr "Kasi JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Ku yàchika kitsa kue página, ti ku ma nuna va’i"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
