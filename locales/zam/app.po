@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-15 17:10-0700\n"
-"PO-Revision-Date: 2018-05-19 00:08+0000\n"
+"PO-Revision-Date: 2018-05-19 00:19+0000\n"
 "Last-Translator: rodrigo_perez_r <rodrigo_perez_r@yahoo.com>\n"
 "Language-Team: zam <LL@li.org>\n"
 "\n"
@@ -206,7 +206,7 @@ msgstr ""
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "Nêd, cookies ner yêts"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
@@ -320,7 +320,7 @@ msgstr "M-tòb URL"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies ner kwàɁn mb-šèn=lû"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
@@ -710,13 +710,13 @@ msgstr "Mb-šàlɁ nêt (n̆eza) lenɁ tá thîb app"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Tàk rûl trè %1$s zá tàk mb-šàlɁ nêd ré lenɁ %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "KwàɁn app kó tàk mb-šàlɁ nêd ré"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -725,7 +725,7 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Niè thîb app tàk mb-šàlɁ nêd ré. Tàk rûl trè %1$s zá tàk mb-šàlɁ nêd ré lenɁ %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -908,6 +908,7 @@ msgstr "M-tób kì ko lùt ta wí"
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
+"Lleva la navegación privada a otro nivel. Bloquea anuncios publicitarios y otro tipo de contenido que puede rastrearte a través de los sitios y ralentizar el tiempo de descarga de las páginas."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -917,12 +918,12 @@ msgstr ""
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "¿Buscas algo diferente? Elige otro motor de búsqueda predeterminado en Ajustes."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Agrega atajos a la pantalla principal"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -934,7 +935,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Acostúmbrate a la privacidad"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
