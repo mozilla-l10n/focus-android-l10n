@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-15 17:10-0700\n"
-"PO-Revision-Date: 2018-05-18 23:50+0000\n"
+"PO-Revision-Date: 2018-05-19 00:08+0000\n"
 "Last-Translator: rodrigo_perez_r <rodrigo_perez_r@yahoo.com>\n"
 "Language-Team: zam <LL@li.org>\n"
 "\n"
@@ -222,7 +222,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "KwàɁn %1$s, lì-chél"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -232,7 +232,7 @@ msgstr ""
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "KwàɁn šò=leɁn"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
@@ -242,7 +242,7 @@ msgstr ""
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "Ré=tá"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -293,7 +293,7 @@ msgstr ""
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Tùs kùe URLs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
@@ -435,7 +435,7 @@ msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "TòɁw cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -446,7 +446,7 @@ msgstr "N-gén=tá"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "TòɁw 3 cookies ná táɁ thîb mèn"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -475,7 +475,7 @@ msgstr "Sà dè kèy sín"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "TòɁw letr Internet"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -485,7 +485,7 @@ msgstr ""
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "TòɁw lô JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -500,7 +500,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "M-tòb %1$s mdó-lás=lû "
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -662,7 +662,7 @@ msgstr "Wì kó ták lìl"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Gûa sìs nêd"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -674,7 +674,7 @@ msgstr "TeɁ zàp lô"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Bì-rè nêd"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -687,7 +687,7 @@ msgstr "B-láɁ mdé láɁ=y"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Bí-ré app"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -820,7 +820,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Kàp m-kêl leɁ=nî"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -842,7 +842,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Ngyé-n kwàɁn nàk"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -1075,22 +1075,22 @@ msgstr "Tòb-bì"
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Bès-tá m-dób kîy"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "WíɁ bès-tá"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "WíɁ=y: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "Zá nî-éy"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
