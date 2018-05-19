@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-15 17:10-0700\n"
-"PO-Revision-Date: 2018-05-17 18:38+0000\n"
+"PO-Revision-Date: 2018-05-19 16:30+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: oc <LL@li.org>\n"
 "\n"
@@ -69,7 +69,7 @@ msgstr "Partejar…"
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr ""
+msgstr "Senhalar un problèma sul site"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -213,19 +213,19 @@ msgstr ""
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
 msgid "Privacy & Security"
-msgstr ""
+msgstr "Vida privada e seguretat"
 
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "Seguiment, cookies, donadas reculhidas"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Motor per defaut, autocompletacion"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -234,22 +234,22 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "A prepaus de %1$s, ajuda"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Proteccion contra lo seguiment"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Contengut web"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Bascula entre las aplicacions"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
@@ -259,7 +259,7 @@ msgstr "General"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Collecta de donadas e utilizacion"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -332,12 +332,12 @@ msgstr "Ajustar una adreça personalizada"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies e donadas de sites"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Donadas reculhidas"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
