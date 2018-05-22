@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-04-17 16:18-0700\n"
-"PO-Revision-Date: 2018-05-22 17:09+0000\n"
+"PO-Revision-Date: 2018-05-22 17:48+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tsz\n"
@@ -1144,7 +1144,7 @@ msgstr "Sánteru ampe marhuatakwaeri %1$s exent'akari máteru úricha<a href=\"%
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s kwarhukperatichani maruatasïnti énka Disconnect, ka Inc. táchani únka ixu <a href=\"%2$s\">GNU mítikata jaka 3</a>, ka úakari exeni <a href=\"%3$s\">ixu</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1173,7 +1173,7 @@ msgstr "No kwatakata inchaparhakwa"
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "%1$s :jimpo exekata"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
