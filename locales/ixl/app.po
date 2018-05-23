@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-05-22 17:19+0000\n"
+"PO-Revision-Date: 2018-05-23 17:15+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ixl\n"
@@ -566,7 +566,7 @@ msgstr ""
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "K'uchuvatz: example.com/search/?q=%s"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service to describe the icon for adding a search engine
@@ -576,29 +576,29 @@ msgstr ""
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Ak' aq'onb'al ti' u chukb'al tetze' uve' at ve't kan."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "La aaq'ku' ib'ii u aq'onb'ale' uve' la xaansan axh stuul"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "Uma'l aq'onb'al uva' la chukun u vee' at ve't kan as a' u b'iie' ni b'anb'e ve'te'."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Aq'ku' u qinib' chukb'al tetze'"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "La pich'u b'axa asoj ni lejtib' qinib' chukb'al tetze' tuk' u k'uchuvatze'"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "La josq'i unq'a vee' chukel ve't kan"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -606,13 +606,13 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Ye' kuxh eetz sti'"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Sojsa el unq'a vee' uve' chukelaj ve'te'"
 
 #. Content description (not visible, for screen readers etc.): A floating
 #. action button that       is shown on top of the web content. Clicking the
@@ -630,7 +630,7 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Unq'a vee' jajlu kan kuxhtu': %1$s"
 
 #. Description of the "+" button used to open a new temporary tab ("open" is a
 #. verb), not displayed and read only by screenreaders.
