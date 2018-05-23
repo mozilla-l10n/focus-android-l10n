@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-15 17:10-0700\n"
+"POT-Creation-Date: 2018-05-22 22:26-0700\n"
 "PO-Revision-Date: 2018-05-02 07:11+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language: bn_BD\n"
@@ -1199,4 +1199,29 @@ msgstr "সাইট নিরাপত্তা"
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
 msgstr "URL ইতোমধ্যেই আছে"
+
+#. Find in page
+msgctxt "find_in_page"
+msgid "Find in Page"
+msgstr ""
+
+#. Http Authentication Popup: Title
+msgctxt "http_auth_dialog_title"
+msgid "Authentication required"
+msgstr ""
+
+#. Http Authentication Popup: Username
+msgctxt "http_auth_dialog_username"
+msgid "Username"
+msgstr ""
+
+#. Http Authentication Popup: Password
+msgctxt "http_auth_dialog_password"
+msgid "Password"
+msgstr ""
+
+#. Checkbox menu item text to request desktop site
+msgctxt "preference_performance_request_desktop_site"
+msgid "Request desktop site"
+msgstr ""
 

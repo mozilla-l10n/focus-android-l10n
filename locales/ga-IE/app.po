@@ -6,17 +6,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-15 17:10-0700\n"
+"POT-Creation-Date: 2018-05-22 22:26-0700\n"
 "PO-Revision-Date: 2018-05-19 03:47+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: ga_IE <LL@li.org>\n"
 "Language: ga_IE\n"
+"Language-Team: ga_IE <LL@li.org>\n"
+"Plural-Forms: nplurals=5; plural=(((n >= 3 && n <= 6)) ? 2 : ((n >= 7 && "
+"n <= 10)) ? 3 : ((n == 1)) ? 0 : ((n == 2)) ? 1 : 4)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -190,10 +190,12 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>Cuireann %1$s tusa i gceannas.</p>\n"
@@ -201,10 +203,12 @@ msgstr ""
 "  <ul>\n"
 "    <li>Cuardaigh agus brabhsáil go díreach san aip</li>\n"
 "    <li>Cuir cosc ar lorgairí (nó ceadaigh sna socruithe iad)</li>\n"
-"    <li>Scrios fianáin chomh maith le do stair chuardaigh agus stair bhrabhsála</li>\n"
+"    <li>Scrios fianáin chomh maith le do stair chuardaigh agus stair "
+"bhrabhsála</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon bríomhar oscailte a chothú.<br/>\n"
+"<p>Is é Mozilla a dhéanann %1$s. An misean atá againn ná Idirlíon "
+"bríomhar oscailte a chothú.<br/>\n"
 "<a href=\"%2$s\">Tuilleadh eolais</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -431,7 +435,9 @@ msgid "Block social trackers"
 msgstr "Cuir cosc ar lorgairí sóisialta"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
 msgstr ""
 
 msgctxt "preference_privacy_block_content"
@@ -529,7 +535,9 @@ msgstr "Tuilleadh eolais"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
 msgstr ""
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -733,8 +741,12 @@ msgstr "Aimsigh aip lenar féidir an nasc seo a oscailt"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat %1$s a fhágáil chun aip oiriúnach a lorg in %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Níl aon aip ar do ghléas atá in ann an nasc seo a oscailt. Is féidir leat"
+" %1$s a fhágáil chun aip oiriúnach a lorg in %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -792,13 +804,17 @@ msgstr "Ní féidir ceangal a bhunú"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>D'fhéadfadh nach bhfuil fáil ar an suíomh nó go bhfuil sé róghnóthach faoi láthair. Bain triail eile as ar ball beag.</li>\n"
-"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, cinntigh ceangal sonraí nó Wi-Fi do ghléis.</li>\n"
+"        <li>D'fhéadfadh nach bhfuil fáil ar an suíomh nó go bhfuil sé "
+"róghnóthach faoi láthair. Bain triail eile as ar ball beag.</li>\n"
+"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, cinntigh "
+"ceangal sonraí nó Wi-Fi do ghléis.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -815,14 +831,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Scrúdaigh an seoladh le haghaidh botún cosúil le\n"
 "          <strong>ww</strong>.example.com in áit\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan seiceáil ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
+"        <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan "
+"seiceáil ar cheangal sonraí nó ceangal Wi-Fi an ghléis.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -832,13 +850,17 @@ msgstr "Níl an seoladh bailí"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.example.com/</strong></li>\n"
-"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>\n"
+"  <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -848,11 +870,13 @@ msgstr "Níl an leathanach ag atreorú i gceart"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith díchumasaithe nó bheith ag diúltú leo.</li>\n"
+"  <li>Uaireanta tarlaíonn an fhadhb seo de bharr fianáin a bheith "
+"díchumasaithe nó bheith ag diúltú leo.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -862,11 +886,13 @@ msgstr "Níor tuigeadh an seoladh"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh seo a oscailt.</li>\n"
+"  <li>B'fhéidir go mbeidh ort bogearraí eile a shuiteáil leis an seoladh "
+"seo a oscailt.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -876,17 +902,22 @@ msgstr "Níorbh fhéidir ceangal slán a bhunú"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó b'fhéidir\n"
+"  <li>B'fhéidir gur fadhb i gcumraíocht an fhreastalaí atá ann, nó "
+"b'fhéidir\n"
 "go bhfuil duine éigin ag déanamh aithrise ar an bhfreastalaí.</li>\n"
-"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, b'fhéidir\n"
-"gur fadhb shealadach í agus gur féidir leat iarracht a dhéanamh níos déanaí.</li>\n"
+"  <li>Má éiríonn leat ceangal leis an bhfreastalaí seo de ghnáth, "
+"b'fhéidir\n"
+"gur fadhb shealadach í agus gur féidir leat iarracht a dhéanamh níos "
+"déanaí.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -931,8 +962,12 @@ msgstr "Oscail an nasc i gcluaisín nua"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "<b>Ní scriosfar</b> íomhánna sábháilte nó comhroinnte nuair a scriosann tú stair %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"<b>Ní scriosfar</b> íomhánna sábháilte nó comhroinnte nuair a scriosann "
+"tú stair %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -941,7 +976,9 @@ msgstr "Príobháideachas praiticiúil proifisiúnta"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -951,7 +988,9 @@ msgstr ""
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr ""
 
 #. First run tour (Shortcut): Title
@@ -963,7 +1002,9 @@ msgstr "Cuir aicearraí leis an leathanach baile"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -975,7 +1016,9 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -1037,7 +1080,9 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1057,14 +1102,18 @@ msgstr "Íoslódáil Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1073,7 +1122,9 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
 
@@ -1081,7 +1132,9 @@ msgstr ""
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1090,7 +1143,10 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
 
 #. Text shown in prompts for GeckoView
@@ -1130,3 +1186,29 @@ msgstr "Slándáil an tSuímh"
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
 msgstr "Tá an URL ann cheana"
+
+#. Find in page
+msgctxt "find_in_page"
+msgid "Find in Page"
+msgstr ""
+
+#. Http Authentication Popup: Title
+msgctxt "http_auth_dialog_title"
+msgid "Authentication required"
+msgstr ""
+
+#. Http Authentication Popup: Username
+msgctxt "http_auth_dialog_username"
+msgid "Username"
+msgstr ""
+
+#. Http Authentication Popup: Password
+msgctxt "http_auth_dialog_password"
+msgid "Password"
+msgstr ""
+
+#. Checkbox menu item text to request desktop site
+msgctxt "preference_performance_request_desktop_site"
+msgid "Request desktop site"
+msgstr ""
+
