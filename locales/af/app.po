@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-05-22 22:26-0700\n"
-"PO-Revision-Date: 2018-05-27 07:19+0000\n"
+"PO-Revision-Date: 2018-05-27 09:11+0000\n"
 "Last-Translator: stephan <stephan@snymans.name>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: af\n"
@@ -525,7 +525,7 @@ msgstr ""
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Meer inligting"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
@@ -536,7 +536,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Privaatheidkennisgewing"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -567,7 +567,7 @@ msgstr ""
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Verwyder"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -654,13 +654,13 @@ msgstr ""
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Besig om te laai"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Webwerf gelaai"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -672,19 +672,19 @@ msgstr "Meer keuses"
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Navigeer vorentoe"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Herlaai webwerf"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Navigeer terug"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -697,7 +697,7 @@ msgstr ""
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Gaan terug na vorige toep"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -708,7 +708,7 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Jou regte"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
