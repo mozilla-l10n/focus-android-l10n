@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-03-09 19:13+0100\n"
-"PO-Revision-Date: 2018-05-27 20:24+0000\n"
+"PO-Revision-Date: 2018-05-29 18:25+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ixl\n"
@@ -715,11 +715,11 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Unq'a vee' la uch ab'anata'"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "La jaj u vaa' tu uma't aplicación"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -727,13 +727,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "La uch eel ch'u'l tu %1$s aq'al la jaj u vaa' tu %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "La chuk uma'l aplicación uva' la jajon u vaa'"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -742,37 +742,37 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Ni kuxh umaj unq'a aplicacione' la jajon u vaa' tu va molob'ale'. La uch eel ch'u'l tu %1$s aq'al uva' la uch a jajat uma'te uva' ni lej tib' tik' u %2$se'."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "La inch tel ch'u'l tu xaansab' tetze' uve' tetz kuxhtu'?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "Ile' kat tzojpiy u %1$se' sti'"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Jaja"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Jank'al chit unq'a vee' eq'omal ku'tzan ye'xh kam la sotzi tul la sojsa kaajayil unq'a vee' chukel tu %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Eq'o ku'tzan unq'a aq'one'"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
