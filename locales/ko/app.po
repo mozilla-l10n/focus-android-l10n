@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-05-22 22:26-0700\n"
+"POT-Creation-Date: 2018-06-01 14:58-0700\n"
 "PO-Revision-Date: 2018-05-23 02:51+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language: ko\n"
@@ -1204,5 +1204,11 @@ msgstr ""
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
+msgstr ""
+
+#. Displayed after a user long presses on the URL in a custom tab to copy the
+#. URL
+msgctxt "custom_tab_copy_url_action"
+msgid "URL copied"
 msgstr ""
 
