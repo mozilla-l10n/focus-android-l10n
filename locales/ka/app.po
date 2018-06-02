@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-02 07:31+0000\n"
+"PO-Revision-Date: 2018-06-02 07:48+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -532,7 +532,7 @@ msgstr "იხილეთ ვრცლად"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozill აღრიცხავს მხოლოდ იმ მონაცემებს, რაც საჭიროა %1$s-ის გასაუმჯობესებლად."
+msgstr "Mozilla აღრიცხავს მხოლოდ იმ მონაცემებს, რაც საჭიროა %1$s-ის გასაუმჯობესებლად."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -601,7 +601,7 @@ msgstr "ახალი საძიებო სისტემა დამა
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "მიუთითეთ საძიებო სისტემის სახელი"
+msgstr "შეიყვანეთ საძიებო სისტემის სახელი"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
@@ -917,7 +917,7 @@ msgstr "სურათის გაზიარება"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr "სურათის მისამართის დაკოპირება"
+msgstr "სურათის მისამართის ასლი"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
