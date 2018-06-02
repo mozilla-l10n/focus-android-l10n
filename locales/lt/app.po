@@ -2,25 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-05-27 10:43+0000\n"
+"PO-Revision-Date: 2018-06-02 11:50+0000\n"
 "Last-Translator: Paulius <paulius@mozilla.lt>\n"
-"Language: lt\n"
 "Language-Team: lt <LL@li.org>\n"
-"Plural-Forms: nplurals=4; plural=(((((n % 10) >= 2 && (n % 10) <= 9)) && "
-"(!(((n % 100) >= 11 && (n % 100) <= 19)))) ? 1 : (!((0 == 0))) ? 2 : "
-"((((n % 10) == 1)) && (!(((n % 100) >= 11 && (n % 100) <= 19)))) ? 0 : 3)"
-"\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -194,26 +192,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>„%1$s“ suteikia jums kontrolę.</p>\n"
 "<p>Naudokite ją kaip privačią naršyklę:\n"
 "  <ul>\n"
 "    <li>Ieškokite ir naršykite pačioje programoje</li>\n"
-"    <li>Blokuoti stebėjimo elementus (arba atnaujinkite nuostatas, "
-"norėdami juos leisti)</li>\n"
-"    <li>Ištrinkite, norėdami pašalinti slapukus, paieškos ir naršymo "
-"žurnalus</li>\n"
+"    <li>Blokuoti stebėjimo elementus (arba atnaujinkite nuostatas, norėdami juos leisti)</li>\n"
+"    <li>Ištrinkite, norėdami pašalinti slapukus, paieškos ir naršymo žurnalus</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>„%1$s“ yra „Mozillos“ kūrinys. Mūsų misija yra skatinti sveiką, atvirą"
-" internetą.<br/>\n"
+"<p>„%1$s“ yra „Mozillos“ kūrinys. Mūsų misija yra skatinti sveiką, atvirą internetą.<br/>\n"
 "<a href=\"%2$s\">Sužinoti daugiau</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -425,7 +418,7 @@ msgstr "Blokuoti reklaminius stebėjimo elementus"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Kai kurios reklamos stebi svetainių aplankymus, net jeigu ir nespustelite jų."
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -433,17 +426,15 @@ msgstr "Blokuoti analizės stebėjimo elementus"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Naudojama rinkti, analizuoti ir matuoti tokias veiklas, kaip bakstelėjimai ir slinkimas"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Blokuoti socialinius stebėjimo elementus"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "Įterpiama svetainėse, norint stebėti jūsų apsilankymus ir rodyti tokį funkcionalumą, kaip dalinimosi mygtukai"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -451,26 +442,26 @@ msgstr "Blokuoti kitus turinio stebėjimo elementus"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Įjungus gali sutrikti kai kurių tinklalapių veikimas"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "Blokuoti slapukus"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Blokuoti tik trečiųjų šalių slapukus"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "Taip"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -505,7 +496,7 @@ msgstr "Galite nematyti kai kurių piktogramų arba paveikslų"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Blokuoti „JavaScript“"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -540,12 +531,8 @@ msgstr "Sužinoti daugiau"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"„Mozilla“ siekia rinkti tik tai, ko reikia norint pagerinti „%1$s“ "
-"visiems."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "„Mozilla“ siekia rinkti tik tai, ko reikia norint pagerinti „%1$s“ visiems."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -748,9 +735,7 @@ msgstr ""
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr ""
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -809,10 +794,8 @@ msgstr ""
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -830,8 +813,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 
@@ -842,10 +824,8 @@ msgstr ""
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 
@@ -856,8 +836,7 @@ msgstr ""
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -868,8 +847,7 @@ msgstr ""
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 
@@ -880,11 +858,9 @@ msgstr ""
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -931,9 +907,7 @@ msgstr ""
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr ""
 
 #. First run tour (Default browser): Title
@@ -943,9 +917,7 @@ msgstr ""
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -955,9 +927,7 @@ msgstr ""
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr ""
 
 #. First run tour (Shortcut): Title
@@ -969,9 +939,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -983,9 +951,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -1047,9 +1013,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1069,18 +1033,14 @@ msgstr ""
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1089,9 +1049,7 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
 
@@ -1099,9 +1057,7 @@ msgstr ""
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1110,10 +1066,7 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
 
 #. Text shown in prompts for GeckoView
@@ -1184,4 +1137,3 @@ msgstr ""
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
 msgstr ""
-
