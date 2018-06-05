@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-05 10:52+0000\n"
+"PO-Revision-Date: 2018-06-05 10:56+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -873,7 +873,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr "Sikker tilkopling feila"
+msgstr "Trygg tilkopling feila"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -885,8 +885,9 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dette kan vere på grunn av eit problem med serverkonfigurasjonen, eller det kan vere fordi nokon prøver å forfalske tilkoplinga til serveren.</li>\n"
-"  <li>Dersom du har klart å kople til serveren tidlegare, kan problemet vere mellombels og du kan prøve igjen seinare.</li>\n"
+"  <li>Dette kan vera på grunn av eit problem med serverkonfigurasjonen, eller det kan vera fordi nokon prøver å forfalska tilkoplinga til serveren.</li>\n"
+"  <li>Dersom du har klart å kopla til serveren tidlegare, kan problemet vera mellombels og du kan prøva igjen seinare.\n"
+"</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -895,7 +896,7 @@ msgstr "Ops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "Vi kan ikkje laste inn denne sida av ulike grunnar."
+msgstr "Vi kan ikkje lasta inn denne sida av ulike grunnar."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -920,12 +921,12 @@ msgstr "Kopier bildeadresse"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr "Lagre bilde"
+msgstr "Lagra bilde"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr "Opne lenke i ny fane"
+msgstr "Opna lenke i ny fane"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -942,7 +943,7 @@ msgstr "Styrk personvernet ditt"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Ta privat nettlesing til neste nivå. Blokker annonsar og anna innhald som kan spore deg på tvers av nettstadar og som kan gjere nedlasting av nettsider tregare."
+msgstr "Ta privat nettlesing til neste nivå. Blokker annonsar og anna innhald som kan spora deg på tvers av nettstadar og som kan gjera nedlasting av nettsider tregare."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -952,7 +953,7 @@ msgstr "Ditt søk på din måte"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Søkjer du etter noko anna? Vel ein annan standard-søkjemotor i innstillingar."
+msgstr "Søkjer du etter noko anna? Vel ein annan standard-søkjemotor i Innstillingar."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1038,7 +1039,7 @@ msgstr "Privat nettlesingsøkt"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Med varsel kan du slette økta di i %1$s med eitt klikk. Du treng ikkje å opne appen, eller å sjå kva som køyrer i nettlesaren din."
+msgstr "Med varsel kan du sletta økta di i %1$s med eitt klikk. Du treng ikkje å opna appen, eller å sjå kva som køyrer i nettlesaren din."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
