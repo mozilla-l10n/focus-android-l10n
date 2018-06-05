@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-05 10:32+0000\n"
+"PO-Revision-Date: 2018-06-05 10:52+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -356,13 +356,13 @@ msgstr "Legg til og handter tilpassa autofullførte nettadressesr."
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr "Nettadresse å leggje til"
+msgstr "Nettadresse å legga til"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Lim inn eller skriv inn adresse"
+msgstr "Lim inn eller skriv inn ei nettadresse"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -414,31 +414,31 @@ msgstr "Personvern"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Blokker reklamesporarar"
+msgstr "Blokker reklamesporfølgjarar"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Nokre annonsar sporar nettstadbesøk, sjølv om du ikkje klikkar på annonsane"
+msgstr "Nokre annonsar sporfølgjarar nettstadbesøk, sjølv om du ikkje klikkar på annonsane"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Blokker analysesporarar"
+msgstr "Blokker analysesporfølgjarar"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Brukt for å samle inn, analysere og måle aktivitetar som tastetrykk og rulling"
+msgstr "Brukt for å samla inn, analysera og måla aktivitetar som tastetrykk og rulling"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Blokker sosiale media-sporarar"
+msgstr "Blokker sosiale media-sporfølgjarar"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Innebygd på nettstader for å spore besøka dine og å vise funksjonalitet som dele-knappar"
+msgstr "Innebygd på nettstader for å spora besøka dine og å visa funksjonalitet som dele-knappar"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Blokker andre innhaldssporarar"
+msgstr "Blokker andre innhaldssporfølgjarar"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -468,7 +468,7 @@ msgstr "Ja"
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "Løyndemodus"
+msgstr "Usynleg løyndmodus"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -502,7 +502,7 @@ msgstr "Blokker JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Sider kan lastast raskare, men kan òg oppføre seg uventa"
+msgstr "Sider kan lastast raskare, men kan òg oppføra seg uventa"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -532,7 +532,7 @@ msgstr "Les meir"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla strevar etter å berre samle inn det vi treng for å tilby og forbetre %1$s for alle."
+msgstr "Mozilla strevar etter å berre samla inn det vi treng for å tilby og forbetra %1$s for alle."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -587,7 +587,7 @@ msgstr "Søkjestreng som skal brukast"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr "Lagre"
+msgstr "Lagra"
 
 #. Example of search engine url
 #, c-format, python-format
@@ -627,13 +627,13 @@ msgstr "Tøm skrivefeltet"
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr "Lat att"
+msgstr "Avvis"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "Slett nettlesarhistorikk"
+msgstr "Slett nettlesarhistorikken"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -649,7 +649,7 @@ msgstr "Opne faner: %1$s"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr "Sikker tilkopling"
+msgstr "Trygg tilkopling"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -692,7 +692,7 @@ msgstr "Naviger tilbake"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "Stopp lasting av nettside"
+msgstr "Stopp lasting av nettsida"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -705,7 +705,7 @@ msgstr "Gå tilbake til førre app"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "Blokker sporarar"
+msgstr "Blokker sporfølgjarar"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -713,7 +713,7 @@ msgstr "Dine rettar"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Opne lenke i ein annan app"
+msgstr "Opna lenke i ein annan app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -721,13 +721,13 @@ msgstr "Opne lenke i ein annan app"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Du kan gå ut av %1$s for å opne denne lenka i %2$s."
+msgstr "Du kan gå ut av %1$s for å opna denne lenka i %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr "Finn ein app som kan opne lenka"
+msgstr "Finn ein app som kan opna lenka"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -736,13 +736,13 @@ msgstr "Finn ein app som kan opne lenka"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ingen av appane på eininga di kan opne denne lenka. Du kan gå ut av %1$s for å søke på %2$s etter ein app som kan gjere dette."
+msgstr "Ingen av appane på eininga di kan opna denne lenka. Du kan gå ut av %1$s for å søka på %2$s etter ein app som kan gjera dette."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "Avslutte privat nettlesing?"
+msgstr "Avslutta privat nettlesing?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -754,7 +754,7 @@ msgstr "%1$s ferdig"
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr "Opne"
+msgstr "Opna"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
@@ -789,7 +789,7 @@ msgstr "Prøv igjen"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr "Kan ikkje kople til"
+msgstr "Kan ikkje kopla til"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -799,8 +799,8 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Sida kan vere mellombels utilgjengeleg, eller opptatt. Prøv igjen om ei stund.</li>\n"
-"        <li>Viss du ikkje klarer å laste nokre sider, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>\n"
+"        <li>Sida kan vera mellombels utilgjengeleg, eller opptatt. Prøv igjen om ei stund.</li>\n"
+"        <li>Viss du ikkje klarer å lasta nokre sider, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -809,7 +809,7 @@ msgstr "Tilkoplinga fekk tidsavbrot"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr "Fant ikke serveren"
+msgstr "Fant ikkje serveren"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -821,10 +821,10 @@ msgid ""
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Kontroller om det er skrivefeil i adressa, for eksempel\n"
-"          <strong>ww</strong>.eksempel.no i staden for \n"
-"          <strong>www</strong>.eksempel.no</li>\n"
-"        <li>Viss du ikkje klarer å laste nokre nettsider, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>\n"
+"        <li>Kontroller om det er skrivefeil i adressa, til dømes\n"
+"          <strong>ww</strong>.example.com i staden for \n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Viss du ikkje klarer å lasta nokre nettsider, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -854,7 +854,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dette problemet kan av og til skyldast at infokapslar er avslått eller ved å ikkje godta infokapslar.</li>\n"
+"  <li>Dette problemet kan av og til skuldast at infokapslar er slått av eller ved å ikkje godta infokapslar.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -868,7 +868,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Du må kanskje installere anna programvare for å opne denne adressa.</li>\n"
+"  <li>Du må kanskje installera anna programvare for å opna denne adressa.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
