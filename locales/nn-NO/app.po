@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-05 09:30+0000\n"
+"PO-Revision-Date: 2018-06-05 09:32+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -174,7 +174,7 @@ msgstr "Slett"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Slett nettlesarhistorikk"
+msgstr "Slett nettlesarhistorikken"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -238,7 +238,7 @@ msgstr "Om %1$s, hjelp"
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr "Spårningsvern"
+msgstr "Sporningsvern"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
@@ -248,7 +248,7 @@ msgstr "Nettinnhald"
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr "Bytte mellom appar"
+msgstr "Byte mellom appar"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
