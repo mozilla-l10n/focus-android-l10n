@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-05 09:32+0000\n"
+"PO-Revision-Date: 2018-06-05 10:32+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -299,7 +299,7 @@ msgstr "Standard nettadresseliste"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Aktiver %1$s til å autofullføre over 450 populære nettadresser i adressefeltet."
+msgstr "Aktiver %1$s til å autofullføra over 450 populære nettadresser i adressefeltet."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -316,12 +316,12 @@ msgstr "Tilpassa nettadresser"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ Legg til tilpassa nettadresse"
+msgstr "+ Legg til ei tilpassa nettadresse"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "Legg til tilpassa nettadresse"
+msgstr "Legg til ei tilpassa nettadresse"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
@@ -331,7 +331,7 @@ msgstr "Legg til ei tilpassa nettadresse"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr "Infokapslar og nettstadsdata"
+msgstr "Infokapslar og nettsidedata"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
