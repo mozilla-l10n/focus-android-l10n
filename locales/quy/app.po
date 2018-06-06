@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-06 21:10+0000\n"
+"PO-Revision-Date: 2018-06-06 21:32+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
@@ -327,89 +327,89 @@ msgstr "Cookies chanta Kitimanta Willaykuna"
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Willaykunamanta Akllaykuna"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Sapanchasqa URLs raqpay"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Astawan yachay"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Yapay chanta kamachiy sapanchasqa sapanmanta junt'achiyta URLs."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL yapanapaq"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Mach'ay mana chay URL qillqay"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "Kayjina: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr ""
+msgstr "Kayjina: example.com"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Musuq sapanchasqa URL yapasqa."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Raqpay"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Raqpay"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Watiqmanta qhawaykuy kay URL qillqasqaykita."
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Runasimi"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Sistemaqpata ajinaña jamuynin"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Asuy"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Publicidadmanta tarichiqkunata ch'ataykuy"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Wakin willaykuna, manapis qam paykunaman yaykuykuqtiykipis, yaykusqaykita kay web raphikunaman tarinku"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
