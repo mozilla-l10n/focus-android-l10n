@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-06 20:52+0000\n"
+"PO-Revision-Date: 2018-06-06 21:10+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
@@ -284,45 +284,45 @@ msgstr "Sapanmanta junt'achiy"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Ajinaña jamuq URL Rikurpu"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Kawsachiy kay %1$s sapanmanta junt'achinanpaq kay direcciones siqipi aswan 450 munasqa URLs kaqkunawan."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr ""
+msgstr "URLs kaqkunata sapanchaykuy"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "URLs kaqkunata sapanchaykuy"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+ sapanchaykunata yapay URL"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Sapanchaykunata yapay URL"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Sapanchaykunata yapay URL"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies chanta Kitimanta Willaykuna"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
