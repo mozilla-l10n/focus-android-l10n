@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-07 01:47+0000\n"
+"PO-Revision-Date: 2018-06-07 02:10+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
@@ -1036,13 +1036,13 @@ msgstr "Asuy t'aqwiriymanta sesión"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Willaykuqkuna sesion kaqta pichay atichisunki kaymanta %1$s juk ñit'iywan. Mana aplicacionta kicharinallaykiñachu tiyan nitaq qhawayta imachus t'aqwiriqpi llamk'akuchkanta."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Ñawpa yaykusqa t'aqwiriyta pichay"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1050,20 +1050,20 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Firefox kaqta uraykuchiy"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s kaqqa juk software kichasqa codigoyuqtaq chanta qhasitaq, Mozillawan chanta wak yanapaqkunawan ima paqarichisqa."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s llamk'anapaq kachkan kay terminosmanjina kaymanta <a href=\"%2$s\">Tukuypaq Licencia Mozilla kaqmanta</a> chanta wak licenciakuna kichasqa codigoyuq ima."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1074,6 +1074,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Mana ni juk derechoyuq mana chay licenciayuq kankichu kay riqsichasqa marcasman kay Mozilla Fundacionmanta nitaq wak munaq qutumanta, churaykusqa Mozilla, Firefox sutikunanmanpis rikch'aykunanmanpis"
+" mana chay %1$s kaqmanpis. Aswan willaykunata tariwaq <a href=\"%2$s\">kaypi</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
