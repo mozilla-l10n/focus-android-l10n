@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-07 02:10+0000\n"
+"PO-Revision-Date: 2018-06-07 02:30+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
@@ -1082,7 +1082,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Wak <a href=\"%2$s\">licencias kaqkuna </a> kichasqa chanta qhasi codigomanta tiyapullankutaq kay yapasqa qayariynin codigota kaypaq %1$s."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1092,72 +1092,74 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s Kaypis kay Disconnect, Inc. rikurpu ch'atayninwan llamk'an kay t'aqasqa chanta sapanchasqa llamk'anakunawanjina <a href=\"%2$s\">Kay tukuypaq Jatunnin Licencia jark'ayninpi kaymanta GNU v3</a> "
+"chantapis tariy atiwaq <a href=\"%3$s\">kaypi</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "Yaykuq suti"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Pakasqa willay"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Pichay"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Takya t'inkiy"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "Mana takya t'inkiy"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "Qhawaychasqa kaywan: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "Kitimanta takya"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "Kay URL kanña"
 
 #. Find in page
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Kay raphipi tariy"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Juk autenticaciónta munakun"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "Yaykuq suti"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Pakasqa willay"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "Escritoriomanta kitita mañay"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL kikinchasqa"
