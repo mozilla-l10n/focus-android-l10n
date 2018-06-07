@@ -1,24 +1,25 @@
-# Translations template for PROJECT.
-# Copyright (C) 2018 ORGANIZATION
+# Quechua Chanka translations for PROJECT.
+# Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-01 14:58-0700\n"
+"POT-Creation-Date: 2018-06-07 15:00-0700\n"
 "PO-Revision-Date: 2018-06-07 02:30+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
+"Language-Team: anp <LL@li.org>\n"
+"\n"
+"Plural-Forms: nplurals=2; plural=((((n >= 0 && n <= 2)) && (!((n == 2))))"
+" ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -190,15 +191,22 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s qhawaypi churasunki.</p><p>juk asuy t'aqwiriyjinata llamk'ay:<ul><li>Mask'ay chanta chiqanta t'aqwiriy aplicación ñisqapi</li><li>Tarichiqkunata ch'ataykuy (mana chay allinchaykunata "
-"kunanchay tarichiqkunata juñinapaq)</li><li>Pichay cookies kaqkunata wañuchinaykipaq, kay mask'ay chanta ñawpa yaykusqa t'aqwiriyjinatapis</li></ul></p><p>%1$sMozilla kaqwan ruwasqa kachkan. "
-"Kamachiyniykuqa kan juk allin kawsaypaq, kichasqa Internet ñisqata riqsichina.<br/><a href=\"%2$s\">Aswanta yachay</a></p>"
+"<p>%1$s qhawaypi churasunki.</p><p>juk asuy t'aqwiriyjinata "
+"llamk'ay:<ul><li>Mask'ay chanta chiqanta t'aqwiriy aplicación "
+"ñisqapi</li><li>Tarichiqkunata ch'ataykuy (mana chay allinchaykunata "
+"kunanchay tarichiqkunata juñinapaq)</li><li>Pichay cookies kaqkunata "
+"wañuchinaykipaq, kay mask'ay chanta ñawpa yaykusqa "
+"t'aqwiriyjinatapis</li></ul></p><p>%1$sMozilla kaqwan ruwasqa kachkan. "
+"Kamachiyniykuqa kan juk allin kawsaypaq, kichasqa Internet ñisqata "
+"riqsichina.<br/><a href=\"%2$s\">Aswanta yachay</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -290,7 +298,9 @@ msgstr "Ajinaña jamuq URL Rikurpu"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Kawsachiy kay %1$s sapanmanta junt'achinanpaq kay direcciones siqipi aswan 450 munasqa URLs kaqkunawan."
+msgstr ""
+"Kawsachiy kay %1$s sapanmanta junt'achinanpaq kay direcciones siqipi "
+"aswan 450 munasqa URLs kaqkunawan."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -409,7 +419,9 @@ msgstr "Publicidadmanta tarichiqkunata ch'ataykuy"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Wakin willaykuna, manapis qam paykunaman yaykuykuqtiykipis, yaykusqaykita kay web raphikunaman tarinku"
+msgstr ""
+"Wakin willaykuna, manapis qam paykunaman yaykuykuqtiykipis, yaykusqaykita"
+" kay web raphikunaman tarinku"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -417,15 +429,22 @@ msgstr "Analiticos tarichiqkunata ch'ataykuy"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Kaywan llamk'akun ruwaykunaykita tantanapaq, qhawaykachanapaq chanta tupunapaq ima, kikinta imaynatachus jukta akllaptiyki mana chay raphinta suchuptiykijina"
+msgstr ""
+"Kaywan llamk'akun ruwaykunaykita tantanapaq, qhawaykachanapaq chanta "
+"tupunapaq ima, kikinta imaynatachus jukta akllaptiyki mana chay raphinta "
+"suchuptiykijina"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Social tarichiqkunata ch'ataykuy"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Raphikunapi yapasqa kachkanku yaykuyniykita tarinankupaq chanta llamk'ayta rikuchinanpaq, kikin botonesjina qunakunapaq"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Raphikunapi yapasqa kachkanku yaykuyniykita tarinankupaq chanta "
+"llamk'ayta rikuchinanpaq, kikin botonesjina qunakunapaq"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -493,7 +512,9 @@ msgstr "JavaScript ch'ataykuy"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Raphikuna aswan utqhayta chaqnanay atinkuman, ichaqa mana suyaq kaqjinata llamk'ay atillankutaq"
+msgstr ""
+"Raphikuna aswan utqhayta chaqnanay atinkuman, ichaqa mana suyaq kaqjinata"
+" llamk'ay atillankutaq"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -522,8 +543,12 @@ msgstr "Astawan yachay"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla aswan munasqallata tantananpaq kaypachakun qusunankupaq chanta allinchanankupaq %1$s tukuypaq."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla aswan munasqallata tantananpaq kaypachakun qusunankupaq chanta "
+"allinchanankupaq %1$s tukuypaq."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -726,8 +751,13 @@ msgstr "Juk aplicación tariy mayqinchus kay t'inkiyta kichariy atinanpaq"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ni mayqin aplicaciones kay dispositivoykiqpata kay t'inkiyta kichariy atinchu. Lluqsiy atiwaq kaymanta %1$s mask'anaykipaq kaypi %2$s juk tupakuq aplicacionta."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ni mayqin aplicaciones kay dispositivoykiqpata kay t'inkiyta kichariy "
+"atinchu. Lluqsiy atiwaq kaymanta %1$s mask'anaykipaq kaypi %2$s juk "
+"tupakuq aplicacionta."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -752,7 +782,9 @@ msgstr "Kichay"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Uraykuchisqa kipukuna <b>mana raqpasqachu kanqanku </b> sichus ñawpa yaykusqaykita %1$s kaymanta pichanki chay."
+msgstr ""
+"Uraykuchisqa kipukuna <b>mana raqpasqachu kanqanku </b> sichus ñawpa "
+"yaykusqaykita %1$s kaymanta pichanki chay."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -785,13 +817,17 @@ msgstr "Mana t'inkikuyta atikunchu"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Puede que el sitio esté ocupado o no esté disponible temporalmente. Vuelve a intentarlo en unos minutos.</li>\n"
-"        <li>Si no puedes cargar ninguna página, comprueba la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"        <li>Puede que el sitio esté ocupado o no esté disponible "
+"temporalmente. Vuelve a intentarlo en unos minutos.</li>\n"
+"        <li>Si no puedes cargar ninguna página, comprueba la conexión de "
+"datos o Wi-Fi de tu dispositivo.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -808,18 +844,22 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        \n"
-"        <li>Qhawaykachay sichus dirección mana ni juk pantayniyku kayjina\n"
+"        <li>Qhawaykachay sichus dirección mana ni juk pantayniyku kayjina"
+"\n"
 "          \n"
 "          <strong>ww</strong>.example.com kayjinamanta\n"
 "          \n"
 "          <strong>www</strong>.example.com</li>\n"
 "        \n"
-"        <li>Sichus ni juk raphita chaqnanay atinkichu chay, dispositivoykiqpata willaykuna t'inkiyninta qhawaykachay mana chay Wi-Fi kaqmanta.</li>\n"
+"        <li>Sichus ni juk raphita chaqnanay atinkichu chay, "
+"dispositivoykiqpata willaykuna t'inkiyninta qhawaykachay mana chay Wi-Fi "
+"kaqmanta.</li>\n"
 "      \n"
 "      </ul>"
 
@@ -830,15 +870,19 @@ msgstr "Kay dirección mana allinchu"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  \n"
-"  <li>Web direccionesqa mana ajinachu qillqakuy yachanku <strong></strong></li>\n"
+"  <li>Web direccionesqa mana ajinachu qillqakuy yachanku "
+"<strong></strong></li>\n"
 "  \n"
-"  <li>Sumaqta qhawaychakuy kay wiksu siqikunawan llamk'ayta (i.e. <strong>/</strong>).</li></ul>"
+"  <li>Sumaqta qhawaychakuy kay wiksu siqikunawan llamk'ayta (i.e. "
+"<strong>/</strong>).</li></ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -847,12 +891,14 @@ msgstr "Kay raphi mana allintachu redireccionachkan"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  \n"
-"  <li>Wakin kuti, ch'ampaqa rikhurin wañuchiyrayku mana chay mana ari ñiqtiyki kay cookies llamk'ayta.</li></ul>"
+"  <li>Wakin kuti, ch'ampaqa rikhurin wañuchiyrayku mana chay mana ari "
+"ñiqtiyki kay cookies llamk'ayta.</li></ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -861,12 +907,14 @@ msgstr "Kay direccion mana jap'iqakunchu"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  \n"
-"  <li>Ichapis wak software ñisqata chantinayki tiyan kay direccionta kicharinaykipaq.</li></ul>"
+"  <li>Ichapis wak software ñisqata chantinayki tiyan kay direccionta "
+"kicharinaykipaq.</li></ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -875,17 +923,22 @@ msgstr "Takya t'inkiypi pantay"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  \n"
-"  <li>Ichapis juk pantay kanman kay yaywaq configuracionwan mana chay ichapis juk runa yaywaqta tantiyay munachkan.</li>\n"
+"  <li>Ichapis juk pantay kanman kay yaywaq configuracionwan mana chay "
+"ichapis juk runa yaywaqta tantiyay munachkan.</li>\n"
 "  \n"
-"  <li>Sichus ñawpaqta mana ch'ampakunayuq kay yaywaqman t'inkikurqankiña chay, ichapis pantayqa kunanpachalla kanman chanta watiqmanta ruway atiwaq.</li></ul>"
+"  <li>Sichus ñawpaqta mana ch'ampakunayuq kay yaywaqman t'inkikurqankiña "
+"chay, ichapis pantayqa kunanpachalla kanman chanta watiqmanta ruway "
+"atiwaq.</li></ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -929,8 +982,12 @@ msgstr "T'inkiyta kichariy juk musuq tikllapi"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Jallich'asqa chanta qunakusqa rikch'aykuna <b>mana raqpasqachu kanqanku</b> sichus ñawpa yaykusqaykita %1$s kaymanta pichanki chay."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Jallich'asqa chanta qunakusqa rikch'aykuna <b>mana raqpasqachu "
+"kanqanku</b> sichus ñawpa yaykusqaykita %1$s kaymanta pichanki chay."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -939,8 +996,13 @@ msgstr "Asuykita kallpachay"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Qhipan ñiqiman kay asuy t'aqwiriyta apay. Willaykunata chanta wak tiyapuykunata ima ch'ataykuy mayqinkunachus tarisuy atinkuman kitinninta chanta raphikunaqpata chaqnanayninta jayrayan ima."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Qhipan ñiqiman kay asuy t'aqwiriyta apay. Willaykunata chanta wak "
+"tiyapuykunata ima ch'ataykuy mayqinkunachus tarisuy atinkuman kitinninta "
+"chanta raphikunaqpata chaqnanayninta jayrayan ima."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -949,8 +1011,12 @@ msgstr "Mask'ayniyki, munasqaykimanjina"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "¿Jukjinatachu mask'achkanki? Wak ajinaña jamuq mask'aq motorta akllay configuracionpi."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"¿Jukjinatachu mask'achkanki? Wak ajinaña jamuq mask'aq motorta akllay "
+"configuracionpi."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -961,8 +1027,12 @@ msgstr "Qallariy pantallaykiman chiqan yaykunata yapay"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Aswan munasqa kitikunaykita watiqmanta watukuy kaypi %1$s utqhaytapacha. Akllay \"Qallariy pantallaman yapay\" kay %1$s menu kaqpi."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Aswan munasqa kitikunaykita watiqmanta watukuy kaypi %1$s utqhaytapacha. "
+"Akllay \"Qallariy pantallaman yapay\" kay %1$s menu kaqpi."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -973,8 +1043,13 @@ msgstr "Asuymanta juk sapakuti ruwayta ruway"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Churaykuy kayta %1$s ajinaña jamuq t'aqwiriqjinata chanta asuy t'aqwiriy allin jamuyninta qhawaykachay ima kay web raphikunata kicharispa wak aplicacionesmantapacha."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Churaykuy kayta %1$s ajinaña jamuq t'aqwiriqjinata chanta asuy t'aqwiriy "
+"allin jamuyninta qhawaykachay ima kay web raphikunata kicharispa wak "
+"aplicacionesmantapacha."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1035,8 +1110,13 @@ msgstr "Asuy t'aqwiriymanta sesión"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Willaykuqkuna sesion kaqta pichay atichisunki kaymanta %1$s juk ñit'iywan. Mana aplicacionta kicharinallaykiñachu tiyan nitaq qhawayta imachus t'aqwiriqpi llamk'akuchkanta."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Willaykuqkuna sesion kaqta pichay atichisunki kaymanta %1$s juk "
+"ñit'iywan. Mana aplicacionta kicharinallaykiñachu tiyan nitaq qhawayta "
+"imachus t'aqwiriqpi llamk'akuchkanta."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1055,15 +1135,24 @@ msgstr "Firefox kaqta uraykuchiy"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s kaqqa juk software kichasqa codigoyuqtaq chanta qhasitaq, Mozillawan chanta wak yanapaqkunawan ima paqarichisqa."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s kaqqa juk software kichasqa codigoyuqtaq chanta qhasitaq, Mozillawan"
+" chanta wak yanapaqkunawan ima paqarichisqa."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s llamk'anapaq kachkan kay terminosmanjina kaymanta <a href=\"%2$s\">Tukuypaq Licencia Mozilla kaqmanta</a> chanta wak licenciakuna kichasqa codigoyuq ima."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s llamk'anapaq kachkan kay terminosmanjina kaymanta <a "
+"href=\"%2$s\">Tukuypaq Licencia Mozilla kaqmanta</a> chanta wak "
+"licenciakuna kichasqa codigoyuq ima."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1071,18 +1160,27 @@ msgstr "%1$s llamk'anapaq kachkan kay terminosmanjina kaymanta <a href=\"%2$s\">
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Mana ni juk derechoyuq mana chay licenciayuq kankichu kay riqsichasqa marcasman kay Mozilla Fundacionmanta nitaq wak munaq qutumanta, churaykusqa Mozilla, Firefox sutikunanmanpis rikch'aykunanmanpis"
-" mana chay %1$s kaqmanpis. Aswan willaykunata tariwaq <a href=\"%2$s\">kaypi</a>."
+"Mana ni juk derechoyuq mana chay licenciayuq kankichu kay riqsichasqa "
+"marcasman kay Mozilla Fundacionmanta nitaq wak munaq qutumanta, "
+"churaykusqa Mozilla, Firefox sutikunanmanpis rikch'aykunanmanpis mana "
+"chay %1$s kaqmanpis. Aswan willaykunata tariwaq <a "
+"href=\"%2$s\">kaypi</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Wak <a href=\"%2$s\">licencias kaqkuna </a> kichasqa chanta qhasi codigomanta tiyapullankutaq kay yapasqa qayariynin codigota kaypaq %1$s."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Wak <a href=\"%2$s\">licencias kaqkuna </a> kichasqa chanta qhasi "
+"codigomanta tiyapullankutaq kay yapasqa qayariynin codigota kaypaq %1$s."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1090,10 +1188,15 @@ msgstr "Wak <a href=\"%2$s\">licencias kaqkuna </a> kichasqa chanta qhasi codigo
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s Kaypis kay Disconnect, Inc. rikurpu ch'atayninwan llamk'an kay t'aqasqa chanta sapanchasqa llamk'anakunawanjina <a href=\"%2$s\">Kay tukuypaq Jatunnin Licencia jark'ayninpi kaymanta GNU v3</a> "
-"chantapis tariy atiwaq <a href=\"%3$s\">kaypi</a>."
+"%1$s Kaypis kay Disconnect, Inc. rikurpu ch'atayninwan llamk'an kay "
+"t'aqasqa chanta sapanchasqa llamk'anakunawanjina <a href=\"%2$s\">Kay "
+"tukuypaq Jatunnin Licencia jark'ayninpi kaymanta GNU v3</a> chantapis "
+"tariy atiwaq <a href=\"%3$s\">kaypi</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1133,10 +1236,49 @@ msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
 msgstr "Kay URL kanña"
 
-#. Find in page
+#. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
 msgstr "Kay raphipi tariy"
+
+#. Watermark/Hint for the find in page input field
+msgctxt "find_in_page_input"
+msgid "Find in page"
+msgstr ""
+
+#. String to show the number of results found in the page and the
+#. position the user is at. The first argument is the position, the second
+#. argument is the total
+#, c-format
+msgctxt "find_in_page_result"
+msgid "%1$d/%2$d"
+msgstr ""
+
+#. String to be read by the accessibility service presenting the number of
+#. results found in the page         and the position the user is at. The first
+#. argument is the position, the second argument is the total
+#, c-format
+msgctxt "accessibility_find_in_page_result"
+msgid "%1$d out of %2$d"
+msgstr ""
+
+#. String to be read by the accessibility service when focusing the next
+#. result button
+msgctxt "accessibility_next_result"
+msgid "Find next result"
+msgstr ""
+
+#. String to be read by the accessibility service when focusing the previous
+#. result button
+msgctxt "accessibility_previous_result"
+msgid "Find previous result"
+msgstr ""
+
+#. String to be read by the accessibility service when focusing the dismiss
+#. button in the "find in page" UI
+msgctxt "accessibility_dismiss_find_in_page"
+msgid "Dismiss find in page"
+msgstr ""
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
@@ -1163,3 +1305,4 @@ msgstr "Escritoriomanta kitita mañay"
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
 msgstr "URL kikinchasqa"
+
