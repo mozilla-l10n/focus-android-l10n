@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-07 00:49+0000\n"
+"PO-Revision-Date: 2018-06-07 01:11+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
@@ -850,10 +850,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  \n"
+"  <li>Wakin kuti, ch'ampaqa rikhurin wañuchiyrayku mana chay mana ari ñiqtiyki kay cookies llamk'ayta.</li></ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Kay direccion mana jap'iqakunchu"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -861,10 +864,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  \n"
+"  <li>Ichapis wak software ñisqata chantinayki tiyan kay direccionta kicharinaykipaq.</li></ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Takya t'inkiypi pantay"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -875,39 +881,44 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  \n"
+"  <li>Ichapis juk pantay kanman kay yaywaq configuracionwan mana chay ichapis juk runa yaywaqta tantiyay munachkan.</li>\n"
+"  \n"
+"  <li>Sichus ñawpaqta mana ch'ampakunayuq kay yaywaqman t'inkikurqankiña chay, ichapis pantayqa kunanpachalla kanman chanta watiqmanta ruway atiwaq.</li></ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Uy"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Imaraykuchus mana kay raphita chaqnanay atirqaykuchu."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "T'inkiyta qunakuy"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "T'inkiypata direccioninta kikinchay"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Rikch'ayta qunakuy"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Rikch'aypata direccioninta kikinchay"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Rikch'ayta jallich'ay"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
