@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-01 14:58-0700\n"
-"PO-Revision-Date: 2018-06-07 00:12+0000\n"
+"PO-Revision-Date: 2018-06-07 00:31+0000\n"
 "Last-Translator: Mozilla_QUZ_1 <Mozilla_QUZ_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: quy\n"
@@ -23,7 +23,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "Wañuchiy"
+msgstr "Tatiy"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -752,35 +752,35 @@ msgstr "Kichay"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Uraykuchisqa kipukuna <b>mana raqpasqachu kanqanku </b> sichus ñawpa yaykusqaykita %1$s kaymanta pichanki chay."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Kiputa uraykuchiy"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Tatiy"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Uraykuchiy"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Ch'ampa raphita chaqnanaspa"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Watiqmanta ruway"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Mana t'inkikuyta atikunchu"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -789,6 +789,10 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Puede que el sitio esté ocupado o no esté disponible temporalmente. Vuelve a intentarlo en unos minutos.</li>\n"
+"        <li>Si no puedes cargar ninguna página, comprueba la conexión de datos o Wi-Fi de tu dispositivo.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
