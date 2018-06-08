@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-06 09:12+0000\n"
+"PO-Revision-Date: 2018-06-06 09:14+0000\n"
 "Last-Translator: Mika Latvala <m.a.latvala@gmail.com>\n"
 "Language-Team: fi <LL@li.org>\n"
 "Language: fi\n"
@@ -243,22 +243,22 @@ msgstr "Seurannan suojaus"
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Verkkosisältö"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Sovellusten vaihto"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "Yleiset"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Tietojen kerääminen & käyttö"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -1184,7 +1184,7 @@ msgstr ""
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Varmentaminen vaadittu"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
