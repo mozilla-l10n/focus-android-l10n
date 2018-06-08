@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-08 17:49+0000\n"
+"PO-Revision-Date: 2018-05-21 04:37+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -57,7 +57,7 @@ msgstr "Sojsamal ve't unq'a vee' uve' chukel kan."
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Chuka "
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -67,7 +67,7 @@ msgstr "Q'ajsab'en…"
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr ""
+msgstr "La aalb'en asoj ni yan u vaa'"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -153,7 +153,7 @@ msgstr "Sojsa kaajayil unq'a vee' chukel ve'te'"
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Jaja"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
@@ -211,19 +211,19 @@ msgstr ""
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
 msgid "Privacy & Security"
-msgstr ""
+msgstr "Ye'xhib'il unka'te la ootzin as tii tatine'"
 
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "Ka'taj Kam ti' atiisata', cookies as tachul"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "La aaq'kan tetz kuxhtu', ankuxhe' la tz'ajsan"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -232,32 +232,32 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "Tokeb'al %1$s, lochb'al"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Iyak'insal iyikule'"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Tuuleb'al u web"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Ijalpul teq'ol tetz"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "Kaajayil"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Imolpu tachul as ib'anb'ele'"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -303,7 +303,7 @@ msgstr "Laaoke aq'al uva' ankuxh u %1$s la tz'ajsan uma'l 450 URLs uva' nimal ch
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Ankuxh axh la b'anon tu u URLs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
@@ -325,17 +325,17 @@ msgstr "Aq' ve't unq'a URL uve' b'anel ve't tuche'"
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Aq' ve't unq'a URL uve' b'anel ve't tuche'"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies as tachul tu tatinb'ale'"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Ka'taj tatin tachul"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -367,7 +367,7 @@ msgstr "Aq'o'ke' moj okso'k u URL"
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "K'uchuvatz: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
@@ -425,7 +425,7 @@ msgstr "Maj ivatz unq'a tiinsab' tetze' uve' ni pich'un"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Ni b'anb'ele' ti' imolpe', ipich'ule', isajil aq'on Kam ikaape' as iyikule'"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -445,22 +445,22 @@ msgstr "Asoj la ooypisa la ib'ane' uva' vale'n kuxh la ib'an ka't unq'a ivatze'"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "Maj ivatz unq'a cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "Ye'le"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Maj ivatz unq'a cookies tetz va'len xaaol"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "Kanoj"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -495,13 +495,13 @@ msgstr "La ib'ane' uva' la sojsa unq'a texhlale' moj unq'a vatzib'ale' q'a"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Bloquear JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Oora kuxh tuk ijaj unq'a vee' jajel kan s-a'n ta'ne tan la ib'ane' uva' la q'amaxi"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
