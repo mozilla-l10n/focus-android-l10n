@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-08 04:31+0000\n"
+"PO-Revision-Date: 2018-06-09 14:49+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -293,7 +293,7 @@ msgstr "თვითშევსება"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr "ნაგულისხმევი URL ჩამონათვალი"
+msgstr "ნაგულისხმევი URL-ების ჩამონათვალი"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -379,7 +379,7 @@ msgstr "მაგალითად: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "ახალი საკუთარი URL დაემატა."
+msgstr "ახალი URL დაემატა."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -549,7 +549,7 @@ msgstr "%1$s-ის შესახებ"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "დაყენებული საძიებო სისტემები"
+msgstr "დაყენებული საძიებოები"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -564,7 +564,7 @@ msgstr "+ სხვა საძიებო სისტემის დამ�
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "საძიებო სისტემების ამოშლა"
+msgstr "საძიებოს ამოშლა"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -575,11 +575,11 @@ msgstr "მოცილება"
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "საძიებო სისტემის დამატება"
+msgstr "საძიებოს დამატება"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr "საძიებო სისტემის სახელი"
+msgstr "საძიებოს დასახელება"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -885,7 +885,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ეს შეიძლება საიტის გაუმართაობის ბრალი იყოს, ან\n"
+"  <li>ეს შეიძლება, საიტის გაუმართაობის ბრალი იყოს ან\n"
 "სხვა საიტად გასაღების მცდელობას ჰქონდეს ადგილი.</li>\n"
 "  <li>თუ ამ საიტს მანამდე წარმატებით უკავშირდებოდით, ხარვეზი შესაძლოა\n"
 "დროებითი იყოს და მოგვიანებით შეგიძლიათ კვლავ სცადოთ.</li>\n"
@@ -1067,7 +1067,7 @@ msgstr "%1$s არის უფასო და ღია წყაროს �
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s ვრცელდება <a href=\"%2$s\">Mozilla Public License</a> ლიცენზიით და სხვა ღია წყაროს ლიცენზიებით."
+msgstr "%1$s ვრცელდება <a href=\"%2$s\">Mozilla Public License</a> და სხვა ღია წყაროს ლიცენზიებით."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
