@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-11 21:46+0000\n"
+"PO-Revision-Date: 2018-06-11 22:31+0000\n"
 "Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -532,7 +532,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Kabwik yemi wii jan yuwuha"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -544,7 +544,7 @@ msgstr ""
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Motor chŕmechu ñuk chkwachumyok"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -570,7 +570,7 @@ msgstr "Ujiiñ"
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Chŕmeechu sal chmii"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -588,7 +588,7 @@ msgstr "Chkwaach"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Yabwika: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -622,13 +622,13 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Kos ñul uuten"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Sal amchu mujiñ"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -644,7 +644,7 @@ msgstr ""
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Tublich chu jan"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -704,7 +704,7 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Mir mir mwii"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
@@ -737,7 +737,7 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Sal amchu jabch tpaay al chpaa?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -749,7 +749,7 @@ msgstr ""
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Sol"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
@@ -766,17 +766,17 @@ msgstr ""
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Tubspach"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Unaalch"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Jachuyal jabch hay upar"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -826,7 +826,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Chyakuhay kos nyaamuham blwiytemka"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -834,10 +834,12 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ch wupar yak yoyay chu pichtem cookies ha yu ŕ' amchum sakyawyume.</li></ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Chyakuhay kos eebteem"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -845,10 +847,12 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul> \n"
+"  <li>Yakuya smolhikyawa ch trchechu jkaay msol yaŕaalka.</li></ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Tublich chu kajanhay wupar"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -1067,15 +1071,15 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "M´mulha myoka"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Ŕ' amu"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Tkryee"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
@@ -1105,12 +1109,12 @@ msgstr ""
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Chŕmeechu myook"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "Chŕmeechu myook"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1154,12 +1158,12 @@ msgstr ""
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "M´mulha myoka"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Ŕ' amu"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
@@ -1170,4 +1174,4 @@ msgstr "Trchechu mk' kaab"
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL tñurch"
