@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-11 13:19+0000\n"
-"Last-Translator: Mozilla_AYM_1 <Mozilla_AYM_1@idisc.com>\n"
+"PO-Revision-Date: 2018-06-15 20:54+0000\n"
+"Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ay\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr "Taqpach thaqhatanakamax pichsutawa."
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "Thaqtam"
+msgstr "Thaqtam %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -75,7 +75,7 @@ msgstr "Llika janjat yatiyaña"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr "Jist'aram "
+msgstr "Jist'aram %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -132,7 +132,7 @@ msgstr "Thaqhañanakax jark'antatawa"
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr "Ukamp ch'amañchatawa"
+msgstr "Ukamp ch'amañchatawa %1$s"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -195,7 +195,17 @@ msgid ""
 "</p>\n"
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
-msgstr "%1$s ukaw uñjtam.<p> uk juman thaqhañamatakik uchasim:<ul></li> Thaqtam ukat uñjam"
+msgstr ""
+"<p>%1$s puts you in control.</p>\n"
+"<p>Use it as a private browser:\n"
+"  <ul>\n"
+"    <li>Search and browse right in the app</li>\n"
+"    <li>Block trackers (or update settings to allow trackers)</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<a href=\"%2$s\">Learn more</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
