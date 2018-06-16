@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-16 08:32+0000\n"
+"PO-Revision-Date: 2018-06-16 08:51+0000\n"
 "Last-Translator: Paulius <paulius@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -776,20 +776,20 @@ msgstr "Atsisakyti"
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Parsiųsti"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Nepavyko įkelti tinklalapio"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Bandyti dar kartą"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Nepavyko užmegzti ryšio"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -798,14 +798,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Svetainė gali būti laikinai nepasiekiama. Pabandykite šiek tiek vėliau.</li>\n"
+"        <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo įrenginio duomenų arba belaidį ryšį.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Ryšiui skirtas laikas baigėsi"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Nerastas serveris"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -816,10 +820,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Patikrinkite, ar įvestame adrese nėra klaidų, pvz.:\n"
+"          <strong>ww</strong>.example.com vietoje\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo įrenginio duomenų arba belaidį ryšį.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Neteisingas adresas"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -828,10 +838,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Svetainių adresai dažniausiai rašomi taip: <strong>http://www.example.com/</strong></li>\n"
+"  <li>Įsitikinkite, kad naudojate pasviruosius brūkšnius (į priekį): <strong>/</strong>.</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Neteisingas tinklalapio peradresavimas"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -839,10 +853,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Neatpažintas adresas"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -850,10 +867,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Saugaus ryšio užmegzti nepavyko"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -864,51 +884,55 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti kitu serveriu.</li>\n"
+"  <li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Ups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Mums nepavyko įkelti šio tinklalapio dėl nežinomos priežasties."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Dalintis saitu"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Kopijuoti saito adresą"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Dalintis paveikslu"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Kopijuoti paveikslo adresą"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Įrašyti paveikslą"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Atverti naujoje kortelėje"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Įrašyti ir pasidalinti paveikslai <b>nebus pašalinti</b> jums išvalius „%1$s“ naršymo žurnalą."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
