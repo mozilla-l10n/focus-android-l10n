@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-09 15:27+0000\n"
+"PO-Revision-Date: 2018-06-16 08:32+0000\n"
 "Last-Translator: Paulius <paulius@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -766,12 +766,12 @@ msgstr "Atsiųsti failai <b>nebus pašalinti</b> jums išvalius „%1$s“ narš
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Parsiųsti failą"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Atsisakyti"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
