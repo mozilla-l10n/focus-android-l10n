@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-20 03:04+0000\n"
+"PO-Revision-Date: 2018-06-20 03:20+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -501,7 +501,7 @@ msgstr "Kasɨ JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Daa página kuvi kivu ñama, jee kuvi nsatiñu vii"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -604,7 +604,7 @@ msgstr "Tee sivɨ ka̱a̱ nánuku"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "Iin ka̱a̱ nánuku a ni´i sivɨ ya´a."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -612,7 +612,7 @@ msgstr "Tee a nánukunu"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Kune´ya dee tu´un nánukunu íyo kua vají nuu ya´a"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -856,7 +856,7 @@ msgstr ""
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Ntu kuka'nuni nuu ya´a"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
