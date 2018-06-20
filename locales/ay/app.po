@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-20 10:10+0000\n"
+"PO-Revision-Date: 2018-06-20 10:29+0000\n"
 "Last-Translator: Mozilla_AYM_1 <Mozilla_AYM_1@idisc.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ay\n"
@@ -836,22 +836,22 @@ msgid ""
 "<ul>\n"
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
-msgstr ""
+msgstr "<li>Akham jan walt'awinakax janiw walt'aykaspati ukhamarak yatiyäwinak uñstayanisma</li>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Uka llika janjax janiw amuyatakiti"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
-msgstr ""
+msgstr "<li> Inas yaqha suftwar uchañax wakischini. </li>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Kunikshunaw jan walt'awaykiti"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -862,125 +862,127 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<li> Aka inas uka siriwiturat jan walta0wix jutchi, inas khiti uka wirituran jan walt'aykaspati. </li> Jumatix pasirinx aka sirwiturar sum makhataskstaxa, uka jan walt'awix juk'apachakispawa, "
+"ukhamat qhipar yant'ama. "
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Uups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Janiw aka llika janjax phuqhachaskaspati"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Chhitthap ch'iqiyaña"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Llika janjar mantañakis uk waruqaña"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Jamuqanak ch'iqiyaña"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Jamuqan chiqañchirip waruqaña"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Jamuqanak imaña"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Uka chhithapx machaqar jist'araña"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Uka jamuqx imam ukat ch'iqiyam janiw pichsuskaniti, kunawsatix apnaqatanakam pichxat ukhaxa."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "jumankirikis uk ch'amañcham"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Uka juman thaqhatam yaqhar apam. Yatiyäwinak jark'antam ukat yaqha utjirinak llika janjanakan jan jayarst'añatal thaqtasmawa."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Thaqhatam ukhamark jumankiri"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Yaqht thaqhaskta? Yaqha thaqhañamp thaqtam."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Jank'ak mantañanak uka mantañawjar ucht'asim."
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Sapa kut mantat llikarjank'ak  kutt'am. \"Mantañawjar yapkatam\" jiskis uka ajllt'asin ucht'asim."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Uka jumatakikis ukx sapakut ucht'asim"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s uka thaqhirinakx justupach mistsur ucht'asim ukat sum aka tuqin jist'arañanak tuqinakat jikxatam."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Ukhamax, amuyataxiwa."
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "T'isktam"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Ukxaru"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Yapt'aña"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Sayt'aña"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
