@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-20 02:48+0000\n"
+"PO-Revision-Date: 2018-06-20 03:04+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -954,7 +954,7 @@ msgstr "Nánukunu inka tu´un? Kaji inka ka̱a̱ nánuku nuu daa ke´í."
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Tee a kivu ñama nuu kajie´e"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -966,7 +966,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Kino jii privacidad"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -1107,11 +1107,11 @@ msgstr "Xinoo"
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Conexión vatu"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "Ntu va´a conexion"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
@@ -1126,12 +1126,12 @@ msgstr "Seguridad nuu ya´a"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL ya´a a íyo"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Nánuku nuu página"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
@@ -1152,7 +1152,7 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d de %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
@@ -1164,18 +1164,18 @@ msgstr "Nánuku inka tu´un"
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Nuku tu´un ichi yata"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Nakasɨ nnánukunu"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Nejika iin autenticación"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
