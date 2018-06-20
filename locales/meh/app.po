@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-20 01:40+0000\n"
+"PO-Revision-Date: 2018-06-20 02:07+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -223,7 +223,7 @@ msgstr "Kaji kuntada noo´o, cookies jii datos"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Tee kua predeterminado"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -232,32 +232,32 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "Jiee ya´a %1$s, chineí"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "A kumi nkutada-ja"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Tu´un Web"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Sama ka̱a̱"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "Ntaka"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Nastutu datos jii a ni´i"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -303,7 +303,7 @@ msgstr "Ke´í saa %1$s kutivi nuu ka̱a̱ direcciones kuaiyo daa 450 URLs a ni�
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Sa´a vii URLs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
