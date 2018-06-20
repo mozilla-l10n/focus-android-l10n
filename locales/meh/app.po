@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-20 02:07+0000\n"
+"PO-Revision-Date: 2018-06-20 02:30+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -315,7 +315,7 @@ msgstr "Sá´á vii URLs"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+Tee a Sá´á vii URL"
+msgstr "+Tee a sá´á vii URL"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
@@ -325,17 +325,17 @@ msgstr "Tee URL vii"
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Tee a sá´á vii URL"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies jii datos nuu ya´a"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Kaji datos"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -367,7 +367,7 @@ msgstr "Tee a xiin chu´un URL"
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "Kua: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
@@ -445,18 +445,18 @@ msgstr "Dee tee ya´a kuvi sá´á daa web nsatiñu vii"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "Kasɨ cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "Nkuvi"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Nakasɨ ntu xini cookies daa inka"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -495,7 +495,7 @@ msgstr "Kuvi tuvi íconos a xiin nkutuvi tutu natava"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Kasɨ JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -1180,12 +1180,12 @@ msgstr ""
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "Sivɨ"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
