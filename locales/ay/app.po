@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-21 14:51+0000\n"
-"Last-Translator: Mozilla_AYM_1 <Mozilla_AYM_1@idisc.com>\n"
+"PO-Revision-Date: 2018-06-21 19:12+0000\n"
+"Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ay\n"
 "MIME-Version: 1.0\n"
@@ -530,7 +530,7 @@ msgstr "Juk’amp yatiña"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Musillax ajllsuwa kunatix askiki ukak churi ukhamarak taqinitakis  sumaptayi"
+msgstr "Musillax ajllsuwa kunatix askiki ukak churi ukhamarak taqinitakis  sumaptayi %1$s"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -908,7 +908,7 @@ msgstr "Uka chhithapx machaqar jist'araña"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Uka jamuqx imam ukat ch'iqiyam janiw pichsuskaniti, kunawsatix apnaqatanakam pichxat ukhaxa."
+msgstr "Uka jamuqx imam <b>ukat ch'iqiyam janiw</b> pichsuskaniti, %1$s kunawsatix apnaqatanakam pichxat ukhaxa."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1051,7 +1051,9 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr "Janiw kuna yäqayasiñamas iyawsatakiti ukhamarus Mozilla uka luririnak tuqisa ukhamarak yaqhasa. Firefox chimpunakas sutinakapasa. Yaqha yatiyäwinakas akawjanx jikxatasirakispawa. "
+msgstr ""
+"Janiw kuna yäqayasiñamas iyawsatakiti ukhamarus Mozilla uka luririnak tuqisa ukhamarak yaqhasa. Firefox %1$s chimpunakas sutinakapasa. Yaqha yatiyäwinakas akawjanx <a "
+"href=\"%2$s\">jikxatasirakispawa</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
