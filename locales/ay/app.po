@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-21 19:12+0000\n"
+"PO-Revision-Date: 2018-06-21 19:14+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ay\n"
@@ -542,7 +542,7 @@ msgstr "Maynitakik yatiya"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "Kunxatasa"
+msgstr "Kunxatasa %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -641,7 +641,7 @@ msgstr "Thaqhatanak pichsum"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr "P’uyunak jist’araña"
+msgstr "P’uyunak jist’araña: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -940,7 +940,7 @@ msgstr "Jank'ak mantañanak uka mantañawjar ucht'asim."
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Sapa kut mantat llikarjank'ak  kutt'am. \"Mantañawjar yapkatam\" jiskis uka ajllt'asin ucht'asim."
+msgstr "Sapa kut mantat llikarjank'ak %1$s kutt'am. \"Mantañawjar yapkatam\" jiskis uka ajllt'asin %1$s ucht'asim."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1060,7 +1060,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Yaqhanakax  %1$s juk'ampis akawjan inaskiwa, ukhamarak ukanakax inakipuniwa."
+msgstr "Yaqhanakax %1$s juk'ampis akawjan inaskiwa, ukhamarak ukanakax <a href=\"%2$s\">inakipuniwa</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
