@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-21 13:31+0000\n"
+"PO-Revision-Date: 2018-06-23 13:44+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -125,7 +125,7 @@ msgstr "Τα δικαιώματά σας"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Αποκλεισμένα trackers"
+msgstr "Αποκλεισμένοι ιχνηλάτες"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -549,22 +549,22 @@ msgstr "Σχετικά με το %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Εγκατεστημένες μηχανές αναζήτησης"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Επαναφορά προεπιλεγμένων μηχανών αναζήτησης"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Προσθήκη άλλης μηχανής αναζήτησης"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Αφαίρεση μηχανών αναζήτησης"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -575,11 +575,11 @@ msgstr "Αφαίρεση"
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Προσθήκη μηχανής αναζήτησης"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Όνομα μηχανής αναζήτησης"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -597,7 +597,7 @@ msgstr ""
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Προστέθηκε νέα μηχανή αναζήτησης."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
