@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-23 13:44+0000\n"
+"PO-Revision-Date: 2018-06-24 12:31+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -238,7 +238,7 @@ msgstr ""
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Προστασία από καταγραφή"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
@@ -248,7 +248,7 @@ msgstr "Διαδικτυακό περιεχόμενο"
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Εναλλαγή εφαρμογών"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
@@ -362,7 +362,7 @@ msgstr "URL για προσθήκη"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Επικόλληση ή εισαγωγή URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -418,7 +418,7 @@ msgstr "Φραγή trackers διαφημίσεων"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Ορισμένες διαφημίσεις καταγράφουν επισκέψεις ιστοσελίδων, ακόμη κι αν δεν κάνετε κλικ σε διαφημίσεις"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -442,7 +442,7 @@ msgstr "Φραγή trackers άλλου περιεχομένου"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Η ενεργοποίηση ενδέχεται να προκαλέσει απροσδόκητη συμπεριφορά ορισμένων σελίδων"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -593,7 +593,7 @@ msgstr "Αποθήκευση"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Παράδειγμα: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -601,7 +601,7 @@ msgstr "Προστέθηκε νέα μηχανή αναζήτησης."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Εισάγετε όνομα μηχανής αναζήτησης"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
@@ -1100,11 +1100,11 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "Όνομα χρήστη"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Κωδικός πρόσβασης"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
@@ -1114,17 +1114,17 @@ msgstr "Εκκαθάριση"
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Ασφαλής σύνδεση"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "Μη ασφαλής σύνδεση"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "Επαληθεύτηκε από: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
@@ -1182,7 +1182,7 @@ msgstr ""
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Απαιτείται ταυτοποίηση"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
