@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-21 19:14+0000\n"
+"PO-Revision-Date: 2018-06-25 17:10+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ay\n"
@@ -1041,7 +1041,7 @@ msgstr "%1$s Ukax inakiwa  ukhamarak uka Mozillan luratanak apaqt'asim."
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s Ukax jumatakjam wakt'ayatawa Mozillax taqinitakiwa, ukhamarak yaqhanakasa."
+msgstr "%1$s Ukax jumatakjam wakt'ayatawa <a href=\"%2$s\">Mozillax taqinitakiwa</a>, ukhamarak yaqhanakasa."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
