@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-24 12:31+0000\n"
+"PO-Revision-Date: 2018-06-27 14:47+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -293,7 +293,7 @@ msgstr "Αυτόματη συμπλήρωση"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Λίστα προεπιλεγμένων URL"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -379,7 +379,7 @@ msgstr "Παράδειγμα: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Προστέθηκε νέο προσαρμοσμένο URL."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -396,7 +396,7 @@ msgstr "Αφαίρεση"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Ελέγξτε ξανά το URL που πληκτρολογήσατε."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -457,7 +457,7 @@ msgstr "Όχι"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Φραγή μόνο cookies τρίτων"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -605,7 +605,7 @@ msgstr "Εισάγετε όνομα μηχανής αναζήτησης"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "Μια εγκατεστημένη μηχανή αναζήτησης χρησιμοποιεί ήδη αυτό το όνομα."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
