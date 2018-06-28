@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-27 14:47+0000\n"
+"PO-Revision-Date: 2018-06-28 16:10+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -224,7 +224,7 @@ msgstr "Επιλογές παρακολούθησης, cookies, δεδομένω
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Ορισμός ως προεπιλογή, αυτόματη συμπλήρωση"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -233,7 +233,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "Σχετικά με το %1$s, βοήθεια"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -502,7 +502,7 @@ msgstr "Αποκλεισμός JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Οι σελίδες ενδέχεται να φορτώνονται ταχύτερα, αλλά ίσως συμπεριφερθούν απροσδόκητα"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -1096,6 +1096,8 @@ msgstr "Επιπρόσθετος πηγαίος κώδικας για το %1$s 
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"Το %1$s χρησιμοποιεί επίσης λίστες αποκλεισμού, που παρέχονται από την ανεξάρτητη Disconnect, Inc. υπό τη <a href=\"%2$s\">γενική δημόσια άδεια GNU v3</a> και είναι διαθέσιμη <a "
+"href=\"%3$s\">εδώ</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1177,7 +1179,7 @@ msgstr "Εύρεση προηγούμενου αποτελέσματος"
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Απόρριψη εύρεσης στη σελίδα"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
@@ -1197,7 +1199,7 @@ msgstr "Κωδικός πρόσβασης"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "Απαίτηση ιστοσελίδας για υπολογιστές"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
