@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-29 17:51+0000\n"
+"PO-Revision-Date: 2018-06-29 18:03+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1074,7 +1074,9 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr "Ye' la uch taq'ax u tu'aale' te ka't uxhchil ech kole' uva' la b'anb'el ib'ii texhlalil u Mozilla, Firefox moj \"%1$s\". La lej ka't alb'al isuuchil see <a href=\"%2$s\">tzitza'</a>."
+msgstr ""
+"Ye' la uch taq'ax u tu'aale' te ka't uxhchil tetz u Nimla atinb'ale' Mozilla moj ka'taj taq'onb'al  ech kole' uva' la b'anb'el ib'ii texhlalil u Mozilla, Firefox moj %1$s. La lej ka't alb'al "
+"isuuchil see <a href=\"%2$s\">tzitza'</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1148,7 +1150,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
