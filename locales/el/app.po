@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-28 16:10+0000\n"
+"PO-Revision-Date: 2018-06-30 09:07+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -351,7 +351,7 @@ msgstr "Μάθετε περισσότερα"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Προσθήκη και διαχείριση προσαρμοσμένων URLs αυτόματης συμπλήρωσης."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -583,7 +583,7 @@ msgstr "Όνομα μηχανής αναζήτησης"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Νήμα αναζήτησης προς χρήση"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -609,7 +609,7 @@ msgstr "Μια εγκατεστημένη μηχανή αναζήτησης χρ
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Εισάγετε νήμα αναζήτησης"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
