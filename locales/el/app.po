@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-30 09:07+0000\n"
+"PO-Revision-Date: 2018-06-30 10:00+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -299,7 +299,7 @@ msgstr "Λίστα προεπιλεγμένων URL"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Ενεργοποιήστε ώστε το %1$s να συμπληρώνει αυτόματα περισσότερα από 450 δημοφιλή URLs στη γραμμή διευθύνσεων."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -426,7 +426,7 @@ msgstr "Φραγή trackers αναλύσεων"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "Χρησιμοποιείται για συλλογή, ανάλυση και μέτρηση δραστηριοτήτων, όπως πατήματα και κύλιση"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -434,7 +434,7 @@ msgstr "Φραγή κοινωνικών trackers"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Ενσωματωμένο σε ιστοσελίδες ώστε να καταγράφει τις επισκέψεις σας και να προβάλει λειτουργικότητα, όπως κουμπιά κοινής χρήσης"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -613,7 +613,7 @@ msgstr "Εισάγετε νήμα αναζήτησης"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Ελέγξτε ότι το νήμα αναζήτησης ταιριάζει με τη μορφή του παραδείγματος"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -980,7 +980,7 @@ msgstr "Κάντε το απόρρητο συνήθεια"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησής σας και απολαύστε τα οφέλη της ιδιωτικής περιήγησης όταν ανοίγετε ιστοσελίδες από άλλες εφαρμογές."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1080,6 +1080,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Δεν έχετε κανένα δικαίωμα ή άδεια για τα εμπορικά σήματα του Ιδρύματος Mozilla ή οποιουδήποτε τρίτου, όπως η Mozilla, το Firefox ή τα ονόματα ή τα λογότυπα του %1$s. Μπορείτε να βρείτε περισσότερες "
+"πληροφορίες <a href=\"%2$s\">εδώ</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
