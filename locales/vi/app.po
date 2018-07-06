@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-06 00:05+0000\n"
-"Last-Translator: Cloney 173741 <best.cloney.1301@gmail.com>\n"
+"PO-Revision-Date: 2018-07-06 05:59+0000\n"
+"Last-Translator: Đặng Duy Thanh <thanhdd.it@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
@@ -217,14 +217,14 @@ msgstr "Riêng tư & Bảo mật"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "Theo dõi, cookie, lựa chọn dữ liệu"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Đặt mặc định, tự đồng điền"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -233,7 +233,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "Giới thiệu về %1$s, trợ giúp"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -243,12 +243,12 @@ msgstr "Trình chống theo dõi"
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Nội dung web"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Chuyển đổi ứng dụng"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
@@ -258,7 +258,7 @@ msgstr "Chung"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Thu thập & sử dụng dữ liệu"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -331,12 +331,12 @@ msgstr "Thêm URL tùy chỉnh"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookie và dữ liệu trang"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Lựa chọn dữ liệu"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -1161,7 +1161,7 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d trong số %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
@@ -1179,7 +1179,7 @@ msgstr "Tìm kiếm kết quả trước đó"
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Loại bỏ tìm kiếm trong trang"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
