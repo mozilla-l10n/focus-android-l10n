@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-03-17 07:24+0000\n"
-"Last-Translator: Adeel <meetadeel@gmail.com>\n"
+"PO-Revision-Date: 2018-07-06 17:32+0000\n"
+"Last-Translator: عمر <um.qshi@gmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
 "MIME-Version: 1.0\n"
@@ -316,17 +316,17 @@ msgstr "مخصوص URLs"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "تخصیصی URL کا + اظافہ کریں"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "تخصیصی URL کا اظافہ کریں"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "تخصیصی URL کا اظافہ کریں"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -396,7 +396,7 @@ msgstr "ہٹائیں"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "درج شدہ URL دو دفعہ پڑتال کریں۔"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -446,7 +446,7 @@ msgstr "اہل بنانے کی وجہ سے شاید چند صفحات غیر م�
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "کوکیز بلاک کری٘ں"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -496,7 +496,7 @@ msgstr "نتیجتن اسکی شاید آئیکن یا تصاویر گایب ہ�
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "JavaScript بلاک کریں"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -605,7 +605,7 @@ msgstr "تلاش انجن کا نام داخل کریں"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "ایک تنصیب شدہ تلاش کے انجن پہلے ہی اس نام کا استعمال کر رہا ہے۔"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -1129,7 +1129,7 @@ msgstr "سائٹ سلامتی"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URLپہلے ہی موجود ہے"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
@@ -1178,7 +1178,7 @@ msgstr ""
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "توثیق درکار ہے"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
