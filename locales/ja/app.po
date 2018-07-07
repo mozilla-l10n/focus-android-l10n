@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-07 08:02+0000\n"
+"PO-Revision-Date: 2018-07-07 08:12+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -549,7 +549,7 @@ msgstr "%1$s について"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "インストールされた検索エンジン"
+msgstr "選択可能な検索エンジン"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -605,7 +605,7 @@ msgstr "検索エンジン名を入力"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr "インストールされている検索エンジンの中に同名のものが存在します。"
+msgstr "同名の検索エンジンがすでにインストールされています。"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -1065,7 +1065,7 @@ msgstr "%1$s は Mozilla や他の貢献者によって開発されているフ�
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s は <a href=\"%2$s\">Mozilla Public License</a> やその他オープンソースライセンスの条件に基づいて使用可能となっています。"
+msgstr "%1$s は <a href=\"%2$s\">Mozilla Public License</a> およびその他オープンソースライセンスの条件に基づいて使用することができます。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
