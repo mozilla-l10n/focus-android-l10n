@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-07 08:12+0000\n"
+"PO-Revision-Date: 2018-07-07 08:18+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -1075,14 +1075,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr "Mozilla、Firefox、%1$s の名称やロゴを含む、Mozilla Foundation や第三者の商標に関するいかなる権利やライセンスもあなたには与えられていません。詳しい情報は <a href=\"%2$s\">こちら</a> をご覧ください。"
+msgstr "ユーザーには、Mozilla、Firefox、%1$s の名称やロゴを含む Mozilla Foundation または第三者の商標に関するいかなる権利やライセンスも付与されていません。詳しい情報は <a href=\"%2$s\">Mozilla 商標ポリシー</a> をご覧ください。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s の追加ソースコードは様々な他のフリーでオープンソースの <a href=\"%2$s\">ライセンス</a> に基いて公開されています。"
+msgstr "%1$s の追加のソースコードは様々な他のフリーでオープンソースの <a href=\"%2$s\">ライセンス</a> に基づいて公開されています。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
