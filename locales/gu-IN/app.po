@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-29 13:21+0000\n"
+"PO-Revision-Date: 2018-07-07 17:28+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -434,7 +434,7 @@ msgstr "સામાજિક ટ્રેકર્સને અવરોધિ�
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "સાઇટ્સ પર એમ્બેડ કરેલા તમારી મુલાકાતોને ટ્રૅક કરવા અને શેર કરો બટનો જેવી કાર્યક્ષમતા દર્શાવવા માટે"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -442,7 +442,7 @@ msgstr "અન્ય સામગ્રી ટ્રેકર્સને અવ
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "સક્રિય કરવાથી કેટલાક પૃષ્ઠો અનપેક્ષિત રૂપે વર્તન કરી શકે છે"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -877,7 +877,7 @@ msgstr "ઊફ્ફ"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "અમે કોઈ કારણસર આ પૃષ્ઠને લોડ કરી શકતા નથી."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -914,7 +914,7 @@ msgstr "નવી ટેબમાં લિંક ખોલો"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "જ્યારે તમે %1$s ઇતિહાસને કાઢી નાખો ત્યારે સાચવેલા અને વહેંચાયેલ છબીઓ <b>કાઢી નાખવામાં આવશે નહીં</b>."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -924,7 +924,7 @@ msgstr "તમારી ગોપનીયતા વધારો"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "ખાનગી બ્રાઉઝિંગ આગલા સ્તર પર લો. જાહેરાતો અને અન્ય સામગ્રીને અવરોધિત કરો કે જે તમને સાઇટ્સ પર ટ્રૅક કરી શકે છે અને પૃષ્ઠ લોડ વખતને નીચે કરી શકે છે."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -934,19 +934,19 @@ msgstr "તમારી શોધ, તમારી રીત"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "કંઈક અલગ શોધી રહ્યાં છો? સેટિંગ્સમાં બીજુ મૂળભૂત શોધ એંજિન પસંદ કરો."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "તમારી મુખ્ય સ્ક્રીન પર શૉર્ટકટ્સ ઉમેરો"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s માં તમારી મનપસંદ સાઇટ્સ પર ઝડપથી પાછા આવો. ફક્ત %1$s મેનૂમાંથી \"મુખ્ય સ્ક્રીન પર ઉમેરો\" પસંદ કરો."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -958,7 +958,7 @@ msgstr "ગોપનીયતા એક આદત બનાવો"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "તમારા મૂળભૂત બ્રાઉઝર તરીકે %1$s સેટ કરો અને જ્યારે તમે અન્ય એપ્લિકેશનોથી વેબપૃષ્ઠો ખોલશો ત્યારે ખાનગી બ્રાઉઝિંગના લાભો મેળવો."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -996,7 +996,7 @@ msgstr "રદ કરો"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "શોર્ટકટ ટ્રેકિંગ પ્રોટેક્શન અક્ષમ સાથે ખુલશે"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1058,6 +1058,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"તમને Mozilla Foundation અથવા Mozilla, Firefox અથવા %1$s ના નામો અથવા લોગો સહિત કોઈ પણ પક્ષના ટ્રેડમાર્ક્સ માટે કોઈ અધિકારો અથવા લાઇસેંસ આપવામાં આવ્યાં નથી. વધારાની માહિતી <a "
+"href=\"%2$s\">અહીં</a>મળી શકે છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
