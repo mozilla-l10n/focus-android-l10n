@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-11 05:33+0000\n"
+"PO-Revision-Date: 2018-07-11 14:42+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ppl\n"
@@ -515,7 +515,7 @@ msgstr ""
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
@@ -771,7 +771,7 @@ msgstr ""
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Shikajkawa"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
@@ -970,7 +970,7 @@ msgstr ""
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
@@ -1123,7 +1123,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
