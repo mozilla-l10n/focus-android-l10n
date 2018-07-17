@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-11 14:44+0000\n"
-"Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
+"PO-Revision-Date: 2018-07-17 16:18+0000\n"
+"Last-Translator: jnunezf96 <jnunezf96@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ppl\n"
 "MIME-Version: 1.0\n"
@@ -253,7 +253,7 @@ msgstr "Shikpata tatemuil"
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "Muchi tatalilis"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -453,7 +453,7 @@ msgstr ""
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "Te"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -461,7 +461,7 @@ msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "Eje"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -478,7 +478,7 @@ msgstr ""
 #. avoid confusion.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps"
-msgstr ""
+msgstr "Shikinaya ijiswat kwak tikpata programaj"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -496,7 +496,7 @@ msgstr ""
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Shiktzakwa JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -511,7 +511,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "Shiktukti %1$s ken ne achtu tatemualuni"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
