@@ -9,14 +9,14 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-07 17:28+0000\n"
-"Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
+"PO-Revision-Date: 2018-07-22 06:37+0000\n"
+"Last-Translator: Viral Parmar <veer4always@hotmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.4.0\n"
 "X-Generator: Pontoon\n"
 
@@ -798,6 +798,10 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"         <li>સાઇટ અસ્થાયી રૂપે અનુપલબ્ધ અથવા ખૂબ વ્યસ્ત હોઈ શકે છે. થોડીક ક્ષણોમાં ફરી પ્રયાસ કરો.</li>\n"
+"         <li>જો તમે કોઈપણ પૃષ્ઠોને લોડ કરવામાં અસમર્થ છો, તો તમારા મોબાઇલ ઉપકરણનો ડેટા અથવા Wi-Fi કનેક્શન તપાસો.</li>\n"
+"       </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
@@ -816,6 +820,12 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+" <li>ટાઇપિંગની ભૂલો માટે સરનામું તપાસો\n"
+"           તેના બદલે<strong>ww</strong>.example.com\n"
+"           <strong>www</strong>.example.com</li>\n"
+"         <li>જો તમે કોઈપણ પૃષ્ઠોને લોડ કરવામાં અક્ષમ છો, તો તમારા ઉપકરણનો ડેટા અથવા Wi-Fi કનેક્શન તપાસો.</li>\n"
+"       </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -828,6 +838,10 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"   <li>વેબ સરનામાંઓ સામાન્ય રીતે<strong>http://www.example.com/</strong></li>જેવા લખવામાં આવે છે\n"
+"   <li>ખાતરી કરો કે તમે આગળ સ્લેશ (દા.ત. <strong>/</strong>)નો ઉપયોગ કરી રહ્યાં છો.</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -870,6 +884,12 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>આ સર્વરની ગોઠવણીમાં સમસ્યા હોઈ શકે છે, અથવા તે હોઈ શકે છે\n"
+"કોઈ વ્યક્તિ સર્વરનો ઢોંગ કરે છે.</li>\n"
+"  <li>જો તમે અગાઉ આ સર્વર સાથે સફળતાપૂર્વક કનેક્ટ કર્યું છે, તો ભૂલ થઈ શકે છે\n"
+"કામચલાઉ રહો, અને તમે પછીથી ફરી પ્રયત્ન કરી શકો છો.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -1020,7 +1040,7 @@ msgstr "ખાનગી બ્રાઉઝિંગ સત્ર"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "સૂચનાઓ તમને નળ સાથે તમારા %1$s સત્રને કાઢી નાખવા દે છે. તમારે એપ્લિકેશન ખોલો અથવા તમારા બ્રાઉઝરમાં શું ચાલી રહ્યું છે તે જોવાની જરૂર નથી."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1040,14 +1060,14 @@ msgstr "Firefox ડાઉનલોડ કરો"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s મોઝીલા અને અન્ય યોગદાનકર્તાઓ દ્વારા બનાવવામાં આવેલ મફત અને ઓપન સોર્સ સૉફ્ટવેર છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s તમને <a href=\"%2$s\">મોઝિલા પબ્લિક લાઇસેંસ</a> અને અન્ય ઓપન સોર્સ લાઇસેંસની શરતો હેઠળ ઉપલબ્ધ કરાવવામાં આવેલ છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1066,7 +1086,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s માટેના અતિરિક્ત સ્રોત કોડ, અન્ય ઘણા મફત અને ઓપન સોર્સ <a href=\"%2$s\">લાઇસેંસ</a>હેઠળ ઉપલબ્ધ છે."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1076,6 +1096,8 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s ઓ ડિસ્કનેક્ટ, ઇન્ક. દ્વારા પૂરી પાડવામાં આવેલ બ્લોકલિસ્ટ્સનો ઉપયોગ <a href=\"%2$s\">જીએનયુ જનરલ પબ્લીક લાયસન્સ v3</a> હેઠળ અલગ અને સ્વતંત્ર કાર્યોનો ઉપયોગ કરે છે, અને ઉપલબ્ધ <a href = "
+"\"%3$s\">અહીં</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
