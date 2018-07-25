@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-25 17:33+0000\n"
+"PO-Revision-Date: 2018-07-25 18:43+0000\n"
 "Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -487,17 +487,17 @@ msgstr "Tñur web wi tkat"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Icon ee paa tñurch hal chapayt kamjwilchuhal aaw yome"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "JavaScript tket"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Jabchuhay wayiibrab jukewu yuso, kabyuu imyus kabyuwuha kos ŕpoochtema"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -506,7 +506,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s ha sal amchu jaan myoobka"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -514,7 +514,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Kamwiik daatha mwiruha m´emch"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -527,7 +527,7 @@ msgstr "Terabum ŕpo"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla hay chmwiwuha paytum chyunk ka %1$s paytum wichkyaaw chajaanrab hikyawa."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -539,7 +539,7 @@ msgstr "Kabwik yemi wii jan yuwuha"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s kabyuwuh"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -549,17 +549,17 @@ msgstr "Motor chŕmechu ñuk chkwachumyok"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Motor chajaana januwa chŕmeech hay jan hikyawa"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Motor jkaay chŕmeech kyaaw jkaay sal chmii"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Motor chŕmeechu ujiñ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
