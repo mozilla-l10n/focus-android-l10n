@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-26 09:48+0000\n"
+"PO-Revision-Date: 2018-07-26 10:19+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -573,25 +573,25 @@ msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂਮ"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "ਵਰਤਣ ਲਈ ਖੋਜ ਸਟ੍ਰਿੰਗ"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "ਸੰਭਾਲੋ"
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "ਉਦਾਹਰਨ: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "ਨਵਾਂ ਖੋਜ ਇੰਜਣ ਜੋੜਿਆ ਗਿਆ।"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂਮ ਦਰਜ ਕਰੋ"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
