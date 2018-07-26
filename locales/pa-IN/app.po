@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-26 09:03+0000\n"
+"PO-Revision-Date: 2018-07-26 09:48+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -501,75 +501,75 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "ਮੋਜ਼ੀਲਾ"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "ਵਰਤੋਂ ਸਬੰਧੀ ਡੇਟਾ ਭੇਜੋ"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "ਹੋਰ ਜਾਣੋ"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "ਮੌਜ਼ਿਲਾ ਭਰਪੂਰ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ ਕਿ ਸਿਰਫ ਉਹੀ ਕੁੱਝ ਇਕੱਠਾ ਕੀਤਾ ਜਾਵੇ ਜੋ ਕਿ %1$s ਨੂੰ ਹਰੇਕ ਲਈ ਮੁਹੱਈਆ ਕਰਾਉਣ ਅਤੇ ਹੋਰ ਸੁਧਾਰਨ ਲਈ ਲੋੜੀਂਦਾ ਹੋਵੇ।"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s ਦੇ ਬਾਰੇ"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "ਇੰਸਟਾਲ ਕੀਤੇ ਖੋਜ ਇੰਜਣ"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ਹੋਰ ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "ਖੋਜ ਇੰਜਣਾਂ ਨੂੰ ਹਟਾਓ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "ਹਟਾਓ"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂਮ"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
