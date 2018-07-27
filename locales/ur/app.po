@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-06 17:32+0000\n"
+"PO-Revision-Date: 2018-07-27 07:50+0000\n"
 "Last-Translator: عمر <um.qshi@gmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
@@ -198,16 +198,6 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s آپ کو کنٹرول دیتی ہے </p>\n"
-"<p> اسکو نجی برائوزر کی طرح استعمال کریں:\n"
-"  <ul> \n"
-"    <li> اپلی کیشن میں ہی تلاش اور براؤز کریں </li>\n"
-"    <li>ٹریکررٰ کو بلاک کریں (یا سٹینگوں کی تازہ کاری کر کے ٹریکررٰ کو اجازت دیں)۔ </li>\n"
-"    <li> کوکیز کے ساتھ تلاش اور براؤزنگ سابقات کو بھی حذف کرنے کیلیے مٹائیں </li>\n"
-"  </ul>\n"
-"</p>\n"
-"<p>%1$s کی پیداوار ہے۔ ھماری مہم ایک صحت مند کھلے انٹرنیٹ کو فروعٰ دینا ہے۔ Mozilla<br/>\n"
-"<a href=\"%2$s\"> مزید سیکھیں </a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -233,7 +223,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "%1$s کے بارے میں، مدد"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -368,7 +358,7 @@ msgstr "URL چسپاں یا داخل کریں"
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "مثال کے طور پر: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
@@ -502,7 +492,7 @@ msgstr "JavaScript بلاک کریں"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "صفحات شاید تیزی سے لوڈ ہوں، لیکن شاید غیر متوقع طور پر برتاؤ کریں"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -761,7 +751,7 @@ msgstr "کھولیں"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "ڈائونلوڈ شدہ امسال<b>حزف نہیں کی جائیں گی</b>جب آپ %1$s سابقات مٹائیں گے۔"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -1155,7 +1145,7 @@ msgstr "%2$d/%1$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d میں سے %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
@@ -1173,7 +1163,7 @@ msgstr "پچھلا نتیجہ تلاش کرین"
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "صفحہ میں تلاش کوبرخاست کریں"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
