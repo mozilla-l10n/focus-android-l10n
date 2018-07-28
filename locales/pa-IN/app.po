@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-28 07:52+0000\n"
+"PO-Revision-Date: 2018-07-28 07:57+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -1012,7 +1012,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ ਮਿਟਾਓ"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1020,20 +1020,20 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "ਫਾਇਰਫਾਕਸ ਡਾਊਨਲੋਡ ਕਰੋ"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "ਮੋਜ਼ੀਲਾ ਅਤੇ ਹੋਰ ਯੋਗਦਾਨੀਆਂ ਦੁਆਰਾ ਬਣਾਏ ਗਏ %1$s ਮੁਫ਼ਤ ਅਤੇ ਓਪਨ ਸੋਰਸ ਸਾਫਟਵੇਅਰ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ਤੁਹਾਨੂੰ <a href=\"%2$s\">ਮੌਜ਼ੀਲਾ ਜਨਤਕ ਲਸੰਸ</a> ਅਤੇ ਹੋਰ ਖੁੱਲ੍ਹੇ ਵਸੀਲਿਆਂ ਦੇ ਲਸੰਸਾਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਹੇਠ ਮੁਹੱਈਆ ਕਰਵਾਇਆ ਗਿਆ ਹੈ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1064,25 +1064,25 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "ਪਾਸਵਰਡ"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "ਸਾਫ ਕਰੋ"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
