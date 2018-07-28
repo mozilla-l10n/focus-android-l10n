@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-27 07:50+0000\n"
+"PO-Revision-Date: 2018-07-28 09:49+0000\n"
 "Last-Translator: عمر <um.qshi@gmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
@@ -198,6 +198,16 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>%1$s آپ کو کنٹرول دیتی ہے </p>\n"
+"<p> اسکو نجی برائوزر کی طرح استعمال کریں:\n"
+"  <ul> \n"
+"    <li> اپلی کیشن میں ہی تلاش اور براؤز کریں </li>\n"
+"    <li>ٹریکررٰ کو بلاک کریں (یا سٹینگوں کی تازہ کاری کر کے ٹریکررٰ کو اجازت دیں)۔ </li>\n"
+"    <li> کوکیز کے ساتھ تلاش اور براؤزنگ سابقات کو بھی حذف کرنے کیلیے مٹائیں </li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s کی پیداوار ہے۔ ھماری مہم ایک صحت مند کھلے انٹرنیٹ کو فروعٰ دینا ہے۔ Mozilla<br/>\n"
+"<a href=\"%2$s\"> مزید جانیے </a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -207,14 +217,14 @@ msgstr "رازداری اور سلامتی"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "سراغ راہ، کوکیاں، کوائف پسند"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "طے شدہ سیٹ کریں، خودکار مکمل"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -326,7 +336,7 @@ msgstr "کوکیاں اور سائٹ کے کواِئف"
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "کوائف پسند"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -447,7 +457,7 @@ msgstr "نہیں"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "صرف 3-فریق کی کوکیاں بلاک کریں"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -1028,7 +1038,7 @@ msgstr "نجی برائوزنگ سیشن"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "اطلاعات آپ کو %1$s سیشن ایک تھاپ سے مٹا سکتے ہیں۔ آپ کو ایپلیکیشن کھولنے یا برائوزر میں کیا چل رہا ہے کی ظرورت نہیں۔"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
