@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-28 09:12+0000\n"
+"PO-Revision-Date: 2018-07-28 09:30+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -198,6 +198,8 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
+"<p>% 1 $ s ਤੁਹਾਨੂੰ ਨਿਯੰਤਰਣ ਵਿੱਚ ਰੱਖਦਾ ਹੈ। </ p><p> ਇਸ ਨੂੰ ਇੱਕ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰ ਦੇ ਤੌਰ ਤੇ ਵਰਤੋਂ:<ul><li> ਐਪ ਵਿੱਚ ਸੱਜੇ ਪਾਸੇ ਜਾਓ ਅਤੇ ਬ੍ਰਾਉਜ਼ ਕਰੋ </ li><li> ਬਲਾਕ ਟਰੈਕਰਜ਼ (ਜਾਂ ਟ੍ਰੈਕਕਰਸ ਨੂੰ ਅਨੁਮਤੀ ਦੇਣ ਲਈ "
+"ਸੈਟਿੰਗਾਂ ਅਪਡੇਟ ਕਰੋ) </ li><li> ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾਉਣ ਦੇ ਨਾਲ ਨਾਲ ਖੋਜ ਅਤੇ ਬ੍ਰਾਊਜ਼ਿੰਗ ਇਤਿਹਾਸ ਮਿਟਾਓ </ li></ul>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -289,7 +291,7 @@ msgstr "ਮੂਲ URL ਸੂਚੀ"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "ਐਡਰੈੱਸ ਬਾਰ ਵਿੱਚ 450 ਤੋਂ ਵੱਧ ਪ੍ਰਸਿੱਧ ਯੂਆਰਐਲ %1$s ਆਟੋ-ਪੂਰਨ ਹੋਣ ਦੇ ਯੋਗ ਬਣਾਓ।"
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -408,7 +410,7 @@ msgstr "ਬਲਾਕ ਵਿਗਿਆਪਨ ਟਰੈਕਰਜ"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "ਕੁਝ ਵਿਗਿਆਪਨ ਸਾਈਟ ਦੇ ਦੌਰੇ ਨੂੰ ਟਰੈਕ ਕਰਦੇ ਹਨ, ਭਾਵੇਂ ਤੁਸੀਂ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਨਹੀਂ ਕਲਿਕ ਕਰਦੇ"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -416,7 +418,7 @@ msgstr "ਵਿਸ਼ਲੇਸ਼ਣ ਟਰੈਕਰ ਬਲਾੱਕ ਕਰੋ"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
+msgstr "ਟੇਪਿੰਗ ਅਤੇ ਸਕ੍ਰੌਲਿੰਗ ਵਰਗੀਆਂ ਗਤੀਵਿਧੀਆਂ ਇਕੱਤਰ ਕਰਨ, ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਨ ਅਤੇ ਮਾਪਣ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -432,7 +434,7 @@ msgstr "ਹੋਰ ਸਮੱਗਰੀ ਟਰੈਕਰ ਬਲਾੱਕ ਕਰੋ"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "ਸਮਰੱਥ ਬਣਾਉਣ ਨਾਲ ਕੁਝ ਪੰਨੇ ਅਚਾਨਕ ਵਿਹਾਰ ਕਰ ਸਕਦੇ ਹਨ"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -492,7 +494,7 @@ msgstr "JavaScript ਬਲਾੱਕ ਕਰੋ"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "ਪੰਨੇ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੋ ਸਕਦੇ ਹਨ, ਪਰ ਅਚਾਨਕ ਹੀ ਵਿਵਹਾਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
