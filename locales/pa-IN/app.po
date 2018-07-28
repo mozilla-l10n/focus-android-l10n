@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-28 07:33+0000\n"
+"PO-Revision-Date: 2018-07-28 07:52+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -845,7 +845,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -859,41 +859,41 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "ਓ ਹੋ"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "ਅਸੀਂ ਕੁਝ ਕਾਰਣਾਂ ਲਈ ਇਸ ਸਫੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ।"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "ਲਿੰਕ ਸਾਂਝਾ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "ਲਿੰਕ ਦੇ ਐਡਰੈਸ ਨੂੰ ਕਾਪੀ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਸਾਂਝਾ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਦਾ ਪਤਾ ਕਾਪੀ ਕਰੋ"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "ਚਿੱਤਰ ਨੂੰ ਸੰਭਾਲੋ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "ਨਵੀਂ ਟੈਬ ਚ ਖੋਲ੍ਹੋ"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -905,7 +905,7 @@ msgstr ""
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
@@ -915,17 +915,17 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "ਤੁਹਾਡੀ ਖੋਜ, ਤੁਹਾਡਾ ਢੰਗ"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "ਕੁਝ ਵੱਖਰਾ ਲੱਭ ਰਹੇ ਹੋ? ਸੈਟਿੰਗਾਂ ਵਿੱਚੋ ਹੋਰ ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਚੁਣੋ।"
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "ਆਪਣੀ ਮੁੱਖ ਸਕਰੀਨ ਲਈ ਸ਼ਾਰਟਕਟ ਜੋੜੋ"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -937,7 +937,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "ਪਰਦੇਦਾਰੀ ਨੂੰ ਆਦਤ ਬਣਾਓ"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -948,33 +948,33 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "ਠੀਕ ਹੈ, ਸਮਝ ਗਏ!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "ਛੱਡੋ"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "ਅੱਗੇ"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "ਜੋੜੋ"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -993,7 +993,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰਿੰਗ ਕਾਰਜਕਾਲ"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
