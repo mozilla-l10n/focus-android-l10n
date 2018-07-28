@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-28 09:30+0000\n"
+"PO-Revision-Date: 2018-07-28 09:41+0000\n"
 "Last-Translator: jv.raavi <jv.raavi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -597,7 +597,7 @@ msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂਮ ਦਰਜ ਕਰੋ"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "ਇੱਕ ਇੰਸਟੌਲ ਕੀਤੇ ਖੋਜ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਉਹ ਨਾਂ ਵਰਤ ਰਿਹਾ ਹੈ।"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -605,7 +605,7 @@ msgstr "ਖੋਜ ਸਤਰ ਦਾਖਲ ਕਰੋ"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "ਜਾਂਚ ਕਰੋ ਕਿ ਖੋਜ ਲਾਈਨ ਮਿਲਦੀ ਹੈ ਉਦਾਹਰਨ ਫਾਰਮੈਟ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -713,7 +713,7 @@ msgstr "ਲਿੰਕ ਨੂੰ ਹੋਰ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹ�
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "ਤੁਸੀਂ %2$s ਵਿੱਚ ਇਹ ਲਿੰਕ ਖੋਲ੍ਹਣ ਲਈ %1$s ਨੂੰ ਛੱਡ ਸਕਦੇ ਹੋ।"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -753,7 +753,7 @@ msgstr "ਖੋਲ੍ਹੋ"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ <b> ਮਿਟਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ </b> ਜਦੋਂ ਤੁਸੀਂ %1$s ਇਤਿਹਾਸ ਨੂੰ ਮਿਟਾਉਂਦੇ ਹੋ।"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
