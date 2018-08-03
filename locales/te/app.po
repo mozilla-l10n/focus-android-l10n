@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-07-05 08:51+0000\n"
+"PO-Revision-Date: 2018-08-03 08:39+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -231,7 +231,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "%1$s గురించి, సహాయం"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -509,7 +509,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "%1$s‌ను అప్రమేయ విహారిణి చేయి"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
