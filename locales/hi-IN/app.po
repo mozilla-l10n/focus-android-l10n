@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-24 13:39+0000\n"
-"Last-Translator: Dhiraj Kumar Singh <singhdhiraj255@gmail.com>\n"
+"PO-Revision-Date: 2018-08-04 16:13+0000\n"
+"Last-Translator: Mahtab <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -43,13 +43,15 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr "स्वचालित निजी ब्राउज़िंग. ब्राउज़ करें. मिटाएँ. दोहराएँ."
+msgstr ""
+"स्वचालित निजी ब्राउज़िंगl\n"
+"ब्राउज़ करेंl मिटाएँl दोहराएँl"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "आपका ब्राउज़िंग इतिहास मिटा दिया गया है."
+msgstr "आपका ब्राउज़िंग इतिहास मिटा दिया गया हैl"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -377,7 +379,7 @@ msgstr "उदाहरण: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "नया उपभोक्ता संशोधित URL जोड़ा गया."
+msgstr "नया उपभोक्ता संशोधित URL जोड़ा गयाl"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -719,7 +721,7 @@ msgstr "किसी अन्य अनुप्रयोग में लि�
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "आप इस लिंक को %2$s में खोलने के लिए %1$s को छोड़ सकते हैं."
+msgstr "आप इस लिंक को %2$s में खोलने के लिए %1$s को छोड़ सकते हैंl"
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -734,7 +736,7 @@ msgstr "एक ऐप ढूंढें जो लिंक खोल सकत
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "आपके डिवाइस पर मौजूद कोई ऐप इस लिंक को खोलने में सक्षम नहीं है. आप एक एप के लिए %2$s की खोज हेतु %1$s को छोड़ सकते हैं जो कर सकता है."
+msgstr "आपके डिवाइस पर मौजूद कोई ऐप इस लिंक को खोलने में सक्षम नहीं है. आप एक एप के लिए %2$s की खोज हेतु %1$s को छोड़ सकते हैं जो कर सकता हैl"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -759,12 +761,12 @@ msgstr "खोले"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "%1$s इतिहास मिटाने के बाद भी डाउनलोड किया हुआ फाइल <b>नही मिटेगा</b>."
+msgstr "%1$s इतिहास मिटाने के बाद भी डाउनलोड किया हुआ फाइल <b>नही मिटेगा</b>l"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr "फाइल डाउनलोड करे"
+msgstr "फाइल डाउनलोड करें"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
