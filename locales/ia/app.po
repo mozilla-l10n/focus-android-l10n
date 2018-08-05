@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-06-12 10:53+0000\n"
-"Last-Translator: Melo46 <melo@carmu.com>\n"
+"PO-Revision-Date: 2018-08-05 01:53+0000\n"
+"Last-Translator: Rodrigo Guerra <rodmguerra@gmail.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
 "Language: ia\n"
@@ -259,7 +259,7 @@ msgstr "General"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr "Collection e uso de datos"
+msgstr "Colligimento e uso de datos"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -278,7 +278,7 @@ msgstr "Activar"
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr "Disactivar"
+msgstr "Inactive"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
@@ -347,7 +347,7 @@ msgstr "Remover URLs personalisate"
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr "Apprender plus"
+msgstr "Saper plus"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
