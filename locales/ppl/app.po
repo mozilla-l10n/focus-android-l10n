@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-08-08 18:30+0000\n"
+"PO-Revision-Date: 2018-08-08 18:49+0000\n"
 "Last-Translator: jnunezf96 <jnunezf96@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ppl\n"
@@ -125,7 +125,7 @@ msgstr "Ne muWelilis"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Taishtemuani tzaktuk"
+msgstr "Tetatukani tzaktuk"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -202,7 +202,7 @@ msgstr ""
 "<p>Shikwi ken se ichtaka tatemualuni:\n"
 "  <ul>\n"
 "    <li>Shitatejtemu wan shitaishtemu nikan tik ne tatemuil</li>\n"
-"    <li>Shiktzakwa ne tajnekwini (ush shikyankwili ne tatalilis ipal shikajsi tajnekwini)</li>\n"
+"    <li>Shiktzakwa ne tajnekwini (ush shikyankwili ne tatalilis ipal shikajsi tetatukanit)</li>\n"
 "    <li>Shikpupu ipal shiktzakwa cookies wan ne tatemulis panutuk</li>\n"
 "  </ul>\n"
 "</p>\n"
@@ -238,7 +238,7 @@ msgstr "Ipanpa %1$s, tapalewilis"
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr "Shimumanawi kwak nemi taishtemuni"
+msgstr "Shikmanawi itech tetatukalis"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
@@ -414,7 +414,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "Shiktzakwa tepanujtal tetatukanit"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
