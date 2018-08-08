@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-08-08 18:03+0000\n"
+"PO-Revision-Date: 2018-08-08 18:30+0000\n"
 "Last-Translator: jnunezf96 <jnunezf96@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ppl\n"
@@ -217,14 +217,14 @@ msgstr "Ichtakachiwalis wan tamanawilis"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr "Shikishpejpena ne taishtemuani, cookies, wan tamatilis"
+msgstr "Shikijita ishmachiut, cookies, wan tamatil"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr "Shiktali achtupa ne tatalilis, ne mutamiltilis"
+msgstr "Shiktali ken ijki achtupa, ken muajshitilia"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -233,7 +233,7 @@ msgstr "Shiktali achtupa ne tatalilis, ne mutamiltilis"
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr "Ipanpa %1$s, shitapalewi"
+msgstr "Ipanpa %1$s, tapalewilis"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
