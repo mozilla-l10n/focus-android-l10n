@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-08-12 05:12+0000\n"
+"PO-Revision-Date: 2018-08-12 05:46+0000\n"
 "Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
@@ -44,14 +44,14 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"Langlangan pribadi otomatis.\n"
+"Langlangan nyamuni otomatis.\n"
 "Langlang. Pupus. Deui."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Jujutan langlangan pribadi anjeun geus dipupus."
+msgstr "Jujutan langlangan nyamuni anjeun geus dipupus."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -68,7 +68,7 @@ msgstr "Bagikeun…"
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr "Laporkeun Masalah Raramatloka"
+msgstr "Laporkeun Masalah Loka"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -87,7 +87,7 @@ msgstr "Buka di %1$s"
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr "Buka di…"
+msgstr "Buka di …"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -781,7 +781,7 @@ msgstr "Undeur"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr "Kaca hese dimuat"
+msgstr "Kaca hésé dimuat"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -838,10 +838,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Alamat raramat ilaharna ditulis siga <strong>http://www.example.com/</strong></li>\n"
+"  <li>Pastikeun anjeun maké slés maju (ny.é. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr "Kacana pindah teu merenah"
+msgstr "Kacana teu bener kaalihkeunna"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -880,6 +884,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ieu téh meureun disababkeun aya masalah patali jeung setélan sérver, atawa bisa waé aya jalma nu nyoba nyaru minangka server. </li>\n"
+"  <li>Mun anjeun saméméhna ngahasil nyambung ka server, érorna bisa ngan saheulaaneun hungkul, anjeun ké bisa nyobaan deui.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -939,7 +947,7 @@ msgstr "Cokot langlangan nyalindung ka undakan saterusna. Peungpeuk iklan jeung 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr "Teangan anjeun, cara anjeun"
+msgstr "Pamaluruhan anjeun, cara anjeun"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -968,7 +976,7 @@ msgstr "Matuhkeun salindungan"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Setel %1$s jadi parambah baku jeung beunangkeun kauntungan tina langlangan nyalindung dina mangsa anjeun muka kaca raramat tina aplikasi nu lian."
+msgstr "Setél %1$s jadi panyungsi baku sarta cokot kauntungan langlangan nyalindung sawaktu anjeun muka kaca raramat ti aplikasi séjén."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
