@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-08-12 04:33+0000\n"
-"Last-Translator: mfadhil <technowizard17@gmail.com>\n"
+"PO-Revision-Date: 2018-08-12 04:51+0000\n"
+"Last-Translator: miramarsellia <miramarsellia@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
 "MIME-Version: 1.0\n"
@@ -492,7 +492,7 @@ msgstr "Peungpeuk JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Kaca meureun ngamuat leuwih gancang, ngan bisa waé teu katerka"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -821,7 +821,7 @@ msgstr ""
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Kacana pindah teu merenah"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -903,7 +903,7 @@ msgstr "Gambar teundeunan jeung nu dibagikeun mah <b>moal dipupus</b> nalika anj
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr "Bedaskeun samunian anjeun"
+msgstr "Bedaskeun salindungan anjeun"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
@@ -913,7 +913,7 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Teangan anjeun, cara anjeun"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -923,7 +923,7 @@ msgstr ""
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Tambahkeun peuntasan ka kaca hareup"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -935,7 +935,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Matuhkeun salindungan"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -980,7 +980,7 @@ msgstr "Bolay"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Takulan bakal muka kalawan Kilung Palacak pareum"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1004,7 +1004,7 @@ msgstr "Rintakan langlangan nyamuni"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Iber pikeun ngahapus rintakan %1$s anjeun sakali tap. Anjeun teu kudu muka appna atawa nempo naon anu keur jalan dina panyungsi anjeun."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1024,14 +1024,14 @@ msgstr "Undeur Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s téh aplikasi bébas sarta sumber nembrak nu dijieun ku Mozilla jeung kontributor séjénna."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a href=\"%2$s\">Lisénsi Umum Mozilla</a> jeung lisénsi sumber nembrak nu séjén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1042,13 +1042,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang Mozilla Foundation atawa pihak mana ogé, kaasup ngaran atawa logo Mozilla, Firefox, atawa %1$s. Inpormasi leuwih jero bisa dipanggihan "
+"<a href=\"%2$s\">di dieu</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a href=\"%2$s\">lisénsi</a> bébas jeung sumber nembrak nu séjén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1058,6 +1060,8 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s ogé ngagunakeun daptar peungpeukan nu disayagakeun ku Disconnect, Inc. minangka hasil karya nu misah jeung indepénden di handapeun <a href=\"%2$s\">GNU General Public License v3</a>, sarta "
+"sayaga<a href=\"%3$s\">di dieu</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1127,13 +1131,13 @@ msgstr "%1$d ti %2$d"
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "Téang hasil séjén"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Téang hasil saméméhna"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
@@ -1144,7 +1148,7 @@ msgstr "Tutup téangan dina kaca"
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Oténtikasi dibutuhkeun"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
