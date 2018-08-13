@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 12:26+0000\n"
+"PO-Revision-Date: 2018-08-13 12:42+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -507,10 +507,9 @@ msgstr "Skrivni način"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Skrij strani pri preklapljanju med aplikacijami"
+msgstr "Skrij strani pri preklapljanju med aplikacijami in prepreči zajemanje posnetkov zaslona."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1270,14 +1269,14 @@ msgstr "Napredno"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Oddaljeno razhroščevanje preko USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Odkleni %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1352,7 +1351,7 @@ msgstr "Nekateri iskalniki ne morejo prikazovati predlogov."
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "V redu"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1363,6 +1362,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Ali stran deluje nepravilno?\n"
+" Poskusite izklopiti zaščito pred sledenjem"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
