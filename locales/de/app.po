@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 19:11+0000\n"
+"PO-Revision-Date: 2018-08-13 19:16+0000\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: de <LL@li.org>\n"
 "Language: de\n"
@@ -493,7 +493,7 @@ msgstr "Fingerabdruck zum Entsperren der App verwenden"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Ihr Fingerabdruck kann %1$s entsperren, wenn in der App bereits eine URL geöffnet ist. Tarnung wird aktiviert."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1262,57 +1262,57 @@ msgstr "Entwicklerwerkzeuge"
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Erweitert"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Externes Debugging über USB/WLAN"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$s entsperren"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Berühren Sie den Fingerabdrucksensor, um fortzufahren."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Neue Sitzung"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Grafik: Fingerabdruck"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Fingerabdruck nicht erkannt. Versuchen Sie es erneut."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Finger wurde zu schnell bewegt. Versuchen Sie es erneut."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Sollen Suchvorschläge angezeigt werden?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1321,35 +1321,35 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Um Ihnen Suchvorschläge anzuzeigen, muss %1$s Ihre Eingaben in die Adressleiste an die ausgewählte Suchmaschine senden. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "Weitere Informationen"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Einige Suchmaschinen können keine Vorschläge anzeigen."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Schließen"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1360,6 +1360,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Verhält sich die Website ungewohnt?\n"
+" Deaktivieren Sie den Schutz vor Aktivitätenverfolgung"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1369,6 +1371,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"Zugriff auf die meistbesuchten Websites mit einer Berührung\n"
+"        Menü → Zum Startbildschirm hinzufügen"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1380,6 +1384,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Jeden Link in %1$s öffnen\n"
+" Stellen Sie %1$s als Standardbrowser ein"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1389,6 +1395,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Autovervollständigung für meistbesuchte Websites\n"
+" Drücken Sie lange auf eine URL in der Adressleiste"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1398,6 +1406,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Einen Link in einem neuen Tab öffnen\n"
+" Drücken Sie lange auf einen Link in einer Seite"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1407,3 +1417,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Lieber die gesamte Desktop-Website ansehen?\n"
+"    Menü → Desktop-Seite anfordern"
