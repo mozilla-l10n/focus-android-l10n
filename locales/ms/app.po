@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 22:34+0000\n"
+"PO-Revision-Date: 2018-08-13 23:10+0000\n"
 "Last-Translator: manxmensch <manxmensch@gmail.com>\n"
 "Language-Team: ms <LL@li.org>\n"
 "Language: ms\n"
@@ -1264,57 +1264,57 @@ msgstr "Alatan pembangun"
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Lanjutan"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Nyahpepijat jauh via USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Buka %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Sentuh sensor cap jari untuk meneruskan."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Sesi Baru"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Ikon cap jari"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Cap jari tidak dikenali. Cuba lagi."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Jari digerak terlalu pantas. Cuba lagi."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Adakah anda mahu mengaktifkan cadangan carian?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
