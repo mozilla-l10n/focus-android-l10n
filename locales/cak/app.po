@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 20:22+0000\n"
+"PO-Revision-Date: 2018-08-13 21:01+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -278,7 +278,7 @@ msgstr "Kechilab'ëx ri yekanöx"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s xtutäq ri xtatz'ib'aj pa ri rukajtz'ik ochochib'äl chi re ri akanob'al"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -483,7 +483,7 @@ msgstr "Ja'"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Tawokisaj retal ruwi' aq'a' richin man niq'at ta chik ri chokoy"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -513,7 +513,7 @@ msgstr "Ke'ewäx ajk'amaya'l taq ruxaq toq yatok pa ri taq chokoy"
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Jikomal"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
