@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 13:39+0000\n"
+"PO-Revision-Date: 2018-08-13 22:34+0000\n"
 "Last-Translator: manxmensch <manxmensch@gmail.com>\n"
 "Language-Team: ms <LL@li.org>\n"
 "Language: ms\n"
@@ -493,7 +493,7 @@ msgstr "Guna cap jari untuk membuka aplikasi"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Cap jari anda boleh membuka %1$s jika URL telah dibuka dalam aplikasi. Halimunan akan diaktifkan."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -513,7 +513,7 @@ msgstr "Sorok halaman web apabila bertukar aplikasi dan sekat mengambil skrinsyo
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Keselamatan"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -609,7 +609,7 @@ msgstr "Buang"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Papar panduan skrin utama"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -746,7 +746,7 @@ msgstr "Kembali ke aplikasi dahulu"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Bilangan penjejak disekat"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1259,7 +1259,7 @@ msgstr "URL disalin"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Alatan pembangun"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
