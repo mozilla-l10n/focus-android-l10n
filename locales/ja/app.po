@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 12:31+0000\n"
+"PO-Revision-Date: 2018-08-13 12:33+0000\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -1391,6 +1391,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"よく使うサイトで URL を自動補完するには\n"
+" アドレスバー内で URL を長押しします"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1400,6 +1402,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"リンクを新しいタブで開くには\n"
+" ページ上でリンクを長押しします"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1409,3 +1413,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"完全なデスクトップ向けサイトを見たいですか？\n"
+"    メニュー > デスクトップ版を見る"
