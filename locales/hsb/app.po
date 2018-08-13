@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 16:39+0000\n"
+"PO-Revision-Date: 2018-08-13 18:20+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: hsb <LL@li.org>\n"
 "Language: hsb\n"
@@ -1321,7 +1321,7 @@ msgstr "Chceće pytanske namjety aktiwizować?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Zo byšće pytanske namjety dóstał, dyrbi %1$s wobsah, kotryž sće do adresoweho pola zapodał, na pytawu słać, kotruž sće wubrał. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1360,6 +1360,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Sydło so na njewočakowane wašnje zadźerži?\n"
+"Spytajće slědowanski škit znjemóžnić"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1369,6 +1371,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"Wočińće sydła, kotrež najhusćišo wopytujeće, z jednym podótkom\n"
+"        Meni > Startowej wobrazowce přidać"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1380,6 +1384,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Kóždy wotkaz w %1$s wočinić\n"
+"%1$s jako standardny wobhladowak nastajić"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1389,6 +1395,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"URL za sydła, kotrež najhusćišo wopytujeće, awtomatisce wudospołnić\n"
+"Tłóčće dołho na URL w adresowym polu"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1398,6 +1406,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Wotkaz w nowym rajtarku wočinić\n"
+"Tłóčće dołho na wotkaz na stronje"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1407,3 +1417,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Chceće radšo dospołne desktopowe sydło widźeć?\n"
+"    Meni > Desktopowe sydło požadać"
