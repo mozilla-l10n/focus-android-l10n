@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 06:12+0000\n"
+"PO-Revision-Date: 2018-08-14 06:14+0000\n"
 "Last-Translator: Gabriela <gmontagu@gmail.com>\n"
 "Language-Team: es_AR <LL@li.org>\n"
 "Language: es_AR\n"
@@ -1395,6 +1395,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Autocomplete las URLs para los sitios que más usa\n"
+" Mantenga presionada cualquier URL en la barra de direcciones"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1404,6 +1406,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Abra un enlace en una nueva pestaña\n"
+" Mantenga presionado cualquier enlace en una página"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1413,3 +1417,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"¿Prefiere ver el sitio de escritorio?\n"
+"    Menú > Solicitar sitio de escritorio"
