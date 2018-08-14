@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 10:39+0000\n"
+"PO-Revision-Date: 2018-08-14 11:08+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -1391,6 +1391,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"URL-ek automatikus kiegészítése a leggyakrabban használt oldalaknál\n"
+"Nyomja meg hosszan az URL-t a címsorban"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1400,6 +1402,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Nyissa meg a hivatkozást új lapon\n"
+"Nyomja meg hosszan bármelyik hivatkozást az oldalon"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1409,3 +1413,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Inkább az asztali oldalt látná?\n"
+"Menü &gt; Asztali oldal kérése"
