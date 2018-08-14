@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 23:29+0000\n"
+"PO-Revision-Date: 2018-08-14 23:42+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -1302,14 +1302,14 @@ msgstr "Ruwachib'al retal ruwi' q'ab'aj"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Man xetamäx ta ruwa ri  rel ruwi' q'ab'aj. Tatojtob'ej chik."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Aninäq xsilon ri ruwi' q'ab'aj. Tatojtob'ej chik."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
@@ -1345,7 +1345,7 @@ msgstr "Ja'"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Jujun taq kanob'än man yatikïr ta yekik'üt ta chilab'enïk."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
