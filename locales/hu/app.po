@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 10:24+0000\n"
+"PO-Revision-Date: 2018-08-14 10:39+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -272,14 +272,14 @@ msgstr "Keresés"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Keresési javaslatok kérése"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "A %1$s elküldi a címsávba írt szöget a keresőszolgáltatásának"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -484,7 +484,7 @@ msgstr "Igen"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Ujjlenyomat használata az alkalmazás kinyitásához"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -513,7 +513,7 @@ msgstr "Weboldalak elrejtése alkalmazásváltáskor, és a képernyőkép kész
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Biztonság"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -609,7 +609,7 @@ msgstr "Eltávolítás"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Tippek megjelenítése a kezdőképernyőn"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -746,7 +746,7 @@ msgstr "Vissza az előző apphoz"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Blokkolt követők száma"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1255,62 +1255,62 @@ msgstr "URL másolva"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Fejlesztői eszközök"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Speciális"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Távoli hibakeresés USB-n/Wi-Fi-n"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "A %1$s feloldása"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Érintse meg az ujjlenyomat-leolvasót a folytatáshoz."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Új munkamenetet"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Ujjlenyomat ikon"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Az ujjlenyomat nem ismerhető fel. Próbálja újra."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Az ujja túl gyorsan mozgott. Próbálja újra."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Szeretné bekapcsolni a keresési javaslatokat?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1325,29 +1325,29 @@ msgstr ""
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "További tudnivalók"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Néhány keresőszolgáltatás nem tud javaslatokat megjeleníteni."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Eltüntetés"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1358,6 +1358,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Az oldal váratlanul viselkedik?\n"
+"Próbálja kikapcsolni a követésvédelmet"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1378,6 +1380,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Nyisson meg minden hivatkozást a %1$sban\n"
+"Állítsa be a %1$st alapértelmezett böngészőnek"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
