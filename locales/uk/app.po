@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-15 10:11+0000\n"
+"PO-Revision-Date: 2018-08-15 10:17+0000\n"
 "Last-Translator: Artem Polivanchuk <artem@mozilla.org.ua>\n"
 "Language-Team: uk <LL@li.org>\n"
 "Language: uk\n"
@@ -507,10 +507,9 @@ msgstr "Під прикриттям"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Приховувати веб-сторінки при перемиканні додатків"
+msgstr "Приховувати веб-сторінки при перемиканні додатків та не дозволяти знімки екрану."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1352,7 +1351,7 @@ msgstr "Деякі засоби пошуку не можуть показува�
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Відхилити"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1363,6 +1362,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Неочікувана поведінка сайту?\n"
+" Спробуйте вимкнути захист від стеження"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1372,6 +1373,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"Швидкий доступ до популярних сайтів\n"
+"        Меню > Додати на головний екран"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1383,6 +1386,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Відкривайте всі посилання в %1$s\n"
+" Встановіть %1$s типовим браузером"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1392,6 +1397,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Автозавершення популярних URL-адрес\n"
+" Тривалий дотик до URL в адресному рядку"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1401,6 +1408,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Відкривайте посилання в новій вкладці\n"
+" Тривалий дотик до посилання на сторінці"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1410,3 +1419,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Бажаєте бачити повну версію сайту?\n"
+"    Меню > Повна версія сайту"
