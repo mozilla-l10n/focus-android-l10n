@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 11:08+0000\n"
+"PO-Revision-Date: 2018-08-16 11:35+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -484,7 +484,7 @@ msgstr "Igen"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr "Ujjlenyomat használata az alkalmazás kinyitásához"
+msgstr "Ujjlenyomat használata az alkalmazás feloldásához"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -493,7 +493,7 @@ msgstr "Ujjlenyomat használata az alkalmazás kinyitásához"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Az ujjlenyomata feloldhatja a %1$st, ha egy URL már meg lett nyitva az alkalmazásban. A rejtőzködés be lesz kapcsolva."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1319,7 +1319,7 @@ msgstr "Szeretné bekapcsolni a keresési javaslatokat?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "A keresési javaslatokhoz a %1$snak el kell küldenie a címsorba gépelt szöveget a kiválasztott keresésszolgáltatónak. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1369,6 +1369,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"Érje el a leggyakrabban használt oldalakat egy koppintással\n"
+"        Menü > Hozzáadás a kezdőképernyőhöz"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
