@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 13:37+0000\n"
+"PO-Revision-Date: 2018-08-17 08:29+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -279,7 +279,7 @@ msgstr "Λήψη προτάσεων αναζήτησης"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "Το %1$s θα στείλει ό,τι πληκτρολογήσετε στη γραμμή διευθύνσεων στη μηχανή αναζήτησής σας"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
