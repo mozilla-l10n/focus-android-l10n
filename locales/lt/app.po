@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-17 08:54+0000\n"
+"PO-Revision-Date: 2018-08-17 08:55+0000\n"
 "Last-Translator: Paulius <paulius@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -507,10 +507,9 @@ msgstr "Slaptumas"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Slėpti tinklalapius pereinant tarp programų"
+msgstr "Slėpti tinklalapius pereinant tarp programų bei neleisti daryti ekrano nuotraukų."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1418,3 +1417,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Norite tradicinės svetainės versijos?\n"
+"    Meniu > Prašyti ne mob. svetainės"
