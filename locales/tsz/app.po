@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 18:23+0000\n"
+"PO-Revision-Date: 2018-08-17 16:31+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -746,7 +746,7 @@ msgstr "Máteru úratarakwarhu kw'anhatsent'ani"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Namuni énka estakutiechani kwarhukuaka"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1249,12 +1249,12 @@ msgstr "URL p'itakata"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Kwerari ánchitakwaecha"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Jorenati"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
