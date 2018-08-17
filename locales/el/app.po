@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-17 08:29+0000\n"
+"PO-Revision-Date: 2018-08-17 08:43+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -493,7 +493,7 @@ msgstr "Χρήση αποτυπώματος για ξεκλείδωμα εφαρ
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Το δακτυλικό σας αποτύπωμα μπορεί να ξεκλειδώσει το %1$s αν έχει ήδη ανοίξει ένα URL στην εφαρμογή. Θα ενεργοποιηθεί η διακριτικότητα."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1284,7 +1284,7 @@ msgstr "Άρση φραγής %1$s"
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Αγγίξτε τον αισθητήρα αποτυπωμάτων για να συνεχίσετε."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1304,19 +1304,19 @@ msgstr "Εικονίδιο αποτυπώματος"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Το αποτύπωμα δεν αναγνωρίστηκε. Δοκιμάστε ξανά."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Το δάκτυλο κουνήθηκε πολύ γρήγορα. Δοκιμάστε ξανά."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Θα θέλατε να ενεργοποιήσετε τις προτάσεις αναζήτησης;"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1325,7 +1325,7 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Για προτάσεις αναζήτησης, το %1$s πρέπει να στέλνει στην επιλεγμένη σας μηχανή αναζήτησης ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1347,7 +1347,7 @@ msgstr "Ναι"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Μερικές μηχανές αναζήτησης δεν μπορούν να εμφανίσουν προτάσεις."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1364,6 +1364,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Απρόσμενη συμπεριφορά ιστοσελίδας;\n"
+" Δοκιμάστε να απενεργοποιήσετε την προστασία από καταγραφή"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1373,6 +1375,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"Πρόσβαση με ένα πάτημα σε ιστοσελίδες συχνής χρήσης\n"
+"        Μενού > Προσθήκη στην αρχική οθόνη"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1384,6 +1388,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Άνοιγμα κάθε συνδέσμου στο %1$s\n"
+" Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησης"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1393,6 +1399,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Αυτόματη συμπλήρωση URLs για τις ιστοσελίδες συχνής χρήσης\n"
+" Πατήστε παρατεταμένα οποιοδήποτε URL στη γραμμή διευθύνσεων"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1402,6 +1410,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Άνοιγμα συνδέσμου σε νέα καρτέλα\n"
+" Πατήστε παρατεταμένα οποιοδήποτε σύνδεσμο σε μια σελίδα"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1411,3 +1421,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Προτιμάτε την πλήρη έκδοση για υπολογιστές;\n"
+"    Μενού > Απαίτηση ιστοσελίδας για υπολογιστές"
