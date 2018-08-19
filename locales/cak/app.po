@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-14 23:42+0000\n"
+"PO-Revision-Date: 2018-08-19 15:51+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -492,7 +492,7 @@ msgstr "Tawokisaj retal ruwi' aq'a' richin man niq'at ta chik ri chokoy"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Ri retal ruwi' aq'a' nitikïr numeq'atij ri %1$s we jaqäl chik jun URL pa ri chokoy. Xtitzij ri metz'etel rub'anikil."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1323,7 +1323,7 @@ msgstr "¿La nawajo' ye'atzïj ri taq chilab'enïk richin yakanon?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Richin nik'ul kichilab'exik achike nikanöx, %1$s k'o chi nutäq ri natz'ib'aj pa ri rajtz'ik ochochib'äl chi re ri kanob'äl xacha'. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
