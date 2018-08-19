@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-19 14:12+0000\n"
+"PO-Revision-Date: 2018-08-19 14:17+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -484,7 +484,7 @@ msgstr "ใช่"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "ใช้ลายนิ้วมือเพื่อปลดล็อคแอป"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -746,7 +746,7 @@ msgstr "กลับไปที่แอปก่อนหน้า"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "จำนวนตัวติดตามที่ถูกปิดกั้น"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1261,7 +1261,7 @@ msgstr "ขั้นสูง"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "การดีบั๊กระยะไกลผ่าน USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
@@ -1274,7 +1274,7 @@ msgstr "ปลดล็อค %1$s"
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "สัมผัสเซนเซอร์ลายนิ้วมือเพื่อดำเนินการต่อ"
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1337,7 +1337,7 @@ msgstr "ใช่"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "เครื่องมือค้นหาบางตัวไม่สามารถแสดงข้อเสนอแนะ"
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
