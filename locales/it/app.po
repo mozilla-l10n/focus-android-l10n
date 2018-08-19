@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-18 13:40+0000\n"
+"PO-Revision-Date: 2018-08-18 14:15+0000\n"
 "Last-Translator: Sav22999 <saverio.morelli@outlook.it>\n"
 "Language-Team: it <LL@li.org>\n"
 "Language: it\n"
@@ -610,7 +610,7 @@ msgstr "Rimuovi"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Visualizza suggerimenti sulla schermata iniziale"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -747,7 +747,7 @@ msgstr "Torna all’applicazione precedente"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Numero di tracciamenti bloccati"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1256,17 +1256,17 @@ msgstr "URL copiato"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Strumenti di sviluppo"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzate"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Debug remoto attraverso USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
@@ -1279,27 +1279,27 @@ msgstr ""
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Tocca il sensore dell’impronta digitale per continuare."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Nuova sessione"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Icona dell’impronta digitale"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Impronta digitale non riconosciuta. Riprova."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
@@ -1326,17 +1326,17 @@ msgstr ""
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "Scopri di più"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
@@ -1348,7 +1348,7 @@ msgstr ""
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Ignora"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1379,6 +1379,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Apri ogni link in %1$s\n"
+" Imposta %1$s come browser predefinito"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1397,6 +1399,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Apri un link in una nuova scheda\n"
+" Tieni premuto a lungo un link in una pagina"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1406,3 +1410,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Preferisci visualizzare il sito in modalità desktop?\n"
+"    Menu > Modalità desktop"
