@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-19 16:07+0000\n"
+"PO-Revision-Date: 2018-08-19 16:21+0000\n"
 "Last-Translator: Juan Esteban Ajsivinac Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -1386,6 +1386,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Kejaq konojel ri taq ximonel pa %1$s\n"
+" Tib'an runuk'ulem %1$s achi'el ri awokik'amaya'l k'o wi"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1395,6 +1397,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Ruyon ke'atz'aqatisaj ri taq URLs kichin ri taq ruxan yalan ye'awokisaj\n"
+" Tapitz'itz'ej xa b'achike URL pa rukajtz'ik ochochib'äl"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1404,6 +1408,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Tijaq jun ximonel pa jun k'ak'a' ruwi'\n"
+" Tapitz'itz'ej xab'achike ximonel pa jun ruxaq"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1413,3 +1419,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"¿La nawajo' natzu' ri ruxaq ruk'amaya'l ruwa kematz'ib'?\n"
+"    K'utsamajib'äl > Tik'utüx jun ruxaq ruk'amaya'l ruwa kematz'ib'"
