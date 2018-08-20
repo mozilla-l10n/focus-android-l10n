@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-20 20:01+0000\n"
+"PO-Revision-Date: 2018-08-20 20:26+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1292,19 +1292,19 @@ msgstr "Mítitarantskwaeri p'ítakata"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Áamkuri mítinhantsï. Tsek'utantsï."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Manak'uarhaskari. Tsek'utantsï."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Arhistsïkwaecha jirinant'ani wékapirinkiri etskunt'ani?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
