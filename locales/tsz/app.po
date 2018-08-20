@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-20 18:48+0000\n"
+"PO-Revision-Date: 2018-08-20 19:07+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -271,7 +271,7 @@ msgstr "Jirinhani"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Arhistsïkwaechani exeani"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
@@ -483,7 +483,7 @@ msgstr "Jo"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Úratarakwani mítani mítitarantskwani úraparini"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -492,7 +492,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Ch'éeti mítitarantskwa %1$s áamku mitanki énka í URL úratarakwa mítatini jatsïaka. Exetku étskuntaati."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1279,7 +1279,7 @@ msgstr "Xanhatakari mítitarantskwani p'anharhikupani."
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Mítani"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
