@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-21 15:52+0000\n"
+"PO-Revision-Date: 2018-08-21 16:31+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
@@ -493,7 +493,7 @@ msgstr "अँप उघडण्यासाठी बोटाचा ठसा
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "जर एखादी URL आधीच अँप मध्ये उघडली असेल तर आपल्या बोटाचा ठसा %1$s उघडू शकतो. स्टेल्थ चालू होईल."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -509,7 +509,7 @@ msgstr ""
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr ""
+msgstr "अँप बदलताना वेब पृष्ठे लपवा आणि स्क्रीनशॉट घेणे आडवा."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -537,7 +537,7 @@ msgstr "JavaScript अवरोधित करा"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "पृष्ठे जलद लोड होतील पण अनपेक्षित वर्तणूक दाखवू शकतात"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -609,7 +609,7 @@ msgstr "काढून टाका"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "मुख्य पृष्ठाच्या सूचना दाखवा"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
