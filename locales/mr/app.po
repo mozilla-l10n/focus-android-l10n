@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-21 16:31+0000\n"
+"PO-Revision-Date: 2018-08-21 16:41+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
@@ -624,7 +624,7 @@ msgstr "शोध इंजिनचे नाव"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "शोधण्यास वापरायची अक्षरमाळ"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -642,7 +642,7 @@ msgstr "नवीन शोध इंजिन जोडले."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "शोध इंजिनाचे नाव प्रविष्ट करा"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
@@ -654,7 +654,7 @@ msgstr "सर्च स्ट्रिंग प्रविष्ट करा
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "शोध अक्षरमाळ उदाहरणाच्या स्वरूपात आहे का ते तपासा"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -746,14 +746,14 @@ msgstr "मागील अॅप वर परत या"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "अवरोधित मागोवा यंत्रणा संख्या"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "मागोवा यंत्रणा अवरोधित करा"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -1153,7 +1153,7 @@ msgstr ""
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "साइट सुरक्षा"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
@@ -1233,7 +1233,7 @@ msgstr "URL ची प्रत बनवली"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "डेव्हलपर साधने"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1243,7 +1243,7 @@ msgstr "प्रगत"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Wi-Fi द्वारे दूरस्थ डीबगिंग"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
