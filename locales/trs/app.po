@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-21 06:11+0000\n"
+"PO-Revision-Date: 2018-08-21 06:17+0000\n"
 "Last-Translator: Misael Hernández <yumatajnga@gmail.com>\n"
 "Language-Team: trs <LL@li.org>\n"
 "\n"
@@ -129,7 +129,7 @@ msgstr "Nej sa tna'uej rayi'ît"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Gi'iaj blokeandô Trackers"
+msgstr "Narun' sa naga'naj ñun'"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -202,9 +202,15 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s narikij kontrol riñat.</p> <p>garasun da' gache nu huìt: <ul> <li>Nana'uì' ni gache nunt ne' huà't ngà app</li> <li>Narràn riña blokeador (si nitaj ni guij nagi'iaj da' ga'ue ga'nïnt gi'iaj "
-"sun man)</li> <li>nadure' da' narè' cookies danj nanj nej nuguan' gachrûnt nga gaché nunt</li> </ul> </p> <p>%1$s Sa giri Mozilla huin.  Chrej nikò' ñûnj huin sisi ga ni'nïnj ni dugumin internet "
-"sò'.<br/> <a href=\"%2$s\">Gini'in doj rayi'î nuguan' na</a></p>"
+"<p>%1$s narikij kontrol riñat.</p> \n"
+"<p>garasun da' gache nu huìt: \n"
+"<ul> \n"
+"<li>Nana'uì' ni gache nunt ne' huà't ngà app</li> \n"
+"<li>Narràn riña blokeador (si nitaj ni guij nagi'iaj da' ga'ue ga'nïnt gi'iaj sun man)</li> <li>nadure' da' narè' cookies danj nanj nej nuguan' gachrûnt nga gaché nunt</li> \n"
+"</ul>\n"
+" </p> \n"
+"<p>%1$s Sa giri Mozilla huin.  Chrej nikò' ñûnj huin sisi ga ni'nïnj ni dugumin internet sò'.<br/> \n"
+"<a href=\"%2$s\">Gini'in doj rayi'î nuguan' na</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -409,7 +415,7 @@ msgstr "Ni'iaj si hua hue'è URL gachrunt."
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr "Nânj (nuguan')"
+msgstr "Nânj (Nânj a'mi')"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
@@ -1398,6 +1404,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Na'nïn a'ngo enlase riña a'ngo rakïj ñanj nakàa\n"
+"Ru'ma ra'à riña ahuin nanj ma'an enlase 'na riña pajinâ"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1407,3 +1415,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Ruat ni'iaj sitio 'na' riña eskritorio aj\n"
+"    Menú > gachinj ni'iaj"
