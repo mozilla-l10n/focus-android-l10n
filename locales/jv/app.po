@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-08-12 06:42+0000\n"
+"PO-Revision-Date: 2018-08-21 10:00+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: jv\n"
@@ -23,21 +23,21 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "OKÉ"
 
 msgctxt "action_save"
 msgid "Save"
-msgstr ""
+msgstr "Simpen"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "Golèk utawa lebokaké alamat"
 
 msgctxt "teaser"
 msgid ""
@@ -56,12 +56,12 @@ msgstr ""
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Golèk %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Dumké…"
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
@@ -75,7 +75,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Bukak ing %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -85,7 +85,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "Bukak ing…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -105,11 +105,11 @@ msgstr ""
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Ngenani"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Pitulung"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
