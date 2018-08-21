@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-21 16:41+0000\n"
+"PO-Revision-Date: 2018-08-21 17:51+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
@@ -1256,7 +1256,7 @@ msgstr ""
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "पुढे चालू ठेवण्यासाठी बोटाच्या ठश्याच्या सेन्सर ला स्पर्श करा."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1269,7 +1269,7 @@ msgstr "नवीन सत्र"
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "बोटाच्या ठश्याचे चिन्ह"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
