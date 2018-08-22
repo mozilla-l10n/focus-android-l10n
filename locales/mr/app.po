@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2017-11-25 16:30+0000\n"
-"Last-Translator: Nutan Sonawane <nutan.s1995@gmail.com>\n"
+"PO-Revision-Date: 2018-08-22 06:07+0000\n"
+"Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
 "MIME-Version: 1.0\n"
@@ -500,7 +500,7 @@ msgstr "जर एखादी URL आधीच अँप मध्ये उघ
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "स्टेल्थ"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -902,6 +902,10 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"\n"
+"  <li>तुम्हाला हा पत्ता पाहण्यासाठी कदाचीत दुसरे सॉफ्टवेअर स्थापीत करावे लागेल.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -970,7 +974,7 @@ msgstr "आपली गोपनीयता वाढवा"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "खाजगी ब्राऊझिंग पुढच्या स्तरावर न्या. जाहिराती आणि इतर मजकूर अवरोधित करा जो आपला विविध साईट वरून मागोवा घेऊ शकतो आणि पृष्ठ लोड वेळ कमी करू शकतो."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -980,7 +984,7 @@ msgstr "आपला शोध, आपल्या पद्धतीने"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "काही वेगळे शोधत आहात का? सेटिंग मधून अन्य पूर्वनिर्धारित शोध इंजिन ठरवा."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1086,14 +1090,14 @@ msgstr "Firefox डाउनलोड करा"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s Mozilla आणि इतर योगदानकर्त्यांनी बनवलेले मोफत आणि खुल्या स्रोताचे सॉफ्टवेअर आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s आपल्याला <a href=\"%2$s\">Mozilla Public License</a> आणि इतर खुल्या स्त्रोत परवान्यांच्या नियमांतर्गत उपलब्ध करून दिले गेले आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1110,7 +1114,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "%1$s साठी अधिक स्रोत कोड इतर अनेक मुक्त आणि खुल्या स्त्रोताच्या <a href=\"%2$s\">परवान्यांतर्गत</a> उपलब्ध आहे."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1148,7 +1152,7 @@ msgstr "असुरक्षित जोडणी"
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "%1$s द्वारे तपसालेले"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
@@ -1157,7 +1161,7 @@ msgstr "साइट सुरक्षा"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL आधिपासूनच अस्तित्वात आहे."
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
@@ -1250,7 +1254,7 @@ msgstr "Wi-Fi द्वारे दूरस्थ डीबगिंग"
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$s उघडा"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
