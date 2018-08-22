@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-06-07 15:00-0700\n"
-"PO-Revision-Date: 2018-08-08 18:49+0000\n"
-"Last-Translator: jnunezf96 <jnunezf96@gmail.com>\n"
+"PO-Revision-Date: 2018-08-22 20:46+0000\n"
+"Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ppl\n"
 "MIME-Version: 1.0\n"
@@ -293,24 +293,24 @@ msgstr "Iseltemilis"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Panti URL achtutalijtuk"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Shiktimaka pal ma %1$s kitema isel 450 URLs muishmattuk tik ne barraj direccion."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Shiknumawi ne URLs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr ""
+msgstr "Shiknumawi ne URLs"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
