@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 17:21+0000\n"
+"PO-Revision-Date: 2018-08-22 13:46+0000\n"
 "Last-Translator: julenx <julenx@gmail.com>\n"
 "Language-Team: eu <LL@li.org>\n"
 "Language: eu\n"
@@ -277,7 +277,7 @@ msgstr "Eskuratu bilaketa-iradokizunak"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "Helbide-barran idazten duzuna bilaketa-motorrera bidaliko du %1$s(e)k"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
