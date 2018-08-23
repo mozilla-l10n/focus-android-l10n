@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-23 16:09+0000\n"
+"PO-Revision-Date: 2018-08-23 16:48+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -493,14 +493,14 @@ msgstr "ใช้ลายนิ้วมือเพื่อปลดล็อ
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "ลายนิ้วมือของคุณสามารถปลดล็อค %1$s หาก URL ถูกเปิดอยู่แล้วในแอป การพรางตัวจะถูกเปิด"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "พรางตัว"
+msgstr "การพรางตัว"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -1294,14 +1294,14 @@ msgstr "ไอคอนลายนิ้วมือ"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "ไม่รู้จักลายนิ้วมือ ลองอีกครั้ง"
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "ขยับนิ้วเร็วเกินไป ลองอีกครั้ง"
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
@@ -1354,6 +1354,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"ไซต์ทำงานอย่างไม่คาดคิด?\n"
+" ลองปิดการป้องกันการติดตาม"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
