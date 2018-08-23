@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-23 15:31+0000\n"
+"PO-Revision-Date: 2018-08-23 15:49+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bo\n"
@@ -42,7 +42,7 @@ msgstr "ཉར་ཚགས།"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr ""
+msgstr "འཚོལ་ཞིབ་ཡང་ན་དྲ་ཚིཊ་ཁ་བྱང་འདིར་འཇུག་རོཊ།"
 
 msgctxt "teaser"
 msgid ""
@@ -61,7 +61,7 @@ msgstr ""
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "འཚོལ་བྱའི་ནང་དོན་ %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -184,7 +184,7 @@ msgstr ""
 #. perform a search in the default search engine.
 msgctxt "text_selection_search_action"
 msgid "Search Privately"
-msgstr "སྒེར་དབང་དང་ཉེན་སྲུང་།"
+msgstr "ཕྱིར་མི་བསྒྲགས་པའི་ཐོག་འཚོལ་བཤེར།"
 
 #. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
 #. Klar/etc).          Argument 2 is the url for the learn-more link.
@@ -255,7 +255,7 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "འཚོལ་བཤེར།"
 
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
