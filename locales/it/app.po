@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-19 16:26+0000\n"
+"PO-Revision-Date: 2018-08-21 07:55+0000\n"
 "Last-Translator: Sara Todaro <sara.todaro@mozillaitalia.org>\n"
 "Language-Team: it <LL@li.org>\n"
 "Language: it\n"
@@ -493,7 +493,7 @@ msgstr "Usa l’impronta digitale per sbloccare l’app"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "L’impronta digitale ti permette di sbloccare %1$s se un URL è già stato aperto nell’app. Verrà attivata l'impostazione Invisibile."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
