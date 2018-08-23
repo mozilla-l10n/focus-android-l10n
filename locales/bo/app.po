@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-23 16:29+0000\n"
+"PO-Revision-Date: 2018-08-23 16:51+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bo\n"
@@ -66,7 +66,7 @@ msgstr "འཚོལ་བྱའི་ནང་དོན་ %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "བགོ་འགྲེམས་་་"
+msgstr "འགྲེམ་སྤེལ་་་"
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
@@ -96,7 +96,7 @@ msgstr ""
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr ""
+msgstr "ཁ་པའི་མདུན་ངོས་ཞོག་ཅིག"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -152,7 +152,7 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "འཚོལ་རབས་འདོར་སུབ་བྱོས།"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
