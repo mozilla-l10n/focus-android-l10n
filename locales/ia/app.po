@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-13 15:13+0000\n"
+"PO-Revision-Date: 2018-08-23 15:15+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -514,7 +514,7 @@ msgstr "Celar le paginas web quando on cambia de applicationes e blocar le prisa
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Securitate"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -1263,7 +1263,7 @@ msgstr ""
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Avantiate"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
@@ -1288,7 +1288,7 @@ msgstr ""
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Nove session"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1328,17 +1328,17 @@ msgstr ""
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "Saper plus"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
@@ -1350,7 +1350,7 @@ msgstr ""
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Dimitter"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
