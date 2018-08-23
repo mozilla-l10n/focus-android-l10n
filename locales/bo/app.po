@@ -1,0 +1,1369 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-08-12 22:28-0700\n"
+"PO-Revision-Date: 2018-08-23 15:31+0000\n"
+"Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
+
+#. #######################################################################################
+#. ## Put only strings into this file that should be translated. Move all
+#. other strings ##
+#. ## into a separate file like strings_references.xml
+#. ##
+#. Label used for buttons, e.g. in dialogs
+msgctxt "action_cancel"
+msgid "Cancel"
+msgstr "འདོར་བ།"
+
+#. Label used for buttons, e.g. in dialogs
+msgctxt "action_ok"
+msgid "OK"
+msgstr "ཆོག"
+
+msgctxt "action_save"
+msgid "Save"
+msgstr "ཉར་ཚགས།"
+
+#. This text is shown in the URL bar when it's empty
+msgctxt "urlbar_hint"
+msgid "Search or enter address"
+msgstr ""
+
+msgctxt "teaser"
+msgid ""
+"Automatic private browsing.\n"
+"Browse. Erase. Repeat."
+msgstr ""
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a browsing session
+msgctxt "feedback_erase"
+msgid "Your browsing history has been erased."
+msgstr ""
+
+#. This label is shown below the URL bar as soon as the user enters text.
+#. Clicking the label will perform a search
+#, c-format
+msgctxt "search_hint"
+msgid "Search for %1$s"
+msgstr ""
+
+#. Menu item: Share the currently visible page
+msgctxt "menu_share"
+msgid "Share…"
+msgstr "བགོ་འགྲེམས་་་"
+
+#. Menu item: Report an issue on the current site
+msgctxt "menu_report_site_issue"
+msgid "Report Site Issue"
+msgstr "དྲ་ཚིགས་གནད་དོན་སྙན་སེང་ཞུ་བ།"
+
+#. Menu item: Switch to another browser to open the currently visible page.
+#. %1$s will be       replaced with the name of the browser like: "Open in
+#. Firefox" or "Open in Chrome". Some       links can be opened by native apps
+#. that aren't a browser, e.g. "Open in YouTube"
+#, c-format
+msgctxt "menu_open_with_default_browser2"
+msgid "Open in %1$s"
+msgstr ""
+
+#. Menu item: Switch to another browser to open the currently visible page.
+#. This menu item       will be shown if there are multiple browsers and we do
+#. not know which one is the default       browser or in case Focus is actually
+#. the default browser. Clicking this menu item will show       a screen with
+#. multiple browsers (or other apps that can open the current URL) to choose
+#. from.
+msgctxt "menu_open_with_a_browser2"
+msgid "Open in…"
+msgstr ""
+
+#. Menu item: Add the current page as a shortcut to the device's home screen
+#. (launcher).
+msgctxt "menu_add_to_home_screen"
+msgid "Add to Home screen"
+msgstr ""
+
+#. Menu item: Shows information about features and changes that are new to
+#. this version
+msgctxt "menu_whats_new"
+msgid "What's New"
+msgstr ""
+
+msgctxt "menu_settings"
+msgid "Settings"
+msgstr "སྒྲིག་བཟོ།"
+
+msgctxt "menu_about"
+msgid "About"
+msgstr "ངོ་སྤྲོད།"
+
+msgctxt "menu_help"
+msgid "Help"
+msgstr "རོགས་རམ།"
+
+msgctxt "menu_rights"
+msgid "Your Rights"
+msgstr ""
+
+#. Menu item: This is the label for a menu entry that shows how many trackers
+#. have been blocked          for the currently loaded website. The number of
+#. blocked trackers is shown below this label.          Next to this label is a
+#. switch that allows the user to temporarily enable / disable the
+#. blocking of trackers for the current browsing session - for example if the
+#. current website          doesn't work correctly with blocked content.
+msgctxt "menu_trackers_blocked_title"
+msgid "Trackers blocked"
+msgstr ""
+
+#. This is a small text at the bottom of the menu shown in a "custom tab" for
+#. branding purposes.      See
+#. https://github.com/mozilla-mobile/focus-android/issues/2106       %1$s will
+#. be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "menu_custom_tab_branding"
+msgid "Powered by %1$s"
+msgstr ""
+
+#. This is the title of a dialog that shows all the share targets (apps or
+#. contacts) when          sharing an URL.
+msgctxt "share_dialog_title"
+msgid "Share via"
+msgstr ""
+
+#. While a browsing session is active (in the foreground or background) we
+#. will show a notification          so that the user doesn't forget about the
+#. website still being open. This text is shown in          the notification.
+#. Clicking the notification will have the same effect as clicking the "erase"
+#. button in the application.
+msgctxt "notification_erase_text"
+msgid "Erase browsing history"
+msgstr ""
+
+#. Notification action to open Focus and resume the current browsing session.
+msgctxt "notification_action_open"
+msgid "Open"
+msgstr "ཁ་ཕྱེ་བ།"
+
+#. Notification action to erase the current browsing session AND switch to
+#. Focus (bring it          to the foreground)
+msgctxt "notification_action_erase_and_open"
+msgid "Erase and Open"
+msgstr ""
+
+#. On Android 7+ users can add a shortcut for erasing the browsing history to
+#. the home screen.          This is the label for this shortcut. Android
+#. recommends a maximum length of 10 characters.
+msgctxt "shortcut_erase_short_label"
+msgid "Erase"
+msgstr "འདོར་སུབ།"
+
+#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
+#. shows this          instead of the short title when it has enough space.
+#. Android recommends a maximum length          of 25 characters.
+msgctxt "shortcut_erase_long_label"
+msgid "Erase browsing history"
+msgstr ""
+
+#. This is the label of an action we offer when the user selects text in other
+#. third-party apps.          Clicking this action will launch Focus and
+#. perform a search in the default search engine.
+msgctxt "text_selection_search_action"
+msgid "Search Privately"
+msgstr "སྒེར་དབང་དང་ཉེན་སྲུང་།"
+
+#. Content of about focus. Argument 1 is the app name (Firefox Focus/Firefox
+#. Klar/etc).          Argument 2 is the url for the learn-more link.
+msgctxt "about_content"
+msgid ""
+"<p>%1$s puts you in control.</p>\n"
+"<p>Use it as a private browser:\n"
+"  <ul>\n"
+"    <li>Search and browse right in the app</li>\n"
+"    <li>Block trackers (or update settings to allow trackers)</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"  </ul>\n"
+"</p>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<a href=\"%2$s\">Learn more</a></p>"
+msgstr ""
+
+#. Header for the Privacy and Security settings menu
+msgctxt "preference_privacy_and_security_header"
+msgid "Privacy & Security"
+msgstr "སྒེར་དབང་དང་ཉེན་སྲུང་།"
+
+#. Preference summary for settings related to privacy and security
+msgctxt "preference_privacy_and_security_summary"
+msgid "Tracking, cookies, data choices"
+msgstr ""
+
+#. Preference category description for settings related to search, set default
+#. and autocomplete are settings a user can find and change inside the "search"
+#. settings screen
+msgctxt "preference_search_summary"
+msgid "Set default, autocomplete"
+msgstr ""
+
+#. Preference category description for settings screen for settings related to
+#. Mozilla
+#. About the app and help are links that are inside this menu
+#. %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_mozilla_summary"
+msgid "About %1$s, help"
+msgstr ""
+
+#. Preference category for ad blocking and tracking protection settings
+msgctxt "preference_category_tracking_protection"
+msgid "Tracking Protection"
+msgstr ""
+
+#. Preference category for settings related to controlling web content
+msgctxt "preference_category_web_content"
+msgid "Web Content"
+msgstr ""
+
+#. Preference category: stealth settings for while switching apps
+msgctxt "preference_category_switching_apps"
+msgid "Switching Apps"
+msgstr ""
+
+#. Preference category for General Settings
+msgctxt "preference_category_general"
+msgid "General"
+msgstr ""
+
+#. Preference category for settings about sending usage data
+msgctxt "preference_category_data_collection_use"
+msgid "Data Collection & Use"
+msgstr ""
+
+msgctxt "preference_category_search"
+msgid "Search"
+msgstr ""
+
+#. Title of "switch" preference that enables/disables search suggestions
+msgctxt "preference_show_search_suggestions"
+msgid "Get search suggestions"
+msgstr ""
+
+#. Description of the preference that enables/disables search suggestions
+#. %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_show_search_suggestions_summary"
+msgid "%1$s will send what you type in the address bar to your search engine"
+msgstr ""
+
+#. This label is shown below the name of the default search engine in settings
+msgctxt "preference_search_engine_default"
+msgid "Default"
+msgstr ""
+
+#. Text that is shown below a "switch" preference that is enabled.
+msgctxt "preference_state_on"
+msgid "On"
+msgstr ""
+
+#. Text that is shown below a "switch" preference that is disabled.
+msgctxt "preference_state_off"
+msgid "Off"
+msgstr ""
+
+#. Item in settings that will open a new preference screen for configuring the
+#. URL autocomplete behavior.
+msgctxt "preference_subitem_autocomplete"
+msgid "URL Autocomplete"
+msgstr ""
+
+#. Title of "switch" preference that enables/disables autocomplete
+msgctxt "preference_switch_autocomplete"
+msgid "Autocomplete"
+msgstr ""
+
+#. Preference title: URL autocomplete list that ships with Focus/Klar.
+msgctxt "preference_category_autocomplete_preinstalled"
+msgid "Default URL List"
+msgstr ""
+
+#. Preference summary: URL autocomplete list that ships with Focus/Klar.
+#, c-format
+msgctxt "preference_autocomplete_preinstalled_summary"
+msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
+msgstr ""
+
+#. Preference category: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_category_autocomplete_custom_urls"
+msgid "Custom URLs"
+msgstr ""
+
+#. Item in autocomplete settings that will open a new preference screen for
+#. adding and removing custom autocomplete URLs
+msgctxt "preference_autocomplete_subitem_customlist"
+msgid "Custom URLs"
+msgstr ""
+
+#. Action at the bottom of the list of custom autocomplete URLs that will open
+#. a new screen to add a new URL to the list.
+msgctxt "preference_autocomplete_action_add"
+msgid "+ Add custom URL"
+msgstr ""
+
+#. Title of the screen for adding custom autocomplete URLs.
+msgctxt "preference_autocomplete_title_add"
+msgid "Add custom URL"
+msgstr ""
+
+#. Label for the button to quick add custom autocomplete URLs.
+msgctxt "custom_autocomplete_quick_add"
+msgid "Add custom URL"
+msgstr ""
+
+#. Preference category for settings about cookies and site data
+msgctxt "preference_category_cookies"
+msgid "Cookies and Site Data"
+msgstr ""
+
+#. Preference category for settings about data choices
+msgctxt "preference_category_data_choices"
+msgid "Data Choices"
+msgstr ""
+
+#. Title of the screen for removing custom autocomplete URLs.
+msgctxt "preference_autocomplete_title_remove"
+msgid "Remove custom URLs"
+msgstr ""
+
+#. A link to SUMO at autocomplete settings.
+msgctxt "preference_autocomplete_learn_more"
+msgid "Learn more"
+msgstr ""
+
+#. Preference summary: Custom (user-defined) autocomplete URLs.
+msgctxt "preference_autocomplete_custom_summary"
+msgid "Add and manage custom autocomplete URLs."
+msgstr ""
+
+#. Label for the "custom autocomplete URL" input field
+msgctxt "preference_autocomplete_add_title"
+msgid "URL to add"
+msgstr ""
+
+#. "Hint" text for the "custom autocomplete URL" input field. Shown when the
+#. field is empty.
+msgctxt "preference_autocomplete_add_hint"
+msgid "Paste or enter URL"
+msgstr ""
+
+#. Example how a custom domain autocomplete URL be added (e.g. without
+#. http://)
+msgctxt "preference_autocomplete_add_example2"
+msgid "Example: mozilla.org"
+msgstr ""
+
+#. To be removed once the new hint has been translated
+msgctxt "preference_autocomplete_add_example"
+msgid "Example: example.com"
+msgstr ""
+
+#. Confirmation "snackbar" shown after a new custom autocomplete URL has been
+#. added.
+msgctxt "preference_autocomplete_add_confirmation"
+msgid "New custom URL added."
+msgstr ""
+
+#. Menu item to remove existing autocomplete URLs.
+msgctxt "preference_autocomplete_menu_remove"
+msgid "Remove"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Button that
+#. will delete all selected custom autocomplete URLs.
+msgctxt "preference_autocomplete_action_remove_content_description"
+msgid "Remove"
+msgstr ""
+
+#. Error message shown if the entered custom autocomplete URL is not valid or
+#. empty.
+msgctxt "preference_autocomplete_add_error"
+msgid "Double-check the URL you entered."
+msgstr ""
+
+msgctxt "preference_language"
+msgid "Language"
+msgstr ""
+
+#. This is shown when the user hasn't set a focus specific language, i.e. when
+#. Focus          is using the system default language.
+msgctxt "preference_language_systemdefault"
+msgid "System default"
+msgstr ""
+
+msgctxt "preference_category_privacy"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr ""
+
+msgctxt "preference_privacy_block_ads_summary"
+msgid "Some ads track site visits, even if you don’t click the ads"
+msgstr ""
+
+msgctxt "preference_privacy_block_analytics"
+msgid "Block analytic trackers"
+msgstr ""
+
+msgctxt "preference_privacy_block_analytics_summary"
+msgid "Used to collect, analyze and measure activities like tapping and scrolling"
+msgstr ""
+
+msgctxt "preference_privacy_block_social"
+msgid "Block social trackers"
+msgstr ""
+
+msgctxt "preference_privacy_block_social_summary"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr ""
+
+msgctxt "preference_privacy_block_content"
+msgid "Block other content trackers"
+msgstr ""
+
+msgctxt "preference_privacy_block_content_summary2"
+msgid "Enabling may cause some pages to behave unexpectedly"
+msgstr ""
+
+msgctxt "preference_privacy_category_cookies"
+msgid "Block cookies"
+msgstr ""
+
+#. Three options for Cookie blocking. Yes (All cookies Blocked), Block
+#. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
+#. blocked)
+msgctxt "preference_privacy_should_block_cookies_no_option"
+msgid "No"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
+msgid "Block 3rd-party cookies only"
+msgstr ""
+
+msgctxt "preference_privacy_should_block_cookies_yes_option"
+msgid "Yes"
+msgstr ""
+
+#. Preference Title: Biometrics can be used to unlock Focus if the previous
+#. session's data was not erased by the user.
+msgctxt "preference_security_biometric"
+msgid "Use fingerprint to unlock app"
+msgstr ""
+
+#. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
+#. be used to unlock Focus if the app had a URL         open when the app was
+#. last run to ensure that only the phone's owner can view a previous session.
+#. %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_security_biometric_summary"
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr ""
+
+#. Preference Title: Secure Mode is a setting that prevents the app's content
+#. to show up in the "recent apps" screen          and prevents the user from
+#. taking screenshots or casting the app to other displays.
+msgctxt "preference_privacy_secure_mode"
+msgid "Stealth"
+msgstr ""
+
+#. Preference Summary: Stealth mode (previously "Secure mode") is a setting
+#. that prevents the      app's content (in our case especially the content of
+#. webpages) to show up in the "recent apps"      screen. Additionally Android
+#. will prevent the user from taking screenshots or casting the app      to
+#. other displays.
+msgctxt "preference_privacy_stealth_summary"
+msgid "Hide webpages when switching apps and block taking screenshots."
+msgstr ""
+
+msgctxt "preference_category_security"
+msgid "Security"
+msgstr ""
+
+msgctxt "preference_category_performance"
+msgid "Performance"
+msgstr ""
+
+msgctxt "preference_performance_block_webfonts"
+msgid "Block Web fonts"
+msgstr ""
+
+#. This text is shown below the setting for disabling web fonts. Some websites
+#. use icons/images from a font and those do not show up if fonts are blocked.
+msgctxt "preference_performance_block_webfonts_summary"
+msgid "May result in missing icons or images"
+msgstr ""
+
+msgctxt "preference_performance_block_javascript"
+msgid "Block JavaScript"
+msgstr ""
+
+#. This text is shown below setting for disabling JavaScript. Some websites
+#. may not work correctly when JavaScript is disabled
+msgctxt "preference_performance_block_javascript_summary"
+msgid "Pages may load faster, but may also behave unexpectedly"
+msgstr ""
+
+#. This preference does not set Focus as the default browser but instead links
+#. to Android's      "default apps" settings screen or if not supported by this
+#. Android version to a SUMO page describing      how to set Focus as a default
+#. browser.       %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_default_browser2"
+msgid "Make %1$s default browser"
+msgstr ""
+
+msgctxt "preference_category_mozilla"
+msgid "Mozilla"
+msgstr ""
+
+msgctxt "preference_mozilla_telemetry2"
+msgid "Send usage data"
+msgstr ""
+
+#. A link to SUMO at the end of the summary
+#. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
+#. setting.
+msgctxt "preference_mozilla_telemetry_summary"
+msgid "Learn more"
+msgstr ""
+
+#. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_mozilla_telemetry_summary2"
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr ""
+
+#. In-app link (in settings) to Focus privacy notice.
+msgctxt "preference_privacy_notice"
+msgid "Privacy Notice"
+msgstr ""
+
+#. Item in Preferences that shows the about page. Parameter 1 is the app name,
+#. i.e. Firefox Focus/Firefox Klar.
+#, c-format
+msgctxt "preference_about"
+msgid "About %1$s"
+msgstr ""
+
+#. Header for the list of installed search engines
+msgctxt "preference_search_installed_search_engines"
+msgid "Installed search engines"
+msgstr ""
+
+#. Action for restoring the default list of search engines
+msgctxt "preference_search_restore"
+msgid "Restore default search engines"
+msgstr ""
+
+#. Action for adding an additional search engine to the list.     The "+" is
+#. used to emphasize that this is an "add" action
+msgctxt "preference_search_add2"
+msgid "+ Add another search engine"
+msgstr ""
+
+msgctxt "preference_search_remove_title"
+msgid "Remove search engines"
+msgstr ""
+
+msgctxt "preference_search_remove"
+msgid "Remove"
+msgstr ""
+
+#. Title: Homescreen tips settings toggle to determine whether or not tips are
+#. displayed when      a user first launches the app.
+msgctxt "preference_homescreen_tips"
+msgid "Show home screen tips"
+msgstr ""
+
+#. Clickable action text that shows when user long-presses on a search engine
+#. search field (this is similar to paste or copy when long-pressing a text
+#. field)
+msgctxt "action_option_add_search_engine"
+msgid "Add search engine"
+msgstr ""
+
+msgctxt "search_add_manually_name_hint"
+msgid "Search engine name"
+msgstr ""
+
+msgctxt "search_add_manually_string"
+msgid "Search string to use"
+msgstr ""
+
+msgctxt "search_add_manually_save"
+msgid "Save"
+msgstr ""
+
+#. Example of search engine url
+#, c-format, python-format
+msgctxt "search_add_manually_example"
+msgid "Example: example.com/search/?q=%s"
+msgstr ""
+
+msgctxt "search_add_confirmation"
+msgid "New search engine added."
+msgstr ""
+
+msgctxt "search_add_error_empty_name"
+msgid "Enter search engine name"
+msgstr ""
+
+msgctxt "search_add_error_duplicate_name"
+msgid "An installed search engine is already using that name."
+msgstr ""
+
+msgctxt "search_add_error_empty_search"
+msgid "Enter search string"
+msgstr ""
+
+msgctxt "search_add_error_format"
+msgid "Check that search string matches Example format"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Clear text in
+#. URL bar
+msgctxt "content_description_clear_input"
+msgid "Clear input"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Clicking on the
+#. website overlay      while in typing mode will dismiss and go back to the
+#. browser. This text will be read when the      overlay if focused. See
+#. https://github.com/mozilla-mobile/focus-android/issues/50
+msgctxt "content_description_dismiss_input"
+msgid "Dismiss"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Erase button:
+#. Erase the browsing      history and go back to the home screen.
+msgctxt "content_description_erase"
+msgid "Erase browsing history"
+msgstr ""
+
+#. If the user has multiple tabs open we will show an addition "floating
+#. action button" showing how many tabs are open.      This string is not
+#. displayed and read only by screenreaders. %1$s will be replaced with the
+#. number of open tabs. This       button will only be visible when there is
+#. more than one tab open (>= 2).
+#, c-format
+msgctxt "content_description_tab_counter"
+msgid "Tabs open: %1$s"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Lock icon
+#. showed in the URL bar for      https pages..
+msgctxt "content_description_lock"
+msgid "Secure connection"
+msgstr ""
+
+#. This text is not visible. Instead it will be read by the accessibility
+#. service once we start      loading a website
+msgctxt "accessibility_announcement_loading"
+msgid "Loading"
+msgstr ""
+
+#. This text is not visible. Instead it will be read by the accessibility
+#. service once we      finished loading a website
+msgctxt "accessibility_announcement_loading_finished"
+msgid "Website loaded"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): "Three dot"
+#. menu button.
+msgctxt "content_description_menu"
+msgid "More options"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Navigate
+#. forward (browsing history)
+msgctxt "content_description_forward"
+msgid "Navigate forward"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Reload current
+#. website
+msgctxt "content_description_reload"
+msgid "Reload website"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Navigate back
+#. (browsing history)
+msgctxt "content_description_back"
+msgid "Navigate back"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Stop loading
+#. the current website. This button will turn into the refresh button once
+#. loading has been completed (see content_description_reload)
+msgctxt "content_description_stop"
+msgid "Stop loading website"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): Custom Tab exit
+#. button - closes the custom tab and returns to the previous app.
+msgctxt "content_description_customtab_exit"
+msgid "Return to previous app"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): This is the
+#. description for the ImageView in the menu that displays          the number
+#. of trackers blocked for the current session
+msgctxt "content_description_trackers_blocked"
+msgid "Number of trackers blocked"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): This is the
+#. description for the switch in the menu that temporarily disables/enables
+#. content blocking for the current session
+msgctxt "content_description_blocking_switch"
+msgid "Block trackers"
+msgstr ""
+
+msgctxt "your_rights"
+msgid "Your Rights"
+msgstr ""
+
+msgctxt "external_app_prompt_title"
+msgid "Open link in another app"
+msgstr ""
+
+#. This string is shown when the user has clicked a link that needs to be
+#. opened in a different app.          Argument 2 is the external app name,
+#. argument 1 is our name (i.e. Firefox Focus, or Firefox Klar).
+#, c-format
+msgctxt "external_app_prompt"
+msgid "You can leave %1$s to open this link in %2$s."
+msgstr ""
+
+#. This text is the title of a dialog shown if no app could be found for a
+#. custom link protocol.
+msgctxt "external_app_prompt_no_app_title"
+msgid "Find an app that can open link"
+msgstr ""
+
+#. This text is shown in a dialog if no app could be found for a custom link
+#. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
+#. name of          the app store installed on the device (usually that's
+#. Google Play).
+#, c-format
+msgctxt "external_app_prompt_no_app"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr ""
+
+#. This label is shown above a list of apps that can be used to open a given
+#. link
+msgctxt "external_multiple_apps_matched_exit"
+msgid "Exit Private Browsing?"
+msgstr ""
+
+#. Snackbar that will be displayed after a download has completed. %1$s will
+#. be replaced with the file name.
+#, c-format
+msgctxt "download_snackbar_finished"
+msgid "%1$s finished"
+msgstr ""
+
+#. Snackbar action to immediately open the successfully downloaded file.
+msgctxt "download_snackbar_open"
+msgid "Open"
+msgstr ""
+
+#. Download dialog: Warns users that downloaded files will not be deleted even
+#. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
+#. Focus).
+msgctxt "download_dialog_warning"
+msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
+msgstr ""
+
+#. Title of download dialogue
+msgctxt "download_dialog_title"
+msgid "Download File"
+msgstr ""
+
+#. Option in download dialogue to cancel a download
+msgctxt "download_dialog_action_cancel"
+msgid "Cancel"
+msgstr ""
+
+#. Option in download dialogue to start a download
+msgctxt "download_dialog_action_download"
+msgid "Download"
+msgstr ""
+
+#. The page html title (i.e. the <title> tag content)
+msgctxt "errorpage_title"
+msgid "Problem loading page"
+msgstr ""
+
+msgctxt "errorpage_refresh"
+msgid "Try Again"
+msgstr ""
+
+msgctxt "error_connectionfailure_title"
+msgid "Unable to connect"
+msgstr ""
+
+msgctxt "error_connectionfailure_message"
+msgid ""
+"<ul>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"      </ul>"
+msgstr ""
+
+msgctxt "error_timeout_title"
+msgid "The connection timed out"
+msgstr ""
+
+msgctxt "error_hostLookup_title"
+msgid "Server not found"
+msgstr ""
+
+msgctxt "error_hostLookup_message"
+msgid ""
+"<ul>\n"
+"        <li>Check the address for typing errors such as\n"
+"          <strong>ww</strong>.example.com instead of\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"      </ul>"
+msgstr ""
+
+msgctxt "error_malformedURI_title"
+msgid "The address isn’t valid"
+msgstr ""
+
+msgctxt "error_malformedURI_message"
+msgid ""
+"<ul>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_redirectLoop_title"
+msgid "The page isn’t redirecting properly"
+msgstr ""
+
+msgctxt "error_redirectLoop_message"
+msgid ""
+"<ul>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_unsupportedprotocol_title"
+msgid "The address wasn’t understood"
+msgstr ""
+
+msgctxt "error_unsupportedprotocol_message"
+msgid ""
+"<ul>\n"
+"  <li>You might need to install other software to open this address.</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_sslhandshake_title"
+msgid "Secure connection failed"
+msgstr ""
+
+msgctxt "error_sslhandshake_message"
+msgid ""
+"<ul>\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"someone trying to impersonate the server.</li>\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
+"be temporary, and you can try again later.</li>\n"
+"</ul>"
+msgstr ""
+
+msgctxt "error_generic_title"
+msgid "Oops"
+msgstr ""
+
+msgctxt "error_generic_message"
+msgid "We can’t load this page for some reason."
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_link_share"
+msgid "Share link"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_link_copy"
+msgid "Copy link address"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_share"
+msgid "Share image"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_copy"
+msgid "Copy image address"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on an image
+msgctxt "contextmenu_image_save"
+msgid "Save image"
+msgstr ""
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_new_tab"
+msgid "Open link in new tab"
+msgstr ""
+
+#. This is a warning shown in the browser's context menu (when long pressing
+#. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
+#. Focus).
+msgctxt "contextmenu_image_warning"
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr ""
+
+#. First run tour (Default browser): Title
+msgctxt "firstrun_defaultbrowser_title"
+msgid "Power up your privacy"
+msgstr ""
+
+#. First run tour (Default browser): Text.
+msgctxt "firstrun_defaultbrowser_text2"
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr ""
+
+#. First run tour (Search): Title
+msgctxt "firstrun_search_title"
+msgid "Your search, your way"
+msgstr ""
+
+#. First run tour (Search): Text
+msgctxt "firstrun_search_text"
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr ""
+
+#. First run tour (Shortcut): Title
+msgctxt "firstrun_shortcut_title"
+msgid "Add shortcuts to your home screen"
+msgstr ""
+
+#. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_shortcut_text"
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr ""
+
+#. First run tour (Privacy): Title
+msgctxt "firstrun_privacy_title"
+msgid "Make privacy a habit"
+msgstr ""
+
+#. First run tour (Privacy): Text. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus)
+#, c-format
+msgctxt "firstrun_privacy_text"
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr ""
+
+msgctxt "firstrun_close_button"
+msgid "OK, got it!"
+msgstr ""
+
+msgctxt "firstrun_skip_button"
+msgid "Skip"
+msgstr ""
+
+msgctxt "firstrun_next_button"
+msgid "Next"
+msgstr ""
+
+#. Indicator that no trackers are being blocked because content blocking is
+#. disabled; normally shows the number of blocked trackers
+msgctxt "content_blocking_disabled"
+msgid "-"
+msgstr ""
+
+#. Label of the action that will add the current website to the home screen
+#. (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_add"
+msgid "Add"
+msgstr ""
+
+#. Label of the action that will close the dialog and not add anything to the
+#. home screen (shown in the confirmation dialog).
+msgctxt "dialog_addtohomescreen_action_cancel"
+msgid "Cancel"
+msgstr ""
+
+#. When tracking protection is disabled for the current session then we will
+#. show this warning in the "Add to home screen" dialog to          let the
+#. user know that the shortcut will always be opened with tracking protection
+#. disabled.
+msgctxt "dialog_addtohomescreen_tracking_protection"
+msgid "Shortcut will open with Tracking Protection disabled"
+msgstr ""
+
+#. The user visible name of the "notification channel" (Android 8+ feature)
+#. for the ongoing notification shown while a browsing session is active.
+#. The recommended maximum length is 40 characters; the value may be truncated
+#. if it is too long.      * To understand what notification channels are, see:
+#. https://www.androidcentral.com/notification-channels     * To see how this
+#. string will look like in Android's UI, see:
+#. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
+msgctxt "notification_browsing_session_channel_name"
+msgid "Private browsing session"
+msgstr ""
+
+#. The user visible description of the "notification channel" (Android 8+
+#. feature) for the ongoing notification shown while a browsing session is
+#. active.     The recommended maximum length is 300 characters; the value may
+#. be truncated if it is too long. %1$s will be replaced with the name of the
+#. app (e.g. Firefox Focus).      * To understand what notification channels
+#. are, see: https://www.androidcentral.com/notification-channels     * To see
+#. how this string will look like in Android's UI, see:
+#. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
+#, c-format
+msgctxt "notification_browsing_session_channel_description"
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr ""
+
+#. Label for a button in the "tabs tray" to erase the browsing history (closes
+#. all tabs and removes associated data).
+msgctxt "tabs_tray_action_erase"
+msgid "Erase browsing history"
+msgstr ""
+
+#. If the user decides to open the current page in another browser and if
+#. Firefox is not installed then we show this       item in the list of
+#. browsers. Clicking it will open the app store installed on the device
+#. (usually that's Google Play).
+msgctxt "download_firefox"
+msgid "Download Firefox"
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)
+msgctxt "your_rights_content1"
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
+msgctxt "your_rights_content2"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the trademark policy (e.g.
+#. https://www.mozilla.org/foundation/trademarks/policy/)
+msgctxt "your_rights_content3"
+msgid ""
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the list of licenses used by the dependencies.
+msgctxt "your_rights_content4"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+
+#. Text shown in the "Your rights" screen.     %1$s will be replaced with the
+#. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
+#. linking to the GPL     %3$s will be replaced with a URL linking to the
+#. tracking protection wiki page (e.g.
+#. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
+msgctxt "your_rights_content5"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+
+#. Text shown in prompts for GeckoView
+msgctxt "gv_prompt_username_hint"
+msgid "Username"
+msgstr ""
+
+msgctxt "gv_prompt_password_hint"
+msgid "Password"
+msgstr ""
+
+msgctxt "gv_prompt_clear"
+msgid "Clear"
+msgstr ""
+
+#. Text shown in Security Information Popup
+#. Text to denote secure or insecure connection
+msgctxt "security_popup_secure_connection"
+msgid "Secure Connection"
+msgstr ""
+
+msgctxt "security_popup_insecure_connection"
+msgid "Insecure Connection"
+msgstr ""
+
+#. %1$s will be replaced with organization that granted the SSL certificate
+#, c-format
+msgctxt "security_popup_security_verified"
+msgid "Verified by: %1$s"
+msgstr ""
+
+#. Content Description of Security Icon in toolbar
+msgctxt "site_security_icon_content_description"
+msgid "Site Security"
+msgstr ""
+
+msgctxt "preference_autocomplete_duplicate_url_error"
+msgid "URL already exists"
+msgstr ""
+
+#. Label for the Find in page button
+msgctxt "find_in_page"
+msgid "Find in Page"
+msgstr ""
+
+#. Watermark/Hint for the find in page input field
+msgctxt "find_in_page_input"
+msgid "Find in page"
+msgstr ""
+
+#. String to show the number of results found in the page and the
+#. position the user is at. The first argument is the position, the second
+#. argument is the total
+#, c-format
+msgctxt "find_in_page_result"
+msgid "%1$d/%2$d"
+msgstr ""
+
+#. String to be read by the accessibility service presenting the number of
+#. results found in the page         and the position the user is at. The first
+#. argument is the position, the second argument is the total
+#, c-format
+msgctxt "accessibility_find_in_page_result"
+msgid "%1$d out of %2$d"
+msgstr ""
+
+#. String to be read by the accessibility service when focusing the next
+#. result button
+msgctxt "accessibility_next_result"
+msgid "Find next result"
+msgstr ""
+
+#. String to be read by the accessibility service when focusing the previous
+#. result button
+msgctxt "accessibility_previous_result"
+msgid "Find previous result"
+msgstr ""
+
+#. String to be read by the accessibility service when focusing the dismiss
+#. button in the "find in page" UI
+msgctxt "accessibility_dismiss_find_in_page"
+msgid "Dismiss find in page"
+msgstr ""
+
+#. Http Authentication Popup: Title
+msgctxt "http_auth_dialog_title"
+msgid "Authentication required"
+msgstr ""
+
+#. Http Authentication Popup: Username
+msgctxt "http_auth_dialog_username"
+msgid "Username"
+msgstr ""
+
+#. Http Authentication Popup: Password
+msgctxt "http_auth_dialog_password"
+msgid "Password"
+msgstr ""
+
+#. Checkbox menu item text to request desktop site
+msgctxt "preference_performance_request_desktop_site"
+msgid "Request desktop site"
+msgstr ""
+
+#. Displayed after a user long presses on the URL in a custom tab to copy the
+#. URL
+msgctxt "custom_tab_copy_url_action"
+msgid "URL copied"
+msgstr ""
+
+#. Description of what a user may find in the Advanced Setting category, used
+#. for debugging
+msgctxt "preference_advanced_summary"
+msgid "Developer tools"
+msgstr ""
+
+#. Title of Advanced Setting category
+msgctxt "preference_category_advanced"
+msgid "Advanced"
+msgstr ""
+
+#. Preference to enable remote debugging of the app via USB or Wi-Fi
+msgctxt "preference_remote_debugging"
+msgid "Remote debugging via USB/Wi-Fi"
+msgstr ""
+
+#. Title for the fingerprint authentication dialog box that is shown to the
+#. user when opening the app.      %1$s is replaced with the app name
+#, c-format
+msgctxt "biometric_auth_title"
+msgid "Unlock %1$s"
+msgstr ""
+
+#. Description for the fingerprint authentication dialog box that is shown to
+#. the user when opening the app
+msgctxt "biometric_auth_description"
+msgid "Touch the fingerprint sensor to continue."
+msgstr ""
+
+#. New session button for the fingerprint authentication dialog box that is
+#. shown to the user when opening the app.      When pressed, the user's
+#. previous session is cleared, and authentication is not required.
+msgctxt "biometric_auth_new_session"
+msgid "New Session"
+msgstr ""
+
+#. Description for the fingerprint authentication image. Used for
+#. accessibility purposes.
+msgctxt "biometric_auth_image_description"
+msgid "Fingerprint icon"
+msgstr ""
+
+#. Error text displayed when the user's fingerprint cannot be recognized upon
+#. re-entering the app.      This is displayed during the authentication flow
+#. as the app launches.
+msgctxt "biometric_auth_not_recognized_error"
+msgid "Fingerprint not recognized. Try again."
+msgstr ""
+
+#. Error text displayed when the user's fingerprint moved too quickly upon
+#. re-entering the app     This is displayed during the authentication flow as
+#. the app launches.
+msgctxt "biometric_auth_moved_too_quickly"
+msgid "Finger moved too fast. Try again."
+msgstr ""
+
+#. Title for the prompt to enable search suggestions
+msgctxt "enable_search_suggestion_title"
+msgid "Would you like to turn on search suggestions?"
+msgstr ""
+
+#. Description for the prompt to enable search suggestions         %1$s will
+#. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
+#. replaced with "Learn more" which will be a tappable link         using the
+#. string: "enable_search_suggestion_subtitle_learnmore"
+#, c-format
+msgctxt "enable_search_suggestion_subtitle"
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+
+#. String to be placed inside the string: enable_search_suggestion_subtitle,
+#. which will be a "Learn More" link.
+msgctxt "enable_search_suggestion_subtitle_learnmore"
+msgid "Learn more"
+msgstr ""
+
+#. Label used for the "NO button" for the prompt to enable search suggestions
+msgctxt "enable_search_suggestions_no"
+msgid "No"
+msgstr ""
+
+#. Label used for the "YES button" for the prompt to enable search suggestions
+msgctxt "enable_search_suggestions_yes"
+msgid "Yes"
+msgstr ""
+
+#. Message displayed when using a search engine that doesn't provide
+#. suggestions
+msgctxt "no_suggestions_message"
+msgid "Some search engines cannot show suggestions."
+msgstr ""
+
+#. Button to dismiss the message displayed  when using a search engine that
+#. doesn't provide suggestions
+msgctxt "dismiss_no_suggestions_prompt_button"
+msgid "Dismiss"
+msgstr ""
+
+#. Tips displayed on the home view
+#. Tip displayed on home view explaining how to disable tracking protection
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_disable_tracking_protection"
+msgid ""
+"Site behaving unexpectedly?\n"
+" Try turning off Tracking Protection"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add sites to homescreen
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_add_to_homescreen"
+msgid ""
+"Get one-tap access to sites you use most\n"
+"        Menu > Add to Home screen"
+msgstr ""
+
+#. Tip displayed on home view explaining how to make Focus the default browser
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
+#. line here must be kept as the second half of the string is clickable for the
+#. user.
+#, c-format
+msgctxt "tip_set_default_browser"
+msgid ""
+"Open every link in %1$s\n"
+" Set %1$s as default browser"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_autocomplete_url"
+msgid ""
+"Autocomplete URLs for sites you use most\n"
+" Long-press any URL in the address bar"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_open_in_new_tab"
+msgid ""
+"Open a link in a new tab\n"
+" Long-press any link on a page"
+msgstr ""
+
+#. Tip displayed on home view explaining how to request the desktop version of
+#. a website.      The new line here must be kept as the second half of the
+#. string is clickable for the user.
+msgctxt "tip_request_desktop"
+msgid ""
+"Rather see the full desktop site?\n"
+"    Menu > Request desktop site"
+msgstr ""
