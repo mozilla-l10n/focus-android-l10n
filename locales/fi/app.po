@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-20 05:31+0000\n"
-"Last-Translator: Lasse Liehu <lasse.liehu@iki.fi>\n"
+"PO-Revision-Date: 2018-08-21 16:25+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: fi <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -1209,7 +1209,7 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
@@ -1259,7 +1259,7 @@ msgstr "Osoite kopioitu"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Kehittäjätyökalut"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1289,7 +1289,7 @@ msgstr ""
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Uusi istunto"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1314,7 +1314,7 @@ msgstr ""
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Haluatko ottaa hakuehdotukset käyttöön?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1334,24 +1334,24 @@ msgstr ""
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Ei"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Kyllä"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Jotkin hakukoneet eivät voi näyttää ehdotuksia."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Hylkää"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
