@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 19:19+0000\n"
+"PO-Revision-Date: 2018-08-24 20:29+0000\n"
 "Last-Translator: Luis Flores Martínez <lufom90@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hus\n"
@@ -1173,7 +1173,7 @@ msgstr "Met'adh k'al: %1$s"
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "In k'anix an xeklekchik"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
@@ -1182,12 +1182,12 @@ msgstr "An URL wa'tits"
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Ka aliy al an xeklek"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "Ka aliy al an xeklek"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1209,24 +1209,24 @@ msgstr ""
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "Ka met'a' axi ne'ets ka tejwa'mej talbél"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Ka met'a' axoi kalej ok'ox"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Ka mapuy an alim"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "I yejenchal kit otsits "
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
@@ -1253,7 +1253,7 @@ msgstr "URL k'ot'bidh"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Eyendhanél abal an ts'ejkom"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1263,7 +1263,7 @@ msgstr "Axi k'ibat"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "An kw'it'ixtaláb ma ti USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
@@ -1276,7 +1276,7 @@ msgstr "Ka japiy"
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Ka taka' an ajum k'ot'bil ch'uchub abal kit otsits."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1303,12 +1303,12 @@ msgstr "In t'iplabil a ch'uchub yab exláj. Ka exa' juníl"
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "A ch'uchub ejláts tekedh adhik. Ka exa' juníl."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "¿A le' ka lek'wtsiy an eyendhanél axi ti uchál jant'o ka aliy?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1317,7 +1317,7 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Abal kit olchin jant'oj ka aliy, %1$s a yejenchal ka abna' axi a dhuchál ti eyendhaxtaláb abal kit almáts %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1339,7 +1339,7 @@ msgstr "Aníts"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Wa'ats i alimtaláb axi yab in olnál jant'oj u awil ka aliy."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
