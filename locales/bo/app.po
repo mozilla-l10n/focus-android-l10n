@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 11:38+0000\n"
+"PO-Revision-Date: 2018-08-24 12:08+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bo\n"
@@ -48,7 +48,7 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr ""
+msgstr "རང་འགུལ་དྲྭ་འཚོལ། དྲྭ་འཚོལ། བསུབ་པ། བསྐྱར་འཚོལ།"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -118,7 +118,7 @@ msgstr "རོགས་རམ།"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr "ཁྱེད་ཀྱི་དབང་།"
+msgstr "ཁྱེད་ཀྱི་བདག་དབང"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -163,7 +163,7 @@ msgstr "ཁ་ཕྱེ་བ།"
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "འདོར་སུབ་དང་འཆར་བ།"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -177,7 +177,7 @@ msgstr "འདོར་སུབ།"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "ཁྱོད་ཀྱི་འཚོལ་རབས་འདོར་སུབ་བྱས་ཟིན།"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -466,7 +466,7 @@ msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "འགྲིག"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
