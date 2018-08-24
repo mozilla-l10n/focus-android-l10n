@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 07:23+0000\n"
+"PO-Revision-Date: 2018-08-24 08:08+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
@@ -1013,7 +1013,7 @@ msgstr "आपल्या मुख्य पटलावर शॉर्टक
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "%1$s मध्ये आपल्या आवडत्या साईट्स वर त्वरित परत जा. फक्त %1$s मेनू मधुन \"मुख्य पृष्ठात जोडा\" निवडा."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1025,7 +1025,7 @@ msgstr "गोपनीयता एक सवय बनवा"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s हा आपला पूर्वनिर्धारित ब्राउझर म्हणून निवडा आणि इतर अँप मधून वेब पृष्ठ उघडताना खाजगी ब्राऊझिंग चा फायदा घ्या."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1063,7 +1063,7 @@ msgstr "रद्द करा"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "मागोवा सुरक्षा निष्क्रिय राहून शॉर्टकट उघडतील"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1087,7 +1087,7 @@ msgstr "खाजगी ब्राऊझिंग सत्र"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "सूचनेवरून आपले %1$s सत्र एका टॅप मध्ये नष्ट करता येते. आपल्या ब्राउझर मध्ये काय चालू आहे हे पाहायला किंवा अँप उघडावे लागत नाही."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1125,6 +1125,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Mozilla, Firefox किंवा %1$s यांचे नाव किंवा चिन्हांसह Mozilla Foundation किंवा कोणत्याही पक्षाच्या व्यापारचिन्हाचे अधिकार किंवा परवाने आपल्याला दिले गेले नाहीत. अधिक माहिती <a href=\"%2$s\">इथे</a> "
+"मिळू शकते."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
