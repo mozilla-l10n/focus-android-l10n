@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 20:26+0000\n"
+"PO-Revision-Date: 2018-08-24 20:44+0000\n"
 "Last-Translator: Georgianizator <georgianization@outlook.com>\n"
 "Language-Team: ka <LL@li.org>\n"
 "Language: ka\n"
@@ -300,7 +300,7 @@ msgstr "გამორთული"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "URL თვითშევსება"
+msgstr "URL-ს თვითშევსება"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
@@ -493,7 +493,7 @@ msgstr "გამოიყენეთ თითის ანაბეჭდი,
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "თითის ანაბეჭდით შეგიძლიათ იხილოთ %1$s თუ URL-ბმული უკვე გახსნილია პროგრამაში. შენიღბვა კვლავ იმუშავებს."
+msgstr "თითის ანაბეჭდით შეგიძლიათ შეხვიდეთ %1$s-ში თუ URL-ბმული უკვე გახსნილია პროგრამაში. ფარული რეჟიმი კვლავ ჩართული იქნება."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -509,7 +509,7 @@ msgstr "ფარული რეჟიმი"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "ვებგვერდების დამალვა, პროგრამების გადართვისას და ეკრანის სურათების გადაღების აკრძალვა."
+msgstr "ვებგვერდების დამალვა, პროგრამების გადართვისას და ეკრანის სურათების გადაღების შეზღუდვა."
 
 msgctxt "preference_category_security"
 msgid "Security"
