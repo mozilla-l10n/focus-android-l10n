@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-22 22:27+0000\n"
+"PO-Revision-Date: 2018-08-24 21:31+0000\n"
 "Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -267,14 +267,14 @@ msgstr "Ŕmee"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr "Caden chŕmechu ukjabch"
+msgstr "Kabwik chŕmecuhu mukunabchu"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s ey ñukwee ñumtñurum bar chŕmechuhal kwiima"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -479,7 +479,7 @@ msgstr "E'e"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Ŕalum mchknaa sak muyok mjab hikyawa"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -509,7 +509,7 @@ msgstr "Jabchu web ha tjoot aplicación jkaay chkwa ñwam"
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Kryek janu"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -605,7 +605,7 @@ msgstr "Ujiiñ"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Pantallhak paa chknauwch sak chmiich"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -742,7 +742,7 @@ msgstr "Aplicación jubo kyakhal tkweek"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Chŕibchu chapayt ŕmeechuy ŕ´ap kyo"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -765,13 +765,13 @@ msgstr "Jabchu aplicación jkayk solch"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "%1$s hal mchpaa pay jabchu %2$s msol."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Aplicacion ŕit jabchu solum mŕmee"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
