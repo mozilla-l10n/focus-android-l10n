@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 08:08+0000\n"
+"PO-Revision-Date: 2018-08-24 11:50+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
@@ -1143,6 +1143,8 @@ msgstr "%1$s साठी अधिक स्रोत कोड इतर अ�
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"Disconnect, inc. यांनी पुरवलेल्या अडवणूक याद्या सुद्धा <a href=\"%2$s\">GNU General Public License v3</a> अंतर्गत एक विभक्त आणि स्वतंत्र संसाधन म्हणून %1$s वापरते, ज्या <a href=\"%3$s\">इथे</a> "
+"उपलब्ध आहेत."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1370,6 +1372,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"आपण सर्वात जास्त वापरणाऱ्या साईट एका टॅप मध्ये मिळवा\n"
+"        मेनू > मुख्य पृष्ठावर जोडा"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1381,6 +1385,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"प्रत्येक दुवा %1$s मध्ये उघडा\n"
+"%1$s ला पूर्वनिर्धारित ब्राउझर करा"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
