@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 21:31+0000\n"
+"PO-Revision-Date: 2018-08-24 21:34+0000\n"
 "Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -793,7 +793,7 @@ msgstr "Sal amchu jabch tpaay al chpaa?"
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s byir"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
@@ -810,7 +810,7 @@ msgstr ""
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Tñur unal"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
