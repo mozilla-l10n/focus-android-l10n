@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 16:12+0000\n"
+"PO-Revision-Date: 2018-08-24 16:28+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: yua\n"
@@ -650,7 +650,7 @@ msgstr "Ila’al wa le nuupul ti’ u kaxbil ba’ale’ uts ti’ le paatul yá
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Púustak le tsool ts’íibilo’"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -658,7 +658,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Ma’ ilbil"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
@@ -674,84 +674,84 @@ msgstr "Lúubsal tuláakal tu'ux maanech"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "U nu’ukbesaj ts’íibilo’ jeba’anil: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Utsil nuupankil"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Chuupulil"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Le tseelil webe’ ts’óok u chuupul"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Jejelas tu’uxil"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Xeen toj táanil"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Ka’a chuupuk le tseelil webe’"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Suutnen ti’ a maan ich web"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "P’áatak u chuupul le tseelil webe’"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Suutnen ti’ le ba’il ta yáax ts’íibo’"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the ImageView in the menu that displays          the number
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "."
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Ma’ meyajta’al le kaxan ba’alo’"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "A tojbe’enilob"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Je’ebak le nuupankil ich yaanal ba’ilo’"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -759,13 +759,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Je’el u beytal a jóok’oj ti’ %1$s uti’al a je’ik le nuupankila’ ich %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Kaxanta’ak junp’éel ba’il tu’ux ka pàajchajak u je’ik le nuupankila’"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -774,60 +774,60 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Mixjunp’éel le ba’il ich a núukulila’ u je’ik le nuupankila’. Je’el u beytal a jóok’oj ti’ %1$s uti’al a kaxtik junp’éel bail tu’ux u jèebej ich %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "¿A k’áat a jóok’oj ti’ le maan ich web chen a wóok’sal wa’a?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s ts’óokij"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Je'ebek"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Le ts’íibil éemsajilo’ ma’ u túupulo’ ken túupuk le tsool ts’íib ti’ le %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Éemsa’ak ts’íibilo’"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Ma’ u beetal"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Éemsa’ak"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Táalamil ken kajak u chuupul le tseel weba’"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Ka’a béetej"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Ma’ u beytal u nuupul"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -839,11 +839,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Ts’óok u xúupul le súutuk a pa’tik uti’al a ch’aik internet"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Ma’ kaxta’ab le núukulil ku ts’a’ik internet"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -854,10 +854,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul> \n"
+"        <li>Ilawil wa le k’áaba’ ka ts’íibtiko’ uts ts’íibtak, je’e beya’ \n"
+"          <strong>ww</strong>.example.com en vez de <strong> \n"
+"          <strong>www</strong>.example.com</li> \n"
+"        <li>Wa ma’ u beytal a je’ik mix junp’éel u tseel webe’, ilawil wa a núukulila’ yáanti’ u páajtalil u yokoj ich internet.</li> \n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Le k’áaba’ ta ts’íibtiko’ ma’ utsi’"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -866,10 +872,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+" <li>Le u k’áaba’ web ta ts’íibtiko’ suka’an u ts’íibtaj beya’ <strong>http://www.example.com/</strong></li>\n"
+" <li>Ilawil wa tan a meyajtik le jach k’áabeto’ (je’e bey <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "Le tseel weba’ ma’ tun suut tu beeli’"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -877,10 +887,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+" <li>Le táalamil je’ela’ yáan súutuke’ ku yúuchuj tumen ku p’áataj ma’ u meyajtal uts wa ma’ u cháabal u meyajil cookies.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "Ma’ u na’ataj ba’ax k’áaba’ ta ts’íibtaj"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -888,10 +901,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+" <li>Kexi’ wa k’áabet a ts’a’ik yáanal ba’il ti’ a núukulil uti’al u beytal a je’ik le tseel weba’.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "K’aschajij le nuupankil uts ka’acho’"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -902,6 +918,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+" <li>Le je’ela’ kexi’ wa u táalamil le meyajta’al internet ti’ a núukulila’, wa kex yáan máax tun ts’áakuba’aj bey u nuupankil internet ti’ a núukulila’.</li>\n"
+" <li>Wa ts’óok a yàax meyajtik le nuupankil internet ti’ a núukulila’, kexi’ wa le táalamila’ chen jun súutuk. Ju beytal a ka’a je’ik ich jun súutuk tu ka’aten.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -909,37 +929,37 @@ msgstr ""
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Yáan u táalamil ma’ u cha’ik a je’ik le tseel weba’."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Túuxta’ak le nuupankila’"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Ka’a ts’íibta’ak le k’áaba’ ti’ le nuupankila’"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Túuxta’ak le oochela’"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Ka’a ts’íibta’ak le k’áaba’ ti’ le oochela’"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Táabsa’ak oochelil"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Je’ebek le nuupankila’ ich jun túumben nu’ukbesaj"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -951,76 +971,78 @@ msgstr ""
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Nojochkúuns a ba’il ta wóok’sal"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr ""
+"Bis táanxil tu’ux le a maansajil ich web yéetel u ba’il a wóok’sal. Ma’ cha’ik u chíikpajal le koonol ba’alobo’ wa u láak’ ba’il ku kaxtikech ich le tseel web tu’ux ka maano’ uti’al u "
+"chaambelkúunsik a wéensik ba’alob te’ webo’."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "A kaxan ba’al, je’e bey a k’áato’"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "¿Ka kaxtik ba’al jela’anil wa’a? Yéey u jela’anil u múuk’il a kaxan ba’al ta yéeytaj yáax táanile’ ich le ba’ila’."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Ts’a’a u séeb k’at bejilo’ob ti’ a wokoj te’ yáax cha’anila’"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Súutnen séebanil ti’ a tseel web uts ta wicho’ ich %1$s. Yéey \"ts’áabak ich u yáax tseel web\" lik’ul u ts’íibil tsoolanilo’ob %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Suuktatech u kanáantal le a wóok’salo’"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Ts’a’a %1$s bey a kaxan ba’al a yéeymaj ka wilik le ma’alobil kaxan ba’al tu’ux u kanáantal le a wóok’sal ken a je’ik jejelas tseel web lik’ulil yaanal ba’ilob."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "¡Na’atbij!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Ma’ ilbij"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "U láak’o’"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Ts’áabak"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Ma’ u beetal"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -1028,7 +1050,7 @@ msgstr ""
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Le páajtalil u je’ebek jumpulile’ ku je’ebek yéetel xma’ kananbil a kaxan ba’al"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1039,7 +1061,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Meyajil ti’ maan ich web chen teech"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1052,7 +1074,7 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Le ku ts’a’ik ojelbil ba’ax ku yúuchule’ ku cha’ik u túupul le meyajil %1$s chen yéetel jun péets’ak. Mix k’áabet a je’ik u ba’il wa mix k’áabet a wilik ba’ax ku meyaj ich tu’ux a maano’."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1066,20 +1088,20 @@ msgstr "Lúubsal tuláakal tu'ux maanech"
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Éemsa’ak Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s lela’ jun meyajil mina’an u wóojil jeba’antak, béeta’ab men Mozilla yéetel u láak’ muulmeyajilo’ob."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s ti’an ka ch’áabak yéetel u tsoolt’aanil <a href=\"%2$s\">ku ts’áabal u páajtalil men Mozilla</a> yéetel u láak’ páajtalilo’ob yáanti’ob u wóoj jeba’anil."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1090,13 +1112,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Ma’ u ts’áabal tojbe’enilob wa páajtalilo’ob ti’ le koonol ba’alob yáan u k’áaba’ob ich le moolayil Mozilla Foundation wa je’e ba’axak jaatsile’, mix u k’áaba’ob yéetel u yoochelo’ob Mozilla, "
+"Firefox o %1$s. Je’el u beytal u k’ajotal yaanal ba’ax <a href=\"%2$s\">waye’</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "U láak’ <a href=\"%2$s\">páajtalilo’ob</a> ti’ wóoj jeba’antak bey xan xma’ boolbi’ laili’ yáanti’ob u láak’ sayab wóoj uti’al %1$s."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1106,44 +1130,46 @@ msgstr ""
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
+"%1$s laili’ ku meyajtik le toolts’ìibil uti’al ma’ meyajtak Disconnect, Inc. Bey tseelpaja’anil meyajilo’ob ku béetal tu juunalo’ob yáanal le <a href=\"%2$s\">Noj Páajtalil ti’ tu láakal ti’ GNU "
+"v3</a>, je’el u beytal a kaxtik <a href=\"%3$s\">waye’</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "A k’áaba’"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Wóojil"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Púustak"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Uts nuupankil"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "K’as nuupankil"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "Ila’abij men: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "U jéets’elil te’e tu’uxilo’"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "Le URL yani’"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
@@ -1161,7 +1187,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1197,12 +1223,12 @@ msgstr ""
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "A k’áaba’"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Wóojil"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
@@ -1294,12 +1320,12 @@ msgstr "K’ajóoltal u yaanali’"
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Ma’"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Je’ele’"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
@@ -1311,7 +1337,7 @@ msgstr ""
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Ma’ ilbil"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
