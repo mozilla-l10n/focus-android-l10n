@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 19:09+0000\n"
+"PO-Revision-Date: 2018-08-24 19:19+0000\n"
 "Last-Translator: Luis Flores Martínez <lufom90@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hus\n"
@@ -33,7 +33,7 @@ msgstr "Ka kuba'"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr ""
+msgstr "Ka bats'uw"
 
 msgctxt "action_save"
 msgid "Save"
@@ -492,6 +492,8 @@ msgstr "Ka eyendha' in t'iplabil a ch'uchub abal ka japiy a eyextal"
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
 msgstr ""
+"A ch'uchub ne'ets kin japiy %1$s max an URL k'wajatits japidh ta eyendhanélil.  Ne'ets ka japin an tsinat alix. \n"
+"\n"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -511,11 +513,11 @@ msgstr "Ka tsina' an xeklek tam k'wajat a jalk'uyal an eyendhanél."
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "k'anidhtaláb"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Alwa'taláb"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
@@ -744,7 +746,7 @@ msgstr "Kit wichiy al xi jún an eyendhanél"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Jáy i alim kubadh "
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1239,13 +1241,13 @@ msgstr "Tsinat japixtal"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "Ka konoy abal ka eyendha' ta mexajil"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL k'ot'bidh"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
@@ -1256,7 +1258,7 @@ msgstr ""
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Axi k'ibat"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
@@ -1268,7 +1270,7 @@ msgstr ""
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Ka japiy"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1281,20 +1283,20 @@ msgstr ""
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "It eyendhanél"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "T'ipodhtaláb in k'al a ch'uchub"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "In t'iplabil a ch'uchub yab exláj. Ka exa' juníl"
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
