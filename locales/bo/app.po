@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-25 07:28+0000\n"
+"PO-Revision-Date: 2018-08-25 07:48+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bo\n"
@@ -538,7 +538,7 @@ msgstr ""
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
@@ -745,7 +745,7 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "ཁྱེད་ཀྱི་བདག་དབང་།"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
@@ -802,17 +802,17 @@ msgstr ""
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "ཡིག་ཆ་ཕབ་ལེན།"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "འདོར་བ།"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "ཕབ་ལེན།"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
@@ -855,7 +855,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "ཁ་བྱང་ནོར་འདུག"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -922,17 +922,17 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "པར་འགྲེམ་སྤེལ་བྱས་པ།"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "པར་གྱི་ཁ་བྱང་ཉར།"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "པར་ཉར།"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
@@ -959,7 +959,7 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "ཁྱོད་ཀྱི་འཚོལ་བཤེར། ཁྱོད་ཀྱི་ལམ།"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -996,29 +996,29 @@ msgstr ""
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "མཆོང་པ།"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "རྗེས་མ།"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "བསྣོན།"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "འདོར་བ།"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
