@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-25 02:27+0000\n"
+"PO-Revision-Date: 2018-08-25 02:50+0000\n"
 "Last-Translator: Luis Flores Martínez <lufom90@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hus\n"
@@ -1123,14 +1123,14 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "Yab u pidhnal i walkadhtaláb in bij Fundación Mozilla, jun pejach in k'al, in bij ani an walekláb Mozilla, Firefox ani %1$s. U awil ka ela' axe' tin kwentaj <a href=\"%2$s\"> te' </a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Pilchik i <a href=\"%2$s\"> dhuchlab </a> axi japidh ani ts'ejwalidh aniyej in ko'oyal jant'ini' ti ts'ejkadh abal %1$s."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1139,7 +1139,7 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "Aniyej in eyendhal an kawchik abal ka kuba' xi in k'al Disconnect, Inc., axe' pilchik i t'ojláb ani <a href=\"%2$s\"> Japidh abal ka eyan GNU v3</a> axi u awil ka ela' <a href=\"%3$s\"> te' </a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1203,7 +1203,7 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d in k'al %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
@@ -1356,6 +1356,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"An xeklek yab u alwa' t'ojnal \n"
+" Ka exa' ka kuba' an k'anix abal yab kit kedhmayat"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1365,6 +1367,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"Ka ela' k'al jun i takaxtaláb an xeklek axi a lej eyendhál \n"
+"        Takuxtaláb> Ka punuw ti ok'ox xeklek"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1375,7 +1379,7 @@ msgctxt "tip_set_default_browser"
 msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
-msgstr ""
+msgstr "Ka japiy patal an ne'dhom %1$s Ka t'aja' %1$s ta ok'ox eyendhom"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1385,6 +1389,9 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Ka eyendha' an kweten putundhach URLs abal an xeklek axi a eyendal\n"
+" Ka ni'a' jawakits tum URLs ti alimtaláb\n"
+" "
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
