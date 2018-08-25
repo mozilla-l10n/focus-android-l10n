@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-24 12:08+0000\n"
+"PO-Revision-Date: 2018-08-25 07:28+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bo\n"
@@ -277,12 +277,12 @@ msgstr ""
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "སྤྱོད།"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "སྤྱོད་མཚམས་འཇོག"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
@@ -458,7 +458,7 @@ msgstr ""
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "མིན།"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -501,7 +501,7 @@ msgstr ""
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "ཉེན་སྲུང་།"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -519,7 +519,7 @@ msgstr ""
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "JavaScript བཀག་པ།"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
