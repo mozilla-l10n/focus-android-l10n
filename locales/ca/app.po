@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-26 13:39+0000\n"
+"PO-Revision-Date: 2018-08-26 14:04+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -96,7 +96,7 @@ msgstr "Obre amb…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "Afegeix a la pantalla d'inici"
+msgstr "Afegeix a pantalla d'inici"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -1010,7 +1010,7 @@ msgstr "Afegiu dreceres a la pantalla d'inici"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Retorneu ràpidament als vostres llocs preferits amb el %1$s. Trieu «Afegeix a la pantalla d'inici» en el menú del %1$s."
+msgstr "Retorneu ràpidament als vostres llocs preferits amb el %1$s. Trieu «Afegeix a pantalla d'inici» en el menú del %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1243,7 +1243,7 @@ msgstr "Contrasenya"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr "Mostra lloc d'escriptori"
+msgstr "Mostra el lloc d'escriptori"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
@@ -1370,7 +1370,7 @@ msgid ""
 "        Menu > Add to Home screen"
 msgstr ""
 "Accediu amb un sol toc als llocs que més utilitzeu\n"
-"        Menú > Afegeix a la pantalla d'inici"
+"        Menú > Afegeix a pantalla d'inici"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1416,4 +1416,4 @@ msgid ""
 "    Menu > Request desktop site"
 msgstr ""
 "Preferiu veure el lloc com es mostra en l'escriptori?\n"
-"    Menú > Mostra lloc d'escriptori"
+"    Menú > Mostra el lloc d'escriptori"
