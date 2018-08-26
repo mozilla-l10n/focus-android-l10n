@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-16 03:25+0000\n"
+"PO-Revision-Date: 2018-08-26 13:05+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -128,7 +128,7 @@ msgstr "您的權利"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "封鎖的追蹤器數量"
+msgstr "追蹤器封鎖數量"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -491,7 +491,7 @@ msgstr "使用指紋解鎖程式"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "若已在程式中開啟網址，可使用您的指紋直接解鎖 %1$s。也會同時開啟隱私模式。"
+msgstr "若已在程式中開啟網頁，可使用您的指紋直接解鎖 %1$s。也會開啟隱私模式。"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -607,7 +607,7 @@ msgstr "移除"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr "顯示主畫面小秘訣"
+msgstr "在主畫面顯示小秘訣"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -954,7 +954,7 @@ msgstr "用新分頁開啟鏈結"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "清除 %1$s 瀏覽紀錄時，已儲存並分享的圖片將<b>不會被刪除</b>。"
+msgstr "清除 %1$s 瀏覽紀錄時，將<b>不會刪除</b>儲存或分享的圖片。"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1282,7 +1282,7 @@ msgstr "手指移動得太快，請再試一次。"
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr "您想要開啟搜尋建議嗎？"
+msgstr "想要開啟搜尋建議嗎？"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1340,7 +1340,7 @@ msgid ""
 "        Menu > Add to Home screen"
 msgstr ""
 "一點就能快速開啟您最常用的網站\n"
-"        選單 > 新增至裝置主畫面"
+"選單 > 新增至裝置主畫面"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1353,7 +1353,7 @@ msgid ""
 " Set %1$s as default browser"
 msgstr ""
 "使用 %1$s 開啟所有鏈結\n"
-" 將 %1$s 設為預設瀏覽器"
+"將 %1$s 設為預設瀏覽器"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1375,7 +1375,7 @@ msgid ""
 " Long-press any link on a page"
 msgstr ""
 "使用新分頁開啟鏈結\n"
-" 長按頁面上的任何鏈結"
+"長按頁面上的任何鏈結"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      The new line here must be kept as the second half of the
@@ -1386,4 +1386,4 @@ msgid ""
 "    Menu > Request desktop site"
 msgstr ""
 "還是想看到桌機版的頁面嗎？\n"
-"    選單 > 開啟桌面版網站"
+"選單 > 開啟桌面版網站"
