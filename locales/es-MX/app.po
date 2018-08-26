@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-26 01:11+0000\n"
+"PO-Revision-Date: 2018-08-26 01:13+0000\n"
 "Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
 "Language-Team: es_MX <LL@li.org>\n"
 "Language: es_MX\n"
@@ -507,10 +507,9 @@ msgstr "Invisible"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Ocultar páginas web cuando se estén cambiando aplicaciones"
+msgstr "Ocultar páginas al intercambiar aplicaciones y bloquear la toma de capturas de pantalla."
 
 msgctxt "preference_category_security"
 msgid "Security"
