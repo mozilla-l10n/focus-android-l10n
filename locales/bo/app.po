@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-25 09:32+0000\n"
+"PO-Revision-Date: 2018-08-26 12:01+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bo\n"
@@ -246,7 +246,7 @@ msgstr ""
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "སྤྱི་བཀོལ།"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -567,7 +567,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr ""
+msgstr "%1$s ངོ་སྤྲོད།"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
