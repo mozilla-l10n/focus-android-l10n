@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-26 13:27+0000\n"
+"PO-Revision-Date: 2018-08-26 13:39+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -505,10 +505,9 @@ msgstr "Invisible"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Amaga les pàgines web en canviar d'aplicacions"
+msgstr "Amaga les pàgines web en canviar d'aplicacions i bloca les captures de pantalles."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1416,3 +1415,5 @@ msgid ""
 "Rather see the full desktop site?\n"
 "    Menu > Request desktop site"
 msgstr ""
+"Preferiu veure el lloc com es mostra en l'escriptori?\n"
+"    Menú > Mostra lloc d'escriptori"
