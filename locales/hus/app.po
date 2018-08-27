@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-27 05:58+0000\n"
+"PO-Revision-Date: 2018-08-27 16:09+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hus\n"
@@ -579,7 +579,7 @@ msgstr "Tin kwentaj an tsinataláb"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "Tolmixtaláb"
+msgstr "Tolmixtaláb %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -1139,7 +1139,7 @@ msgstr "Pilchik i <a href=\"%2$s\"> dhuchlab </a> axi japidh ani ts'ejwalidh ani
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "Aniyej in eyendhal an kawchik abal ka kuba' xi in k'al Disconnect, Inc., axe' pilchik i t'ojláb ani <a href=\"%2$s\"> Japidh abal ka eyan GNU v3</a> axi u awil ka ela' <a href=\"%3$s\"> te' </a>."
+msgstr "%1$s aniyej in eyendhal an kawchik abal ka kuba' xi in k'al Disconnect, Inc. axe' pilchik i t'ojláb ani <a href=\"%2$s\"> Japidh abal ka eyan GNU v3</a>, axi u awil ka ela' <a href=\"%3$s\">te'</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1270,7 +1270,7 @@ msgstr "An kw'it'ixtaláb ma ti USB/Wi-Fi"
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr "Ka japiy"
+msgstr "Ka japiy %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
