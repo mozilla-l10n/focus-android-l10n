@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-28 19:58+0000\n"
+"PO-Revision-Date: 2018-08-28 20:18+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -493,7 +493,7 @@ msgstr "ऐप्प को अनलॉक करने के लिए फि
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "यदि ऐप्प में पहले ही कोई URL खुली हो तो आपकी फिंगरप्रिंट %1$s को अनलॉक कर सकती है. गोपनीयता चालू हो जायेगी."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
