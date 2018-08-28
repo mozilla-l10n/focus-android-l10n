@@ -1,25 +1,30 @@
-# Translations template for PROJECT.
-# Copyright (C) 2018 ORGANIZATION
+# Sundanese translations for PROJECT.
+# Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-06-07 15:00-0700\n"
+"POT-Creation-Date: 2018-08-28 16:52-0700\n"
 "PO-Revision-Date: 2018-08-16 02:36+0000\n"
 "Last-Translator: yusup.ramdani <yusup.ramdani@wikimedia.or.id>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: su\n"
+"Language-Team: anp <LL@li.org>\n"
+"\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
+#. #######################################################################################
+#. ## Put only strings into this file that should be translated. Move all
+#. other strings ##
+#. ## into a separate file like strings_references.xml
+#. ##
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
@@ -192,21 +197,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s méré anjeun kadali.</p>\n"
 "<p>Paké pikeun panyungsi nyalindung:\n"
 "  <ul>\n"
 "    <li>Paluruh jeung sungsi langsung dina appna</li>\n"
-"    <li>Peungpeuk palacak (atawa apdét setélan pikeun ngaheugbaékeun palacak)</li>\n"
-"    <li>Pupus pikeun ngaleungitkeun kuki pon kitu ogé jujutan pamaluruhan jeung panyungsian</li>\n"
+"    <li>Peungpeuk palacak (atawa apdét setélan pikeun ngaheugbaékeun "
+"palacak)</li>\n"
+"    <li>Pupus pikeun ngaleungitkeun kuki pon kitu ogé jujutan pamaluruhan"
+" jeung panyungsian</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s dijieun ku Mozilla. Misina nya éta pikeun ngamumulé Internét nembrak anu séhat.<br/>\n"
+"<p>%1$s dijieun ku Mozilla. Misina nya éta pikeun ngamumulé Internét "
+"nembrak anu séhat.<br/>\n"
 "<a href=\"%2$s\">Lenyepan</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -264,6 +274,18 @@ msgctxt "preference_category_search"
 msgid "Search"
 msgstr "Paluruh"
 
+#. Title of "switch" preference that enables/disables search suggestions
+msgctxt "preference_show_search_suggestions"
+msgid "Get search suggestions"
+msgstr ""
+
+#. Description of the preference that enables/disables search suggestions
+#. %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_show_search_suggestions_summary"
+msgid "%1$s will send what you type in the address bar to your search engine"
+msgstr ""
+
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
@@ -299,7 +321,9 @@ msgstr "Daptar URL Baku"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Hurungkeun hambéh %1$s otokumplit leuwih ti 450 URL kakoncara di leunjeuran alamat."
+msgstr ""
+"Hurungkeun hambéh %1$s otokumplit leuwih ti 450 URL kakoncara di "
+"leunjeuran alamat."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -426,15 +450,21 @@ msgstr "Peungpeuk palacak analitik"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Dipaké pikeun ngumpulkeun, analisis, jeung ngukur ketak sarupaning tap jeung gorolong"
+msgstr ""
+"Dipaké pikeun ngumpulkeun, analisis, jeung ngukur ketak sarupaning tap "
+"jeung gorolong"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Peungpeuk palacak sosial"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Naplok dina loka pikeun ngalacak anjangan anjeun sarta pikeun némbongkeun fungsionalitas sarupaning tumbul babagi"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Naplok dina loka pikeun ngalacak anjangan anjeun sarta pikeun némbongkeun"
+" fungsionalitas sarupaning tumbul babagi"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -463,6 +493,23 @@ msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
 msgstr "Okéh"
 
+#. Preference Title: Biometrics can be used to unlock Focus if the previous
+#. session's data was not erased by the user.
+msgctxt "preference_security_biometric"
+msgid "Use fingerprint to unlock app"
+msgstr ""
+
+#. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
+#. be used to unlock Focus if the app had a URL         open when the app was
+#. last run to ensure that only the phone's owner can view a previous session.
+#. %1$s will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "preference_security_biometric_summary"
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
@@ -474,11 +521,15 @@ msgstr "Nyiliwuri"
 #. that prevents the      app's content (in our case especially the content of
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
-#. other displays. However we try to keep this description short and brief to
-#. avoid confusion.
+#. other displays.
+#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
-msgid "Hide webpages when switching apps"
+msgid "Hide webpages when switching apps and block taking screenshots."
 msgstr "Samunikeun kaca raramat nalika pindah aplikasi"
+
+msgctxt "preference_category_security"
+msgid "Security"
+msgstr ""
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -531,8 +582,12 @@ msgstr "Lenyepan"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla bakal kukumpul data nu diperlukeun hungkul jang nyadiakeun jeung ngoméan %1$s pikeun balaréa."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla bakal kukumpul data nu diperlukeun hungkul jang nyadiakeun jeung "
+"ngoméan %1$s pikeun balaréa."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -569,6 +624,12 @@ msgstr "Piceun mesin pamaluruh"
 msgctxt "preference_search_remove"
 msgid "Remove"
 msgstr "Piceun"
+
+#. Title: Homescreen tips settings toggle to determine whether or not tips are
+#. displayed when      a user first launches the app.
+msgctxt "preference_homescreen_tips"
+msgid "Show home screen tips"
+msgstr ""
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -701,6 +762,13 @@ msgid "Return to previous app"
 msgstr "Balik deui ka aplikasi saméméhna"
 
 #. Content description (not visible, for screen readers etc.): This is the
+#. description for the ImageView in the menu that displays          the number
+#. of trackers blocked for the current session
+msgctxt "content_description_trackers_blocked"
+msgid "Number of trackers blocked"
+msgstr ""
+
+#. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
@@ -735,8 +803,12 @@ msgstr "Téangan aplikasi nu bisa muka tutumbu"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Euweuh aplikasi nu bisa muka ieu tutumbu. Anjeun bisa ninggalkeun %1$s pikeun maluruh aplikasi nu bisa di %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Euweuh aplikasi nu bisa muka ieu tutumbu. Anjeun bisa ninggalkeun %1$s "
+"pikeun maluruh aplikasi nu bisa di %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -794,13 +866,17 @@ msgstr "Teu bisa nyambung"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Loka sigana keur teu bisa dibuka atawa keur riweuh. Pecakan sakeudeung deui.</li>\n"
-"        <li>Lamun teu bisa ngamuat hiji ogé, pariksa data ponsél atawa sambungan Wi-Fi anjeun.</li>\n"
+"        <li>Loka sigana keur teu bisa dibuka atawa keur riweuh. Pecakan "
+"sakeudeung deui.</li>\n"
+"        <li>Lamun teu bisa ngamuat hiji ogé, pariksa data ponsél atawa "
+"sambungan Wi-Fi anjeun.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -817,14 +893,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Pariksa alamatna bisi aya salah ketik kawas\n"
 "          <strong>ww</strong>.conto.com anu kuduna\n"
 "          <strong>www</strong>.conto.com</li>\n"
-"        <li>Lamun anjeun teu bisa ngamuat kaca hiji ogé, pariksa data ponsél atawa sambungan Wi-Fi anjeun.</li>\n"
+"        <li>Lamun anjeun teu bisa ngamuat kaca hiji ogé, pariksa data "
+"ponsél atawa sambungan Wi-Fi anjeun.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -834,13 +912,17 @@ msgstr "Alamat teu sohéh"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Alamat raramat ilaharna ditulis siga <strong>http://www.example.com/</strong></li>\n"
-"  <li>Pastikeun anjeun maké gurat condong maju (ny.é. <strong>/</strong>).</li>\n"
+"  <li>Alamat raramat ilaharna ditulis siga "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Pastikeun anjeun maké gurat condong maju (ny.é. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -850,11 +932,13 @@ msgstr "Kacana teu bener kaalihkeunna"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ieu masalah sakapeung mah dilantarankeun ku dipareumanna atawa ditolakna kuki.</li>\n"
+"  <li>Ieu masalah sakapeung mah dilantarankeun ku dipareumanna atawa "
+"ditolakna kuki.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -864,11 +948,13 @@ msgstr "Alamat teu kaharti"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Sigana anjeun kudu masang aplikasi séjén pikeun muka ieu alamat.</li>\n"
+"  <li>Sigana anjeun kudu masang aplikasi séjén pikeun muka ieu "
+"alamat.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -878,15 +964,19 @@ msgstr "Sambungan aman teu laksana"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ieu téh meureun disababkeun aya masalah patali jeung setélan sérver, atawa bisa waé aya jalma nu nyoba nyaru minangka server. </li>\n"
-"  <li>Mun anjeun saméméhna ngahasil nyambung ka server, érorna bisa ngan saheulaaneun hungkul, anjeun ké bisa mecakan deui.</li>\n"
+"  <li>Ieu téh meureun disababkeun aya masalah patali jeung setélan "
+"sérver, atawa bisa waé aya jalma nu nyoba nyaru minangka server. </li>\n"
+"  <li>Mun anjeun saméméhna ngahasil nyambung ka server, érorna bisa ngan "
+"saheulaaneun hungkul, anjeun ké bisa mecakan deui.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -931,8 +1021,12 @@ msgstr "Buka tutumbu di tab anyar"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Gambar teundeunan jeung nu dibagikeun mah <b>moal dipupus</b> nalika anjeun mupus %1$s jujutan."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Gambar teundeunan jeung nu dibagikeun mah <b>moal dipupus</b> nalika "
+"anjeun mupus %1$s jujutan."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -941,8 +1035,13 @@ msgstr "Bedaskeun salindungan anjeun"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Cokot langlangan nyalindung ka undakan saterusna. Peungpeuk iklan jeung kontén lianna nu bisa ngalacak anjeun di sakuliah loka sarta ngalaunan waktu muka kaca."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Cokot langlangan nyalindung ka undakan saterusna. Peungpeuk iklan jeung "
+"kontén lianna nu bisa ngalacak anjeun di sakuliah loka sarta ngalaunan "
+"waktu muka kaca."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -951,7 +1050,9 @@ msgstr "Pamaluruhan anjeun, cara anjeun"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr "Néangan nu béda? Pilih mesin pamaluruhan baku séjénna di Setélan."
 
 #. First run tour (Shortcut): Title
@@ -963,8 +1064,12 @@ msgstr "Tambah takulan ka layar tepas"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Sakocepat balik deui kana loka karesep anjeun %1$s . Pilih baé \"Tambahkeun ka layar Tepas\" tina menu %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Sakocepat balik deui kana loka karesep anjeun %1$s . Pilih baé "
+"\"Tambahkeun ka layar Tepas\" tina menu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -975,8 +1080,12 @@ msgstr "Matuhkeun salindungan"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Setél %1$s jadi panyungsi baku sarta cokot kauntungan langlangan nyalindung sawaktu anjeun muka kaca raramat ti aplikasi séjén."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Setél %1$s jadi panyungsi baku sarta cokot kauntungan langlangan "
+"nyalindung sawaktu anjeun muka kaca raramat ti aplikasi séjén."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1037,8 +1146,12 @@ msgstr "Rintakan langlangan nyamuni"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Iber pikeun ngahapus rintakan %1$s anjeun sakali tap. Anjeun teu kudu muka appna atawa nempo naon anu keur jalan dina panyungsi anjeun."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Iber pikeun ngahapus rintakan %1$s anjeun sakali tap. Anjeun teu kudu "
+"muka appna atawa nempo naon anu keur jalan dina panyungsi anjeun."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1057,15 +1170,24 @@ msgstr "Undeur Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s téh aplikasi bébas sarta sumber nembrak nu dijieun ku Mozilla jeung kontributor séjénna."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s téh aplikasi bébas sarta sumber nembrak nu dijieun ku Mozilla jeung "
+"kontributor séjénna."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a href=\"%2$s\">Lisénsi Umum Mozilla</a> jeung lisénsi sumber nembrak nu séjén."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a "
+"href=\"%2$s\">Lisénsi Umum Mozilla</a> jeung lisénsi sumber nembrak nu "
+"séjén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1073,18 +1195,26 @@ msgstr "%1$s dijieunna pikeun anjeun kalayan dina pasaratan <a href=\"%2$s\">Lis
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang Mozilla Foundation atawa pihak mana ogé, kaasup ngaran atawa logo Mozilla, Firefox, atawa %1$s. Inpormasi leuwih jero bisa dipanggihan "
-"<a href=\"%2$s\">di dieu</a>."
+"Anjeun teu dibéré idin atawa lisénsi nanaon kana mérek dagang Mozilla "
+"Foundation atawa pihak mana ogé, kaasup ngaran atawa logo Mozilla, "
+"Firefox, atawa %1$s. Inpormasi leuwih jero bisa dipanggihan <a "
+"href=\"%2$s\">di dieu</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a href=\"%2$s\">lisénsi</a> bébas jeung sumber nembrak nu séjén."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a "
+"href=\"%2$s\">lisénsi</a> bébas jeung sumber nembrak nu séjén."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1092,10 +1222,15 @@ msgstr "Kodeu sumber tambahan pikeun %1$s nyangkaruk dina rupa-rupa <a href=\"%2
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s ogé ngagunakeun daptar peungpeukan nu disayagakeun ku Disconnect, Inc. minangka hasil karya nu misah jeung indepénden di handapeun <a href=\"%2$s\">GNU General Public License v3</a>, sarta "
-"sayaga<a href=\"%3$s\">di dieu</a>."
+"%1$s ogé ngagunakeun daptar peungpeukan nu disayagakeun ku Disconnect, "
+"Inc. minangka hasil karya nu misah jeung indepénden di handapeun <a "
+"href=\"%2$s\">GNU General Public License v3</a>, sarta sayaga<a "
+"href=\"%3$s\">di dieu</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1204,3 +1339,165 @@ msgstr "Pénta loka déstop"
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
 msgstr "URL ditiron"
+
+#. Description of what a user may find in the Advanced Setting category, used
+#. for debugging
+msgctxt "preference_advanced_summary"
+msgid "Developer tools"
+msgstr ""
+
+#. Title of Advanced Setting category
+msgctxt "preference_category_advanced"
+msgid "Advanced"
+msgstr ""
+
+#. Preference to enable remote debugging of the app via USB or Wi-Fi
+msgctxt "preference_remote_debugging"
+msgid "Remote debugging via USB/Wi-Fi"
+msgstr ""
+
+#. Title for the fingerprint authentication dialog box that is shown to the
+#. user when opening the app.      %1$s is replaced with the app name
+#, c-format
+msgctxt "biometric_auth_title"
+msgid "Unlock %1$s"
+msgstr ""
+
+#. Description for the fingerprint authentication dialog box that is shown to
+#. the user when opening the app
+msgctxt "biometric_auth_description"
+msgid "Touch the fingerprint sensor to continue."
+msgstr ""
+
+#. New session button for the fingerprint authentication dialog box that is
+#. shown to the user when opening the app.      When pressed, the user's
+#. previous session is cleared, and authentication is not required.
+msgctxt "biometric_auth_new_session"
+msgid "New Session"
+msgstr ""
+
+#. Description for the fingerprint authentication image. Used for
+#. accessibility purposes.
+msgctxt "biometric_auth_image_description"
+msgid "Fingerprint icon"
+msgstr ""
+
+#. Error text displayed when the user's fingerprint cannot be recognized upon
+#. re-entering the app.      This is displayed during the authentication flow
+#. as the app launches.
+msgctxt "biometric_auth_not_recognized_error"
+msgid "Fingerprint not recognized. Try again."
+msgstr ""
+
+#. Error text displayed when the user's fingerprint moved too quickly upon
+#. re-entering the app     This is displayed during the authentication flow as
+#. the app launches.
+msgctxt "biometric_auth_moved_too_quickly"
+msgid "Finger moved too fast. Try again."
+msgstr ""
+
+#. Title for the prompt to enable search suggestions
+msgctxt "enable_search_suggestion_title"
+msgid "Would you like to turn on search suggestions?"
+msgstr ""
+
+#. Description for the prompt to enable search suggestions         %1$s will
+#. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
+#. replaced with "Learn more" which will be a tappable link         using the
+#. string: "enable_search_suggestion_subtitle_learnmore"
+#, c-format
+msgctxt "enable_search_suggestion_subtitle"
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+
+#. String to be placed inside the string: enable_search_suggestion_subtitle,
+#. which will be a "Learn More" link.
+msgctxt "enable_search_suggestion_subtitle_learnmore"
+msgid "Learn more"
+msgstr ""
+
+#. Label used for the "NO button" for the prompt to enable search suggestions
+msgctxt "enable_search_suggestions_no"
+msgid "No"
+msgstr ""
+
+#. Label used for the "YES button" for the prompt to enable search suggestions
+msgctxt "enable_search_suggestions_yes"
+msgid "Yes"
+msgstr ""
+
+#. Message displayed when using a search engine that doesn't provide
+#. suggestions
+msgctxt "no_suggestions_message"
+msgid "Some search engines cannot show suggestions."
+msgstr ""
+
+#. Button to dismiss the message displayed  when using a search engine that
+#. doesn't provide suggestions
+msgctxt "dismiss_no_suggestions_prompt_button"
+msgid "Dismiss"
+msgstr ""
+
+#. Tips displayed on the home view
+#. Tip displayed on home view explaining how to disable tracking protection
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_disable_tracking_protection"
+msgid ""
+"Site behaving unexpectedly?\n"
+" Try turning off Tracking Protection"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add sites to homescreen
+#. Argument 1 will be replaced with a line break in the application.
+#, fuzzy
+msgctxt "tip_add_to_homescreen"
+msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
+msgstr ""
+
+#. Tip displayed on home view explaining how to make Focus the default browser
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
+#. line here must be kept as the second half of the string is clickable for the
+#. user.
+#, c-format
+msgctxt "tip_set_default_browser"
+msgid ""
+"Open every link in %1$s\n"
+" Set %1$s as default browser"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_autocomplete_url"
+msgid ""
+"Autocomplete URLs for sites you use most\n"
+" Long-press any URL in the address bar"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. The new line here must be kept as the second half of the string is clickable
+#. for the user.
+msgctxt "tip_open_in_new_tab"
+msgid ""
+"Open a link in a new tab\n"
+" Long-press any link on a page"
+msgstr ""
+
+#. Tip displayed on home view explaining how to request the desktop version of
+#. a website.      Argument 1 will be replaced with a line break in the
+#. application.
+#, fuzzy
+msgctxt "tip_request_desktop"
+msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
+msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+#, c-format
+msgctxt "tip_disable_tips"
+msgid "Turn off tips on the %1$s start screen"
+msgstr ""
+
