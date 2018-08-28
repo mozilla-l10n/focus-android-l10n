@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-28 19:08+0000\n"
+"PO-Revision-Date: 2018-08-28 19:18+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -1321,7 +1321,7 @@ msgstr "क्या आप खोज सुझावों को चालू 
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "खोज सुझावों को पाने के लिए, %1$s उन चीजों को जिन्हें आप पता बार में टाइप करते हैं आपके द्वारा चयनित खोज इंजन को भेजना चाहता है. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1360,6 +1360,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"साइट अनपेक्षित ढंग से पेश आ रहा है?\n"
+" ट्रैकिंग सुरक्षा बंद कर के देखें"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. The new line here must be kept as the second half of the string is clickable
@@ -1369,6 +1371,8 @@ msgid ""
 "Get one-tap access to sites you use most\n"
 "        Menu > Add to Home screen"
 msgstr ""
+"आपके द्वारा अधिक इस्तेमाल किये साइटों तक एक टैप में पहुँचें\n"
+"        मेन्यु > होम स्क्रीन में जोड़ें"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1380,6 +1384,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"प्रत्येक लिंक %1$s में खोलें\n"
+" %1$s को डिफ़ॉल्ट ब्राउज़र बनायें"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
