@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-15 19:50+0000\n"
-"Last-Translator: Dhiraj Kumar Singh <Singhdhiraj255@gmail.com>\n"
+"PO-Revision-Date: 2018-08-28 18:23+0000\n"
+"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -272,14 +272,14 @@ msgstr "खोजें"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "खोज सुझाव पायें"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s उन्हें आपके खोज इंजन में भेजेगा जिन्हें आप पता बार में टाइप करेंगे"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -484,7 +484,7 @@ msgstr "हाँ"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "ऐप्प को अनलॉक करने के लिए फिंगरप्रिंट का इस्तेमाल करें"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
