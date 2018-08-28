@@ -2,23 +2,24 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-12 22:28-0700\n"
+"POT-Creation-Date: 2018-08-28 16:52-0700\n"
 "PO-Revision-Date: 2018-08-24 21:02+0000\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
-"Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
+"Language-Team: ro <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((((!((0 == 0))) || ((n == 0))) || "
+"((!((n == 1))) && (((n % 100) >= 1 && (n % 100) <= 19)))) ? 1 : (((n == "
+"1)) && ((0 == 0))) ? 0 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -197,21 +198,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s îți oferă controlul.</p>\n"
 "<p>Folosește-l ca browser privat:\n"
 "  <ul>\n"
 "    <li>Caută și navighează direct din aplicație</li>\n"
-"    <li>Blochează urmăritorii (sau actualizează setările pentru a permite urmăritorii)</li>\n"
-"    <li>Șterge pentru a îndepărta cookie-urile precum și istoricul de căutare și navigare</li>\n"
+"    <li>Blochează urmăritorii (sau actualizează setările pentru a permite"
+" urmăritorii)</li>\n"
+"    <li>Șterge pentru a îndepărta cookie-urile precum și istoricul de "
+"căutare și navigare</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s este produs de Mozilla. Misiunea noastră este să promovăm un internet deschis și sănătos.<br/>\n"
+"<p>%1$s este produs de Mozilla. Misiunea noastră este să promovăm un "
+"internet deschis și sănătos.<br/>\n"
 "<a href=\"%2$s\">Află mai multe</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -316,7 +322,9 @@ msgstr "Listă implicită de URL-uri"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Activează pentru a avea autocompletare %1$s pentru mai mult de 450 de URL-uri populare din bara de adrese."
+msgstr ""
+"Activează pentru a avea autocompletare %1$s pentru mai mult de 450 de "
+"URL-uri populare din bara de adrese."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -435,7 +443,9 @@ msgstr "Blochează urmăritorii publicitari"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Anumite reclame urmăresc vizitele pe site, chiar dacă nu dai clic pe reclame"
+msgstr ""
+"Anumite reclame urmăresc vizitele pe site, chiar dacă nu dai clic pe "
+"reclame"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -443,15 +453,21 @@ msgstr "Blochează urmăritorii analitici"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Folosit pentru a colecta, analiza şi măsura activităţi ca atingerea şi derularea"
+msgstr ""
+"Folosit pentru a colecta, analiza şi măsura activităţi ca atingerea şi "
+"derularea"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Blochează urmăritorii sociali"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Înglobat în pagini pentru a urmări vizitele tale şi a afişa funcţii precum butoane de partajare"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Înglobat în pagini pentru a urmări vizitele tale şi a afişa funcţii "
+"precum butoane de partajare"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -492,8 +508,12 @@ msgstr "Folosește amprenta pentru a debloca aplicația"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Amprenta ta poate debloca %1$s dacă este deschisă deja o adresă în aplicație. Modul discret va fi activat."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Amprenta ta poate debloca %1$s dacă este deschisă deja o adresă în "
+"aplicație. Modul discret va fi activat."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -509,7 +529,9 @@ msgstr "Discret"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Ascunde paginile web la schimbarea aplicațiilor și blochează capturile de ecran."
+msgstr ""
+"Ascunde paginile web la schimbarea aplicațiilor și blochează capturile de"
+" ecran."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -537,7 +559,9 @@ msgstr "Blochează JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Paginile se pot încărca mai rapid, dar este posibil și să aibă un comportament ciudat"
+msgstr ""
+"Paginile se pot încărca mai rapid, dar este posibil și să aibă un "
+"comportament ciudat"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -566,8 +590,12 @@ msgstr "Află mai multe"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "La Mozilla noi colectăm doar strictul necesar pentru a crea și îmbunătăți %1$s pentru toată lumea."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"La Mozilla noi colectăm doar strictul necesar pentru a crea și îmbunătăți"
+" %1$s pentru toată lumea."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -783,8 +811,12 @@ msgstr "Găsește o aplicație care poate deschide linkul"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Niciuna dintre aplicațiile de pe dispozitiv nu poate deschide acest link. Poți părăsi %1$s ca să cauți în %2$s o aplicație care poate."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Niciuna dintre aplicațiile de pe dispozitiv nu poate deschide acest link."
+" Poți părăsi %1$s ca să cauți în %2$s o aplicație care poate."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -809,7 +841,9 @@ msgstr "Deschide"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Fișierele descărcate <b>nu vor fi șterse</b> la ștergerea istoricului %1$s."
+msgstr ""
+"Fișierele descărcate <b>nu vor fi șterse</b> la ștergerea istoricului "
+"%1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -842,13 +876,17 @@ msgstr "Nu se poate conecta"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. Încearcă din nou în câteva momente.</li>\n"
-"        <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului.</li>\n"
+"        <li>Site-ul ar putea fi indisponibil temporar sau prea ocupat. "
+"Încearcă din nou în câteva momente.</li>\n"
+"        <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de "
+"date sau Wi-Fi a dispozitivului.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -865,14 +903,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Verifică adresa de erori de tastare cum ar fi\n"
 "          <strong>ww</strong>.exemplu.ro în loc de\n"
 "          <strong>www</strong>.exemplu.ro</li>\n"
-"        <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de date sau Wi-Fi a dispozitivului.</li>\n"
+"        <li>Dacă nu poți să încarci nicio pagină, verifică conexiunea de "
+"date sau Wi-Fi a dispozitivului.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -882,13 +922,17 @@ msgstr "Adresa nu este validă"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Adresele web sunt scrise de obicei ca <strong>http://www.example.com/</strong></li>\n"
-"  <li>Ai grijă să folosești slash-uri corecte (i.e. <strong>/</strong>).</li>\n"
+"  <li>Adresele web sunt scrise de obicei ca "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Ai grijă să folosești slash-uri corecte (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -898,11 +942,13 @@ msgstr "Pagina nu redirecționează corect"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Această problemă uneori poate fi cauzată de dezactivarea sau refuzarea de a accepta cookie-uri.</li>\n"
+"  <li>Această problemă uneori poate fi cauzată de dezactivarea sau "
+"refuzarea de a accepta cookie-uri.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -912,11 +958,13 @@ msgstr "Adresa nu a fost înțeleasă"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide această adresă.</li>\n"
+"  <li>S-ar putea să fie nevoie să instalezi alt program pentru a deschide"
+" această adresă.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -926,15 +974,20 @@ msgstr "Conexiunea securizată a eșuat"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Aceasta s-ar putea datora unei probleme în configurația serverului sau ar putea să fie cineva care încearcă să uzurpeze identitatea serverului.</li>\n"
-"  <li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea poate fi temporară și poți încerca din nou mai târziu.</li>\n"
+"  <li>Aceasta s-ar putea datora unei probleme în configurația serverului "
+"sau ar putea să fie cineva care încearcă să uzurpeze identitatea "
+"serverului.</li>\n"
+"  <li>Dacă te-ai conectat cu succes în trecut la acest server, eroarea "
+"poate fi temporară și poți încerca din nou mai târziu.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -979,8 +1032,12 @@ msgstr "Deschide într-o filă nouă"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Imaginile salvate și partajate <b>nu vor fi îndepărtate</b> când ștergi istoricul %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Imaginile salvate și partajate <b>nu vor fi îndepărtate</b> când ștergi "
+"istoricul %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -989,8 +1046,13 @@ msgstr "Consolidează-ți confidențialitatea"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Du navigarea privată la nivelul următor. Blochează reclamele şi alte tipuri de conţinut care te pot urmări pe site-uri și care îngreunează timpii de încărcare."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Du navigarea privată la nivelul următor. Blochează reclamele şi alte "
+"tipuri de conţinut care te pot urmări pe site-uri și care îngreunează "
+"timpii de încărcare."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -999,7 +1061,9 @@ msgstr "Caută în felul tău"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr "Cauţi ceva diferit? Alege un alt motor de căutare implicit din Setări."
 
 #. First run tour (Shortcut): Title
@@ -1011,8 +1075,12 @@ msgstr "Adaugă scurtături la ecranul principal"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Întoarce-te la site-urile tale preferate în %1$s numaidecât. Selectează pur și simplu „Adaugă la ecranul principal” din meniul %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Întoarce-te la site-urile tale preferate în %1$s numaidecât. Selectează "
+"pur și simplu „Adaugă la ecranul principal” din meniul %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1023,8 +1091,12 @@ msgstr "Obișnuiește-te cu confidențialitatea"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Setează %1$s ca browser implicit și beneficiază de avantajele navigării private atunci când deschizi pagini web din alte aplicații."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Setează %1$s ca browser implicit și beneficiază de avantajele navigării "
+"private atunci când deschizi pagini web din alte aplicații."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1085,8 +1157,12 @@ msgstr "Sesiune de navigare privată"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Notificările îți permit să ştergi sesiunea %1$s cu o atingere. Nu ai nevoie să deschizi aplicaţia sau să vezi ce rulează în browser."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Notificările îți permit să ştergi sesiunea %1$s cu o atingere. Nu ai "
+"nevoie să deschizi aplicaţia sau să vezi ce rulează în browser."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1105,15 +1181,23 @@ msgstr "Descarcă acum"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s este un program gratuit şi cu sursă deschisă realizat de Mozilla și alţi contribuitori."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s este un program gratuit şi cu sursă deschisă realizat de Mozilla și "
+"alţi contribuitori."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s este disponibil sub termenii <a href=\"%2$s\">Licenței Publice Mozilla</a> și alte licențe cu sursă deschisă."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s este disponibil sub termenii <a href=\"%2$s\">Licenței Publice "
+"Mozilla</a> și alte licențe cu sursă deschisă."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1121,18 +1205,26 @@ msgstr "%1$s este disponibil sub termenii <a href=\"%2$s\">Licenței Publice Moz
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Nu vi se acordă niciun drept sau licență asupra mărcilor comerciale ale Mozilla Foundation sau ale oricărei părți, inclusiv numele sau logourile Mozilla, Firefox sau %1$s. Informații suplimentare "
-"pot fi găsite <a href=\"%2$s\">aici</a>."
+"Nu vi se acordă niciun drept sau licență asupra mărcilor comerciale ale "
+"Mozilla Foundation sau ale oricărei părți, inclusiv numele sau logourile "
+"Mozilla, Firefox sau %1$s. Informații suplimentare pot fi găsite <a "
+"href=\"%2$s\">aici</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Codul sursă suplimentar pentru %1$s este disponibil sub diferite alte <a href=\"%2$s\">licențe</a> gratuite și cu sursă deschisă."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Codul sursă suplimentar pentru %1$s este disponibil sub diferite alte <a "
+"href=\"%2$s\">licențe</a> gratuite și cu sursă deschisă."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1140,10 +1232,14 @@ msgstr "Codul sursă suplimentar pentru %1$s este disponibil sub diferite alte <
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"De asemenea, %1$s folosește lista de blocări furnizată de Disconnect Inc. ca activitate separată și independentă sub <a href=\"%2$s\">Licența Publică Generală GNU v3</a> și disponibil <a "
-"href=\"%3$s\">aici</a>."
+"De asemenea, %1$s folosește lista de blocări furnizată de Disconnect Inc."
+" ca activitate separată și independentă sub <a href=\"%2$s\">Licența "
+"Publică Generală GNU v3</a> și disponibil <a href=\"%3$s\">aici</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1320,8 +1416,12 @@ msgstr "Dorești să reactivezi sugestiile de căutare?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Pentru a obține sugestii de căutare, %1$s trebuie să trimită ce tastezi în bara de adrese la motorul de căutare ales. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Pentru a obține sugestii de căutare, %1$s trebuie să trimită ce tastezi "
+"în bara de adrese la motorul de căutare ales. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1364,12 +1464,10 @@ msgstr ""
 " Încearcă să dezactivezi protecția față de urmărire"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
-#. The new line here must be kept as the second half of the string is clickable
-#. for the user.
+#. Argument 1 will be replaced with a line break in the application.
+#, fuzzy
 msgctxt "tip_add_to_homescreen"
-msgid ""
-"Get one-tap access to sites you use most\n"
-"        Menu > Add to Home screen"
+msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
 msgstr ""
 "Obține acces cu o singură atingere la site-urile frecvent vizitate\n"
 "        Meniu > Adaugă la ecranul principal"
@@ -1410,12 +1508,19 @@ msgstr ""
 " Apasă lung pe orice link din pagină"
 
 #. Tip displayed on home view explaining how to request the desktop version of
-#. a website.      The new line here must be kept as the second half of the
-#. string is clickable for the user.
+#. a website.      Argument 1 will be replaced with a line break in the
+#. application.
+#, fuzzy
 msgctxt "tip_request_desktop"
-msgid ""
-"Rather see the full desktop site?\n"
-"    Menu > Request desktop site"
+msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
 "Vrei să vezi site-ul de desktop?\n"
 "    Meniu > Cere versiune de desktop"
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+#, c-format
+msgctxt "tip_disable_tips"
+msgid "Turn off tips on the %1$s start screen"
+msgstr ""
+
