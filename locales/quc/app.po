@@ -2,24 +2,23 @@
 # Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-12 22:28-0700\n"
+"POT-Creation-Date: 2018-08-28 16:52-0700\n"
 "PO-Revision-Date: 2018-08-22 22:08+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
+"Language: quc\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
-"Language: quc\n"
+"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -198,21 +197,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s kuya' rilawachixik chi awech.</p>\n"
 "<p>Chakojo' pacha' nik'ob'al rech echeb'alil:\n"
 "  <ul>\n"
 "    <li>Chatzukuj chi'l chanik'oj pa le kojkemchak:</li>\n"
-"    <li>Che'aq'atej taq tzukub'al (on chak'ak'arisaj taq wiqitajem chech uya'ik b'e chi kech taq tzukub'al)</li>\n"
-"    <li>Chayuju' chech kichupik cookies chi'l utzukuxik chi'l  unik'oxik b'antal kanoq</li>\n"
+"    <li>Che'aq'atej taq tzukub'al (on chak'ak'arisaj taq wiqitajem chech "
+"uya'ik b'e chi kech taq tzukub'al)</li>\n"
+"    <li>Chayuju' chech kichupik cookies chi'l utzukuxik chi'l  unik'oxik "
+"b'antal kanoq</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s are b'anowinaq le Mozilla. Le qachak are uya'ik  jun utzalaj, ujaqik kemk'atz.<br/>\n"
+"<p>%1$s are b'anowinaq le Mozilla. Le qachak are uya'ik  jun utzalaj, "
+"ujaqik kemk'atz.<br/>\n"
 "<a href=\"%2$s\">Chaweta'maj nik'aj chik</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -317,7 +321,9 @@ msgstr "Ucholajil URL ya'om chi uloq"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Chatzija' chech uriqik %1$s utz'aqatisaxik pa utukelam kq'ax pa uwi' 450 qas eta'matal URLs pa le uq'e'tb'al kemriqonib'al."
+msgstr ""
+"Chatzija' chech uriqik %1$s utz'aqatisaxik pa utukelam kq'ax pa uwi' 450 "
+"qas eta'matal URLs pa le uq'e'tb'al kemriqonib'al."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -436,7 +442,9 @@ msgstr "Q'ateb'al chi'l taq tzukub'al"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Jujun taq ukemtzijob'exik kkiterene'j rij taq solinem pa taq wokk'olib'al web', pine' man kapitz' ta pa taq ukemtzijob'exik"
+msgstr ""
+"Jujun taq ukemtzijob'exik kkiterene'j rij taq solinem pa taq wokk'olib'al"
+" web', pine' man kapitz' ta pa taq ukemtzijob'exik"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -444,15 +452,21 @@ msgstr "Chaq'atej taq k'oxomab'al rech taq tzukub'al"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Kkoj chech umulixik, uk'oxomaxik, chi'l retaxik taq b'anowem pacha' tz'ib'anem chi'l silob'em"
+msgstr ""
+"Kkoj chech umulixik, uk'oxomaxik, chi'l retaxik taq b'anowem pacha' "
+"tz'ib'anem chi'l silob'em"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Uq'atexik taq tzukub'al rech uk'iyal"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Wiqital pa taq wokk'olib'al web' chech uterene'xik taq solinem chi'l chech uk'utunsaxik taq chakunem pacha' taq pitz'b'al rech ukomone'xik"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Wiqital pa taq wokk'olib'al web' chech uterene'xik taq solinem chi'l "
+"chech uk'utunsaxik taq chakunem pacha' taq pitz'b'al rech ukomone'xik"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -493,7 +507,9 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
 msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -508,6 +524,7 @@ msgstr "Man q'alaj taj"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
+#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
 msgstr "Rowaxik taq uxaq web' are taq kk'ex taq kojkemchak."
@@ -538,7 +555,9 @@ msgstr "Uq'atexik JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Le taq uxaq wuj wene aninaq uya'ik uchuq'ab' , xa kut wene man eye'tal ta le kkib'ano"
+msgstr ""
+"Le taq uxaq wuj wene aninaq uya'ik uchuq'ab' , xa kut wene man eye'tal ta"
+" le kkib'ano"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -567,8 +586,12 @@ msgstr "Chaweta'maj nik'aj chik"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Le Mozilla kukoj uchuq'ab' chech umulixik xew le rajawaxik kya'ik chi'l uk'exsuk'umaxik %1$s chi kech konojel."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Le Mozilla kukoj uchuq'ab' chech umulixik xew le rajawaxik kya'ik chi'l "
+"uk'exsuk'umaxik %1$s chi kech konojel."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -655,7 +678,9 @@ msgstr "Chatz'ib'aj cholaj tzij rech tzukunem"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr "Chaq'atuj chi le cholaj tzij rech tzukunem kjunamataj ruk' le k'amwach rech k'utub'al"
+msgstr ""
+"Chaq'atuj chi le cholaj tzij rech tzukunem kjunamataj ruk' le k'amwach "
+"rech k'utub'al"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -784,8 +809,13 @@ msgstr "Chariqa' jun kemwiqb'al le kkowinik kujaq kemwiqb'al"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Man k'o ta jun chi kech taq kojkemchak pa le awiqkemchakub'al kkowinik kujaq we kemwiqb'al, utz kaya' kan %1$s chech utzukuxik %2$s jun kojkemchak le kkowinik."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Man k'o ta jun chi kech taq kojkemchak pa le awiqkemchakub'al kkowinik "
+"kujaq we kemwiqb'al, utz kaya' kan %1$s chech utzukuxik %2$s jun "
+"kojkemchak le kkowinik."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -810,7 +840,9 @@ msgstr "Ujaqik"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Taq kemk'olib'al qasam <b>man kchupisax taj</b> are taq kachup %1$s b'antal kanoq."
+msgstr ""
+"Taq kemk'olib'al qasam <b>man kchupisax taj</b> are taq kachup %1$s "
+"b'antal kanoq."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -843,13 +875,17 @@ msgstr "Man kkowinb'ex ta ut'iqik"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Le wokk'olib'al web' wene man jamal ta uwach on sib'alaj latz' uwach. Chab'ana' chi jumul pa jutz'it.</li>\n"
-"        <li>We man katkowin taj kaya' uchuq'ab' apachike taq uxaq wuj, chaq'atuj le ujuq'attzij taq awiqkemchakub'al on ut'iqonem Wi-Fi .</li>\n"
+"        <li>Le wokk'olib'al web' wene man jamal ta uwach on sib'alaj "
+"latz' uwach. Chab'ana' chi jumul pa jutz'it.</li>\n"
+"        <li>We man katkowin taj kaya' uchuq'ab' apachike taq uxaq wuj, "
+"chaq'atuj le ujuq'attzij taq awiqkemchakub'al on ut'iqonem Wi-Fi .</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -866,14 +902,17 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Chaq'atuj le kemriqonib'al ruk' utz'ib'axik taq k'axk'olil pacha'\n"
+"        <li>Chaq'atuj le kemriqonib'al ruk' utz'ib'axik taq k'axk'olil "
+"pacha'\n"
 "          <strong>ww</strong>.example.com chi uwach\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>We man katkowin taj kaya' uchuq'ab' apachike uxaq wuj, chaq'atuj le juq'attzij rech awiqkemchakub'al on t'iqonem rech.</li>\n"
+"        <li>We man katkowin taj kaya' uchuq'ab' apachike uxaq wuj, "
+"chaq'atuj le juq'attzij rech awiqkemchakub'al on t'iqonem rech.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -883,13 +922,17 @@ msgstr "Le kemriqonib'al man utz taj"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Le taq kemriqonib'al rech taq Web' nima amaq'el tz'ib'atal pacha' <strong>http://www.example.com/</strong></li>\n"
-"  <li>Qas chawila' chi ktajin kakoj q'e'l jeqk'utb'al (i.e. <strong>/</strong>).</li>\n"
+"  <li>Le taq kemriqonib'al rech taq Web' nima amaq'el tz'ib'atal pacha' "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Qas chawila' chi ktajin kakoj q'e'l jeqk'utb'al (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -899,11 +942,13 @@ msgstr "Le uxaq wuj man utz ta ub'e'ik ktajin kub'ano"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>We k'eyowal k'or are kya'ow le uchupik on le man kajawataj ta uk'amik cookies.</li>\n"
+"  <li>We k'eyowal k'or are kya'ow le uchupik on le man kajawataj ta "
+"uk'amik cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -913,7 +958,8 @@ msgstr "Man xk'oxomax ta le kemriqonib'al"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -927,15 +973,20 @@ msgstr "Man utz ta xub'an le chajital t'iqonem"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Wa' wene kuya' k'eyowal ruk' le suk'manem rech kempatanel, on wene are jun le kraj kukoj rib' chi kempatane.l</li>\n"
-"  <li>We utz ub'anom le at'iqonem ruk' we kempatanel le ub'anom kanoq, le k'axk'olil wene xa ch'ikital uq'ijol, chi'l utz kanb'an chi jumul pa jutz'it.</li>\n"
+"  <li>Wa' wene kuya' k'eyowal ruk' le suk'manem rech kempatanel, on wene "
+"are jun le kraj kukoj rib' chi kempatane.l</li>\n"
+"  <li>We utz ub'anom le at'iqonem ruk' we kempatanel le ub'anom kanoq, le"
+" k'axk'olil wene xa ch'ikital uq'ijol, chi'l utz kanb'an chi jumul pa "
+"jutz'it.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -980,8 +1031,12 @@ msgstr "Chajaqa' kemwiqb'al pa jun k'ak' k'utjaqb'al"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Chak'olo' chi'l chakomone'j taq wachib'al <b>man kchupixax taj</b> are taq kachupu %1$s b'antal kanoq."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Chak'olo' chi'l chakomone'j taq wachib'al <b>man kchupixax taj</b> are "
+"taq kachupu %1$s b'antal kanoq."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -990,10 +1045,14 @@ msgstr "Chaya' uchuq'ab' le awecheb'alil"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
 msgstr ""
-"Chak'ama' b'i le nik'ob'al rech echeb'alil pa le jun chi cholajil. Che'aq'atej taq ukemtzijob'exik chi'l jun chi upam chak le kkowinik ktzukun pa taq kemk'olib'al web' chi'l kuq'atej taq ukanil "
-"uya'ik uchuq'ab' uxaq wuj."
+"Chak'ama' b'i le nik'ob'al rech echeb'alil pa le jun chi cholajil. "
+"Che'aq'atej taq ukemtzijob'exik chi'l jun chi upam chak le kkowinik "
+"ktzukun pa taq kemk'olib'al web' chi'l kuq'atej taq ukanil uya'ik "
+"uchuq'ab' uxaq wuj."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1002,8 +1061,12 @@ msgstr "Le atzukunem, le a b'e"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "¿Ktajin katzukuj jalan taq jastaq? Chacha' jun chi chi'ch' rech tzukunem ya'om chi uloq pa taq suk'manem."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"¿Ktajin katzukuj jalan taq jastaq? Chacha' jun chi chi'ch' rech tzukunem "
+"ya'om chi uloq pa taq suk'manem."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1014,8 +1077,12 @@ msgstr "Chaya' taq ramb'al b'e pa le umajib'al q'axwach"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Chattzalija pa taq ajawatal taq wokk'olib'al web' pa %1$s aninaq. Xew chacha' \"Uya'ik pa umajib'al q'axwach\" pa le %1$s cholokib'al."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Chattzalija pa taq ajawatal taq wokk'olib'al web' pa %1$s aninaq. Xew "
+"chacha' \"Uya'ik pa umajib'al q'axwach\" pa le %1$s cholokib'al."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1026,8 +1093,13 @@ msgstr "Chab'ana' jun amaq'el ub'anik chech le echeb'alil"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Chaya' %1$s pacha' anik'onel ya'om chi uloq chi'l chariqa' le tob'anem rech nik'onem rech echeb'alil are taq kajaq taq uxaq web' pa nik'aj chi taq kojkemchak."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Chaya' %1$s pacha' anik'onel ya'om chi uloq chi'l chariqa' le tob'anem "
+"rech nik'onem rech echeb'alil are taq kajaq taq uxaq web' pa nik'aj chi "
+"taq kojkemchak."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1088,8 +1160,13 @@ msgstr "Kemchak rech echeb'alil tzukub'al"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Le taq Ub'ixikil kuya' b'e kachup le %1$s kemchak ruk' jun pitz'onik. Man rajawaxik taj kajaq le kojkemchak on kawilo jas ktajin kub'an le anik'onel."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Le taq Ub'ixikil kuya' b'e kachup le %1$s kemchak ruk' jun pitz'onik. Man"
+" rajawaxik taj kajaq le kojkemchak on kawilo jas ktajin kub'an le "
+"anik'onel."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1108,15 +1185,24 @@ msgstr "Chaqasaj Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s are jun cholwach le man k'o ta jaqatal retokib'al winaqirisam rumal Mozilla chi'l nik'aj chi tob'anelab'."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s are jun cholwach le man k'o ta jaqatal retokib'al winaqirisam rumal "
+"Mozilla chi'l nik'aj chi tob'anelab'."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s b'anom chi k'o chi awech at are tzij taq taqanem rech le <a href=\"%2$s\">Kemwujil rech Mozilla rech uk'iyal</a> chi'l nik'aj chi jaqatal uxe'al taq kemwujil."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s b'anom chi k'o chi awech at are tzij taq taqanem rech le <a "
+"href=\"%2$s\">Kemwujil rech Mozilla rech uk'iyal</a> chi'l nik'aj chi "
+"jaqatal uxe'al taq kemwujil."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1124,20 +1210,27 @@ msgstr "%1$s b'anom chi k'o chi awech at are tzij taq taqanem rech le <a href=\"
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Man kaya' ta chi awech taq ya'talil chi'l taq uwujil etal rech k'ayinem rech Mozilla Foundation on ni jun chi kech taq utz'aqatil, rachi'l le Mozilla, Firefox on %1$s taq b'i'aj on taq retwokaj. Le "
-"utz'aqatil q'alajisanem wene kriqitaj <a href=\"%2$s\">waral</a>."
+"Man kaya' ta chi awech taq ya'talil chi'l taq uwujil etal rech k'ayinem "
+"rech Mozilla Foundation on ni jun chi kech taq utz'aqatil, rachi'l le "
+"Mozilla, Firefox on %1$s taq b'i'aj on taq retwokaj. Le utz'aqatil "
+"q'alajisanem wene kriqitaj <a href=\"%2$s\">waral</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
 msgstr ""
 "Utz'aqatil uxe'al retokib'al chech %1$s k'o chi uxe' \n"
-"pa k'i nik'aj chi jaqatal sipatal taq uxe'al <a href=\"%2$s\">taq kemwujil</a>."
+"pa k'i nik'aj chi jaqatal sipatal taq uxe'al <a href=\"%2$s\">taq "
+"kemwujil</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1145,10 +1238,14 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s xuquje' kukoj taq ucholajil q'ateb'al ya'om rumal Disconnect, Inc. pacha' tastalik chi'l utukelal taq chak chi uxe' le <a href=\"%2$s\">GNU Uwujil kech uk'iyal v3</a>, chi'l k'olik <a "
-"href=\"%3$s\">waral</a>."
+"%1$s xuquje' kukoj taq ucholajil q'ateb'al ya'om rumal Disconnect, Inc. "
+"pacha' tastalik chi'l utukelal taq chak chi uxe' le <a href=\"%2$s\">GNU "
+"Uwujil kech uk'iyal v3</a>, chi'l k'olik <a href=\"%3$s\">waral</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1325,7 +1422,9 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
 msgstr ""
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1367,12 +1466,10 @@ msgid ""
 msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
-#. The new line here must be kept as the second half of the string is clickable
-#. for the user.
+#. Argument 1 will be replaced with a line break in the application.
+#, fuzzy
 msgctxt "tip_add_to_homescreen"
-msgid ""
-"Get one-tap access to sites you use most\n"
-"        Menu > Add to Home screen"
+msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
 msgstr ""
 
 #. Tip displayed on home view explaining how to make Focus the default browser
@@ -1405,10 +1502,17 @@ msgid ""
 msgstr ""
 
 #. Tip displayed on home view explaining how to request the desktop version of
-#. a website.      The new line here must be kept as the second half of the
-#. string is clickable for the user.
+#. a website.      Argument 1 will be replaced with a line break in the
+#. application.
+#, fuzzy
 msgctxt "tip_request_desktop"
-msgid ""
-"Rather see the full desktop site?\n"
-"    Menu > Request desktop site"
+msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+#, c-format
+msgctxt "tip_disable_tips"
+msgid "Turn off tips on the %1$s start screen"
+msgstr ""
+
