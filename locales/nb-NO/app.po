@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-12 22:28-0700\n"
-"PO-Revision-Date: 2018-08-22 07:06+0000\n"
+"PO-Revision-Date: 2018-08-28 13:02+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: nb_NO <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -279,7 +279,7 @@ msgstr "Få søkeforslag"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s sender det du skriver i adressefeltet til din søkemotor"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -493,7 +493,7 @@ msgstr "Brug fingeravtrykk til å låse opp appen"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Ditt fingeravtrykk kan låse opp %1$s, hvis en URL allerede er åpen i appen. Skjult tilstand vil bli slått på."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -514,7 +514,7 @@ msgstr "Skjul nettsider når du bytter appar"
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Sikkerhet"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -610,7 +610,7 @@ msgstr "Fjern"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Vis tips på starskjermen"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -747,7 +747,7 @@ msgstr "Gå tilbake til forrige app"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Antall blokkerte sporings-tjenester"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1256,7 +1256,7 @@ msgstr "URL kopiert"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Utviklerverktøy"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1266,7 +1266,7 @@ msgstr "Avansert"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Ekstern debugging via USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
