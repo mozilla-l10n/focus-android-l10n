@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-12 22:28-0700\n"
+"POT-Creation-Date: 2018-08-28 16:52-0700\n"
 "PO-Revision-Date: 2018-08-17 08:43+0000\n"
 "Last-Translator: Jim Spentzos <jim.spentzos@outlook.com>\n"
-"Language-Team: el <LL@li.org>\n"
 "Language: el\n"
+"Language-Team: el <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -197,21 +196,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>Το %1$s σάς δίνει τον έλεγχο.</p>\n"
 "<p>Χρησιμοποιήστε το ως πρόγραμμα ιδιωτικής περιήγησης:\n"
 "  <ul>\n"
 "    <li>Αναζητήστε και περιηγηθείτε εντός της εφαρμογής</li>\n"
-"    <li>Αποκλείστε trackers (ή ενημερώστε τις ρυθμίσεις σας ώστε να επιτρέπονται)</li>\n"
-"    <li>Διαγράψτε τα cookies, καθώς και το ιστορικό αναζητήσεων και περιήγησης</li>\n"
+"    <li>Αποκλείστε trackers (ή ενημερώστε τις ρυθμίσεις σας ώστε να "
+"επιτρέπονται)</li>\n"
+"    <li>Διαγράψτε τα cookies, καθώς και το ιστορικό αναζητήσεων και "
+"περιήγησης</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Το %1$s δημιουργήθηκε από τη Mozilla. Η αποστολή μας είναι να προαγάγουμε ένα υγιές, ανοιχτό διαδίκτυο.<br/>\n"
+"<p>Το %1$s δημιουργήθηκε από τη Mozilla. Η αποστολή μας είναι να "
+"προαγάγουμε ένα υγιές, ανοιχτό διαδίκτυο.<br/>\n"
 "<a href=\"%2$s\">Μάθετε περισσότερα</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -279,7 +283,9 @@ msgstr "Λήψη προτάσεων αναζήτησης"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr "Το %1$s θα στείλει ό,τι πληκτρολογήσετε στη γραμμή διευθύνσεων στη μηχανή αναζήτησής σας"
+msgstr ""
+"Το %1$s θα στείλει ό,τι πληκτρολογήσετε στη γραμμή διευθύνσεων στη μηχανή"
+" αναζήτησής σας"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -316,7 +322,9 @@ msgstr "Λίστα προεπιλεγμένων URL"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Ενεργοποιήστε ώστε το %1$s να συμπληρώνει αυτόματα περισσότερα από 450 δημοφιλή URLs στη γραμμή διευθύνσεων."
+msgstr ""
+"Ενεργοποιήστε ώστε το %1$s να συμπληρώνει αυτόματα περισσότερα από 450 "
+"δημοφιλή URLs στη γραμμή διευθύνσεων."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -435,7 +443,9 @@ msgstr "Φραγή trackers διαφημίσεων"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Ορισμένες διαφημίσεις καταγράφουν επισκέψεις ιστοσελίδων, ακόμη κι αν δεν κάνετε κλικ σε διαφημίσεις"
+msgstr ""
+"Ορισμένες διαφημίσεις καταγράφουν επισκέψεις ιστοσελίδων, ακόμη κι αν δεν"
+" κάνετε κλικ σε διαφημίσεις"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -443,15 +453,21 @@ msgstr "Φραγή trackers αναλύσεων"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Χρησιμοποιείται για συλλογή, ανάλυση και μέτρηση δραστηριοτήτων, όπως πατήματα και κύλιση"
+msgstr ""
+"Χρησιμοποιείται για συλλογή, ανάλυση και μέτρηση δραστηριοτήτων, όπως "
+"πατήματα και κύλιση"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Φραγή κοινωνικών trackers"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Ενσωματωμένο σε ιστοσελίδες ώστε να καταγράφει τις επισκέψεις σας και να προβάλει λειτουργικότητα, όπως κουμπιά κοινής χρήσης"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Ενσωματωμένο σε ιστοσελίδες ώστε να καταγράφει τις επισκέψεις σας και να "
+"προβάλει λειτουργικότητα, όπως κουμπιά κοινής χρήσης"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -459,7 +475,9 @@ msgstr "Φραγή trackers άλλου περιεχομένου"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr "Η ενεργοποίηση ενδέχεται να προκαλέσει απροσδόκητη συμπεριφορά ορισμένων σελίδων"
+msgstr ""
+"Η ενεργοποίηση ενδέχεται να προκαλέσει απροσδόκητη συμπεριφορά ορισμένων "
+"σελίδων"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -492,8 +510,12 @@ msgstr "Χρήση αποτυπώματος για ξεκλείδωμα εφαρ
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Το δακτυλικό σας αποτύπωμα μπορεί να ξεκλειδώσει το %1$s αν έχει ήδη ανοίξει ένα URL στην εφαρμογή. Θα ενεργοποιηθεί η διακριτικότητα."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Το δακτυλικό σας αποτύπωμα μπορεί να ξεκλειδώσει το %1$s αν έχει ήδη "
+"ανοίξει ένα URL στην εφαρμογή. Θα ενεργοποιηθεί η διακριτικότητα."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -537,7 +559,9 @@ msgstr "Αποκλεισμός JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Οι σελίδες ενδέχεται να φορτώνονται ταχύτερα, αλλά ίσως συμπεριφερθούν απροσδόκητα"
+msgstr ""
+"Οι σελίδες ενδέχεται να φορτώνονται ταχύτερα, αλλά ίσως συμπεριφερθούν "
+"απροσδόκητα"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -566,8 +590,12 @@ msgstr "Μάθετε περισσότερα"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Η Mozilla αγωνίζεται για να συλλέγει μόνο ό,τι χρειάζεται για να παρέχει και να βελτιώνει το %1$s για όλους."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Η Mozilla αγωνίζεται για να συλλέγει μόνο ό,τι χρειάζεται για να παρέχει "
+"και να βελτιώνει το %1$s για όλους."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -783,10 +811,13 @@ msgstr "Βρείτε μια εφαρμογή που μπορεί να ανοίξ
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
 msgstr ""
-"Καμία από τις εφαρμογές της συσκευής σας δεν μπορεί να ανοίξει αυτό το σύνδεσμο. Μπορείτε να αποχωρήσετε από το %1$s για να αναζητήσετε στο %2$s μια εφαρμογή που να μπορεί να εκτελέσει αυτή την "
-"εργασία."
+"Καμία από τις εφαρμογές της συσκευής σας δεν μπορεί να ανοίξει αυτό το "
+"σύνδεσμο. Μπορείτε να αποχωρήσετε από το %1$s για να αναζητήσετε στο %2$s"
+" μια εφαρμογή που να μπορεί να εκτελέσει αυτή την εργασία."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -811,7 +842,9 @@ msgstr "Άνοιγμα"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Τα ληφθέντα αρχεία <b>δεν θα διαγραφούν</b> όταν σβήσετε το %1$s ιστορικό σας."
+msgstr ""
+"Τα ληφθέντα αρχεία <b>δεν θα διαγραφούν</b> όταν σβήσετε το %1$s ιστορικό"
+" σας."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -844,13 +877,17 @@ msgstr "Αδυναμία σύνδεσης"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Η ιστοσελίδα θα μπορούσε να είναι προσωρινώς μη διαθέσιμη ή πολύ απασχολημένη. Δοκιμάστε ξανά σε λίγο.</li>\n"
-"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
+"        <li>Η ιστοσελίδα θα μπορούσε να είναι προσωρινώς μη διαθέσιμη ή "
+"πολύ απασχολημένη. Δοκιμάστε ξανά σε λίγο.</li>\n"
+"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα "
+"δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -867,14 +904,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Ελέγξτε τη διεύθυνση για ορθογραφικά λάθη όπως\n"
 "          <strong>ww</strong>.example.com αντί για\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
+"        <li>Αν δεν μπορείτε να φορτώσετε καμία σελίδα, ελέγξτε τα "
+"δεδομένα κινητής ή τη σύνδεση Wi-Fi σας.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -884,13 +923,17 @@ msgstr "Η διεύθυνση δεν είναι έγκυρη"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Οι διαδικτυακές διευθύνσεις γράφονται συνήθως έτσι: <strong>http://www.example.com/</strong></li>\n"
-"  <li>Βεβαιωθείτε ότι χρησιμοποιείτε κάθετο (i.e. <strong>/</strong>).</li>\n"
+"  <li>Οι διαδικτυακές διευθύνσεις γράφονται συνήθως έτσι: "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Βεβαιωθείτε ότι χρησιμοποιείτε κάθετο (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -900,11 +943,13 @@ msgstr "Η σελίδα δεν ανακατευθύνεται κανονικά"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Αυτό το πρόβλημα μπορεί μερικές φορές να προκληθεί από την απενεργοποίηση ή την άρνηση για αποδοχή των cookies.</li>\n"
+"  <li>Αυτό το πρόβλημα μπορεί μερικές φορές να προκληθεί από την "
+"απενεργοποίηση ή την άρνηση για αποδοχή των cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -914,11 +959,13 @@ msgstr "Η διεύθυνση δεν ήταν κατανοητή"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ενδέχεται να χρειαστεί να εγκαταστήσετε άλλο λογισμικό για να ανοίξετε αυτή τη διεύθυνση.</li>\n"
+"  <li>Ενδέχεται να χρειαστεί να εγκαταστήσετε άλλο λογισμικό για να "
+"ανοίξετε αυτή τη διεύθυνση.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -928,16 +975,20 @@ msgstr "Αποτυχία ασφαλούς σύνδεσης"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Αυτό θα μπορούσε να είναι πρόβλημα με τη ρύθμιση του διακομιστή, ή θα μπορούσε να είναι\n"
+"  <li>Αυτό θα μπορούσε να είναι πρόβλημα με τη ρύθμιση του διακομιστή, ή "
+"θα μπορούσε να είναι\n"
 "κάποιος που προσπαθεί να μιμηθεί το διακομιστή.</li>\n"
-"  <li>Αν έχετε συνδεθεί σε αυτό το διακομιστή επιτυχώς στο παρελθόν, το σφάλμα ενδέχεται να\n"
+"  <li>Αν έχετε συνδεθεί σε αυτό το διακομιστή επιτυχώς στο παρελθόν, το "
+"σφάλμα ενδέχεται να\n"
 "είναι προσωρινό και μπορείτε να δοκιμάσετε ξανά αργότερα.</li>\n"
 "</ul>"
 
@@ -983,8 +1034,12 @@ msgstr "Άνοιγμα συνδέσμου σε νέα καρτέλα"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Οι αποθηκευμένες και κοινόχρηστες εικόνες <b>δεν θα διαγραφούν</b> όταν διαγράψετε το ιστορικού του %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Οι αποθηκευμένες και κοινόχρηστες εικόνες <b>δεν θα διαγραφούν</b> όταν "
+"διαγράψετε το ιστορικού του %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -993,8 +1048,13 @@ msgstr "Ενισχύστε το απόρρητό σας"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Εξελίξτε την ιδιωτική περιήγηση. Αποκλείστε διαφημίσεις και άλλο περιεχόμενο που μπορούν να σάς παρακολουθούν σε όλες τις ιστοσελίδες και επιβραδύνουν τη φόρτωση των σελίδων."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Εξελίξτε την ιδιωτική περιήγηση. Αποκλείστε διαφημίσεις και άλλο "
+"περιεχόμενο που μπορούν να σάς παρακολουθούν σε όλες τις ιστοσελίδες και "
+"επιβραδύνουν τη φόρτωση των σελίδων."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1003,8 +1063,12 @@ msgstr "Η αναζήτησή σας, με τον τρόπο σας"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Ψάχνετε κάτι διαφορετικό; Επιλέξτε μια άλλη προεπιλεγμένη μηχανή αναζήτησης στις ρυθμίσεις."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"Ψάχνετε κάτι διαφορετικό; Επιλέξτε μια άλλη προεπιλεγμένη μηχανή "
+"αναζήτησης στις ρυθμίσεις."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1015,8 +1079,12 @@ msgstr "Προσθήκη συντομεύσεων στην αρχική οθόν
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Επιστρέψτε γρήγορα στις αγαπημένες σας ιστοσελίδες στο %1$s. Απλά επιλέξτε \"Προσθήκη στην αρχική οθόνη\" από το μενού του %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Επιστρέψτε γρήγορα στις αγαπημένες σας ιστοσελίδες στο %1$s. Απλά "
+"επιλέξτε \"Προσθήκη στην αρχική οθόνη\" από το μενού του %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1027,8 +1095,13 @@ msgstr "Κάντε το απόρρητο συνήθεια"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησής σας και απολαύστε τα οφέλη της ιδιωτικής περιήγησης όταν ανοίγετε ιστοσελίδες από άλλες εφαρμογές."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Ορίστε το %1$s ως το προεπιλεγμένο πρόγραμμα περιήγησής σας και απολαύστε"
+" τα οφέλη της ιδιωτικής περιήγησης όταν ανοίγετε ιστοσελίδες από άλλες "
+"εφαρμογές."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1089,8 +1162,13 @@ msgstr "Συνεδρία ιδιωτικής περιήγησης"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Οι ειδοποιήσεις σάς επιτρέπουν να διαγράψετε τη συνεδρία σας στο %1$s με ένα πάτημα. Δεν χρειάζεται να ανοίξετε την εφαρμογή ή να δείτε τι συμβαίνει στο πρόγραμμα περιήγησής σας."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Οι ειδοποιήσεις σάς επιτρέπουν να διαγράψετε τη συνεδρία σας στο %1$s με "
+"ένα πάτημα. Δεν χρειάζεται να ανοίξετε την εφαρμογή ή να δείτε τι "
+"συμβαίνει στο πρόγραμμα περιήγησής σας."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1109,15 +1187,24 @@ msgstr "Λήψη του Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "Το %1$s είναι δωρεάν και ανοικτού κώδικα λογισμικό, που αναπτύσσεται από τη Mozilla και άλλους συνεισφέροντες."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"Το %1$s είναι δωρεάν και ανοικτού κώδικα λογισμικό, που αναπτύσσεται από "
+"τη Mozilla και άλλους συνεισφέροντες."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "Το %1$s καθίσταται διαθέσιμο σε εσάς υπό τους όρους της <a href=\"%2$s\">Δημόσιας Άδειας Mozilla</a> και άλλων αδειών ανοικτού κώδικα."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"Το %1$s καθίσταται διαθέσιμο σε εσάς υπό τους όρους της <a "
+"href=\"%2$s\">Δημόσιας Άδειας Mozilla</a> και άλλων αδειών ανοικτού "
+"κώδικα."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1125,18 +1212,26 @@ msgstr "Το %1$s καθίσταται διαθέσιμο σε εσάς υπό �
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Δεν έχετε κανένα δικαίωμα ή άδεια για τα εμπορικά σήματα του Ιδρύματος Mozilla ή οποιουδήποτε τρίτου, όπως η Mozilla, το Firefox ή τα ονόματα ή τα λογότυπα του %1$s. Μπορείτε να βρείτε περισσότερες "
-"πληροφορίες <a href=\"%2$s\">εδώ</a>."
+"Δεν έχετε κανένα δικαίωμα ή άδεια για τα εμπορικά σήματα του Ιδρύματος "
+"Mozilla ή οποιουδήποτε τρίτου, όπως η Mozilla, το Firefox ή τα ονόματα ή "
+"τα λογότυπα του %1$s. Μπορείτε να βρείτε περισσότερες πληροφορίες <a "
+"href=\"%2$s\">εδώ</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Επιπρόσθετος πηγαίος κώδικας για το %1$s είναι διαθέσιμος υπό διάφορες άλλες ελεύθερες και ανοικτού κώδικα <a href=\"%2$s\">άδειες</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Επιπρόσθετος πηγαίος κώδικας για το %1$s είναι διαθέσιμος υπό διάφορες "
+"άλλες ελεύθερες και ανοικτού κώδικα <a href=\"%2$s\">άδειες</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1144,10 +1239,14 @@ msgstr "Επιπρόσθετος πηγαίος κώδικας για το %1$s 
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"Το %1$s χρησιμοποιεί επίσης λίστες αποκλεισμού, που παρέχονται από την ανεξάρτητη Disconnect, Inc. υπό τη <a href=\"%2$s\">γενική δημόσια άδεια GNU v3</a> και είναι διαθέσιμη <a "
-"href=\"%3$s\">εδώ</a>."
+"Το %1$s χρησιμοποιεί επίσης λίστες αποκλεισμού, που παρέχονται από την "
+"ανεξάρτητη Disconnect, Inc. υπό τη <a href=\"%2$s\">γενική δημόσια άδεια "
+"GNU v3</a> και είναι διαθέσιμη <a href=\"%3$s\">εδώ</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1324,8 +1423,12 @@ msgstr "Θα θέλατε να ενεργοποιήσετε τις προτάσ�
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Για προτάσεις αναζήτησης, το %1$s πρέπει να στέλνει στην επιλεγμένη σας μηχανή αναζήτησης ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Για προτάσεις αναζήτησης, το %1$s πρέπει να στέλνει στην επιλεγμένη σας "
+"μηχανή αναζήτησης ό,τι πληκτρολογείτε στη γραμμή διευθύνσεων. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1368,12 +1471,10 @@ msgstr ""
 " Δοκιμάστε να απενεργοποιήσετε την προστασία από καταγραφή"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
-#. The new line here must be kept as the second half of the string is clickable
-#. for the user.
+#. Argument 1 will be replaced with a line break in the application.
+#, fuzzy
 msgctxt "tip_add_to_homescreen"
-msgid ""
-"Get one-tap access to sites you use most\n"
-"        Menu > Add to Home screen"
+msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
 msgstr ""
 "Πρόσβαση με ένα πάτημα σε ιστοσελίδες συχνής χρήσης\n"
 "        Μενού > Προσθήκη στην αρχική οθόνη"
@@ -1414,12 +1515,19 @@ msgstr ""
 " Πατήστε παρατεταμένα οποιοδήποτε σύνδεσμο σε μια σελίδα"
 
 #. Tip displayed on home view explaining how to request the desktop version of
-#. a website.      The new line here must be kept as the second half of the
-#. string is clickable for the user.
+#. a website.      Argument 1 will be replaced with a line break in the
+#. application.
+#, fuzzy
 msgctxt "tip_request_desktop"
-msgid ""
-"Rather see the full desktop site?\n"
-"    Menu > Request desktop site"
+msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
 "Προτιμάτε την πλήρη έκδοση για υπολογιστές;\n"
 "    Μενού > Απαίτηση ιστοσελίδας για υπολογιστές"
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+#, c-format
+msgctxt "tip_disable_tips"
+msgid "Turn off tips on the %1$s start screen"
+msgstr ""
+
