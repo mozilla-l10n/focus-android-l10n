@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-29 13:48+0000\n"
+"PO-Revision-Date: 2018-08-29 14:10+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -280,7 +280,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s yawi kituktia tay titajkwilua tik ne barraj ipal dirección tik ne motor tatemualis"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -354,12 +354,12 @@ msgstr ""
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Kan tikishpejpena ne tamatil"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "Shikishti tay tikmajmachijtuk tik ne URLs"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -374,7 +374,7 @@ msgstr ""
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr ""
+msgstr "URL yawi mutalia"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
@@ -402,13 +402,13 @@ msgstr ""
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Shikishti"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "Shikishti"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
@@ -418,7 +418,7 @@ msgstr ""
 
 msgctxt "preference_language"
 msgid "Language"
-msgstr ""
+msgstr "Taketzalis"
 
 #. This is shown when the user hasn't set a focus specific language, i.e. when
 #. Focus          is using the system default language.
@@ -428,7 +428,7 @@ msgstr ""
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Tay nemi ichtaka"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
@@ -464,7 +464,7 @@ msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "Shiktzakwa cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -508,10 +508,9 @@ msgstr "Tay ichtaka"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Shikinaya ijiswat kwak tikpata tekitajtatka"
+msgstr "Shikinaya ijiswat kwak tikpata aplicación wan maka shikajkawa ma muana capturaj ipal pantallaj."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -563,7 +562,7 @@ msgstr ""
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "Shikmatiuk"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
@@ -605,28 +604,28 @@ msgstr ""
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Shikishti"
 
 #. Title: Homescreen tips settings toggle to determine whether or not tips are
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Shikneshtili tanawatilis ipal ne achtu iswat"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Shiktali se motor tatemualis"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Shiktemu ne itukay ne motor"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Shiktemu ne mekat yawi mukwi"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -636,7 +635,7 @@ msgstr "Shiktajpia"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Machiut: machiut.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -676,7 +675,7 @@ msgstr "Shikishti"
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr "Shikpupulu mutatemulis panutuk"
+msgstr "Shikpupu mutatemulis panutuk"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -698,13 +697,13 @@ msgstr ""
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Mutemiltia"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Iswat matapan mutemiltijtuk"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -716,7 +715,7 @@ msgstr ""
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Shipashalu ka ishpan"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -728,7 +727,7 @@ msgstr ""
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Shipashalu ka ipan"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -759,11 +758,11 @@ msgstr ""
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Tay mupal"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Shiktapu ne ilpika tik seuk aplicación"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -771,13 +770,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "Tiweli tikisa tik %1$s pal tiktapua ini ilpika tik %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Shikajsi se aplicación weli kitapua ne ilpika"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -787,6 +786,8 @@ msgstr ""
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr ""
+"Te kanaj se aplicación weli kitapua ini ilpika. Tiweli tikisa tik %1$s pal tiktemua %2$s ipal se aplicación weli kitapua.\n"
+"\n"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
