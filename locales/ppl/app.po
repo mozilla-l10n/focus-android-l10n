@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-29 13:08+0000\n"
+"PO-Revision-Date: 2018-08-29 13:48+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -204,15 +204,15 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s metztekimaktia.</p>\n"
-"<p>Shikwi ken se ichtaka tatemualuni:\n"
+"<p>%1$s metzmaka control.</p>\n"
+"<p>Shikwi ken se ichtaka taitani:\n"
 "  <ul>\n"
-"    <li>Shitatejtemu wan shitaishtemu nikan tik ne tatemuil</li>\n"
-"    <li>Shiktzakwa ne tajnekwini (ush shikyankwili ne tatalilis ipal shikajsi tetatukanit)</li>\n"
-"    <li>Shikpupu ipal shiktzakwa cookies wan ne tatemulis panutuk</li>\n"
+"    <li>Shitatejtemu wan shikijita tik ne aplicación</li>\n"
+"    <li>Shiktzakwa ne rastreador (ush shikyankwili ne configuración pal shikajkawa rastreador)</li>\n"
+"    <li>Shikpupu pal shikwilewa cookies wan ne tatemulis panutuk</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Mozilla kichiwtuk ne %1$s. Ne tuajsilis pal ma kichikawa wan kitapujtu ne Matapan.<br/>\n"
+"<p>Mozilla kichiwtuk ne %1$s. Tiknekit tikajsit tikpiat se Matapan yek wan tapujtuk.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -223,14 +223,14 @@ msgstr "Ichtakachiwalis wan tamanawilis"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr "Shikijita ishmachiut, cookies, wan tamatil"
+msgstr "Kan tikishpejpena ne rastreador, cookies, wan tamatil"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr "Shiktali ken ijki achtupa, ken muajshitilia"
+msgstr "Shiktali ma senpa nemi achtu, ma temi isel"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -244,27 +244,27 @@ msgstr "Ipanpa %1$s, tapalewilis"
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr "Shikmanawi itech tetatukalis"
+msgstr "Shikmanawi itech rastreador"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr "Matapan Taijtik"
+msgstr "Tay nemi ijtik ne Matapan"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr "Shikpata tekitatka"
+msgstr "Shikpata ne aplicación"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr "Muchi tatalilis"
+msgstr "Muchi tajtaya"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr "Itakwilis wan Itasentalilis ne Tamatil"
+msgstr "Kan tiksenputzua tamatil wan ken tikwi"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -285,12 +285,12 @@ msgstr ""
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr "Achtupa tatalilis"
+msgstr "Achtu configuración"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr "Tatak"
+msgstr "Timakaktuk"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
@@ -301,34 +301,34 @@ msgstr "Sewtuk"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "URL Iseltemilis"
+msgstr "URL temi isel"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr "Iseltemilis"
+msgstr "Temi isel"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr "Panti URL achtutalijtuk"
+msgstr "Listaj URL achtutalijtuk"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Shiktimaka pal ma %1$s kitema isel 450 URLs muishmattuk tik ne barraj direccion."
+msgstr "Shiktimaka pal ma %1$s temi isel tik 450 URLs muishmattuk tik ne barraj direccion."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr "Shiknumawi ne URLs"
+msgstr "Shikmajmachiwa ne URLs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "Shiknumawi ne URLs"
+msgstr "Shikmajmachiwa ne URLs"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -364,7 +364,7 @@ msgstr ""
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr "Shikmati ini"
+msgstr "Shikmatiuk"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
@@ -432,7 +432,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Shiktzakwa tepanujtal tetatukanit"
+msgstr "Shiktzakwa ne rastreador ipal anuncioj"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
