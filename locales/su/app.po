@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-14 01:52+0000\n"
+"PO-Revision-Date: 2018-08-29 06:44+0000\n"
 "Last-Translator: kumincir <ia.adnan@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -485,7 +485,7 @@ msgstr "Okéh"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Paké sidik ramo pikeun muka konci app"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -1367,10 +1367,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Hontal aksés sakali toél ka loka-loka anu pangmindengna dianjangan Menu > Tambahkeun ka layar Tepas"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1420,4 +1419,4 @@ msgstr ""
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Pareuman weling dina %1$s layar mimiti"
