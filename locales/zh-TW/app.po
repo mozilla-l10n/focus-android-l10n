@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-26 13:05+0000\n"
+"PO-Revision-Date: 2018-08-29 03:27+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
-"Language: zh_Hant_TW\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -194,12 +195,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s 讓您可自行控制線上生活。</p>\n"
@@ -449,9 +448,7 @@ msgid "Block social trackers"
 msgstr "封鎖社交追蹤器"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
 msgstr "內嵌於網站，用來追蹤您的造訪紀錄，並提供分享按鈕等功能"
 
 msgctxt "preference_privacy_block_content"
@@ -493,9 +490,7 @@ msgstr "使用指紋解鎖程式"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
 msgstr "若已在程式中開啟網頁，可使用您的指紋直接解鎖 %1$s。也會開啟隱私模式。"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -510,7 +505,6 @@ msgstr "秘密行動"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
 msgstr "切換程式時，隱藏網頁內容並防止拍攝擷圖。"
@@ -570,9 +564,7 @@ msgstr "了解更多"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr "Mozilla 致力於只收集用來為眾人改善 %1$s 所需的必要資料。"
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -789,9 +781,7 @@ msgstr "尋找可開啟此鏈結的應用程式"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "您裝置中並未安裝可開啟此鏈結的應用程式。您可離開 %1$s，到 %2$s 安裝一套。"
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -850,14 +840,10 @@ msgstr "無法連線"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
-msgstr ""
-"<ul><li>網站可能太忙碌或暫時無法使用，請稍候再試一次。</li><li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi "
-"連線。</li></ul>"
+msgstr "<ul><li>網站可能太忙碌或暫時無法使用，請稍候再試一次。</li><li>若您無法載入任何頁面，請檢查您的數據或 Wi-Fi 連線。</li></ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
@@ -873,12 +859,9 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
-msgstr ""
-"<ul><li>請檢查網址是否有打錯？例如把 <strong>www</strong>.example.com 打成 "
-"<strong>ww</strong>.example.com</li><li>若無法載入任何網站，請檢查您的網路連線狀態。</li></ul>"
+msgstr "<ul><li>請檢查網址是否有打錯？例如把 <strong>www</strong>.example.com 打成 <strong>ww</strong>.example.com</li><li>若無法載入任何網站，請檢查您的網路連線狀態。</li></ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -887,15 +870,10 @@ msgstr "網址無效"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
-msgstr ""
-"<ul><li>網址通常長得像 "
-"<strong>http://www.example.com/</strong>。</li><li>請確定您用的是斜線 (例: "
-"<strong>/</strong>)。</li> </ul>"
+msgstr "<ul><li>網址通常長得像 <strong>http://www.example.com/</strong>。</li><li>請確定您用的是斜線 (例: <strong>/</strong>)。</li> </ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -904,8 +882,7 @@ msgstr "頁面重新導向不正確"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr "<ul> <li>有時候停用或拒絕接受 Cookie 會造成此問題。</li> </ul>"
 
@@ -916,8 +893,7 @@ msgstr "無法理解的網址"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr "<ul><li>您可能需要安裝其他軟體才能開啟此網址。</li></ul>"
 
@@ -928,16 +904,12 @@ msgstr "安全連線失敗"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
-msgstr ""
-"<ul><li>可能是伺服器設定問題造成，或是有人嘗試偽裝成該伺服器。</li><li>若您以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，請稍候再試試看。</li>"
-" </ul>"
+msgstr "<ul><li>可能是伺服器設定問題造成，或是有人嘗試偽裝成該伺服器。</li><li>若您以前可以與該伺服器正常連線，那麼這個錯誤可能只是暫時的，請稍候再試試看。</li> </ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -981,9 +953,7 @@ msgstr "用新分頁開啟鏈結"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "清除 %1$s 瀏覽紀錄時，將<b>不會刪除</b>儲存或分享的圖片。"
 
 #. First run tour (Default browser): Title
@@ -993,9 +963,7 @@ msgstr "加強您的隱私"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr "隱私瀏覽功能變得更強大了。現在可封鎖廣告，以及其他可在不同網站間追蹤您的上網紀錄，又拖慢網頁載入的追蹤器。"
 
 #. First run tour (Search): Title
@@ -1005,9 +973,7 @@ msgstr "用你的方式搜尋"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "想找點不一樣的東西嗎？可在設定畫面中選擇不同的預設搜尋引擎。"
 
 #. First run tour (Shortcut): Title
@@ -1019,9 +985,7 @@ msgstr "在主畫面加入捷徑"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr "只要選擇 %1$s 選單中的「新增至裝置主畫面」即可快速用 %1$s 回到您最愛的網站。"
 
 #. First run tour (Privacy): Title
@@ -1033,9 +997,7 @@ msgstr "讓隱私成為一種習慣。"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr "將 %1$s 設為您的預設瀏覽器，從其他程式開啟網頁時即可直接進入隱私瀏覽模式從中受益。"
 
 msgctxt "firstrun_close_button"
@@ -1097,9 +1059,7 @@ msgstr "隱私瀏覽階段"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr "不需要開啟程式或確認瀏覽器中有哪些資料，只要輕鬆一點，就能清除 %1$s 瀏覽階段的通知項目。"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1119,18 +1079,14 @@ msgstr "下載 Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr "%1$s 是由 Mozilla 及貢獻者所打造，自由且開放原始碼的軟體。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr "%1$s 依照 <a href=\"%2$s\">Mozilla Public License</a> 以及其他開放原始碼授權條款提供給您。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1139,21 +1095,15 @@ msgstr "%1$s 依照 <a href=\"%2$s\">Mozilla Public License</a> 以及其他開�
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"您並未被授權使用 Mozilla 基金會或任何相關部門的商標，包含但不限於 Mozilla、Firefox、%1$s 的商標。您可以在 <a "
-"href=\"%2$s\">這裡</a>找到更多資訊。"
+msgstr "您並未被授權使用 Mozilla 基金會或任何相關部門的商標，包含但不限於 Mozilla、Firefox、%1$s 的商標。您可以在 <a href=\"%2$s\">這裡</a>找到更多資訊。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 msgstr "%1$s 其他的原始碼則使用其他自由與開放原始碼的<a href=\"%2$s\">授權條款</a>提供。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1162,13 +1112,8 @@ msgstr "%1$s 其他的原始碼則使用其他自由與開放原始碼的<a href
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s 還使用由 Disconnect, Inc. 提供的封鎖清單，該清單是一份依照 <a href=\"%2$s\">GNU General "
-"Public License v3</a> 提供的獨立作品，可在<a href=\"%3$s\">此處</a>取得。"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s 還使用由 Disconnect, Inc. 提供的封鎖清單，該清單是一份依照 <a href=\"%2$s\">GNU General Public License v3</a> 提供的獨立作品，可在<a href=\"%3$s\">此處</a>取得。"
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1345,9 +1290,7 @@ msgstr "想要開啟搜尋建議嗎？"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
 msgstr "為了取得搜尋建議，%1$s 需要將您在網址列當中輸入的文字傳送至您選擇的搜尋引擎。%2$s。"
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1390,12 +1333,9 @@ msgstr "網站變得怪怪的？試試關閉追蹤保護功能"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"一點就能快速開啟您最常用的網站\n"
-"選單 > 新增至裝置主畫面"
+msgstr "快速開啟您最常用的網站%1$s選單 > 新增至裝置主畫面"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1435,17 +1375,13 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"還是想看到桌機版的頁面嗎？\n"
-"選單 > 開啟桌面版網站"
+msgstr "還是想看到桌機版頁面嗎？%1$s選單 > 開啟桌面版網站"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
-
+msgstr "關閉 %1$s 啟動畫面上的秘訣"
