@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-06-08 08:01+0000\n"
+"PO-Revision-Date: 2018-08-29 13:11+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
-"Language: fy_NL\n"
 "Language-Team: fy_NL <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -196,26 +197,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s jout jo de kontrôle.</p>\n"
 "<p>Brûk as in priveebrowser:\n"
 "  <ul>\n"
 "    <li>Streekrjocht fan de app út sykje en browse</li>\n"
-"    <li>Trackers blokkearje (of ynstellingen bywurkje om se ta te "
-"stean)</li>\n"
-"    <li>Wiskjen smyt sawol cookies as syk- en navigaasjeskiednis "
-"fuort</li>\n"
+"    <li>Trackers blokkearje (of ynstellingen bywurkje om se ta te stean)</li>\n"
+"    <li>Wiskjen smyt sawol cookies as syk- en navigaasjeskiednis fuort</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s wurdt makke troch Mozilla. Us misje is it fersoargjen fan in sûn "
-"en iepen ynternet.<br/>\n"
+"<p>%1$s wurdt makke troch Mozilla. Us misje is it fersoargjen fan in sûn en iepen ynternet.<br/>\n"
 "<a href=\"%2$s\">Mear ynfo</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -276,14 +272,14 @@ msgstr "Sykje"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Syksuggesties krije"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s sil wat jo yn de adresbalke yntype nei jo sykmasine stjoere"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -320,9 +316,7 @@ msgstr "Standert URL-list"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
-"Skeakel dit yn om %1$s automatysk mear as 450 populêre URL’s yn de "
-"adresbalke oanfolje te litten."
+msgstr "Skeakel dit yn om %1$s automatysk mear as 450 populêre URL’s yn de adresbalke oanfolje te litten."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -441,9 +435,7 @@ msgstr "Advertinsjetrackers blokkearje"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
-"Guon advertinsjes folgje websitebesiten, sels as jo net op de "
-"advertinsjes klikke"
+msgstr "Guon advertinsjes folgje websitebesiten, sels as jo net op de advertinsjes klikke"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -451,21 +443,15 @@ msgstr "Analysetrackers blokkearje"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
-"Brûkt foar it sammeljen, analysearjen en mjitten fan aktiviteiten lykas "
-"tikken en skowen"
+msgstr "Brûkt foar it sammeljen, analysearjen en mjitten fan aktiviteiten lykas tikken en skowen"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Sosjale trackers blokkearje"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
-"Ynboud op websites om jo besiken te folgjen en funksjonaliteit as "
-"dielknoppen te toanen"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "Ynboud op websites om jo besiken te folgjen en funksjonaliteit as dielknoppen te toanen"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -498,7 +484,7 @@ msgstr "Ja"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Fingerôfdruk foar ûntskoatteljen fan app brûke"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -506,10 +492,8 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Jo fingerôfdruk kin %1$s ûntskoattelje as der al in URL yn de app iepene is. Stealth wurdt ynskeakele."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -523,14 +507,13 @@ msgstr "Stealth"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Websiden ferstopje by wikseljen fan apps"
+msgstr "Websiden ferstopje by wikseljen fan apps en meitsjen fan skermôfdrukken blokkearje."
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Befeiliging"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -554,9 +537,7 @@ msgstr "JavaScript blokkearje"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
-"Siden kinne flugger laden wurde, mar kinne harren ek ûnferwachte hâlde en"
-" drage"
+msgstr "Siden kinne flugger laden wurde, mar kinne harren ek ûnferwachte hâlde en drage"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -585,12 +566,8 @@ msgstr "Mear ynfo"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla stribbet dernei allinnich te sammeljen wat nedich is om %1$s foar"
-" elkenien oan te bieden en te ferbetterjen."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla stribbet dernei allinnich te sammeljen wat nedich is om %1$s foar elkenien oan te bieden en te ferbetterjen."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -632,7 +609,7 @@ msgstr "Fuortsmite"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Tips op startskerm toane"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -769,7 +746,7 @@ msgstr "Tebek nei foarige app"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Oantal blokkearre trackers"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -806,12 +783,8 @@ msgstr "Fyn in app dy't dizze keppeling iepenje kin"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Gjin inkelde app op jo apparaat kin dizze keppeling iepenje. Jo kinne "
-"%1$s ferlitte en %2$s iepenje om in geskikte app te finen."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Gjin inkelde app op jo apparaat kin dizze keppeling iepenje. Jo kinne %1$s ferlitte en %2$s iepenje om in geskikte app te finen."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -836,9 +809,7 @@ msgstr "Iepenje"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Downloade bestannen <b>wurde net fuortsmiten</b> as jo skiednis fan %1$s "
-"wiskje."
+msgstr "Downloade bestannen <b>wurde net fuortsmiten</b> as jo skiednis fan %1$s wiskje."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -871,17 +842,13 @@ msgstr "Kin gjin ferbining meitsje"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Miskien is de website tydlik net beskikber of oerbelêst. "
-"Probearje it oer inkelde mominten opnij.</li>\n"
-"        <li>As jo gjin inkelde side lade kinne, kontrolearje dan de "
-"gegevens- of wifi-ferbining fan jo apparaat.</li>\n"
+"        <li>Miskien is de website tydlik net beskikber of oerbelêst. Probearje it oer inkelde mominten opnij.</li>\n"
+"        <li>As jo gjin inkelde side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -898,16 +865,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Kontrolearje it adres op typflaters, lykas\n"
 "          <strong>ww</strong>.example.com yn stee fan\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>As jo gjin inkelde side lade kinne, kontrolearje dan de "
-"gegevens- of wifi-ferbining fan jo apparaat.</li>\n"
+"        <li>As jo gjin inkelde side lade kinne, kontrolearje dan de gegevens- of wifi-ferbining fan jo apparaat.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -917,17 +882,13 @@ msgstr "It adres is net jildich"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Webadressen wurde trochgeans skreaun as "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Let derop dat jo foarútgeande slashes brûke (d.y. "
-"<strong>/</strong>).</li>\n"
+"  <li>Webadressen wurde trochgeans skreaun as <strong>http://www.example.com/</strong></li>\n"
+"  <li>Let derop dat jo foarútgeande slashes brûke (d.y. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -937,13 +898,11 @@ msgstr "De side ferwiist net op in krekte wize troch"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dit probleem kin somtiden feroarsake wurde troch it útskeakeljen of"
-" wegerjen fan cookies</li>\n"
+"  <li>Dit probleem kin somtiden feroarsake wurde troch it útskeakeljen of wegerjen fan cookies</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -953,13 +912,11 @@ msgstr "It adres waard net begrepen"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Miskien moatte jo oare software ynstallearje om dit adres te "
-"iepenjen.</li>\n"
+"  <li>Miskien moatte jo oare software ynstallearje om dit adres te iepenjen.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -969,22 +926,17 @@ msgstr "Befeilige ferbining mislearre"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dit kin in probleem mei de serverkonfiguraasje wêze, of ien "
-"probearret\n"
+"  <li>Dit kin in probleem mei de serverkonfiguraasje wêze, of ien probearret\n"
 "dizze server nei te meitsjen.</li>\n"
-"  <li>As jo yn it ferline wol mei sukses ferbining makke hawwe mei dizze "
-"server,\n"
-"dan is de flater mooglik tydlik en kinne jo it letter nochris "
-"probearje.</li>\n"
+"  <li>As jo yn it ferline wol mei sukses ferbining makke hawwe mei dizze server,\n"
+"dan is de flater mooglik tydlik en kinne jo it letter nochris probearje.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1029,12 +981,8 @@ msgstr "Keppeling iepenje yn nij ljepblêd"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Bewarre en dielde ôfbyldingen <b>wurde net fuortsmiten</b> as jo skiednis"
-" fan %1$s wiskje."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Bewarre en dielde ôfbyldingen <b>wurde net fuortsmiten</b> as jo skiednis fan %1$s wiskje."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1043,13 +991,8 @@ msgstr "Fergrutsje jo privacy"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"Bring priveenavigaasje nei in heger nivo. Blokkearje advertinsjes en oare"
-" ynhâld dy't jo op websites folgje kinne en laadtiden fan siden "
-"ferlingje."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "Bring priveenavigaasje nei in heger nivo. Blokkearje advertinsjes en oare ynhâld dy't jo op websites folgje kinne en laadtiden fan siden ferlingje."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1058,9 +1001,7 @@ msgstr "Sykje op jo manier"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "Op syk nei wat oars? Kies in oare standertsykmasine yn Ynstellingen."
 
 #. First run tour (Shortcut): Title
@@ -1072,12 +1013,8 @@ msgstr "Foegje keppelingen ta oan jo startskerm"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Kear fluch werom nei jo favorite websites yn %1$s. Selektearje gewoanwei "
-"‘Tafoegje oan startskerm’ fan it %1$s-menu út."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Kear fluch werom nei jo favorite websites yn %1$s. Selektearje gewoanwei ‘Tafoegje oan startskerm’ fan it %1$s-menu út."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1088,12 +1025,8 @@ msgstr "Meitsje privacy gewoan"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Stel %1$s yn as jo standertbrowser en ûnderfyn de foardielen fan "
-"priveenavigaasje as jo websiden iepenje fan oare apps út."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Stel %1$s yn as jo standertbrowser en ûnderfyn de foardielen fan priveenavigaasje as jo websiden iepenje fan oare apps út."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1154,12 +1087,8 @@ msgstr "Priveenavigaasjesesje"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Mei notifikaasjes kinne jo fia ien tik jo %1$s-sesje wiskje. Jo hoege de "
-"app net te iepenjen of te sjen wat der yn jo browser aktyf is."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Mei notifikaasjes kinne jo fia ien tik jo %1$s-sesje wiskje. Jo hoege de app net te iepenjen of te sjen wat der yn jo browser aktyf is."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1178,23 +1107,15 @@ msgstr "Firefox downloade"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s is fergese en iepenboarnesoftware makke troch Mozilla en oare "
-"meiwurkers."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s is fergese en iepenboarnesoftware makke troch Mozilla en oare meiwurkers."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s wurdt beskikber steld ûnder de betingsten fan de <a "
-"href=\"%2$s\">Mozilla Public License</a> en oare iepenboarnelisinsjes."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s wurdt beskikber steld ûnder de betingsten fan de <a href=\"%2$s\">Mozilla Public License</a> en oare iepenboarnelisinsjes."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1202,26 +1123,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Der wurde jo gjin rjochten of lisinsjes ferliend op de hannelsmerken fan "
-"de Mozilla Foundation of iennige oare partij, mei ynbegryp fan de nammen "
-"of logo’s fan Mozilla, Firefox of %1$s. Oanfoljende ynformaasje is <a "
-"href=\"%2$s\">hjir</a> te finen."
+"Der wurde jo gjin rjochten of lisinsjes ferliend op de hannelsmerken fan de Mozilla Foundation of iennige oare partij, mei ynbegryp fan de nammen of logo’s fan Mozilla, Firefox of %1$s. Oanfoljende "
+"ynformaasje is <a href=\"%2$s\">hjir</a> te finen."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Oanfoljende boarnekoade foar %1$s is beskikber ûnder ferskate oare frije "
-"en iepenboarne-<a href=\"%2$s\">lisinsjes</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Oanfoljende boarnekoade foar %1$s is beskikber ûnder ferskate oare frije en iepenboarne-<a href=\"%2$s\">lisinsjes</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1229,14 +1142,9 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s brûkt ek blokkearlisten dy't troch Disconnect, Inc. beskikber steld "
-"wurde as ôfsûnderlike en ûnôfhinklike wurken ûnder de <a "
-"href=\"%2$s\">GNU General Public License v3</a>, en dy <a "
+"%1$s brûkt ek blokkearlisten dy't troch Disconnect, Inc. beskikber steld wurde as ôfsûnderlike en ûnôfhinklike wurken ûnder de <a href=\"%2$s\">GNU General Public License v3</a>, en dy <a "
 "href=\"%3$s\">hjir</a> beskikber binne."
 
 #. Text shown in prompts for GeckoView
@@ -1351,62 +1259,62 @@ msgstr "URL kopiearre"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Untwikkelersark"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Avansearre"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Remote debugging fia USB/wifi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$s ûntskoattelje"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Reitsje de fingerôfdruksensor oan om troch te gean."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Nije sesje"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Fingerôfdrukpiktogram"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Fingerôfdruk net werkend. Probearje it opnij."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Finger te fluch beweegd. Probearje it opnij."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Wolle jo syksuggestjes oansette?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1414,38 +1322,36 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Om syksuggestjes te krijen, moat %1$s wat jo yn de adresbalke yntype nei de keazen sykmasine stjoere. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "Mear ynfo"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ja"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Guon sykmasinen kinne gjin suggestjes toane."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Fuortsmite"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1456,13 +1362,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Wuket in website frjemd?\n"
+" Probearje Beskerming tsjin folgjen út te skeakeljen"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Tagong ta de meastbesochte websites mei ien tik%1$s Menu > Tafoegje oan startskerm"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1474,6 +1381,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Alle keppelingen yn %1$s iepenje\n"
+" Stel %1$s yn as jo standertbrowser"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1483,6 +1392,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"URL’s foar meastbrûkte websites automatysk oanfolje\n"
+" Hâld jo finger op in URL yn de adresbalke"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1492,6 +1403,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"In keppeling yn in nij ljepblêd iepenje\n"
+" Hâld jo finger op in keppeling op in side"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
@@ -1506,5 +1419,4 @@ msgstr ""
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
-
+msgstr "Tips op it %1$s-startskerm útskeakelje"
