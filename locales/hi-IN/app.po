@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-29 03:44+0000\n"
-"Last-Translator: Umesh Agarwal <umesh.agarwal1@gmail.com>\n"
+"PO-Revision-Date: 2018-08-29 21:55+0000\n"
+"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -507,10 +507,9 @@ msgstr "तरक़ीब"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "ऐप्स को स्विच करते समय वेबपेज छिपाएं"
+msgstr "एक ऐप्प से दुसरे ऐप्प पर जाते समय वेबपृष्ठों को छिपाएं तथा स्क्रीनशॉट लेना ब्लॉक करें."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1365,12 +1364,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"आपके द्वारा अधिक इस्तेमाल किये साइटों तक एक टैप में पहुँचें\n"
-"        मेन्यु > होम स्क्रीन में जोड़ें"
+msgstr "आपके द्वारा अधिक इस्तेमाल किये साइटों तक एक टैप में पहुँचें %1$s मेन्यु > होम स्क्रीन में जोड़ें"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1410,12 +1406,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"इसके बदले पूर्ण डेस्कटॉप साइट देखें?\n"
-"    मेन्यु > डेस्कटॉप साइट कि अनुरोध करें"
+msgstr "इसके बदले पूर्ण डेस्कटॉप साइट देखें?%1$s मेन्यु > डेस्कटॉप साइट कि अनुरोध करें"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
