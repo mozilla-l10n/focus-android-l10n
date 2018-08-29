@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-12 22:28-0700\n"
+"POT-Creation-Date: 2018-08-28 16:52-0700\n"
 "PO-Revision-Date: 2018-08-14 11:18+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
-"Language-Team: te <LL@li.org>\n"
 "Language: te\n"
+"Language-Team: te <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -195,21 +194,25 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s పగ్గాలను మీ చేతుల్లో పెడుతుంది.</p>\n"
 "<p>దీన్ని అంతరంగిక విహరిణిగా వాడుకోండి:\n"
 "  <ul>\n"
 "    <li>నేరుగా యాప్ లోనే వెతకండి, విహరించండి</li>\n"
-"    <li>ట్రాకర్లను నిరోధించుకోండి (లేదా ట్రాకర్లను అనుమతించడానికి అమరికలలో మార్చుకోండి)</li>\n"
+"    <li>ట్రాకర్లను నిరోధించుకోండి (లేదా ట్రాకర్లను అనుమతించడానికి "
+"అమరికలలో మార్చుకోండి)</li>\n"
 "    <li>కుకీలను అలాగే వెతుకుడు, విహరణ చరిత్రలను తుడిచివేసుకోండి</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$sని Mozilla తయారుచేసింది. ఆరోగ్యకరమైన, స్వేచ్ఛా జాలాన్ని ప్రోత్సహించడం మా ఆశయం.<br/>\n"
+"<p>%1$sని Mozilla తయారుచేసింది. ఆరోగ్యకరమైన, స్వేచ్ఛా జాలాన్ని "
+"ప్రోత్సహించడం మా ఆశయం.<br/>\n"
 "<a href=\"%2$s\">ఇంకా తెలుసుకోండి</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -448,7 +451,9 @@ msgid "Block social trackers"
 msgstr "సామాజిక ట్రాకర్లను నిరోధించు"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
 msgstr ""
 
 msgctxt "preference_privacy_block_content"
@@ -490,7 +495,9 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
 msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -507,7 +514,9 @@ msgstr "గోప్యత"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "యాప్స్ మధ్య మారేప్పుడు జాలపేజీలు కనబడకుండా దాచిపెట్టు, తెరపట్టు తీసుకోవడం నిరోధించు."
+msgstr ""
+"యాప్స్ మధ్య మారేప్పుడు జాలపేజీలు కనబడకుండా దాచిపెట్టు, తెరపట్టు తీసుకోవడం"
+" నిరోధించు."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -564,7 +573,9 @@ msgstr "ఇంకా తెలుసుకోండి"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
 msgstr ""
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -781,8 +792,12 @@ msgstr "లింక్ను తెరవగల అనువర్తనాన�
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "మీ పరికరంలోని అనువర్తనాల్లో ఏదీ ఈ లింక్ను తెరవలేకపోతుంది. మీరు చేయగల అనువర్తనం కోసం %2$sను శోధించడానికి %1$sను వదిలివేయవచ్చు."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"మీ పరికరంలోని అనువర్తనాల్లో ఏదీ ఈ లింక్ను తెరవలేకపోతుంది. మీరు చేయగల "
+"అనువర్తనం కోసం %2$sను శోధించడానికి %1$sను వదిలివేయవచ్చు."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -840,13 +855,17 @@ msgstr "అనుసంధానం సాధ్యం కావడంలేద�
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>సైట్ తాత్కాలికంగా అందుబాటులో లేకపోవచ్చు లేదా చాలా బిజీగా ఉండవచ్చు. కొద్ది క్షణాలలో మళ్ళీ ప్రయత్నించండి.</li>\n"
-"        <li>మీరు ఏ పేజీలను లోడ్ చేయలేకపోతే, మీ మొబైల్ పరికర డేటా లేదా Wi-Fi కనెక్షన్ను తనిఖీ చేయండి.</li>\n"
+"        <li>సైట్ తాత్కాలికంగా అందుబాటులో లేకపోవచ్చు లేదా చాలా బిజీగా "
+"ఉండవచ్చు. కొద్ది క్షణాలలో మళ్ళీ ప్రయత్నించండి.</li>\n"
+"        <li>మీరు ఏ పేజీలను లోడ్ చేయలేకపోతే, మీ మొబైల్ పరికర డేటా లేదా "
+"Wi-Fi కనెక్షన్ను తనిఖీ చేయండి.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -863,7 +882,8 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -874,7 +894,8 @@ msgstr ""
 "          \n"
 "          <strong>www</strong>.example.com</li>\n"
 "        \n"
-"        <li>మీరు ఏ పేజీలను లోడ్ చేయలేకపోతే, మీ పరికర డేటా లేదా Wi-Fi కనెక్షన్ను తనిఖీ చేయండి.</li>\n"
+"        <li>మీరు ఏ పేజీలను లోడ్ చేయలేకపోతే, మీ పరికర డేటా లేదా Wi-Fi "
+"కనెక్షన్ను తనిఖీ చేయండి.</li>\n"
 "      \n"
 "      </ul>"
 
@@ -885,15 +906,19 @@ msgstr "ఈ చిరునామా సరైనది కాదు"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  \n"
-"  <li>వెబ్ చిరునామాలను సాధారణంగా వ్రాస్తారు <strong>http://www.example.com/</strong></li>\n"
+"  <li>వెబ్ చిరునామాలను సాధారణంగా వ్రాస్తారు "
+"<strong>http://www.example.com/</strong></li>\n"
 "  \n"
-"  <li>మీరు ముందుకు శ్లాష్లు ఉపయోగిస్తున్నారని నిర్ధారించుకోండి (అనగా<strong>/</strong>).</li>\n"
+"  <li>మీరు ముందుకు శ్లాష్లు ఉపయోగిస్తున్నారని నిర్ధారించుకోండి "
+"(అనగా<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -903,12 +928,14 @@ msgstr "ఈ పేజ్ సరిగా మళ్ళించుట లేద�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "\n"
 "<ul>\n"
-"  <li>కూకీలను అచేనతనం చేయడం వల్లగానీ లేదా వాటిని అంగీకరించకపోవడం వల్ల గానీ కొన్నిసార్లు ఈ సమస్య రావచ్చు.</li>\n"
+"  <li>కూకీలను అచేనతనం చేయడం వల్లగానీ లేదా వాటిని అంగీకరించకపోవడం వల్ల "
+"గానీ కొన్నిసార్లు ఈ సమస్య రావచ్చు.</li>\n"
 "</ul>\n"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -918,12 +945,14 @@ msgstr "ఆ చిరునామా అర్థం కాలేదు"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  \n"
-"  <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరును స్థాపించుకోవలిసిన అవసరం ఉండవచ్చు.</li></ul>"
+"  <li>ఈచిరునామాను తెరువుటకు మీరు వేరే సాఫ్టువేరును స్థాపించుకోవలిసిన "
+"అవసరం ఉండవచ్చు.</li></ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -932,15 +961,19 @@ msgstr "రక్షిత అనుసంధానం విఫలమైంద�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ఇది సర్వర్ యొక్క కాన్ఫిగరేషన్తో సమస్య కావచ్చు లేదా సర్వర్ను ప్రతిరూపం చేసుకోవడానికి ఎవరైనా ప్రయత్నిస్తుండవచ్చు</li>\n"
-"  <li>గతంలో ఈ సర్వర్కు మీరు విజయవంతంగా కనెక్ట్ అయినట్లయితే, లోపం తాత్కాలికంగా ఉండవచ్చు మరియు మీరు తర్వాత మళ్లీ ప్రయత్నించవచ్చు.</li>\n"
+"  <li>ఇది సర్వర్ యొక్క కాన్ఫిగరేషన్తో సమస్య కావచ్చు లేదా సర్వర్ను "
+"ప్రతిరూపం చేసుకోవడానికి ఎవరైనా ప్రయత్నిస్తుండవచ్చు</li>\n"
+"  <li>గతంలో ఈ సర్వర్కు మీరు విజయవంతంగా కనెక్ట్ అయినట్లయితే, లోపం "
+"తాత్కాలికంగా ఉండవచ్చు మరియు మీరు తర్వాత మళ్లీ ప్రయత్నించవచ్చు.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -985,8 +1018,12 @@ msgstr "లంకెను కొత్త ట్యాబులో తెరు
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "మీరు %1$s చరిత్రను తీసివేసినప్పుడు సేవ్ చేయబడిన మరియు పంచిన చిత్రాలు <b> తొలగించబడవు </b>."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"మీరు %1$s చరిత్రను తీసివేసినప్పుడు సేవ్ చేయబడిన మరియు పంచిన చిత్రాలు <b> "
+"తొలగించబడవు </b>."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -995,7 +1032,9 @@ msgstr "మీ ప్రైవసీని శక్తిమంతం చేస
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -1005,8 +1044,12 @@ msgstr "మీ శోధన, మీ మార్గం"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "విభిన్నమైన వాటి కోసం శోధిస్తున్నారా? అమరికాలలో మరొక అప్రమేయ శోధన యంత్రంను ఎంచుకోండి."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"విభిన్నమైన వాటి కోసం శోధిస్తున్నారా? అమరికాలలో మరొక అప్రమేయ శోధన యంత్రంను"
+" ఎంచుకోండి."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1017,7 +1060,9 @@ msgstr "మీ ముంగిలి తెరలో సత్వరమార్
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -1029,7 +1074,9 @@ msgstr "ఆంతరంగికతను అలవాటు చేసుకో�
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
 msgstr ""
 
 msgctxt "firstrun_close_button"
@@ -1091,7 +1138,9 @@ msgstr "అంతరంగిక విహరణ సెషను"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1111,14 +1160,18 @@ msgstr "Firefoxను దింపుకోండి"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1127,7 +1180,9 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
 
@@ -1135,7 +1190,9 @@ msgstr ""
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1144,7 +1201,10 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
 
 #. Text shown in prompts for GeckoView
@@ -1322,7 +1382,9 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
 msgstr ""
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1364,12 +1426,10 @@ msgid ""
 msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
-#. The new line here must be kept as the second half of the string is clickable
-#. for the user.
+#. Argument 1 will be replaced with a line break in the application.
+#, fuzzy
 msgctxt "tip_add_to_homescreen"
-msgid ""
-"Get one-tap access to sites you use most\n"
-"        Menu > Add to Home screen"
+msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
 msgstr ""
 
 #. Tip displayed on home view explaining how to make Focus the default browser
@@ -1402,10 +1462,17 @@ msgid ""
 msgstr ""
 
 #. Tip displayed on home view explaining how to request the desktop version of
-#. a website.      The new line here must be kept as the second half of the
-#. string is clickable for the user.
+#. a website.      Argument 1 will be replaced with a line break in the
+#. application.
+#, fuzzy
 msgctxt "tip_request_desktop"
-msgid ""
-"Rather see the full desktop site?\n"
-"    Menu > Request desktop site"
+msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
+
+#. Tip displayed on home view explaining how to add a custom autocomplete URL
+#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+#, c-format
+msgctxt "tip_disable_tips"
+msgid "Turn off tips on the %1$s start screen"
+msgstr ""
+
