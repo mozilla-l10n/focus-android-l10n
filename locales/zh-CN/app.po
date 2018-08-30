@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-30 04:20+0000\n"
+"PO-Revision-Date: 2018-08-30 04:56+0000\n"
 "Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -507,10 +507,9 @@ msgstr "隐形"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "切换应用时隐藏网页内容并阻止截屏。"
+msgstr "切换应用时隐藏网页内容，并阻止截屏、投屏。"
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1362,12 +1361,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"一键访问您的常用网站\n"
-"        菜单 > 添加到主屏幕"
+msgstr "一键访问您的常用网站%1$s菜单 > 添加到主屏幕"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1407,16 +1403,13 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"想查看更完整的桌面版网站？\n"
-"    菜单 > 要求桌面版网站"
+msgstr "想查看更完整的桌面版网站？%1$s菜单 > 要求桌面版网站"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "关闭 %1$s 启动页上的小提示"
