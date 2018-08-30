@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2017-12-25 11:19+0000\n"
+"PO-Revision-Date: 2018-08-30 18:41+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1359,12 +1359,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"รับการเข้าถึงด้วยการแตะครั้งเดียวไปยังไซต์ที่คุณใช้มากที่สุด\n"
-"        เมนู > เพิ่มไปยังหน้าจอหลัก"
+msgstr "รับการเข้าถึงด้วยการแตะครั้งเดียวไปยังไซต์ที่คุณใช้มากที่สุด%1$s เมนู > เพิ่มไปยังหน้าจอหลัก"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1400,12 +1397,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"ต้องการเห็นไซต์สำหรับเดสก์ท็อปแบบเต็ม?\n"
-"    เมนู > ขอไซต์สำหรับเดสก์ท็อป"
+msgstr "ต้องการเห็นไซต์สำหรับเดสก์ท็อปแบบเต็ม?%1$s เมนู > ขอไซต์สำหรับเดสก์ท็อป"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
