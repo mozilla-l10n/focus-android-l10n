@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-30 15:12+0000\n"
+"PO-Revision-Date: 2018-08-30 15:32+0000\n"
 "Last-Translator: Iqbal Hafidh <iqbalhafidh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
@@ -49,29 +49,31 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
+"Browsing bék na soe kalen.\n"
+"Peuhah. Sampôh. Gisa Keulayi."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Seujarah browsing droen ka jisampôh."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Mita keu %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Bulueng…"
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr ""
+msgstr "Brithéi Isu Situs"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -80,7 +82,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Peuhah lam %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
