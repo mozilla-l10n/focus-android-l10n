@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 04:01+0000\n"
-"Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
+"PO-Revision-Date: 2018-08-31 18:01+0000\n"
+"Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: ppl\n"
@@ -349,7 +349,7 @@ msgstr ""
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "Cookies wan ne idatoj ne sitioj"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
@@ -485,7 +485,7 @@ msgstr "Eje"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Shiktali ne itashkalchin mumapipil pal tikalaki tik ne aplicación"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -840,7 +840,7 @@ msgstr "Shikejeku uksenpa"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Tesu weli muilpia"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -1161,12 +1161,12 @@ msgstr ""
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Shikajsi tik ne iswat"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "Shikajsi tik ne iswat"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1182,25 +1182,25 @@ msgstr "%1$d/%2$d"
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d ipal %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "Shikajsi tay yawi kisa uksenpa"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Shikajsi tay kiski yakin"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Maka shikwi tay muajsik tik ne iswat"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
@@ -1215,7 +1215,7 @@ msgstr "Mutukay usuarioj"
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Constraseñaj"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
@@ -1226,7 +1226,7 @@ msgstr ""
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL kupintuk"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
@@ -1307,12 +1307,12 @@ msgstr "Shikmatiuk"
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Tesu"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Eje"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
@@ -1338,12 +1338,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Accediu amb un sol toc als llocs que més utilitzeu\n"
-"        Menú > Afegeix a pantalla d'inici"
+msgstr "Shikpachu sema senpa pal tikalaki tik ne ijiswat taja tikita mas%1$s Menu > Shiktalili tik Achtu Iswat"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1377,12 +1374,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Preferiu veure el lloc com es mostra en l'escriptori?\n"
-"    Menú > Mostra el lloc d'escriptori"
+msgstr "Tiknekiskia nikita muchi ne escritorioj?%1$s Menu > Shiktajtani ne iswat ipal ne escritorioj"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
