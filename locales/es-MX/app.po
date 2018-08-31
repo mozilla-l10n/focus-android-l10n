@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-30 21:39+0000\n"
-"Last-Translator: Roberto Alvarado <ralv888@gmail.com>\n"
+"PO-Revision-Date: 2018-08-31 22:56+0000\n"
+"Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: es_MX <LL@li.org>\n"
 "Language: es_MX\n"
 "MIME-Version: 1.0\n"
@@ -1367,12 +1367,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Obtén acceso con un toque a los sitios que más usas\n"
-"        Menú > Agregar a la pantalla de inicio"
+msgstr "Obtén acceso con un toque a los sitios que más usas%1$s Menú > Agregar a la pantalla de inicio"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
