@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 18:01+0000\n"
+"PO-Revision-Date: 2018-08-31 19:47+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -528,7 +528,7 @@ msgstr ""
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Anka puliwisket ijiconoj wan kwijkwikwil"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
@@ -661,7 +661,7 @@ msgstr ""
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Shikpupu ne tajkwilujtuk"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -685,7 +685,7 @@ msgstr "Shikpupu mutatemulis panutuk"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Pestañaj tajtapujtuk: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -721,7 +721,7 @@ msgstr "Shipashalu ka ishpan"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Shiktemiltia ne sitioj web uksenpa"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -734,13 +734,13 @@ msgstr "Shipashalu ka ipan"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Makaya shiktemilti ne sitioj web"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Shimukwepa tik ne aplicación panutuk"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the ImageView in the menu that displays          the number
@@ -856,7 +856,7 @@ msgstr ""
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Ne servidor te muajsik"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -952,7 +952,7 @@ msgstr "Shikana ne kwikwil"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Shiktapu ne ilpika tik se yankwik pestañaj"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
