@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-30 16:47+0000\n"
-"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"PO-Revision-Date: 2018-08-31 22:55+0000\n"
+"Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: kk <LL@li.org>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
@@ -1366,12 +1366,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Жиірек қолданылатын сайттарға бір шертумен қатынаңыз\n"
-"        Мәзір > Үй бетіне қосу"
+msgstr "Жиірек қолданылатын сайттарға бір шертумен қатынаңыз%1$s Мәзір > Үй бетіне қосу"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1411,12 +1408,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Жұмыс үстелге арналған толық өлшемді көргіңіз келе ме?\n"
-"    Мәзір > Сайттың толық нұсқасы"
+msgstr "Жұмыс үстелге арналған толық өлшемді көргіңіз келе ме?%1$s Мәзір > Сайттың толық нұсқасы"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
