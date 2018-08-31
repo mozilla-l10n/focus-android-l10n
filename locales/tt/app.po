@@ -2,23 +2,24 @@
 # Copyright (C) 2017 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-14 19:59+0000\n"
-"Last-Translator: Ilnar Salimzianov <ilnar@selimcan.org>\n"
-"Language: tt\n"
+"PO-Revision-Date: 2018-08-31 20:54+0000\n"
+"Last-Translator: Ilnar Selimcan <ilnar@selimcan.org>\n"
 "Language-Team: tt <LL@li.org>\n"
 "\n"
-"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
+"Language: tt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -197,25 +198,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s дилбегәне Сезнең кулга тапшыра.</p>\n"
 "<p>Аны хосусый браузер буларак кулланып, түбәндәгеләрне эшләп була:\n"
 "  <ul>\n"
 "    <li>Турыдан-туры кушымта эчендә эзләү һәм пәрәвездә гизү</li>\n"
-"    <li>Күзәтүче-трекерларны блоклау (яисә, көйләүләрне яңартып, аларны "
-"рөхсәт итү)</li>\n"
+"    <li>Күзәтүче-трекерларны блоклау (яисә, көйләүләрне яңартып, аларны рөхсәт итү)</li>\n"
 "    <li>Кукиларны, эзләү һәм гизү тарихларын җиңел генә бетереп ату</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s Mozilla тарафыннан җитештерелә. Безнең миссиябез — сәламәт һәм "
-"ачык Интернетны үстерү.<br/>\n"
+"<p>%1$s Mozilla тарафыннан җитештерелә. Безнең миссиябез — сәламәт һәм ачык Интернетны үстерү.<br/>\n"
 "<a href=\"%2$s\">Күбрәк белү</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -372,9 +369,7 @@ msgstr "Күбрәк өйрәнү"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
-"Автотөгәлләү өчен кулланучы үзе сайлаган URL'ларны өстәү яки алар белән "
-"идарә итү."
+msgstr "Автотөгәлләү өчен кулланучы үзе сайлаган URL'ларны өстәү яки алар белән идарә итү."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -441,9 +436,7 @@ msgstr "Реклама күзәтүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
-"Кайбер рекламалар, Сез аларга басмасагыз да, сайтка керүләрегезне күзәтеп"
-" тора"
+msgstr "Кайбер рекламалар, Сез аларга басмасагыз да, сайтка керүләрегезне күзәтеп тора"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -451,21 +444,15 @@ msgstr "Аналитика күзәтүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
-"Басу һәм скроллинг кебек хәрәкәтләрне җыю, анализлау һәм үлчәү өчен "
-"кулланылалар"
+msgstr "Басу һәм скроллинг кебек хәрәкәтләрне җыю, анализлау һәм үлчәү өчен кулланылалар"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Социаль челтәр күзәтүчеләрен блоклау"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
-"Сез зиярат иткән сайтларны күзәтү һәм «Уртаклашу» төймәләре кебек "
-"мөмкинлекләрне күрсәтү өчен сайтларга куелалар"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "Сез зиярат иткән сайтларны күзәтү һәм «Уртаклашу» төймәләре кебек мөмкинлекләрне күрсәтү өчен сайтларга куелалар"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -506,12 +493,8 @@ msgstr "Кушымтаны ачу өчен бармак эзен куллану"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
-"Сезнең бармак эзегез, кушымтада бер URL сылтама инде ачык булганда, "
-"%1$s'ны ача ала. Stealth-режим кабыначак."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Сезнең бармак эзегез, кушымтада бер URL сылтама инде ачык булганда, %1$s'ны ача ала. Stealth-режим кабыначак."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -584,12 +567,8 @@ msgstr "Күбрәк белү"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla, %1$s'ны һәркемгә дә тәкъдим итү һәм яхшырту өчен кирәкле "
-"мәгълүматларны гына җыярга тырыша."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla, %1$s'ны һәркемгә дә тәкъдим итү һәм яхшырту өчен кирәкле мәгълүматларны гына җыярга тырыша."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -805,12 +784,8 @@ msgstr "Сылтаманы ача алучы кушымта табу"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Җиһазыгыздагы бер кушымта да бу сылтаманы ача алмый. Аны ача ала алучы "
-"кушымтаны %2$s эченнән эзләү өчен, Сез %1$s'тан чыга аласыз."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Җиһазыгыздагы бер кушымта да бу сылтаманы ача алмый. Аны ача ала алучы кушымтаны %2$s эченнән эзләү өчен, Сез %1$s'тан чыга аласыз."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -835,9 +810,7 @@ msgstr "Ачу"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Сез %1$s тарихын чистартканда, йөкләнеп алынган файллар "
-"<b>бетерелмәячәк</b>."
+msgstr "Сез %1$s тарихын чистартканда, йөкләнеп алынган файллар <b>бетерелмәячәк</b>."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -870,17 +843,13 @@ msgstr "Тоташып булмады"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Сайт вакытлыча сүнгән я бик мәшгуль булырга мөмкин. Берничә "
-"минуттан янәдән тырышып карагыз.</li>\n"
-"        <li>Һичбер сәхифә дә ачылмаса җиһазыгызның мобиль Интернет яисә "
-"Wi-Fi бәйләнешен тикшерегез.</li>\n"
+"        <li>Сайт вакытлыча сүнгән я бик мәшгуль булырга мөмкин. Берничә минуттан янәдән тырышып карагыз.</li>\n"
+"        <li>Һичбер сәхифә дә ачылмаса җиһазыгызның мобиль Интернет яисә Wi-Fi бәйләнешен тикшерегез.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -897,17 +866,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Адресны керткән вакытта хата китмәгәнме икәнен тикшерегез, "
-"мәсәлән\n"
+"        <li>Адресны керткән вакытта хата китмәгәнме икәнен тикшерегез, мәсәлән\n"
 "         <strong>www</strong>.example.com урынына \n"
 "         <strong>ww</strong>.example.com</li> дип язган кебек.\n"
-"        <li>Һичбер сайт та ачылмаса, җиһазыгызның мобиль Интернет яисә "
-"Wi-Fi бәйләнешен тикшерегез.</li>\n"
+"        <li>Һичбер сайт та ачылмаса, җиһазыгызның мобиль Интернет яисә Wi-Fi бәйләнешен тикшерегез.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -917,17 +883,13 @@ msgstr "Адрес хаталы"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Веб адреслары гадәттә түбәндәгечә языла — "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Адресларда сулга түгел, ә бәлки уңга авыш бүлү билгесен кулланасы "
-"(ягъни бу билге: <strong>/</strong>).</li>\n"
+"  <li>Веб адреслары гадәттә түбәндәгечә языла — <strong>http://www.example.com/</strong></li>\n"
+"  <li>Адресларда сулга түгел, ә бәлки уңга авыш бүлү билгесен кулланасы (ягъни бу билге: <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -937,13 +899,11 @@ msgstr "Сәхифә икенче сәхифәгә дөрес юнәлтми"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Кайвакыт бу проблема кукилар сүндерелгән булганга яки аларны кабул "
-"итүдән баш тартканга килеп чыга.</li>\n"
+"  <li>Кайвакыт бу проблема кукилар сүндерелгән булганга яки аларны кабул итүдән баш тартканга килеп чыга.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -953,13 +913,11 @@ msgstr "Адрес аңлашылмады"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бу адресны ачу өчен башка бер программа урнаштыруыгыз кирәк булырга"
-" мөмкин.</li>\n"
+"  <li>Бу адресны ачу өчен башка бер программа урнаштыруыгыз кирәк булырга мөмкин.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -969,20 +927,15 @@ msgstr "Хәвефсез бәйләнеш кору хатасы"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Бу сервер көйләүләрендәге хата белән бәйле булырга мөмкин, яисә "
-"кемдер Сезгә кирәкле серверны икенче берәве белән алыштырырга "
-"тырыша.</li>\n"
-"  <li>Моңа кадәр бу серверга уңышлы тоташа торган булсагыз, бу хата "
-"вакытлыча гына булырга мөмкин. Берәздән янәдән тырышып карагыз.</li>\n"
+"  <li>Бу сервер көйләүләрендәге хата белән бәйле булырга мөмкин, яисә кемдер Сезгә кирәкле серверны икенче берәве белән алыштырырга тырыша.</li>\n"
+"  <li>Моңа кадәр бу серверга уңышлы тоташа торган булсагыз, бу хата вакытлыча гына булырга мөмкин. Берәздән янәдән тырышып карагыз.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1027,12 +980,8 @@ msgstr "Сылтаманы яңа биттә ачу"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"%1$s тарихын бетергәндә, сакланган яки уртаклашылган рәсемнәр "
-"<b>бетерелмәячәк</b>."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "%1$s тарихын бетергәндә, сакланган яки уртаклашылган рәсемнәр <b>бетерелмәячәк</b>."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1041,13 +990,8 @@ msgstr "Хосусыйлыгызны көчәйтегез"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"Хосусый гизүне яңа дәрәҗәгә күтәрегез. Сайтлар аша Сезне күзәтүче һәм "
-"сәхифәләрнең йөкләнү вакытын арттыручы рекламаларны һәм башка "
-"эчтәлекләрне блоклагыз."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "Хосусый гизүне яңа дәрәҗәгә күтәрегез. Сайтлар аша Сезне күзәтүче һәм сәхифәләрнең йөкләнү вакытын арттыручы рекламаларны һәм башка эчтәлекләрне блоклагыз."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1056,12 +1000,8 @@ msgstr "Сезнең эзләү, Сезнең кагыйдәләр"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
-msgstr ""
-"Башка берәр нәрсә эзлисезме? Көйләүләр менюсына кереп, стандарт итеп "
-"башка бер эзләү системасын сайлый аласыз."
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr "Башка берәр нәрсә эзлисезме? Көйләүләр менюсына кереп, стандарт итеп башка бер эзләү системасын сайлый аласыз."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1072,12 +1012,8 @@ msgstr "Өй экранына ярлыклар өстәгез"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"%1$s'та иң яраткан сайтларыгызга тиз генә кире кайта аласыз. Моның өчен "
-"%1$s менюсыннан \"Өй экранына кушуны\" сайлау җитә."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "%1$s'та иң яраткан сайтларыгызга тиз генә кире кайта аласыз. Моның өчен %1$s менюсыннан \"Өй экранына кушуны\" сайлау җитә."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1088,12 +1024,8 @@ msgstr "Хосусыйлыкны гадәткә кертү"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"%1$s'ны төп гизгечегез итеп сайлап, башка кушымталардан сайтларны ачканда"
-" да хосусый гизү мөмкинлегеннән файда күрегез."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "%1$s'ны төп гизгечегез итеп сайлап, башка кушымталардан сайтларны ачканда да хосусый гизү мөмкинлегеннән файда күрегез."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1154,12 +1086,8 @@ msgstr "Хосусый гизү утырышы"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Бердерүләр аша %1$s утырышыгызны бер орыну белән бетерә аласыз. Кушымтаны"
-" ачу яисә гизгечтә нәрсә ачык икәнен күрү кирәк түгел."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Бердерүләр аша %1$s утырышыгызны бер орыну белән бетерә аласыз. Кушымтаны ачу яисә гизгечтә нәрсә ачык икәнен күрү кирәк түгел."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1178,23 +1106,15 @@ msgstr "Firefox'ны йөкләп алу"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s — Mozilla һәм башка катнашучылар ясаган ирекле һәм ачык чыганаклы "
-"программа."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s — Mozilla һәм башка катнашучылар ясаган ирекле һәм ачык чыганаклы программа."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s <a href=\"%2$s\">Mozilla Public License</a> һәм башка ачык чыганак "
-"лицензияләренең шартлары белән нәшер ителә."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s <a href=\"%2$s\">Mozilla Public License</a> һәм башка ачык чыганак лицензияләренең шартлары белән нәшер ителә."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1202,26 +1122,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Сезгә Mozilla Foundation'ның яисә башка тарафларның һичбер теркәлгән "
-"сәүдә билгеләренә, шул исәптән Mozilla, Firefox яисә %1$s исемнәре яки "
-"логотипларына бернинди дә хокуклар я лицензияләр бирелми. Өстәмә "
-"мәгълүматны <a href=\"%2$s\">монда</a> табып була."
+"Сезгә Mozilla Foundation'ның яисә башка тарафларның һичбер теркәлгән сәүдә билгеләренә, шул исәптән Mozilla, Firefox яисә %1$s исемнәре яки логотипларына бернинди дә хокуклар я лицензияләр бирелми. "
+"Өстәмә мәгълүматны <a href=\"%2$s\">монда</a> табып була."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"%1$s өчен өстәмә чыганак кодлары берничә башка ирекле һәм ачык чыганак <a"
-" href=\"%2$s\">лицензияләре</a> белән нәшер ителә."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "%1$s өчен өстәмә чыганак кодлары берничә башка ирекле һәм ачык чыганак <a href=\"%2$s\">лицензияләре</a> белән нәшер ителә."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1229,14 +1141,10 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"Моннан тыш, %1$s Disconnect, Inc. тәэмин иткән блоклау исемлекләрен "
-"куллана, аларны <a href=\"%2$s\">GNU General Public License v3</a> "
-"шартлары белән һәм түләүсез <a href=\"%3$s\">монда</a> табып була."
+"Моннан тыш, %1$s Disconnect, Inc. тәэмин иткән блоклау исемлекләрен куллана, аларны <a href=\"%2$s\">GNU General Public License v3</a> шартлары белән һәм түләүсез <a href=\"%3$s\">монда</a> табып "
+"була."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1413,12 +1321,8 @@ msgstr "Эзләү тәкъдимнәрен кабызасыгыз киләме?
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
-"Эзләү тәкъдимнәрен алыр өчен, %1$s Сез адрес юлында язганнарны үзегез "
-"сайлаган эзләү системасына җибәрергә тиеш. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Эзләү тәкъдимнәрен алыр өчен, %1$s Сез адрес юлында язганнарны үзегез сайлаган эзләү системасына җибәрергә тиеш. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1462,12 +1366,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Иң еш кулланылган сайтларга бер орыну белән күчү өчен\n"
-"        Меню > Төп экранга өстәү"
+msgstr "Иң еш кулланылган сайтларга бер орыну белән күчү өчен%1$s Меню > Өй экранга өстәү"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1507,18 +1408,13 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Сайтның өстәл өсте компьютерлары өчен эшләнгән версиясен карыйсыгыз "
-"киләме?\n"
-"    Меню → Өстәл өсте компьютеры"
+msgstr "Сайтның өстәл өсте компьютерлары өчен эшләнгән версиясен карыйсыгыз киләме?%1$sМеню → Өстәл өсте компьютеры"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
-
+msgstr "%1$s өй экрандагы киңәшләрне сүндерү"
