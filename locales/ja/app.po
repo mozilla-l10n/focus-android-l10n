@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 22:53+0000\n"
+"PO-Revision-Date: 2018-08-31 23:47+0000\n"
 "Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -1404,12 +1404,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"完全なデスクトップ向けサイトを見たいですか？\n"
-"    メニュー > デスクトップ版を見る"
+msgstr "完全なデスクトップ向けサイトを見たいですか？%1$s メニュー > デスクトップ版を見る"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
