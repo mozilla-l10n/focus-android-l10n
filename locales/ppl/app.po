@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 19:47+0000\n"
+"PO-Revision-Date: 2018-08-31 20:14+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -43,7 +43,7 @@ msgstr "Shikana"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "Shiktemu u shiktajkwilu ne direksion"
+msgstr "Shiktemu u shiktajkwilu ne dirección"
 
 msgctxt "teaser"
 msgid ""
@@ -69,7 +69,7 @@ msgstr "Shiktemu %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Shikmajmaka…"
+msgstr "Shiktakuli..."
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
@@ -180,7 +180,7 @@ msgstr "Shikpupu"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Shikpupulu mutatemulis panutuk"
+msgstr "Shikpupu mutatemulis panutuk"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -391,7 +391,7 @@ msgstr "Machiut: mozilla.org"
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr "Machiut: machiut.com"
+msgstr "Machiut: example.com"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
@@ -424,7 +424,7 @@ msgstr "Taketzalis"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Achtutalijtuk sistemaj"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -922,7 +922,7 @@ msgstr "Ups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Anka se te kiajkawa mutemiltia ini iswat."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1127,11 +1127,11 @@ msgstr "Mutukay usuarioj"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Contraseñaj"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Shikpupu"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
@@ -1156,7 +1156,7 @@ msgstr ""
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL nemia"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
