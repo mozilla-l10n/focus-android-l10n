@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-30 18:41+0000\n"
+"PO-Revision-Date: 2018-08-31 17:05+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -1384,6 +1384,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"เติม URL โดยอัตโนมัติสำหรับไซต์ที่คุณใช้มากที่สุด\n"
+" แตะค้างที่ URL ใด ๆ ในแถบที่อยู่"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1393,6 +1395,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"เปิดลิงก์ในแท็บใหม่\n"
+" แตะค้างที่ลิงก์ใด ๆ ในหน้า"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
@@ -1406,4 +1410,4 @@ msgstr "ต้องการเห็นไซต์สำหรับเดส
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "ปิดเคล็ดลับในหน้าจอเริ่มต้นของ %1$s"
