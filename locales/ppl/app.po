@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 20:14+0000\n"
+"PO-Revision-Date: 2018-08-31 20:19+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -547,7 +547,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "Shiktukti %1$s ken ne achtu tatemualuni"
+msgstr "Shikchiwa %1$s ken ne achtu pashaluani"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -590,7 +590,7 @@ msgstr ""
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Shimukwepa ka achtutalijtuk motor tatemua"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
@@ -1351,7 +1351,7 @@ msgctxt "tip_set_default_browser"
 msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
-msgstr ""
+msgstr "Shiktapu sejse ilpika tik %1$s"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
