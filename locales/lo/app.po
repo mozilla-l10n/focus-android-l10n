@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-01 04:31+0000\n"
+"PO-Revision-Date: 2018-09-01 04:42+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -222,14 +222,14 @@ msgstr "ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປ�
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "ການຕິດຕາມ, ຄຸກກີ້, ທາງເລືອກຂໍ້ມູນ"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "ຕັ້ງຄ່າເລີ່ມຕົ້ນ. ການຕື່ມຄຳອັດຕະໂນມັດ"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -238,27 +238,27 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "ກ່ຽວກັບ %1$s, ຊ່ວຍເຫຼືອ"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "ການປ້ອງກັນການຕິດຕາມ"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "ເນື້ອຫາເວັບ"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "ສະລັບແອັບ"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "ທົ່ວໄປ"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -358,7 +358,7 @@ msgstr ""
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr ""
+msgstr "ເອົາ URLs ທີ່ກຳນົດເອງອອກ"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -385,7 +385,7 @@ msgstr "ວາງ ຫລື ປ້ອນ URL"
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "ຕົວຢ່າງ: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
@@ -507,14 +507,13 @@ msgstr "ອຳພາງຕົວຕົນ"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "ເຊື່ອງຫນ້າເວັບເມື່ອສະລັບແອັບ"
+msgstr "ເຊື່ອງຫນ້າເວັບເມື່ອສະລັບແອັບ ແລະ ລະງັບການຖ່າຍຮູບໜ້າຈໍ."
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "ຄວາມປອດໄພ"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -532,7 +531,7 @@ msgstr "ອາດຈະສົ່ງຜົນເຮັດໃຫ້ໄອຄອນ
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "ລະງັບ JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -1016,7 +1015,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "ສ້າງນິໄສຄວາມເປັນສ່ວນຕົວ"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -1181,12 +1180,12 @@ msgstr "URL ນີ້ມີຢູ່ແລ້ວ"
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "ຄົ້ນຫາໃນເພຈ"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "ຄົ້ນຫາໃນເພຈ"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1194,7 +1193,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1202,19 +1201,19 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d ຈາກ %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "ຄົ້ນຫາຜົນລັບຕໍ່ໄປ"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "ຄົ້ນຫາຜົນລັບກ່ອນໜ້ານີ້"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
@@ -1225,39 +1224,39 @@ msgstr ""
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "ຕ້ອງການການຢືນຢັນຕົວຕົນ"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "ຊື່ຜູ່ໃຊ້"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "ລະຫັດຜ່ານ"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "ຂໍໄຊສຳລັບເດສທອບ"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL ສຳເນົາແລ້ວ"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "ເຄື່ອງມືນັກພັດທະນາ"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "ຂັ້ນສູງ"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
@@ -1269,7 +1268,7 @@ msgstr ""
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "ປົດລ໋ອກ %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1322,17 +1321,17 @@ msgstr ""
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "ຮຽນຮູ້ເພີ່ມຕື່ມ"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "ບໍ່"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "ຕົກລົງ"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
@@ -1344,7 +1343,7 @@ msgstr ""
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "ຍົກເລີກ"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
