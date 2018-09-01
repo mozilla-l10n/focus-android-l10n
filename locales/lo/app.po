@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-04-30 16:40+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
-"Language: lo\n"
+"PO-Revision-Date: 2018-09-01 04:31+0000\n"
+"Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -72,7 +73,7 @@ msgstr "ແບ່ງປັນ…"
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr ""
+msgstr "ລາຍງານບັນຫາໄຊ"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -138,7 +139,7 @@ msgstr "ຕົວຕິດຕາມໄດ້ຖືກບັອກ"
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr ""
+msgstr "ຂັບເຄື່ອນໂດຍ %1$s"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -196,12 +197,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s ເຮັດໃຫ້ທ່ານສາມາດຄວບຄູມໄດ້.</p>\n"
@@ -212,15 +211,13 @@ msgstr ""
 "    <li>ລຶບຄຸກກີ້ລວມທັງປະຫວັດການຄົ້ນຫາ ແລະ ການທ່ອງເວັບອອກ</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s ໄດ້ຮັບການສ້າງຂື້ນມາຈາກ Mozilla. "
-"ພາລະກິດຂອງພວກເຮົາແມ່ນສົ່ງເສີມການນຳໃຊ້ອິນເຕີເນັດທີ່ສົມບູນ ແລະ "
-"ເປີດກ້ວາງ<br/>\n"
+"<p>%1$s ໄດ້ຮັບການສ້າງຂື້ນມາຈາກ Mozilla. ພາລະກິດຂອງພວກເຮົາແມ່ນສົ່ງເສີມການນຳໃຊ້ອິນເຕີເນັດທີ່ສົມບູນ ແລະ ເປີດກ້ວາງ<br/>\n"
 "<a href=\"%2$s\">ຮຽນຮູ້ເພີ່ມເຕີ່ມ</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
 msgid "Privacy & Security"
-msgstr ""
+msgstr "ຄວາມເປັນສ່ວນຕົວ ແລະ ຄວາມປອດໄພ"
 
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
@@ -319,9 +316,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
-"ເປີດໃຊ້ງານເພື່ອໃຫ້ມີການເຕິມອັດຕະໂນມັດຂອງ %1$s ຜ່ານ 450 URLs "
-"ຍອດນິຍົມໃນແຖບທີ່ຢູ່,"
+msgstr "ເປີດໃຊ້ງານເພື່ອໃຫ້ມີການເຕິມອັດຕະໂນມັດຂອງ %1$s ຜ່ານ 450 URLs ຍອດນິຍົມໃນແຖບທີ່ຢູ່,"
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -440,9 +435,7 @@ msgstr "ບັອກຕົວຕິດຕາມຂອງການໂຄສະນ
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
-"ມີໂຄສະນາບາງໂຕສາມາດຕິດຕາມການເຂົ້າໄປເວັບຕ່າງໆ "
-"ເຖິງແມ່ນວ່າທ່ານຈະບໍ່ໄດ້ຄິກໃສ່ໂຄສະນານັ້ນເລີຍ"
+msgstr "ມີໂຄສະນາບາງໂຕສາມາດຕິດຕາມການເຂົ້າໄປເວັບຕ່າງໆ ເຖິງແມ່ນວ່າທ່ານຈະບໍ່ໄດ້ຄິກໃສ່ໂຄສະນານັ້ນເລີຍ"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -457,12 +450,8 @@ msgid "Block social trackers"
 msgstr "ບັອກຕົວຕິດຕາມຂອງສືສັງຄົມອອນໄລນ໌"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
-"ຝັງໄວ້ຢູ່ໃນເວັບໄຊທ໌ເພື່ອຕິດຕາມເບິງການເຂົ້າມາເບິງຂອງທ່ານ ແລະ "
-"ເພື່ອສະແດງຟັງຊັນເຊັ່ນວ່າປຸ່ມແບ່ງປັນ"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "ຝັງໄວ້ຢູ່ໃນເວັບໄຊທ໌ເພື່ອຕິດຕາມເບິງການເຂົ້າມາເບິງຂອງທ່ານ ແລະ ເພື່ອສະແດງຟັງຊັນເຊັ່ນວ່າປຸ່ມແບ່ງປັນ"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -503,9 +492,7 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
 msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -580,12 +567,8 @@ msgstr "ຮຽນຮູ້ເພີ່ມເຕີມ"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla ພະຍາຍາມທີ່ຈະເກັບຮວບຮ່ວມສະເພາະສິ່ງທີ່ຈຳເປັນຕໍ່ການປັບປູງ %1$s "
-"ສຳລັບທຸກໆຄົນ."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla ພະຍາຍາມທີ່ຈະເກັບຮວບຮ່ວມສະເພາະສິ່ງທີ່ຈຳເປັນຕໍ່ການປັບປູງ %1$s ສຳລັບທຸກໆຄົນ."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -801,12 +784,8 @@ msgstr "ຊອກຫາແອັບທີ່ສາມາດເປີດລີ້
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"ບໍ່ມີແອັບໃດເລີຍໃນອຸປະກອນຂອງທ່ານທີ່ຈະສາມາດເປີດລີ້ງນີ້ໄດ້. ທ່ານສາມາດອອກຈາກ "
-"%1$s ເພື່ອຄົ້ນຫາ %2$s ແອັບທີ່ສາມາດເປີດລີ້ງນີ້ໄດ້."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "ບໍ່ມີແອັບໃດເລີຍໃນອຸປະກອນຂອງທ່ານທີ່ຈະສາມາດເປີດລີ້ງນີ້ໄດ້. ທ່ານສາມາດອອກຈາກ %1$s ເພື່ອຄົ້ນຫາ %2$s ແອັບທີ່ສາມາດເປີດລີ້ງນີ້ໄດ້."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -864,18 +843,13 @@ msgstr "ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>ເວັບໄຊທ໌ອາດຈະເຂົ້ານຳໃຊ້ບໍ່ໄດ້ຊົ່ວຄາວ ຫລື "
-"ກຳລັງເຮັດວຽກຫນັກເກີນໄປ. ລອງອີກເທື່ອຫນຶ່ງໃນໄວໆນີ້.</li>\n"
-"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ "
-"ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi "
-"ຂອງທ່ານ.</li>\n"
+"        <li>ເວັບໄຊທ໌ອາດຈະເຂົ້ານຳໃຊ້ບໍ່ໄດ້ຊົ່ວຄາວ ຫລື ກຳລັງເຮັດວຽກຫນັກເກີນໄປ. ລອງອີກເທື່ອຫນຶ່ງໃນໄວໆນີ້.</li>\n"
+"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi ຂອງທ່ານ.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -892,17 +866,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>ກວດເບິງຄືນວ່າທ່ານໄດ້ພິມທີ່ຢູ່ຂອງເວັບຜິດຫລືບໍ່ ຕົວຢ່າງ\n"
 "          <strong>ww</strong>.example.com ແທນທີ່ຈະເປັນ\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ "
-"ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi "
-"ຂອງທ່ານ.</li>\n"
+"        <li>ຖ້າຫາກວ່າທ່ານບໍ່ສາມາດໂຫລດຫນ້າໃດໄດ້ເລີຍ ໃຫ້ກວດເບິງປະລິມານຂໍ້ມູນການນຳໃຊ້ແພັກເກັດອິນເຕີເນັດ ຫລື ການເຊື່ອມຕໍ່ Wi-Fi ຂອງທ່ານ.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -912,17 +883,13 @@ msgstr "ທີ່ຢູ່ບໍ່ຖືກຕ້ອງ"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ທີ່ຢູ່ຂອງເວັບປົກກະຕິແລ້ວແມ່ນຈະຂຽນໃນຮູບແບບ "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>ຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານໄດ້ນຳໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (ຕົວຢ່າງ: "
-"<strong>/</strong>).</li></ul>"
+"  <li>ທີ່ຢູ່ຂອງເວັບປົກກະຕິແລ້ວແມ່ນຈະຂຽນໃນຮູບແບບ <strong>http://www.example.com/</strong></li>\n"
+"  <li>ຫມັ້ນໃຈແລ້ວບໍ່ວ່າທ່ານໄດ້ນຳໃຊ້ເຄື່ອງຫມາຍທັບໄປທາງຫນ້າ (ຕົວຢ່າງ: <strong>/</strong>).</li></ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -931,13 +898,11 @@ msgstr "ຫນ້າເວັບນີ້ບໍ່ໄດ້ປ່ຽນເສັ
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ບາງເທື່ອບັນຫານີ້ອາດມີສາເຫດມາຈາກການປິດນຳໃຊ້ ຫລື "
-"ປະຕິເສດຍອມຮັບຄຸກກີ້.</li></ul>"
+"  <li>ບາງເທື່ອບັນຫານີ້ອາດມີສາເຫດມາຈາກການປິດນຳໃຊ້ ຫລື ປະຕິເສດຍອມຮັບຄຸກກີ້.</li></ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -946,8 +911,7 @@ msgstr "ບໍ່ເຂົ້າໃຈທີ່ຢູ່"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -961,20 +925,15 @@ msgstr "ການເຊື່ອມຕໍ່ທີປອດໄພຫລົ້ມ
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ສິງນີ້ອາດຈະເປັນບັນຫາທີ່ເກີດມາຈາກການຄອນຟິກເຊີເວີຜິດ ຫລື "
-"ມັນອາດຈະເກີດມາຈາກການທີ່ມີບາງຄົນພະຍາຍາມປອມແປງເຊີເວີ.</li>\n"
-"  <li>ຖ້າຫາກວ່າທ່ານເຄີຍເຊື່ອມຕໍ່ກັບເຊີເວີນີ້ໄດ້ສຳເລັດມາກ່ອນ "
-"ຂໍ້ຜິດພາດນີ້ອາດຈະເກີດຂື້ນພຽງຊົ່ວຄາວ ແລະ "
-"ທ່ານສາມາດລອງເຂົ້າໃຫມ່ໃນພາຍຫລັງ.</li>\n"
+"  <li>ສິງນີ້ອາດຈະເປັນບັນຫາທີ່ເກີດມາຈາກການຄອນຟິກເຊີເວີຜິດ ຫລື ມັນອາດຈະເກີດມາຈາກການທີ່ມີບາງຄົນພະຍາຍາມປອມແປງເຊີເວີ.</li>\n"
+"  <li>ຖ້າຫາກວ່າທ່ານເຄີຍເຊື່ອມຕໍ່ກັບເຊີເວີນີ້ໄດ້ສຳເລັດມາກ່ອນ ຂໍ້ຜິດພາດນີ້ອາດຈະເກີດຂື້ນພຽງຊົ່ວຄາວ ແລະ ທ່ານສາມາດລອງເຂົ້າໃຫມ່ໃນພາຍຫລັງ.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1019,12 +978,8 @@ msgstr "ເປີດລີ້ງໃນແທັບໃຫມ່"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"ບັນທຶກໄວ້ ແລະ ໄດ້ແບ່ງປັນຮູບພາບ <b>ຈະບໍ່ຖືກລົບ</b> "
-"ເມື່ອທ່ານລຶບປະຫວັດການນຳໃຊ້ຂອງ %1$s"
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "ບັນທຶກໄວ້ ແລະ ໄດ້ແບ່ງປັນຮູບພາບ <b>ຈະບໍ່ຖືກລົບ</b> ເມື່ອທ່ານລຶບປະຫວັດການນຳໃຊ້ຂອງ %1$s"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1033,12 +988,8 @@ msgstr "ເພີ່ມຄວາມເປັນສ່ວນໂຕຂອງທ່
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"ນຳການທ່ອງເວັບແບບສ່ວນຕົວໄປສູ້ລະດັບຖັດໄປ. ປິດກັ້ນໂຄສະນາແລະເນື້ອຫາອື່ນໆ "
-"ທີ່ສາມາດຕິດຕາມທ່ານລະຫວ່າງເວັບໄຊທ໌ແລະຫລຸດເວລາໃນການໂຫລດຫນ້າ,"
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "ນຳການທ່ອງເວັບແບບສ່ວນຕົວໄປສູ້ລະດັບຖັດໄປ. ປິດກັ້ນໂຄສະນາແລະເນື້ອຫາອື່ນໆ ທີ່ສາມາດຕິດຕາມທ່ານລະຫວ່າງເວັບໄຊທ໌ແລະຫລຸດເວລາໃນການໂຫລດຫນ້າ,"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1047,12 +998,8 @@ msgstr "ການຄົ້ນຫາໃນແບບຂອງທ່ານເອງ
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
-msgstr ""
-"ກຳລັງຊອກຫາບາງສິ່ງບາງຢ່າງທີ່ແຕກຕ່າງບໍ່? "
-"ເລືອກເອົາຕົວຄົ້ນຫາພື້ນຖານອື່ນໆໃນການຕັ້ງຄ່າ."
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr "ກຳລັງຊອກຫາບາງສິ່ງບາງຢ່າງທີ່ແຕກຕ່າງບໍ່? ເລືອກເອົາຕົວຄົ້ນຫາພື້ນຖານອື່ນໆໃນການຕັ້ງຄ່າ."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1063,9 +1010,7 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr ""
 
 #. First run tour (Privacy): Title
@@ -1077,12 +1022,8 @@ msgstr ""
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"ຕັ້ງ %1$s ເປັນບຣາວເຊີຫລັກຂອງທ່ານ ແລະ "
-"ຮັບປະໂຫຍດຈາກການທ່ອງເວັບແບບສ່ວນຕົວເມື່ອທ່ານເປີດຫນ້າເວັບຈາກແອັບອື່ນໆ."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "ຕັ້ງ %1$s ເປັນບຣາວເຊີຫລັກຂອງທ່ານ ແລະ ຮັບປະໂຫຍດຈາກການທ່ອງເວັບແບບສ່ວນຕົວເມື່ອທ່ານເປີດຫນ້າເວັບຈາກແອັບອື່ນໆ."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1143,9 +1084,7 @@ msgstr "ເຊສຊັນການທ່ອງເວັບແບບສ່ວນ
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr ""
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1165,18 +1104,14 @@ msgstr "ດາວໂຫລດ Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1185,9 +1120,7 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
 
@@ -1195,9 +1128,7 @@ msgstr ""
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 msgstr ""
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1206,10 +1137,7 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
 
 #. Text shown in prompts for GeckoView
@@ -1387,9 +1315,7 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
 msgstr ""
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1480,4 +1406,3 @@ msgstr ""
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
 msgstr ""
-
