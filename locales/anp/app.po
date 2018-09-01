@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 21:59+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"PO-Revision-Date: 2018-09-01 09:33+0000\n"
+"Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: anp\n"
@@ -210,7 +210,7 @@ msgstr ""
 "    <li>कुकीज के साथ सर्च आरु ब्राउज़िंग इतिहास के हटाबै लेली मेटैइयै</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$sमोज़िला द्वारा उत्पादित,आपनो लक्ष्य स्वस्थ कs बढ़ावा देनाय छै, इंटरनेट खोलियै.<br/>\n"
+"<p>%1$s Mozilla द्वारा उत्पादित, आपनो लक्ष्य स्वस्थ कs बढ़ावा देनाय छै, इंटरनेट खोलियै.<br/>\n"
 "<a href=\"%2$s\">बेसी जानियै</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -549,7 +549,7 @@ msgstr "%1$s कऽ डिफ़ॉल्ट ब्रॉजर बनैइय�
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr "मोजिला"
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
@@ -566,7 +566,7 @@ msgstr "बेसी जानकारी"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "मोजिला केवल ओ चीज के जमा करै छै जकरा %1$s मे सभक लेली सुधार करै केरो आवश्यक्ता छै."
+msgstr "Mozilla केवल ओ चीज के जमा करै छै जकरा %1$s मे सभक लेली सुधार करै केरो आवश्यक्ता छै."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -1088,20 +1088,20 @@ msgstr "ब्राउज़िंग इतिहास मेटैइयै"
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr "फ़ायरफ़ॉक्स डाउनलोड करियै"
+msgstr "Firefox डाउनलोड करियै"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s मोज़िला आरू आन योगदानकर्ता द्वारा बनाएल गेलो स्वतंत्र आरू मुक्त स्रोत सॉफ्टवेयर छै."
+msgstr "%1$s Mozilla आरू आन योगदानकर्ता द्वारा बनाएल गेलो स्वतंत्र आरू मुक्त स्रोत सॉफ्टवेयर छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s <a href=\"%2$s\">मोज़िला सार्वजनिक लाइसेंस</a> आरू आन मुक्त स्रोत लाइसेंस केरो नियम के अंतर्गत अहाँ के उपलब्ध करैलो जाए छै."
+msgstr "%1$s <a href=\"%2$s\">Mozilla सार्वजनिक लाइसेंस</a> आरू आन मुक्त स्रोत लाइसेंस केरो नियम के अंतर्गत अहाँ के उपलब्ध करैलो जाए छै."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
