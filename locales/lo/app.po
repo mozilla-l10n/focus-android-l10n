@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-01 04:42+0000\n"
+"PO-Revision-Date: 2018-09-01 09:12+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -263,7 +263,7 @@ msgstr "ທົ່ວໄປ"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "ການເກັບຮວບຮວມ ແລະ ໃຊ້ຂໍ້ມູນ"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -310,7 +310,7 @@ msgstr "ການເຕີມແບບອັດຕະໂນມັດ"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "ລາຍການ URL ເລີ່ມຕົ້ນ"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -609,7 +609,7 @@ msgstr "ລຶບ"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr " ສະແດງເຄັດລັບໜ້າຈໍຫຼັກ"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -746,7 +746,7 @@ msgstr "ກັບໄປຫາແອັບກ່ອນຫນ້ານີ້"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "ຈຳນວນຕົວຕິດຕາມທີ່ຖືກລະງັບ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
