@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-01 09:33+0000\n"
+"PO-Revision-Date: 2018-09-01 09:51+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -1084,7 +1084,7 @@ msgstr "ເຊສຊັນການທ່ອງເວັບແບບສ່ວນ
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "ການແຈ້ງເຕືອນຊ່ວຍໃຫ້ທ່ານລ້າງວາລະ %1$s ຂອງທ່ານດ້ວຍການແຕະ. ທ່ານບໍ່ຈຳເປັນຕ້ອງເປີດແອັບ ຫຼື ເບິ່ງສິ່ງທີ່ກຳລັງເຮັດວຽກໃນບາວເຊີຂອງທ່ານ."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1104,7 +1104,7 @@ msgstr "ດາວໂຫລດ Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s ເປັນຊອບແວເສລີ ແລະ ເປີດຕົ້ນສະບັບທີ່ສ້າງຂຶ້ນໂດຍ Mozilla ແລະ ຜູ່ມີສ່ວນຮ່ວມອື່ນໆ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1121,7 +1121,7 @@ msgctxt "your_rights_content3"
 msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
+msgstr "ທ່ານບໍ່ໄດ້ຮັບສິດ ຫຼື ສັນຍາອະນຸຍາດໃດໆ ໃນເຄື່ອງໝາຍການຄ້າຂອງມູລະນີທິ Mozilla ຫຼື ບຸກຄົນໃດໆ ລວມທັງຊື່ ຫຼື ໂລໂກ້ Mozilla, Firefox ຫຼື %1$s. ຂໍ້ມູນເພີ່ມຕື່ມສາມາດພົບໄດ້ທີ່<a href=\"%2$s\">ນີ້</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1137,7 +1137,7 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s ຍັງໃຊ້ລາຍການລະງັບທີ່ໃຫ້ບໍລິການໂດຍ Disconect, Inc. ເຊີ່ງເປັນງານແຍກ ແລະ ເປັນອິດສະຫຼະພາຍໃຕ້<a href=\"%2$s\">GNU General Public License v3</a>, ແລະ ໃຊ້ໄດ້<a href=\"%3$s\">ນີ້</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1337,7 +1337,7 @@ msgstr "ຕົກລົງ"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "ເຄື່ອງມືຄົ້ນຫາບາງໂຕບໍ່ສາມາດສະແດງຂໍ້ສະເໜີແນະໄດ້."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1357,10 +1357,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "ຮັບການເຂົ້າເຖິງດ້ວຍການແຕະຄັ້ງດຽວໄປຍັງໄຊທີ່ທ່ານໃຊ້ຫຼາຍທີ່ສຸດ %1$s ເມນູ > ເພີ່ມໄປສູ່ໜ້າຈໍຫຼັກ "
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1400,10 +1399,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "ຕ້ອງການເຫັນໄຊສຳລັບເດສທ້ອບແບບເຕັມ? %1$s ເມນູ> ຂໍໄຊສຳລັບເດສທ້ອບ"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
