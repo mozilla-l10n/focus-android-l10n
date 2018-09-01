@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-01 09:12+0000\n"
+"PO-Revision-Date: 2018-09-01 09:33+0000\n"
 "Last-Translator: Saleumsack KEOBOUALAY <saleumsack16@gmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -272,14 +272,14 @@ msgstr "ຊອກຫາ"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "ຮັບຂໍສະເໜີແນະການຄົ້ນຫາ"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s ຈະສົ່ງສິ່ງທີ່ທ່ານພີມໃນແຖບທີ່ຢູ່ໄປຍັງເຄື່ອງມືຄົ້ນຫາຂອງທ່ານ"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -348,12 +348,12 @@ msgstr "ເພີ່ມ URL ທີ່ກຳນົດເອງ"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "ຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "ທາງເລືອກຂໍ້ມູນ"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -463,7 +463,7 @@ msgstr "ການເປີດໃຊ້ງານອາດຈະເຮັດໃຫ
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "ລະງັບຄຸກກີ້"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -474,7 +474,7 @@ msgstr "ບໍ່"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "ລະງັບຄຸກກີ້ພາຍນອກເທົ່ານັ້ນ"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -484,7 +484,7 @@ msgstr "ແມ່ນ"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "ນຳໃຊ້ລາຍນິ້ວມືເພື່ອປົດລ໋ອກແອັບ"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -493,7 +493,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "ລາຍມືຂອງທ່ານສາມາດປົດລ໋ອກ %1$s ຖ້າຫາກ URL ຖືກເປີດຢູ່ແລ້ວໃນແອັບ. ການເຊື່ອງໂຕຈະຖືກເປີດ."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -537,7 +537,7 @@ msgstr "ລະງັບ JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "ໜ້າອາດໂຫຼດໄວຂື້ນ ແຕ່ອາດເຮັດວຽກຢ່າງບໍ່ຄາດຄິດ"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -646,7 +646,7 @@ msgstr "ປ້ອນຊື່ເຄື່ອງມືການຊອກຫາ"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "ເຄື່ອງມືຄົ້ນຫາທີ່ຕິດຕັ້ງໄວ້ກຳລັງໃຊ້ຊື່ນັ້ນຢູ່ແລ້ວ."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -654,7 +654,7 @@ msgstr "ປ້ອນສະຕຣິງການຊອກຫາ"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "ກວດສອບວ່າສະຕິງການຄົ້ນຫາກົງກັບຮູບແບບຕົວຢ່າງ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -1003,14 +1003,14 @@ msgstr "ກຳລັງຊອກຫາບາງສິ່ງບາງຢ່າງ
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "ເພີ່ມທາງລັດໃນໜ້າຈໍຫຼັກຂອງທ່ານ"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "ກັບໄປທີ່ໄຊທີ່ທ່ານມັກໃນ %1$s ໄດ້ຢ່າງວ່ອງໄວ. ພຽງເລືອກ \"ເພີ່ມໄປໜ້າຈໍຫຼັກ\" ຈາກ %1$s ເມນູ."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1060,7 +1060,7 @@ msgstr "ຍົກເລີກ"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "ທາງລັດຈະເປີດພ້ອມປິດການໃຊ້ງານການປ້ອງກັນການຕິດຕາມ"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1219,7 +1219,7 @@ msgstr "ຄົ້ນຫາຜົນລັບກ່ອນໜ້ານີ້"
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "ຍົກເລີກການຄົ້ນຫາໃນໜ້າ"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
@@ -1261,7 +1261,7 @@ msgstr "ຂັ້ນສູງ"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "ການດີບັກໄລຍະໄກຜ່ານ USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
@@ -1274,39 +1274,39 @@ msgstr "ປົດລ໋ອກ %1$s"
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "ແຕະເຊັນເຊີ້ລາຍນິ້ວມືເພື່ອດຳເນີນການຕໍ່."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "ວາລະໃໝ່"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "ໄອຄອນລາຍນິ້ວມື"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "ບໍ່ຮູ້ຈັກລາຍນິ້ວມືນີ້. ລອງໃໝ່."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "ຍັບນິ້ວໄວເກີນໄປ. ລອງອີກຄັ້ງ."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "ທ່ານຕ້ອງການເປີດຂໍ້ສະເໜີແນະການຄົ້ນຫາ ຫຼື ບໍ່?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1372,6 +1372,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"ເປີດທຸກລີ້ງໃນ%1$s\n"
+" ຕັ້ງ %1$s ເປັນບ່າວເຊີເລີ່ມຕົ້ນ"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1381,6 +1383,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"ເຕີມ URLs ໂດຍອັດຕະໂນມັດສຳລັບເວັບໄຊທີ່ທ່ານໃຊ້ຫຼາຍທີ່ສຸດ\n"
+" ແຕະຄ້າງທີ່ URL ໃດໆ ໃນແທບທີ່ຢູ່"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1390,6 +1394,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"ເປີດລີ້ງໃນແທບໃໝ່\n"
+" ແຕະຄ້າງທີ່ລີ້ງໃດໆໃນໜ້າ"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
@@ -1404,4 +1410,4 @@ msgstr ""
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "ປິດເຄັດລັບໃນໜ້າຈໍເລີ່ມຕົ້ນຂອງ%1$s"
