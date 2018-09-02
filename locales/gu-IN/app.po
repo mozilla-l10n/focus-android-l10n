@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-02 04:51+0000\n"
+"PO-Revision-Date: 2018-09-02 05:03+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -1228,75 +1228,75 @@ msgstr "અગાઉના પરિણામ શોધો"
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "પાનાંના શોધો કાઢી નાખો"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "પ્રમાણીકરણ આવશ્યક છે"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "વપરાશકર્તા નામ"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "પાસવર્ડ"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "ડેસ્કટૉપ સાઇટની વિનંતી કરો"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL નકલ કરી"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "વિકાસકર્તા સાધનો"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "અદ્યતન"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "USB/Wi-Fi દ્વારા દૂરસ્થ ડિબગીંગ"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$sને ખોલો"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "ચાલુ રાખવા માટે ફિંગરપ્રિન્ટ સેન્સરને સ્પર્શ કરો."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "નવું સત્ર"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "આંગળીની ચિહ્ન"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
