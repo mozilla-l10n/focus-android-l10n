@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-29 06:01+0000\n"
+"PO-Revision-Date: 2018-09-02 11:48+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -279,7 +279,7 @@ msgstr "Prejemaj predloge iskanja"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s bo natipkano v naslovno vrstico poslal iskalniku"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -493,7 +493,7 @@ msgstr "Uporabljaj prstni odtis za odklepanje aplikacije"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Če je v %1$su odprt spletni naslov, lahko aplikacijo odklenete s prstnim odtisom. Skrivni način bo vključen."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1323,7 +1323,7 @@ msgstr "Želite vključiti predloge iskalnika?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Da pridobi predloge iskanja, mora %1$s besede, ki jih natipkate v naslovno vrstico, poslati izbranemu iskalniku. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1392,6 +1392,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Samodejno dokončajte spletne naslove za strani, ki jih najpogosteje obiskujete\n"
+" Pridržite prst na kateremkoli spletnem naslovu v naslovni vrstici"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
