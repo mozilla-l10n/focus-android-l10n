@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-02 04:31+0000\n"
+"PO-Revision-Date: 2018-09-02 04:51+0000\n"
 "Last-Translator: Drashti <drashtipandya37@gmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -238,32 +238,32 @@ msgstr "મૂળભૂત સેટ કરો, સ્વતઃપૂર્ણ"
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "%1$s વિશે, સહાય"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "ટ્રેકિંગ રક્ષણ"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "વેબ સામગ્રી"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "એપ્લિકેશન બદલો"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "સામાન્ય"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "માહિતીનો સંગ્રહ અને ઉપયોગ"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -272,7 +272,7 @@ msgstr "શોધો"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "શોધ સૂચનો મેળવો"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
@@ -348,12 +348,12 @@ msgstr "પોતાનું URL ઉમેરો"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr ""
+msgstr "કૂકીઝ અને સાઈટની માહિતી"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "માહિતી પસંદગીઓ"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -385,7 +385,7 @@ msgstr "પેસ્ટ કરો અથવા URL દાખલ કરો"
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr ""
+msgstr "ઉદાહરણ: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
@@ -484,7 +484,7 @@ msgstr "હા"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "એપ્લિકેશનને અનલૉક કરવા માટે આંગળીના નીશાનનો ઉપયોગ કરો"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -514,7 +514,7 @@ msgstr "એપ્લિકેશન્સને સ્વિચ કરતી વ
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "સુરક્ષા"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -747,7 +747,7 @@ msgstr "પાછલા એપ્લિકેશન પર પાછા ફર�
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "અવરોધિત ટ્રેકર્સની સંખ્યા"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1189,12 +1189,12 @@ msgstr "URL પહેલાથી અસ્તિત્વમાં"
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "પાનાંમાં શોધો"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "પાનાંમાં શોધો"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1202,7 +1202,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1210,19 +1210,19 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%2$d માંથી %1$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "આગામી પરિણામ શોધો"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "અગાઉના પરિણામ શોધો"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
