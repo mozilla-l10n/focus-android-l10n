@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-02 10:31+0000\n"
+"PO-Revision-Date: 2018-09-02 12:22+0000\n"
 "Last-Translator: Slimane AMIRI <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -507,10 +507,9 @@ msgstr "Tusligt"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Ffer isebtar web ticki tettbeddileḍ gar isnasen"
+msgstr "Ffer isebtar web ticki tettbeddileḍ gar isnasen sakin sewḥel tuṭṭfa n ugdil."
 
 msgctxt "preference_category_security"
 msgid "Security"
