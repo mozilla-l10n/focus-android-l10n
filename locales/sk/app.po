@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-31 22:57+0000\n"
-"Last-Translator: delphine <dlebedel@mozilla.com>\n"
+"PO-Revision-Date: 2018-09-02 10:06+0000\n"
+"Last-Translator: Juraj Cigáň <kusavica@gmail.com>\n"
 "Language-Team: sk <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -507,7 +507,6 @@ msgstr "Nenápadnosť"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
 msgstr "Skryje náhľad webových stránok pri zobrazení nedávnych aplikácii a zablokuje ukladanie snímok obrazovky."
@@ -1419,4 +1418,4 @@ msgstr "Chceli by ste radšej vidieť verziu stránky pre počítače?%1$s Ponuk
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Vypnúť tipy na úvodnej obrazovke aplikácie %1$s"
