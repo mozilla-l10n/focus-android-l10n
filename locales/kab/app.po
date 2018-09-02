@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-02 09:37+0000\n"
+"PO-Revision-Date: 2018-09-02 10:09+0000\n"
 "Last-Translator: Slimane AMIRI <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -1314,7 +1314,7 @@ msgstr "Tebɣiḍ ad tekkseḍ armad n isumren n unadi?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Akken ad tawiḍ isumar n unadi, %1$s isra ad ak-yazen  acu n tewsit deg ufeggag n tansa ɣer umsedday n unadi i tferneḍ. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1336,7 +1336,7 @@ msgstr "Ih"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Kra n imseddayen n unadi ur zmiren ara ad d-sken isumar."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1353,13 +1353,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Tigawin ur nettwerǧu sɣur usmel?\n"
+" Ɛṛeḍ ad tsenseḍ ammesten n usfuɣel"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Awi anekcum fessusen ɣer ismal  i tseqdaceḍ aṭas %1$s Umuɣ > Rnu ɣer ugdil agejdan"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1371,6 +1372,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Ldi yal aseɣwen deg %1$s\n"
+" Sbadu %1$s d iming amezwar"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1380,6 +1383,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Taččarant tawurmant URLs i yismal i tseqdaceḍ aṭas \n"
+" Asenned ɣezzifen ɣef URL ibɣu yilli deg ufeggag n tansiwin"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
