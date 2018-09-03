@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-26 11:17+0000\n"
+"PO-Revision-Date: 2018-09-03 19:08+0000\n"
 "Last-Translator: Lasse Liehu <lasse.liehu@iki.fi>\n"
 "Language-Team: fi <LL@li.org>\n"
 "Language: fi\n"
@@ -98,7 +98,7 @@ msgstr "Avaa sovelluksella…"
 #. (launcher).
 msgctxt "menu_add_to_home_screen"
 msgid "Add to Home screen"
-msgstr "Lisää linkki kotinäkymään"
+msgstr "Lisää linkki aloitusnäyttöön"
 
 #. Menu item: Shows information about features and changes that are new to
 #. this version
@@ -238,7 +238,7 @@ msgstr "Aseta oletus, automaattinen täydennys"
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr "Tietoja %1$sesta, ohje"
+msgstr "Tietoja: %1$s, ohje"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -272,14 +272,14 @@ msgstr "Haku"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Nouda hakuehdotuksia"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s lähettää osoiteriville kirjoittamasi tiedot hakukoneelle"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -507,14 +507,13 @@ msgstr "Häivetila"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Piilota verkkosivut vaihdettaessa sovellusta ja estä kuvakaappaukset."
+msgstr "Piilota verkkosivut vaihdettaessa sovellusta ja estä kuvakaappausten ottaminen."
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Turvallisuus"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -580,7 +579,7 @@ msgstr "Tietosuojakäytäntö"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "Tietoja %1$sesta"
+msgstr "Tietoja: %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -610,7 +609,7 @@ msgstr "Poista"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Näytä aloitusnäytön vihjeet"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -747,7 +746,7 @@ msgstr "Palaa edelliseen sovellukseen"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Estettyjen seuraimien määrä"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1008,14 +1007,14 @@ msgstr "Haetko jotain erilaista? Valitse asetuksista toinen oletushakukone."
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr "Lisää linkki kotinäkymään"
+msgstr "Lisää linkki aloitusnäyttöön"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Avaa suosikkisivusi nopeasti %1$sessa. Valitse vain \"Lisää linkki kotinäkymään\" %1$s valikosta."
+msgstr "Avaa suosikkisivusi nopeasti %1$sissa. Valitse \"Lisää linkki aloitusnäyttöön\" %1$s -valikosta."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1265,7 +1264,7 @@ msgstr "Kehittäjätyökalut"
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Lisäasetukset"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
@@ -1277,7 +1276,7 @@ msgstr "Etävianjäljitys USB:n/Wi-Fi:n välityksellä"
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Avaa %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1296,21 +1295,21 @@ msgstr "Uusi istunto"
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Sormenjäljen kuvake"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Sormenjälkeä ei tunnistettu. Yritä uudelleen."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Sormi liikkui liian nopeasti. Yritä uudelleen."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
@@ -1415,4 +1414,4 @@ msgstr ""
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Poista vihjeet käytöstä %1$s -aloitusnäytöltä"
