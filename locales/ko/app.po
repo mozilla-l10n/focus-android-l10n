@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-05-23 02:51+0000\n"
+"PO-Revision-Date: 2018-09-04 09:52+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
-"Language: ko\n"
 "Language-Team: ko <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -196,12 +197,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s를 여러 기능으로 사용할 수 있습니다.</p>\n"
@@ -212,8 +211,7 @@ msgstr ""
 "    <li>인터넷 기록이나 검색 기록, 쿠키 삭제</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s는 Mozilla의 제품입니다. Mozilla의 사명은 건강하고 개방적인 인터넷을 조성하는 것입니다.<br/><a "
-"href=\"%2$s\">더 알아보기</a></p>"
+"<p>%1$s는 Mozilla의 제품입니다. Mozilla의 사명은 건강하고 개방적인 인터넷을 조성하는 것입니다.<br/><a href=\"%2$s\">더 알아보기</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -273,14 +271,14 @@ msgstr "검색"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "추천 검색어 켜기"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "주소창에 입력을 하면 %1$s가 이를 검색 엔진에 보냄"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -451,9 +449,7 @@ msgid "Block social trackers"
 msgstr "소셜 추적기 차단"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
 msgstr "사용자의 방문 기록을 추적하거나 공유 버튼과 같은 기능을 표시하기 위해 사이트에 내장되어 있습니다"
 
 msgctxt "preference_privacy_block_content"
@@ -487,7 +483,7 @@ msgstr "예"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "잠금 헤제에 지문을 사용"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -495,10 +491,8 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "앱에 URL이 이미 열려 있다면 지문으로 %1$s를 잠금 해제 할 수 있습니다. 스텔스가 켜집니다."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -512,14 +506,13 @@ msgstr "스텔스"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "앱 전환 시 현재 앱에서의 웹페이지 정보를 숨김"
+msgstr "앱 전환 시 웹페이지를 감추고 스크린샷을 못찍게 합니다."
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "보안"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -572,9 +565,7 @@ msgstr "상세정보"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr "Mozilla는 %1$s 이용에 더 나은 서비스를 제공하고 향상시키는 데 오직 필요한 정보만을 수집합니다."
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -617,7 +608,7 @@ msgstr "삭제"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "홈 스크린 팁 표시"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -754,7 +745,7 @@ msgstr "이전 앱으로 돌아가기"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "차단된 추적기 수"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -791,9 +782,7 @@ msgstr "링크를 열 수 있는 앱 찾기"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "이 링크를 열 수 있는 앱이 설치돼있지 않습니다. %1$s를 종료하고 %2$s를 열어 이 링크를 열 수 있는 앱을 찾을 수 있습니다."
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -852,10 +841,8 @@ msgstr "연결할 수 없음"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -877,8 +864,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -895,10 +881,8 @@ msgstr "주소가 올바르지 않습니다"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -913,8 +897,7 @@ msgstr "페이지가 제대로 이동되지 않았습니다"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -928,8 +911,7 @@ msgstr "인식할 수 없는 주소입니다"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -943,18 +925,15 @@ msgstr "보안 연결 실패"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  <li>이는 서버의 구성에 문제가 있거나 누군가가 만든 가짜 서버로 연결시키려고 할 때 발생될 수 있습니다.</li>\n"
-"  <li>만약 이전에 서버에 제대로 연결됐던 적이 있었다면, 에러가 잠깐동안만 발생한 것일 확률이 높습니다. 나중에 다시 "
-"시도해보세요.</li>\n"
+"  <li>만약 이전에 서버에 제대로 연결됐던 적이 있었다면, 에러가 잠깐동안만 발생한 것일 확률이 높습니다. 나중에 다시 시도해보세요.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -999,9 +978,7 @@ msgstr "새 탭으로 링크 열기"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "%1$s 기록을 지울 때 <b>저장 및 공유된 이미지</b>는 삭제되지 않습니다."
 
 #. First run tour (Default browser): Title
@@ -1011,12 +988,8 @@ msgstr "개인정보 보호 강화하기"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"한 단계 높은 개인 정보 보호 브라우징을 즐겨보세요. 사이트의 경계를 넘어 개인정보를 추적하거나, 페이지 로딩 속도를 늦추는 원인이"
-" 되는 광고 및 기타 콘텐츠를 자동으로 차단해 줍니다."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "한 단계 높은 개인 정보 보호 브라우징을 즐겨보세요. 사이트의 경계를 넘어 개인정보를 추적하거나, 페이지 로딩 속도를 늦추는 원인이 되는 광고 및 기타 콘텐츠를 자동으로 차단해 줍니다."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1025,9 +998,7 @@ msgstr "검색을 내 입맛대로"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "다른 방식으로 검색을 원하세요? 설정에서 다른 검색 엔진을 기본값으로 선택할 수 있습니다."
 
 #. First run tour (Shortcut): Title
@@ -1039,9 +1010,7 @@ msgstr "초기 화면에 바로 가기 추가"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr "%1$s에서는 자주 방문하는 사이트로 빠르게 이동할 수 있습니다. %1$s 메뉴에서 \"초기 화면에 추가하기\" 를 이용하세요."
 
 #. First run tour (Privacy): Title
@@ -1053,9 +1022,7 @@ msgstr "사생활 보호를 습관처럼"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr "%1$s 를 기본 브라우저로 설정하시면, 다른 앱에서 웹페이지를 열어볼 때 언제든지 개인 정보 보호의 혜택을 누릴 수 있습니다."
 
 msgctxt "firstrun_close_button"
@@ -1117,9 +1084,7 @@ msgstr "개인 정보 보호 브라우징 세션"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr "알림에서는 %1$s 세션을 탭 한번으로 삭제할 수 있습니다. 앱을 실행하거나 브라우저에 열려 있는 세션을 확인할 필요가 없습니다."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1139,21 +1104,15 @@ msgstr "Firefox 다운로드"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr "%1$s는 Mozilla와 다른 공헌자들이 만들고 배포하는 무료 오픈 소스 소프트웨어 입니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s는 <a href=\"%2$s\">Mozilla 공개 라이선스</a> 및 기타 다른 오픈 소스 라이선스 이용 약관에 따라 "
-"제공됩니다."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s는 <a href=\"%2$s\">Mozilla 공개 라이선스</a> 및 기타 다른 오픈 소스 라이선스 이용 약관에 따라 제공됩니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1161,22 +1120,15 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"귀하는 Mozilla와 Firefox, %1$s 명칭이나 로고를 포함한 Mozilla 재단 및 다른 서비스 제공자 소유의 "
-"지적재산권으로 보호받는 권리나 라이선스가 부여되는 것이 아님을 인지하셔야 합니다. 추가적인 정보는 <a "
-"href=\"%2$s\">다음</a>을 참고하시기 바랍니다."
+msgstr "귀하는 Mozilla와 Firefox, %1$s 명칭이나 로고를 포함한 Mozilla 재단 및 다른 서비스 제공자 소유의 지적재산권으로 보호받는 권리나 라이선스가 부여되는 것이 아님을 인지하셔야 합니다. 추가적인 정보는 <a href=\"%2$s\">다음</a>을 참고하시기 바랍니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 msgstr "%1$s의 소스 코드는 기타 다양한 무료 및 오픈 소스 <a href=\"%2$s\">라이선스</a> 계약에 따라 무료로 제공됩니다."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1185,14 +1137,8 @@ msgstr "%1$s의 소스 코드는 기타 다양한 무료 및 오픈 소스 <a hr
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s는 Disconnect, Inc에서 제공하는 차단목록에서 <a href=\"%2$s\">GNU General Public "
-"License v3</a>를 바탕으로 자체적으로 별도로 관리하는 차단목록을 사용합니다. 자세한 내용은 <a "
-"href=\"%3$s\">다음</a>에서 확인할 수 있습니다."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s는 Disconnect, Inc에서 제공하는 차단목록에서 <a href=\"%2$s\">GNU General Public License v3</a>를 바탕으로 자체적으로 별도로 관리하는 차단목록을 사용합니다. 자세한 내용은 <a href=\"%3$s\">다음</a>에서 확인할 수 있습니다."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1235,12 +1181,12 @@ msgstr "URL이 이미 존재함"
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "페이지내 검색"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "페이지내 검색"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1248,7 +1194,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1256,112 +1202,112 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%2$d 중 %1$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "다음 결과 찾기"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "이전 결과 찾기"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "페이지에서 찾기 해제"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "인증 필요"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "사용자명"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "비밀번호"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "데스크톱 사이트 요청"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL 복사됨"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "개발자 도구"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "고급"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "USB/Wi-Fi 원격 디버깅"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$s 잠금 해제"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "지문 센서를 터치해주세요."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "새 세션"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "지문 아이콘"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "지문이 인식되지 않았습니다. 다시 시도해 주세요."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "손가락을 너무 빨리 움직였습니다. 다시 시도해 주세요."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "검색 자동완성을 사용하시겠습니까?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1369,38 +1315,36 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "검색 자동 완성을 사용하려면 %1$s가 주소창에 입력한 내용을 선택한 검색 엔진에 보내야 합니다. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "자세히 보기"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "일부 검색 엔진은 추천을 표시할 수 없습니다."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "닫기"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1411,13 +1355,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"사이트가 잘 작동하지 않나요?\n"
+" 추적 방지를 꺼보세요"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "자주 사용하는 사이트를 탭 한번으로 여세요%1$s 메뉴 > 홈 화면에 추가"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1429,6 +1374,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"모든 링크를 %1$s에서 엽니다\n"
+" %1$s를 기본 브라우저로 설정"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1462,4 +1409,3 @@ msgstr ""
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
 msgstr ""
-
