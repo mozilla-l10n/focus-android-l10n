@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-05 21:12+0000\n"
+"PO-Revision-Date: 2018-09-05 21:28+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
@@ -1345,13 +1345,13 @@ msgstr "Si"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Algunos motores de búsqueda no pueden mostrar sugerencias."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Ignorar"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1362,13 +1362,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"¿El sitio se comporta de forma inesperada?\n"
+" Intenta desactivar la protección contra el rastreo"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Obtén acceso con un toque a los sitios que más usas %1$s Menú > Añadir a la pantalla de inicio"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1380,6 +1381,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Abrir todos los enlaces en %1$s\n"
+" Establecer %1$s como navegador predeterminado"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1389,6 +1392,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Autocompletar las URLs para los sitios que más usas\n"
+" Mantén presionada cualquier URL en la barra de direcciones"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1398,18 +1403,19 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Abrir un enlace en una nueva pestaña\n"
+" Mantén presionado cualquier enlace de una página"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "¿Prefieres ver el sitio de escritorio?%1$s Menú > Solicitar sitio de escritorio"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Desactivar los consejos en la pantalla de inicio de %1$s"
