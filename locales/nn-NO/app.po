@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-10 05:43+0000\n"
+"PO-Revision-Date: 2018-09-10 14:21+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -279,7 +279,7 @@ msgstr "Få søkjeforslag"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s sender det du skriv i adressefeltet til søkjemotoren din"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
