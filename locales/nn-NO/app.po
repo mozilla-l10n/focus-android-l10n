@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-10 15:48+0000\n"
+"PO-Revision-Date: 2018-09-10 23:51+0000\n"
 "Last-Translator: Bjørn I. <bjorn.svindseth@online.no>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -507,10 +507,9 @@ msgstr "Usynleg løyndmodus"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Gøym nettsider når du byter appar og blokker skjermbildeknipsing."
+msgstr "Gøym nettsider når du byter appar og unngå at det vert knipsa skjermbilde."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1300,19 +1299,19 @@ msgstr "Fingeravtrykkikon"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Fingeravtrykk ikkje identifisert. Prøv igjen."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Fingeren rørte seg for fort. Prøv igjen."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Vil du skru på søkjeforslag?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1321,7 +1320,7 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "For å få søkjeforslag treng %1$s å senda det du skriv i adressefeltet til søkjemotoren du har valt. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1343,7 +1342,7 @@ msgstr "Ja"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Nokre søkjemotorar kan ikkje vise forslag."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1360,13 +1359,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Oppfører sida seg uventa?\n"
+" Prøv å deaktivera sporingsvern"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Få tilgang dei meste besøkte nettstedene med eit knapptrykk%1$s Meny > Legg til på startskjermen"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1378,6 +1378,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Opna kvar lenke i %1$s\n"
+" Vel %1$s som standardnettlesar"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1387,6 +1389,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Autofullfør nettadresser for nettstadar du brukar mest\n"
+" Trykk og hald på ei nettadresse i adressefeltet"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1396,14 +1400,15 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Opna ei lenke i ei ny fane\n"
+" Trykk og hald på ei lenke på ei side"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "Vil du heller sjå full skrivebordsversjon?%1$s Meny > Vis skrivebordversjon"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
