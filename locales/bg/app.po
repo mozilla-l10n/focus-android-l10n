@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-10 06:12+0000\n"
+"PO-Revision-Date: 2018-09-10 06:28+0000\n"
 "Last-Translator: Ognyan Kulev <ognyan@ognyankulev.com>\n"
 "Language-Team: bg <LL@li.org>\n"
 "Language: bg\n"
@@ -493,7 +493,7 @@ msgstr "Използване на пръстов отпечатък за отк�
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Вашият пръстов отпечатък ще отключи %1$s, ако вече има отворена страница в приложението. Невидимият режим ще се включи."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -513,7 +513,7 @@ msgstr "Скриване на страниците при превключван
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Защита"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -609,7 +609,7 @@ msgstr "Премахване"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Показване на съвети на началния екран"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -746,7 +746,7 @@ msgstr "Връщане към предишното приложение"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Брой спрени проследяващи елементи"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1251,62 +1251,62 @@ msgstr "Адресът е копиран"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Развойни инструменти"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "Разширени"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Отдалечено отстраняване на дефекти през USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Отключване на %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Докоснете датчика за пръстов отпечатък, за да продължите."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Нова сесия"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "Картинка на пръстов отпечатък"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Пръстовият отпечатък не е разпознат. Опитайте отново."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Пръстът се придвижи твърде бързо. Опитайте пак."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Желаете ли да включите предложенията при търсене?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1315,35 +1315,35 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "За да получавате предложения при търсене, %1$s трябва да изпраща въвежданото в адресната лента на търсачката, която сте избрали. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "Научете повече"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "Някои търсачки не могат да показват предложения."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "Затваряне"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1354,13 +1354,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Сайтът се държи неочаквано?\n"
+" Опитайте да изключите защитата от проследяване"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Получете достъп с едно докосване до сайтовете, които използвате често%1$sМеню > Добавяне към началния екран"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1372,6 +1373,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Отваряйте всяка препратка в %1$s\n"
+" Задайте %1$s като стандартен четец"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1381,6 +1384,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Автоматизирано завършвайте адреси на често посещавани сайтове\n"
+" Натиснете продължително върху адрес в адресната лента"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1390,18 +1395,19 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Отваряйте препратки в нов раздел\n"
+" Натиснете продължително върху препратка в страница"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "Искате да видите пълния настолен изглед на сайт?%1$s Меню > Настолна версия на сайта"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Изключване на съветите на началния екран на %1$s"
