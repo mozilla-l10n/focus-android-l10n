@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-10 07:43+0000\n"
+"PO-Revision-Date: 2018-09-11 22:07+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: nb_NO <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -484,7 +484,7 @@ msgstr "Ja"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr "Brug fingeravtrykk til å låse opp appen"
+msgstr "Bruk fingeravtrykk til å låse opp appen"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -1341,7 +1341,7 @@ msgstr "Ja"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr "Noen søkmotorer kan ikke vise forslag."
+msgstr "Noen søkemotorer kan ikke vise forslag."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
