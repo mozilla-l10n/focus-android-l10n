@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-08-29 05:20+0000\n"
-"Last-Translator: Lotus Black <dr.lotusblack@gmail.com>\n"
+"PO-Revision-Date: 2018-09-15 02:53+0000\n"
+"Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
 "MIME-Version: 1.0\n"
@@ -463,7 +463,7 @@ msgstr "လုပ်ဆောင်ချက်ကို ဖွင့်လိ�
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "ကွတ်ကီးများကို ဖျောက်ထားပါ"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -474,7 +474,7 @@ msgstr "မဟုတ်ပါ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "ပြင်ပကွက်ကီးများကို မသိမ်းပါနှင့်"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -514,7 +514,7 @@ msgstr "အက်ပ်များကို ခုန်ကူးနေစဉ�
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "လုံခြုံရေး"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -538,7 +538,7 @@ msgstr "JavaScript ကိုပိတ်ဆို့ရန်"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "စာမျက်နှာများ မြန်ဆန်စွာ ဆွဲတင်သော်လည်း မှန်ကန်စွာ အလုပ်မလုပ်ပါ"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -585,26 +585,26 @@ msgstr "%1$s အကြောင်း"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "သွင်းထားသော ရှာဖွေအင်ဂျင်များ"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "ပုံသေ ရှာဖွေအင်ဂျင်များကို မူလအတိုင်း ပြန်သတ်မှတ်ပါ"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ အခြားရှာဖွေအင်ဂျင်ကို ထပ်ထည့်ပါ"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "ရှာဖွေအင်ဂျင်များ ဖယ်ရှားပါ"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "ဖယ်ရှားပါ"
 
 #. Title: Homescreen tips settings toggle to determine whether or not tips are
 #. displayed when      a user first launches the app.
@@ -621,41 +621,41 @@ msgstr "ရှာဖွေရေး အင်ဂျင် တိုးရန်"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "အင်ဂျင်နာမည် ရှာဖွေပါ"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "အသုံးပြုရန် စာကြောင်းရှာဖွေပါ"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "သိမ်းဆည်းပါ"
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Example: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "ရှာဖွေအင်ဂျင်အသစ် ထည့်ခဲ့သည်"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "ရှာဖွေအင်ဂျင်နာမည် ဝင်ပါ"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "သွင်းပြီးရှာဖွေအင်ဂျင်ကို ဒီနာမည်ဖြင့် အသုံးပြုပြီးဖြစ်သည်"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "စာကြောင်းဖြင့် ရှာဖွေဝင်ရောက်ပါ"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "ရှာဖွေစာကြောင်း ဥပမာပုံစံဖြင့် ကိုက်ညီမှုရှိမရှိ စစ်ဆေးပါ"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -1149,50 +1149,50 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "သုံးစွဲသူ အမည်"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "စကားဝှက်"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "ရှင်းလင်းပါ"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "လုံခြုံသော ချိတ်ဆက်မှု"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "မလုံခြုံသော ချိတ်ဆက်မှု"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "%1$s မှစစ်ဆေးပြီး"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "ဆိုက် လုံခြုံရေး"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL ရှိပြီးပြီ။"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "စာမျက်နှာထဲတွင် ရှာပါ"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "စာမျက်နှာထဲတွင် ရှာပါ"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1200,7 +1200,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1208,51 +1208,51 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%2$d ရဲ့ %1$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "နောက်ထပ်ရလဒ် ရှာပါ"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "ပြီးခဲ့သည့်ရလဒ် ရှာပါ"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "စာမျက်နှာတွင် ရှာဖွေမှု ဖယ်ထုတ်ပါ"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "စစ်ဆေးခြင်း လိုအပ်သည်"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "သုံးစွဲသူ အမည်"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "စကားဝှက်"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "ဒတ်စ်တောခ့်ဆိုက်ကို တောင်းပါ"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL ကူးခဲ့သည်"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
@@ -1263,7 +1263,7 @@ msgstr ""
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "အဆင့်မြင့်"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
@@ -1281,7 +1281,7 @@ msgstr ""
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "ဆက်သွားရန် လက်ဗွေအာရုံခံစနစ်ကို ထိတွေ့ပါ။"
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1313,7 +1313,7 @@ msgstr ""
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "ရှာဖွေရေး အကြံပေးချက်များကို ဖွင့်လိုပါသလား?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1328,29 +1328,29 @@ msgstr ""
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "ပိုမို လေ့လာရန်"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "မလုပ်တော့ပါ"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "လုပ်မည်"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "အချို့သော ရှာဖွေရေးအင်ဂျင်များသည် အကြံပေးချက်များကို မပြသပေးနိုင်ပါ။"
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "ဖြုတ်ရန်"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
