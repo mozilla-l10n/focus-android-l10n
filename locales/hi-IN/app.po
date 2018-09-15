@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-01 09:28+0000\n"
-"Last-Translator: Dhiraj Kumar Singh <Singhdhiraj255@gmail.com>\n"
+"PO-Revision-Date: 2018-09-15 11:14+0000\n"
+"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -49,14 +49,14 @@ msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
 msgstr ""
-"स्वचालित निजी ब्राउज़िंगl\n"
-"ब्राउज़ करेंl मिटाएँl दोहराएँl"
+"स्वचलित निजी ब्राउज़िंग।\n"
+"ब्राउज़ करें। मिटाएँ। दोहराएँ।"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "आपका ब्राउज़िंग इतिहास मिटा दिया गया हैl"
+msgstr "आपका ब्राउज़िंग इतिहास मिटा दिया गया है।"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -368,7 +368,7 @@ msgstr "और जानें"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "उपभोक्ता संशोधित स्वत: पूर्ण URLs जोड़ें और प्रबंधित करेंl"
+msgstr "उपभोक्ता संशोधित स्वत: पूर्ण URLs जोड़ें और प्रबंधित करें।"
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -396,7 +396,7 @@ msgstr "उदाहरण: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "नया उपभोक्ता संशोधित URL जोड़ा गयाl"
+msgstr "नया उपभोक्ता संशोधित URL जोड़ा गया।"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
