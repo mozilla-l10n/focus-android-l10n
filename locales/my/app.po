@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-15 02:53+0000\n"
+"PO-Revision-Date: 2018-09-16 06:26+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -484,7 +484,7 @@ msgstr "ဟုတ်ပါသည်"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "အက်ပ်ကို ဖွင့်ရန် လက်ဗွေကို အသုံးပြုပါ"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -610,7 +610,7 @@ msgstr "ဖယ်ရှားပါ"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "စတင်အသုံးပြုရာ ဖန်သားပြင်တွင် အကြံပြုချက်များ ပြပါ"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -747,7 +747,7 @@ msgstr "အရင်ကအက်ပ်သို့ သွားပါ"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "တားဆီးထားသော ခြေရာခံကိရိယာ အရေအတွက်"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1258,7 +1258,7 @@ msgstr "URL ကူးခဲ့သည်"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "ကျွမ်းကျင်သူသုံး ကိရိယာ"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1268,14 +1268,14 @@ msgstr "အဆင့်မြင့်"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "USB/Wi-Fi မှတဆင့် Remote debugging"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$s ကို ဖွင့်ရန်"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1288,27 +1288,27 @@ msgstr "ဆက်သွားရန် လက်ဗွေအာရုံခံ�
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Session အသစ်"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "လက်ဗွေပုံငယ်"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "လက်ဗွေကို မသိပါ။ ထပ်မံ ကြိုးစားကြည့်ပါ။"
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "လက်ချောင်းရွှေ့ခြင်း မြန်လွန်းသည်။ ထပ်မံ ကြိုးစားကြည့်ပါ။"
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
