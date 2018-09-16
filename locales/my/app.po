@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-16 10:11+0000\n"
+"PO-Revision-Date: 2018-09-16 10:28+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -279,7 +279,7 @@ msgstr "ရှာဖွေရေး အကြံပေးချက်မျာ�
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "လိပ်စာဘားတန်းတွင် ရိုက်သမျှကို %1$s သည် ရှာဖွေရေးယန္တရားသို့ ပေးပို့ပါမည်။"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -316,7 +316,7 @@ msgstr "ပုံသေ URL စာရင်း"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr ""
+msgstr "လိပ်စာဘားတန်းတွင် လူသုံးများ URLs 450 ကျော် %1$s အလိုအလျောက်စာဖြည့်စနစ်ရရှိရန် ဖွင့်ပါ။"
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -507,10 +507,9 @@ msgstr "တိတ်တဆိတ်အသုံးပြုမှု"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "အက်ပ်များကို ခုန်ကူးနေစဉ် ဝဘ်စာမျက်နှာများကို မပြပါနှင့်"
+msgstr "အက်ပ်များကို ပြောင်းလဲအသုံးပြုနေစဉ် ဝဘ်စာမျက်နှာများကို မပြပါနှင့်။ ထို့ပြင် မျက်နှာပြင်ပုံရိပ်ဖမ်းခြင်းကို တားဆီးပါ။"
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1366,10 +1365,9 @@ msgstr ""
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "အသုံးများသောဆိုက်များကို တစ်ကြိမ်နှိပ်ပြီး သွားရောက်နိုင်ရန် %1$s မီနူး > စတင်အသုံးပြုရာ ဖန်သားပြင်သို့ ပို့ပါ"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1381,6 +1379,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"%1$s ရှိ လင့်ခ်တိုင်းကို ဖွင့်ပါ\n"
+" %1$s ကို မူသေဘရောက်ဇာအဖြစ် သတ်မှတ်ပါ"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1390,6 +1390,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"သင်အသုံးပြုများသော ဆိုက်များ၏ URLs ကို အလိုအလျောက်ဖြည့်ပါမည်\n"
+" လိပ်စာဘားတန်းထဲတွင် မည်သည့် URL ကိုမဆို ကြာကြာဖိပြီး ဖွင့်နိုင်သည်"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1405,10 +1407,9 @@ msgstr ""
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "ဒက်စတော့ဆိုက်ကိုသာ ကြည့်ရှုလိုပါသလား။ %1$s မီနူး > ဒက်စတော့ဆိုက်ကို ပြပါ"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
