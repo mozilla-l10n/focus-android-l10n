@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-16 06:26+0000\n"
+"PO-Revision-Date: 2018-09-16 10:11+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -493,7 +493,7 @@ msgstr "အက်ပ်ကို ဖွင့်ရန် လက်ဗွေက�
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "အကယ်၍ URL ကို အက်ပ်ထဲတွင် ဖွင့်ပြီးသားဖြစ်ပါက သင့်လက်ဗွေသည် %1$s ကို ဖွင့်မည်။ Stealth စနစ် အသက်ဝင်ပါမည်။"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1322,7 +1322,7 @@ msgstr "ရှာဖွေရေး အကြံပေးချက်မျာ�
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "ရှာဖွေရေးအကြံပြုချက်များကို အသုံးပြုနိုင်ရန် လိပ်စာဘားတန်းတွင် ရိုက်သမျှကို သင်ရွေးချယ်ထားသော ရှာဖွေရေးယန္တရားထံသို့ %1$s က ပေးပို့ရန် လိုအပ်သည်။ %2$s"
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1361,6 +1361,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"ဝဘ်ဆိုက်သည် မူမမှန်ဖြစ်နေပါသလား။\n"
+" ခြေရာခံကာကွယ်မှုစနစ်ကို ပိတ်ပြီး ပြန်စမ်းကြည့်ပါ။"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
@@ -1397,6 +1399,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"လင့်ခ်ကို တဗ်ပ်အသစ်တွင် ဖွင့်ပါ\n"
+" စာမျက်နှာရှိ မည်သည့်လင့်ခ်တွင်မဆို ကြာကြာဖိပြီး ဖွင့်နိုင်သည်"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
@@ -1411,4 +1415,4 @@ msgstr ""
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "%1$s စတင်အသုံးပြုရာ ဖန်သားပြင်တွင် ဖော်ပြသော အကြံပြုချက်များကို ပိတ်ပါ"
