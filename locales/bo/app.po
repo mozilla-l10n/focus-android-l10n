@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-22 16:30+0000\n"
+"PO-Revision-Date: 2018-09-22 16:50+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -822,7 +822,7 @@ msgstr ""
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr " བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
@@ -1147,12 +1147,12 @@ msgstr ""
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "ཤོག་ངོས་ནང་འཚོལ་བཤེར་བྱོས།"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "ཤོག་ངོས་ནང་འཚོལ་བཤེར་བྱོས།"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1160,7 +1160,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1174,13 +1174,13 @@ msgstr ""
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "ཤོག་ངོས་ཞོལ་མ།"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "ཤོག་ངོས་གོང་མ།"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
@@ -1206,7 +1206,7 @@ msgstr "གསང་གྲངས།"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "གློག་ཀླད་དྲ་ངོས་རེ་སྐུལ་བྱེད་པ།"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
@@ -1223,7 +1223,7 @@ msgstr ""
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "མཐོ་རིམ།"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
