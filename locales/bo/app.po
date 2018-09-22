@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-22 17:29+0000\n"
+"PO-Revision-Date: 2018-09-22 17:47+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -241,7 +241,7 @@ msgstr "དྲ་ངོས་བརྗོད་བྱ།"
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "མཉེན་ཆས་རྗེ་བཞིན་པ།"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
@@ -251,7 +251,7 @@ msgstr "སྤྱི་བཀོལ།"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "གནས་ཚུལ་བསྡུས་རུབ་དང་བེད་སྤྱོད།"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -389,13 +389,13 @@ msgstr ""
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "སུབ་པ།"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr ""
+msgstr "སུབ་པ།"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
@@ -411,11 +411,11 @@ msgstr "སྐད་ཡིག"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "ཐོག་མའི་མ་ལག་སྐད་ཡིག་"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "གངས་རྒྱ།"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
