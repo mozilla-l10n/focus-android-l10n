@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-22 18:53+0000\n"
+"PO-Revision-Date: 2018-09-22 19:06+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -48,7 +48,7 @@ msgctxt "teaser"
 msgid ""
 "Automatic private browsing.\n"
 "Browse. Erase. Repeat."
-msgstr "རང་འགུལ་དྲྭ་འཚོལ། དྲྭ་འཚོལ། བསུབ་པ། བསྐྱར་འཚོལ།"
+msgstr "རང་གྲུབ་དྲྭ་འཚོལ། དྲྭ་འཚོལ། བསུབ་པ། བསྐྱར་འཚོལ།"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
@@ -779,7 +779,7 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "གསང་རྒྱ་ནས་ཕྱིར་ཐོན་དགོས་ཡིན་ནམ།"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -791,7 +791,7 @@ msgstr ""
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "ཁ་ཕྱེ་བ།"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
@@ -1304,7 +1304,7 @@ msgstr "རེད།"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "བཤར་ཆས་འགའ་ཤས་ཀྱིས་འཚོལ་བཤེར་བསམ་འཆར་འདོན་མི་ཐུབ།"
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
