@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-22 17:47+0000\n"
+"PO-Revision-Date: 2018-09-22 18:08+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -80,7 +80,7 @@ msgstr "དྲ་ཚིགས་གནད་དོན་སྙན་སེང་
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "ཁ་ཕྱེ་བ་ཡུལ་%1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -90,7 +90,7 @@ msgstr ""
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr ""
+msgstr "ཁ་ཕྱེ་བ་ཡུལ་་་་"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -351,7 +351,7 @@ msgstr ""
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "དེ་བས་མང་།"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
@@ -401,7 +401,7 @@ msgstr "སུབ་པ།"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "ཁྱོད་ཀྱི་འཇུག་པའི་URLདོ་དམ་བྱོས།"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -550,7 +550,7 @@ msgstr ""
 #. setting.
 msgctxt "preference_mozilla_telemetry_summary"
 msgid "Learn more"
-msgstr ""
+msgstr "དེ་བས་མང་།"
 
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
@@ -584,7 +584,7 @@ msgstr ""
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ འཚོལ་བཤེར་དྲ་ངོས་གཞན་སྣོན།"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -592,7 +592,7 @@ msgstr ""
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "སུབ།"
 
 #. Title: Homescreen tips settings toggle to determine whether or not tips are
 #. displayed when      a user first launches the app.
@@ -605,11 +605,11 @@ msgstr ""
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr " འཚོལ་བཤེར་དྲ་ངོས་སྣོན།"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr " འཚོལ་བཤེར་དྲ་ངོས་མིང་།"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -627,11 +627,11 @@ msgstr ""
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "འཚོལ་བཤེར་དྲ་ངོས་གསར་པ་སྣོན་ཟིན།"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "འཚོལ་བཤེར་དྲ་ངོས་མིང་འདིར་འཇུག་རོགས།"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
@@ -639,7 +639,7 @@ msgstr ""
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "གནད་ཚིག་འཇུག་རོགས།"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
