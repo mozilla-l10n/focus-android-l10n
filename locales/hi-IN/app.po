@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-15 11:24+0000\n"
+"PO-Revision-Date: 2018-09-22 02:44+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -112,7 +112,7 @@ msgstr "सेटिंग"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr "के बारे में"
+msgstr "परिचय"
 
 msgctxt "menu_help"
 msgid "Help"
@@ -229,7 +229,7 @@ msgstr "ट्रैकिंग, कुकीज़, डेटा विकल�
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr "तयशुदा, स्वत: पूर्ण सेट करें"
+msgstr "तयशुदा बनायें, स्वत: पूर्ण"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -238,7 +238,7 @@ msgstr "तयशुदा, स्वत: पूर्ण सेट करें
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr "%1$s के बारे में, सहायता"
+msgstr "%1$s परिचय, सहायता"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -423,7 +423,7 @@ msgstr "भाषा"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "प्रणाली तयशुदा"
+msgstr "सिस्टम डिफ़ॉल्ट"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -500,7 +500,7 @@ msgstr "यदि ऐप्प में पहले ही कोई URL ख�
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "तरक़ीब"
+msgstr "गुप्तता"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -554,7 +554,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr "उपयोग डेटा भेजें"
+msgstr "उपयोगित डेटा भेजें"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -567,7 +567,7 @@ msgstr "और अधिक जानें"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla मात्र वही एकत्रित करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए आवश्यकता है।"
+msgstr "Mozilla मात्र वही एकत्र करने का प्रयास करता है जिसकी हमें %1$s को बेहतर बनाने और सबको उपलब्ध कराने के लिए आवश्यकता है।"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -579,7 +579,7 @@ msgstr "गोपनीयता सूचना"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "%1$s के बारे में"
+msgstr "%1$s परिचय"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -1234,7 +1234,7 @@ msgstr "सत्यापन आवश्यक"
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr "उपयोगकर्तानाम"
+msgstr "उपयोगकर्ता नाम"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
