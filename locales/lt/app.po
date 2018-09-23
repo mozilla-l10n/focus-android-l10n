@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-23 15:25+0000\n"
+"PO-Revision-Date: 2018-09-23 15:47+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -316,7 +316,7 @@ msgstr "Numatytasis URL sąrašas"
 #, c-format
 msgctxt "preference_autocomplete_preinstalled_summary"
 msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Įjungus, „%1$s“ automatiškai užbaigs virš 450 populiarių URL adreso lauke"
+msgstr "Įjungus, „%1$s“ adreso lauke automatiškai užbaigs virš 450 populiarių URL adresų."
 
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
@@ -733,7 +733,7 @@ msgstr "Grįžti atgal"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "Nebeįkėlinėti svetainės"
+msgstr "Nutraukti svetainės įkėlimą"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
