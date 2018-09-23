@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-22 19:06+0000\n"
+"PO-Revision-Date: 2018-09-23 04:51+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -663,7 +663,7 @@ msgstr ""
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "འཚོལ་རབས་འདོར་སུབ་བྱོས།"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -798,7 +798,7 @@ msgstr "ཁ་ཕྱེ་བ།"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "%1$s འཚོལ་རབས་འདོར་སུབ་བྱེད་སྐབས་ཕབ་ལེན་ཟིན་པའི་ཡིག་ཆ་<b>རྣམས་འདོར་སུབ་མི་བྱ།</b>"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -945,7 +945,7 @@ msgstr ""
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "%1$s འཚོལ་རབས་འདོར་སུབ་བྱེད་སྐབས་འགྲེམ་སྤེལ་དང་ཉར་ཟིན་པའི་ཡིག་ཆ་རྣམས་<b>འདོར་སུབ་མི་བྱ།</b>"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
