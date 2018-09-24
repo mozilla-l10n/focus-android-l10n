@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-24 17:03+0000\n"
+"PO-Revision-Date: 2018-09-24 18:28+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -390,7 +390,7 @@ msgstr "Pavyzdys: mozilla.org"
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr "Pvz., example.com"
+msgstr "Pavyzdys: example.com"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
@@ -634,7 +634,7 @@ msgstr "Įrašyti"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr "Pvz.: example.com/search/?q=%s"
+msgstr "Pavyzdys: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
