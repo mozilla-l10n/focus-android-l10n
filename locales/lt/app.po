@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-24 18:28+0000\n"
+"PO-Revision-Date: 2018-09-24 19:11+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -145,7 +145,7 @@ msgstr "Įgalino „%1$s“"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "Dalintis per"
+msgstr "Dalintis naudojant"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -300,7 +300,7 @@ msgstr "Ne"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "Automatinis URL užbaigimas"
+msgstr "Automatinis URL adresų užbaigimas"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
@@ -310,7 +310,7 @@ msgstr "Automatinis užbaigimas"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr "Numatytasis URL sąrašas"
+msgstr "Numatytųjų adresų sąrašas"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -321,29 +321,29 @@ msgstr "Įjungus, „%1$s“ adreso lauke automatiškai užbaigs virš 450 popul
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr "Pasirinktiniai URL"
+msgstr "Pasirinktiniai adresai"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "Pasirinktiniai URL"
+msgstr "Pasirinktiniai adresai"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ Pridėti savo URL"
+msgstr "+ Pridėti savą adresą"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "Pridėti savo URL"
+msgstr "Savo adreso pridėjimas"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr "Pridėti savo URL"
+msgstr "Pridėti savą adresą"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -358,7 +358,7 @@ msgstr "Duomenų siuntimas"
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "Pašalinti savo URL"
+msgstr "Savų adresų šalinimas"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -373,13 +373,13 @@ msgstr "Pridėkite ir valdykite savo automatinio užbaigimo adresus."
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr "Pridedamas URL"
+msgstr "Pridedamas adresas"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Įdėkite arba įrašykite URL"
+msgstr "Įdėkite arba įveskite URL adresą"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -396,7 +396,7 @@ msgstr "Pavyzdys: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "Pridėtas naujas URL."
+msgstr "Pridėtas naujas adresas."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -413,7 +413,7 @@ msgstr "Pašalinti"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "Patikrinkite savo įvestą URL."
+msgstr "Patikrinkite įvestą URL adresą."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -493,7 +493,7 @@ msgstr "Atrakinti programą piršto atspaudu"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Jūsų piršto atspaudas gali atrakinti „%1$s“, jeigu programoje jau yra atvertas URL. Bus įjungtas slaptumas."
+msgstr "Naudojant jūsų piršto antspaudą, galima atrakinti „%1$s“ programą, kai joje jau yra atvertas tinklalapis. Bus įjungtas slaptumas."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -660,7 +660,7 @@ msgstr "Pasitikrinkite, ar paieškos eilutė atitinka formatą iš pavyzdžio"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "Išvalyti įvestį"
+msgstr "Išvalyti įvestą tekstą"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -1012,7 +1012,7 @@ msgstr "Pridėkite leistukų į savo pradžios ekraną"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Greitai grįžkite į savo mėgstamiausias svetaines per „%1$s“. Tiesiog pasirinkite „Įtraukti į pradžios ekraną“ iš „%1$s“ meniu."
+msgstr "Greitai grįžkite į savo mėgstamiausias svetaines „%1$s“ naršyklėje. Tiesiog pasirinkite „Įtraukti į pradžios ekraną“ iš „%1$s“ meniu."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1113,7 +1113,7 @@ msgstr "„%1$s“ yra laisvoji atviroji programa, kuriama „Mozillos“ ir kit
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "Jums leidžiama naudotis „%1$s“ programa, vadovaujantis <a href=\"%2$s\">„Mozilla“ viešąja licencija</a> ir kitomis atviromis licencijomis."
+msgstr "Jums leidžiama naudotis „%1$s“ programa, vadovaujantis <a href=\"%2$s\">„Mozillos“ viešąja licencija</a> ir kitomis atviromis licencijomis."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1181,7 +1181,7 @@ msgstr "Svetainės saugumas"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr "URL jau egzistuoja"
+msgstr "Toks adresas jau pridėtas"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
@@ -1251,7 +1251,7 @@ msgstr "Prašyti ne mob. svetainės"
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr "URL nukopijuotas"
+msgstr "Adresas nukopijuotas"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
@@ -1379,7 +1379,7 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
-"Atverkite visus saitus per „%1$s“\n"
+"Atverkite visus saitus „%1$s“ programoje\n"
 " Paskirkite „%1$s“ numatytąja naršykle"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
@@ -1391,7 +1391,7 @@ msgid ""
 " Long-press any URL in the address bar"
 msgstr ""
 "Automatiškai užbaikite lankomiausių svetainių adresus\n"
-" Spustelėkite ir palaikykite bet kurį URL adreso lauke"
+" Spustelėkite ir palaikykite bet kurį URL adresą adreso lauke"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1402,7 +1402,7 @@ msgid ""
 " Long-press any link on a page"
 msgstr ""
 "Atverkite saitą naujoje kortelėje\n"
-" Spustelėkite ir palaikykite bet kurį saitą puslapyje"
+" Spustelėkite ir palaikykite bet kurį saitą tinklalapyje"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
