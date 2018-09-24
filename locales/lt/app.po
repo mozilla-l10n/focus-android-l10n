@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-23 16:18+0000\n"
+"PO-Revision-Date: 2018-09-24 17:03+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -56,7 +56,7 @@ msgstr ""
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Jūsų naršymo žurnalas buvo išvalytas."
+msgstr "Jūsų naršymo žurnalas išvalytas."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -82,7 +82,7 @@ msgstr "Pranešti apie svetainės problemą"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr "Atverti per „%1$s“"
+msgstr "Atverti naudojant „%1$s“"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -92,7 +92,7 @@ msgstr "Atverti per „%1$s“"
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr "Atverti per…"
+msgstr "Atverti naudojant…"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
