@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-06 16:59+0000\n"
-"Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
+"PO-Revision-Date: 2018-09-26 00:09+0000\n"
+"Last-Translator: bahsa.aceh <bahsa.aceh@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ace\n"
 "MIME-Version: 1.0\n"
@@ -262,7 +262,7 @@ msgstr "Mita"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Peuleumah saran mita"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
@@ -274,7 +274,7 @@ msgstr ""
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Teutap"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -290,17 +290,17 @@ msgstr "Maté"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr ""
+msgstr "Peuleungkap URL keudroe"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
 msgid "Autocomplete"
-msgstr ""
+msgstr "Peuleungkap keudroe"
 
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr ""
+msgstr "Dapeuta URL Teutap"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
