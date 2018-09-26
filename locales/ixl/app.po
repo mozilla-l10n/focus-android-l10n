@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-20 13:45+0000\n"
+"PO-Revision-Date: 2018-09-26 23:07+0000\n"
 "Last-Translator: Julio Gomez <jegs87@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1313,7 +1313,7 @@ msgstr "Oora kuxh kat atiinsa u vi' aq'ab'e'. B'an unpajte."
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "Nasa' uva' la inachonsa see ti' unq'a vee' nachuke'?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1322,7 +1322,7 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "Aq'al uva' la nachonsal see, %1$s la taq'en u vee' natz'ib'aku' tu k'uchul tetze' uve' ni chukun uve' kat atxaaa. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1344,7 +1344,7 @@ msgstr "Kanoj"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "At jununil unq'a taq'onb'ale' ye' ni k'uchun u nachonsal tetze'."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1361,13 +1361,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"Ni kuxh iyane'?\n"
+" Eesa u kach'ub' chukb'al tetze'"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
-#, fuzzy
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
+msgstr "Oora kuxh la ok axh stuul tul pajul kuxh la laa unq'a vee' uve' pal chit ab'anb'eta'%1$s Laa Menú > Aq'kan ti xe'teb'al"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1379,6 +1380,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Jaj Junun u k'uchb'al chukb'al tetze' tu %1$s\n"
+" Aq'kan u %1$se' uva' a' chite' la b'anb'e"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1388,6 +1391,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"B'an atz'ajsat unq'a URLs ti' unq'a vee' uve' pal chit ab'anb'eta'\n"
+" Laaku' kam kuxh URL tan u k'uchb'al ixaansal tetze'"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1397,18 +1402,19 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Jaj uma't ak' chukb'al tetz\n"
+" Laaku' ab'iste kuxh chukb'al tetz"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "Nasa' eelat ve'te' uva' at ve't kan svatz?%1$s Menú > La jaj ve'te' aq'al uva' la kaa svatz"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Eesel unq'a alol isuuchile' uve' ni kuxh tul ti xe'teb'al u %1$se'"
