@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-09 02:34+0000\n"
-"Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
+"PO-Revision-Date: 2018-10-01 13:08+0000\n"
+"Last-Translator: Kiki <kelimutu.rizki@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: jv\n"
@@ -74,7 +74,7 @@ msgstr "Dumké…"
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr ""
+msgstr "Lapur Masalah Situs"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -140,7 +140,7 @@ msgstr "Palacak kablokir"
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr ""
+msgstr "Disokong déning %1$s"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
@@ -244,7 +244,7 @@ msgstr "Kontèn Wèb"
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Ganti aplikasi"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
@@ -285,7 +285,7 @@ msgstr ""
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
 msgid "Off"
-msgstr ""
+msgstr "Paténi"
 
 #. Item in settings that will open a new preference screen for configuring the
 #. URL autocomplete behavior.
@@ -370,7 +370,7 @@ msgstr ""
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr ""
+msgstr "Témpél utowo leboké URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -414,7 +414,7 @@ msgstr "Basa"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr ""
+msgstr "Gawan sistem"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
@@ -461,7 +461,7 @@ msgstr ""
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr ""
+msgstr "Ora"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -469,7 +469,7 @@ msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -523,7 +523,7 @@ msgstr ""
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr ""
+msgstr "Blokir JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -595,7 +595,7 @@ msgstr ""
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Busak"
 
 #. Title: Homescreen tips settings toggle to determine whether or not tips are
 #. displayed when      a user first launches the app.
@@ -688,7 +688,7 @@ msgstr ""
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Ngamot"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
