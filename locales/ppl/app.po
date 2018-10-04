@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-04 16:11+0000\n"
+"PO-Revision-Date: 2018-10-04 16:31+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -334,17 +334,17 @@ msgstr "Shikmajmachiwa ne URLs"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr ""
+msgstr "+Shiktalili ne mu-URL"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Shiktalili ne mu-URL"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr ""
+msgstr "Shiktalili ne mu-URL"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -369,7 +369,7 @@ msgstr "Shikmatiuk"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "Shiktali u shina ken taja tikneki ma temi isel ne URLs."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -397,7 +397,7 @@ msgstr "Machiut: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Yankwik URL mutalijtuk."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -414,7 +414,7 @@ msgstr "Shikishti"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr ""
+msgstr "Shikpepeta uksenpa ne URL tiktajkwiluj."
 
 msgctxt "preference_language"
 msgid "Language"
@@ -436,11 +436,11 @@ msgstr "Shiktzakwa ne rastreador ipal anuncioj"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
+msgstr "Sejse anuncioj kishpelwiat ne sitioj kan tipashalua, manelka tesu tikpachua"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr ""
+msgstr "Shiktzakwa ne rajrastreador tapepetat"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
@@ -448,23 +448,23 @@ msgstr "Ipal tiksentalia, tikishpepeta wan tiktamachiwa tajtaya kwak titamatuka 
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr ""
+msgstr "Shiktentzakwa ne rajrastreador kimatit kan tinemi"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr ""
+msgstr "Muishtukaktuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaja tekiti ken ne bojbotón pal tiktakulia"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Shiktentzakwa ujukseuk rastreador"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
+msgstr "Asu tiktimaka, sejseuk iswat welit tekitit ken te tikchia"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr "Shiktzakwa cookies"
+msgstr "Shiktentzakwa cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -475,7 +475,7 @@ msgstr "Te"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Shiktentzakwa semaya ne cookies ipal sejseuk"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -754,7 +754,7 @@ msgstr ""
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Shiktzakwa ne rajrastreador"
 
 msgctxt "your_rights"
 msgid "Your Rights"
