@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-04 16:31+0000\n"
+"PO-Revision-Date: 2018-10-04 16:39+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -494,7 +494,7 @@ msgstr "Shiktali ne itashkalchin mumapipil pal tikalaki tik ne aplicación"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Ne itashkaltzin mumapipil weli kimakishtia %1$s su se URL nemia tapujtuk tik ne aplicación. Yawi nemi tik modoj ichtaka."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -514,15 +514,15 @@ msgstr "Shikinaya ijiswat kwak tikpata aplicación wan maka shikajkawa ma muana 
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "Tetajpialis"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "Shiktamachiwa ne itekiw"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr ""
+msgstr "Shiktentzakwa ne tajkwilultzin ipal ne Weymatat"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -538,7 +538,7 @@ msgstr "Shiktzakwa JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Ne iswat weli mutemiltia uk talul, melka tesu weli tekiti ken taja te tikneki"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -555,7 +555,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr ""
+msgstr "Shiktitani ne tamatil ipanpa keski seujti nipashalua"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
