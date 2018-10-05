@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-04 16:39+0000\n"
+"PO-Revision-Date: 2018-10-04 23:19+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -273,7 +273,7 @@ msgstr "Shiktemu"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Shikneshti tay niweliskia nikishtemua"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
@@ -691,7 +691,7 @@ msgstr "Pestañaj tajtapujtuk: %1$s"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Te kanaj teyek keman nikneki nimusalua"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -709,7 +709,7 @@ msgstr "Iswat matapan mutemiltijtuk"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Ukchiupi taishpejpenalis"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Tea tinemi salujtuk"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
@@ -932,7 +932,7 @@ msgstr "Shiktakuli ne ilpika"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Shikupina ne idirección ne ilpika"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -942,7 +942,7 @@ msgstr "Shiktakuli ne kwikwil"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Shikupina ne idirección ne kwikwil"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -984,7 +984,7 @@ msgstr ""
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Shiktalili ne achtu iswat se atajoj"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
@@ -1007,7 +1007,7 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr "Yek nemi, ¡nikmatiaya!"
+msgstr "Yek nemi, nikmatiaya!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
@@ -1127,7 +1127,7 @@ msgstr "Mutukay usuarioj"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr "Contraseñaj"
+msgstr "Ichtaka taketzalis"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
@@ -1137,11 +1137,11 @@ msgstr "Shikpupu"
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Timusalua wan nejmachnemi"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "Timusalua wan tesu nejmachnemi"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
@@ -1249,7 +1249,7 @@ msgstr ""
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Shikmakishti %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1370,6 +1370,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Shiktapu se ilpika tik se yankwik pestañaj\n"
+" Shikpajpachu yek ne ilpika taja tikneki tik se iswat"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
