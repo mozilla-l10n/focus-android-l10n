@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-06 03:07+0000\n"
-"Last-Translator: Mateus Generoso <mtsgeneroso@gmail.com>\n"
+"PO-Revision-Date: 2018-09-08 09:15+0000\n"
+"Last-Translator: Fabio M Caldas <fabiomcaldas@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -272,14 +272,14 @@ msgstr "Pesquisar"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr ""
+msgstr "Obtenha sugestões de pesquisa"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s enviará o que você escreve na barra de endereço para seu mecanismo de pesquisa"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -484,7 +484,7 @@ msgstr "Sim"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Use impressão digital para desbloquear seu aplicativo"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -493,7 +493,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Sua impressão digital pode desbloquear %1$s se a URL já estiver aberta no aplicativo. O modo invisível será ligado."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -1268,7 +1268,7 @@ msgstr "Avançado"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Depuração remota via USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
@@ -1281,7 +1281,7 @@ msgstr "Desbloquear %1$s"
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Toque no sensor de impressão digital para continuar."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1391,6 +1391,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Autocompletar as URLs para os sites que você mais usa\n"
+" Pressione continuamente qualquer URL na barra de endereços"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1400,14 +1402,15 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Abrir um link numa nova aba\n"
+" Pressione continuamente qualquer link numa página"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "Prefere ver a versão desktop completa do site?%1$s Menu > Solicitar site desktop"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
