@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-06 22:11+0000\n"
+"PO-Revision-Date: 2018-10-06 22:17+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -507,14 +507,13 @@ msgstr "ਭੇਤ"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "ਐਪ ਸਵਿਚ ਕਰਦੇ ਸਮੇਂ ਵੈੱਬ ਪੇਜ ਛਪਾਓ"
+msgstr "ਐਪਾਂ ਸਵਿੱਚ ਕਰਨ ਦੌਰਾਨ ਵੈੱਬ ਸਫ਼ੇ ਲੁਕਾਓ ਅਤੇ ਸਕਰੀਨਸ਼ਾਟ ਲੈਣ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।"
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਆ"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -610,7 +609,7 @@ msgstr "ਹਟਾਓ"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "ਮੁੱਖ ਸਕਰੀਨ ਦੇ ਗੁਰ ਵੇਖਾਓ"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -747,7 +746,7 @@ msgstr "ਪਿਛਲੇ ਐਪ 'ਤੇ ਜਾਓ"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "ਪਾਬੰਦੀ ਲਾਏ ਟਰੈਕਾਂ ਦੀ ਗਿਣਤੀ"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1041,7 +1040,7 @@ msgstr "ਰੱਦ ਕਰੋ"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਅਸਮਰੱਥ ਕਰਕੇ ਖੋਲ੍ਹਿਆ ਜਾਵੇਗਾ"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1065,7 +1064,7 @@ msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰਿੰਗ ਕਾਰਜਕਾ�
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "ਸੂਚਨਾਵਾਂ ਛੂਹਣ ਨਾਲ ਤੁਹਾਡੇ %1$s ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਉਣ ਦੇਣਗੀਆਂ। ਤੁਹਾਨੂੰ ਐਪ ਖੋਲ੍ਹਣ ਜਾਂ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਚੱਲਣਾ ਵੇਖਣ ਦੀ ਲਓੜ ਨਹੀਂ ਹੈ।"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1232,62 +1231,62 @@ msgstr "URL ਕਾਪੀ ਕੀਤਾ"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "ਡਿਵੈਲਪਰ ਟੂਲ"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr ""
+msgstr "ਤਕਨੀਕੀ"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "USB//Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "%1$s ਅਣ-ਲਾਕ ਕਰੋ"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "ਜਾਰੀ ਰੱਖਣ ਲਈ ਫਿੰਗਰਪਰਿੰਟ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।"
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "ਨਵਾਂ ਸ਼ੈਸ਼ਨ"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "ਫਿੰਗਰਪਰਿੰਟ ਆਈਕਾਨ"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "ਫਿੰਗਰਪਰਿੰਟ ਦੀ ਪਛਾਣ ਨਹੀਂ ਹੋਈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "ਉਂਗਲ ਬਹੁਤ ਤੇਜ਼ੀ ਨਾਲ ਹਿਲਾਈ ਗਈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "ਕੀ ਤੁਸੀਂ ਖੋਜ ਸੁਝਾਅ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1302,29 +1301,29 @@ msgstr ""
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "ਹੋਰ ਸਿੱਖੋ"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "ਨਹੀਂ"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "ਹਾਂ"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "ਕੁਝ ਖੋਜ ਇੰਜਣ ਸੁਝਾਅ ਨਹੀਂ ਵੇਖਾ ਸਕਦੇ ਹਨ।"
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1335,6 +1334,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"ਸਾਈਟ ਅਜੀਬ ਵਿਹਾਰ ਕਰ ਰਹੀ ਹੈ?\n"
+" ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰਕੇ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
