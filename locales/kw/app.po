@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-07 14:29+0000\n"
+"PO-Revision-Date: 2018-10-07 14:50+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: kw <LL@li.org>\n"
 "Language: kw\n"
@@ -484,7 +484,7 @@ msgstr "Pub cookie oll"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr "Usya bysprynt rag diallosegi an app"
+msgstr "Usya bysprynt rag dialhwedha an app"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -507,10 +507,9 @@ msgstr "Modh kel"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Kudha folennow gwias pan ow skwychya towlennow"
+msgstr "Kudha folennow gwias pan ow skwycha towlennow ha lettya skeusennow skrin."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1275,7 +1274,7 @@ msgstr "Dibuggya pell der USB/Wi-Fi"
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr "Dialhwedhi %1$s"
+msgstr "Dialhwedha %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1380,6 +1379,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Ygeri pub kevren yn %1$s\n"
+"Settya %1$s avel an beurell dhefowt"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1389,6 +1390,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Awtolenwel URLs rag agas gwiasvaow gwella\n"
+"Hirwaskowgh neb URL y'n barr trigva"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1398,18 +1401,19 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Ygeri kevren yn tabb nowydh\n"
+"Hirwaskowgh neb kevren folen"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "Gwell gweles an wiasva desktop leun?%1$sRol > Gwiasva desktop"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
 #, c-format
 msgctxt "tip_disable_tips"
 msgid "Turn off tips on the %1$s start screen"
-msgstr ""
+msgstr "Diallosegi profyansow war skrin dre %1$s"
