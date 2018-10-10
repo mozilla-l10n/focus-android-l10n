@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-09-08 09:15+0000\n"
+"PO-Revision-Date: 2018-08-16 14:55+0000\n"
 "Last-Translator: Fabio M Caldas <fabiomcaldas@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -507,10 +507,9 @@ msgstr "Furtividade"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Esconder páginas web quando trocar aplicativo"
+msgstr "Esconder páginas da web quando trocar aplicativo e bloquear a captura de tela."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1308,7 +1307,7 @@ msgstr "Impressão digital não reconhecida. Tente novamente."
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Seu dedo se moveu muito rápido, tente novamente."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
