@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-11 13:53+0000\n"
+"PO-Revision-Date: 2018-10-11 14:31+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -143,7 +143,7 @@ msgstr ""
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "འགྲིམ་སྤེལ་བརྒྱུད་ལམ།"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -309,29 +309,29 @@ msgstr ""
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr "རང་བཅོས་URLs"
+msgstr "URLs རང་བཅོས།"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "རང་བཅོས་URLs"
+msgstr "URLs རང་བཅོས།"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ རང་བཅོས་URLསྣོན།"
+msgstr "+ URL རང་བཅོས་སྣོན།"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "རང་བཅོས་URLསྣོན།"
+msgstr "URL རང་བཅོས་སྣོན།"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr "རང་བཅོས་URLསྣོན།"
+msgstr "URL རང་བཅོས་སྣོན།"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -346,7 +346,7 @@ msgstr ""
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "རང་བཅོས་URLསུབ།"
+msgstr "URL རང་བཅོས་སུབ།"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -356,18 +356,18 @@ msgstr "དེ་བས་མང་།"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr ""
+msgstr "རང་བཅོས་URLs སྣོན་པ་དང་སྟང་འཛིན་བྱེད་པ།"
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr "སྣོན་བྱའི་URL"
+msgstr "སྣོན་བྱའི་ URL"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "URLའདིར་འཇུག་རོཊ།"
+msgstr "URL འདིར་འཇུག་རོཊ།"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -384,7 +384,7 @@ msgstr "དཔེ་མཚོན། example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "རང་བཅོས་URLགསར་པ་སྣོན་ཟིན།"
+msgstr "རང་བཅོས་ URL གསར་པ་སྣོན་ཟིན།"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -472,7 +472,7 @@ msgstr "འགྲིག"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "མཛུབ་ཐེལ་བེད་སྤྱོད་བྱས་ཏེ་མཉེན་ཆས་ཁ་ཕྱེས།"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -488,7 +488,7 @@ msgstr ""
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr ""
+msgstr "གསང་ཐབས།"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
