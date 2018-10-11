@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-11 14:31+0000\n"
+"PO-Revision-Date: 2018-10-11 14:49+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -288,7 +288,7 @@ msgstr "སྤྱོད་མཚམས་འཇོག"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "URL རང་གྲུབ།"
+msgstr "དྲ་ཚིཊ་ཁ་བྱང་རང་གྲུབ།"
 
 #. Title of "switch" preference that enables/disables autocomplete
 msgctxt "preference_switch_autocomplete"
@@ -298,7 +298,7 @@ msgstr "རང་གྲུབ།"
 #. Preference title: URL autocomplete list that ships with Focus/Klar.
 msgctxt "preference_category_autocomplete_preinstalled"
 msgid "Default URL List"
-msgstr "རྩ་བའི་ URL ཐོ་གཞུང་།"
+msgstr "རྩ་བའི་དྲ་ཚིཊ་ཁ་བྱང་ཐོ་གཞུང་།"
 
 #. Preference summary: URL autocomplete list that ships with Focus/Klar.
 #, c-format
@@ -309,29 +309,29 @@ msgstr ""
 #. Preference category: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_category_autocomplete_custom_urls"
 msgid "Custom URLs"
-msgstr "URLs རང་བཅོས།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་།"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing custom autocomplete URLs
 msgctxt "preference_autocomplete_subitem_customlist"
 msgid "Custom URLs"
-msgstr "URLs རང་བཅོས།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་།"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+ URL རང་བཅོས་སྣོན།"
+msgstr "+  རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སྣོན།"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
 msgid "Add custom URL"
-msgstr "URL རང་བཅོས་སྣོན།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སྣོན།"
 
 #. Label for the button to quick add custom autocomplete URLs.
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
-msgstr "URL རང་བཅོས་སྣོན།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སྣོན།"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -346,7 +346,7 @@ msgstr ""
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "URL རང་བཅོས་སུབ།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སུབ།"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -356,18 +356,18 @@ msgstr "དེ་བས་མང་།"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "རང་བཅོས་URLs སྣོན་པ་དང་སྟང་འཛིན་བྱེད་པ།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སྣོན་པ་དང་སྟང་འཛིན་བྱེད་པ།"
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr "སྣོན་བྱའི་ URL"
+msgstr "སྣོན་བྱའི་དྲ་ཚིཊ་ཁ་བྱང་།"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "URL འདིར་འཇུག་རོཊ།"
+msgstr "དྲ་ཚིཊ་ཁ་བྱང་འདིར་འཇུག་རོཊ།"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -384,7 +384,7 @@ msgstr "དཔེ་མཚོན། example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "རང་བཅོས་ URL གསར་པ་སྣོན་ཟིན།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་གསར་པ་སྣོན་ཟིན།"
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -401,7 +401,7 @@ msgstr "སུབ་པ།"
 #. empty.
 msgctxt "preference_autocomplete_add_error"
 msgid "Double-check the URL you entered."
-msgstr "ཁྱོད་ཀྱི་འཇུག་པའི་URLདོ་དམ་བྱོས།"
+msgstr "ཁྱོད་ཀྱི་འཇུག་པའི་དྲ་ཚིཊ་ཁ་བྱང་དོ་དམ་བྱོས།"
 
 msgctxt "preference_language"
 msgid "Language"
@@ -649,7 +649,7 @@ msgstr ""
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "ནང་འཇུག་གཙང་བཟོ།"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -1142,7 +1142,7 @@ msgstr ""
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr "URL སྔོན་ནས་འདུག།"
+msgstr "དྲ་ཚིཊ་ཁ་བྱང་སྔོན་ནས་འདུག།"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
@@ -1212,7 +1212,7 @@ msgstr "གློག་ཀླད་དྲ་ངོས་རེ་སྐུལ་
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr "URL བཤུས་ཟིན།"
+msgstr "དྲ་ཚིཊ་ཁ་བྱང་བཤུས་ཟིན།"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
@@ -1347,7 +1347,7 @@ msgctxt "tip_autocomplete_url"
 msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
-msgstr ""
+msgstr "བེད་སྤྱོད་མང་ཤོས་བྱེད་པའི་དྲ་ཚིཊ་ཁ་བྱང་རད་གྲུབ། དྲ་ཚིཊ་ཁ་བྱང་ཐོག་མཛུབ་མོ་རྒྱུན་རིང་གནོན།"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
