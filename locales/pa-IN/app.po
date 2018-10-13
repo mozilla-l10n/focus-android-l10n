@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-06 22:17+0000\n"
+"PO-Revision-Date: 2018-10-13 23:46+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -431,15 +431,15 @@ msgstr "ਪਰਦੇਦਾਰੀ"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "ਬਲਾਕ ਵਿਗਿਆਪਨ ਟਰੈਕਰਜ"
+msgstr "ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "ਕੁਝ ਵਿਗਿਆਪਨ ਸਾਈਟ ਦੇ ਦੌਰੇ ਨੂੰ ਟਰੈਕ ਕਰਦੇ ਹਨ, ਭਾਵੇਂ ਤੁਸੀਂ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਨਹੀਂ ਕਲਿਕ ਕਰਦੇ"
+msgstr "ਕੁਝ ਇਸ਼ਤਿਹਾਰ ਸਾਈਟ ਦੇ ਦੌਰੇ ਨੂੰ ਟਰੈਕ ਕਰਦੇ ਹਨ, ਭਾਵੇਂ ਤੁਸੀਂ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਨਹੀਂ ਕਲਿਕ ਕਰਦੇ"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "ਵਿਸ਼ਲੇਸ਼ਣ ਟਰੈਕਰ ਬਲਾੱਕ ਕਰੋ"
+msgstr "ਵਿਸ਼ਲੇਸ਼ਣ ਟਰੈਕਰਾਂ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
@@ -447,7 +447,7 @@ msgstr "ਟੇਪਿੰਗ ਅਤੇ ਸਕ੍ਰੌਲਿੰਗ ਵਰਗੀਆ
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "ਸਮਾਜਿਕ ਟਰੈਕਰ ਬਲਾੱਕ ਕਰੋ"
+msgstr "ਸਮਾਜਿਕ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -455,7 +455,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "ਹੋਰ ਸਮੱਗਰੀ ਟਰੈਕਰ ਬਲਾੱਕ ਕਰੋ"
+msgstr "ਹੋਰ ਸਮੱਗਰੀ ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -463,7 +463,7 @@ msgstr "ਸਮਰੱਥ ਬਣਾਉਣ ਨਾਲ ਕੁਝ ਪੰਨੇ ਅਚ�
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr "ਕੂਕੀਜ਼ ਬਲਾੱਕ ਕਰੋ"
+msgstr "ਕੂਕੀਜ਼ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -474,7 +474,7 @@ msgstr "ਨਹੀਂ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr "ਸਿਰਫ ਤੀਜੀ ਪਾਰਟੀ ਕੂਕੀਜ਼ ਬਲਾੱਕ ਕਰੋ"
+msgstr "ਸਿਰਫ 3ਜੀ ਪਾਰਟੀ ਕੂਕੀਜ਼ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -521,7 +521,7 @@ msgstr "ਕਾਰਗੁਜ਼ਾਰੀ"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
-msgstr "ਵੈੱਬ ਅੱਖਰ ਬਲਾੱਕ ਕਰੋ"
+msgstr "ਵੈੱਬ ਫ਼ੋਂਟ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 #. This text is shown below the setting for disabling web fonts. Some websites
 #. use icons/images from a font and those do not show up if fonts are blocked.
@@ -531,13 +531,13 @@ msgstr "ਨਤੀਜੇ ਵਜੋਂ ਆਈਕਾਨ ਜਾਂ ਚਿੱਤਰ �
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr "JavaScript ਬਲਾੱਕ ਕਰੋ"
+msgstr "JavaScript 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "ਪੰਨੇ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੋ ਸਕਦੇ ਹਨ, ਪਰ ਅਚਾਨਕ ਹੀ ਵਿਵਹਾਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
+msgstr "ਸਫ਼ੇ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੋ ਸਕਦੇ ਹਨ, ਪਰ ਅਚਾਨਕ ਹੀ ਵਿਵਹਾਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -546,7 +546,7 @@ msgstr "ਪੰਨੇ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੋ ਸਕਦੇ ਹ
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "%1$s ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ"
+msgstr "%1$s ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -567,7 +567,7 @@ msgstr "ਹੋਰ ਜਾਣੋ"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "ਮੌਜ਼ਿਲਾ ਭਰਪੂਰ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ ਕਿ ਸਿਰਫ ਉਹੀ ਕੁੱਝ ਇਕੱਠਾ ਕੀਤਾ ਜਾਵੇ ਜੋ ਕਿ %1$s ਨੂੰ ਹਰੇਕ ਲਈ ਮੁਹੱਈਆ ਕਰਾਉਣ ਅਤੇ ਹੋਰ ਸੁਧਾਰਨ ਲਈ ਲੋੜੀਂਦਾ ਹੋਵੇ।"
+msgstr "ਮੌਜ਼ੀਲਾ ਭਰਪੂਰ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ ਕਿ ਸਿਰਫ ਉਹੀ ਕੁੱਝ ਇਕੱਠਾ ਕੀਤਾ ਜਾਵੇ ਜੋ ਕਿ %1$s ਨੂੰ ਹਰੇਕ ਲਈ ਮੁਹੱਈਆ ਕਰਾਉਣ ਅਤੇ ਹੋਰ ਸੁਧਾਰਨ ਲਈ ਲੋੜੀਂਦਾ ਹੋਵੇ।"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -589,13 +589,13 @@ msgstr "ਇੰਸਟਾਲ ਕੀਤੇ ਖੋਜ ਇੰਜਣ"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ"
+msgstr "ਮੂਲ ਖੋਜ ਇੰਜਣ ਨੂੰ ਬਹਾਲ ਕਰੋ"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "+ਹੋਰ ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ"
+msgstr "+ ਹੋਰ ਖੋਜ ਇੰਜਣ ਨੂੰ ਜੋੜੋ"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -624,7 +624,7 @@ msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂਮ"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "ਵਰਤਣ ਲਈ ਖੋਜ ਸਟ੍ਰਿੰਗ"
+msgstr "ਵਰਤਣ ਲਈ ਖੋਜ ਸਤਰ"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -634,7 +634,7 @@ msgstr "ਸੰਭਾਲੋ"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr "ਉਦਾਹਰਨ: example.com/search/?q=%s"
+msgstr "ਜਿਵੇਂ: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -642,11 +642,11 @@ msgstr "ਨਵਾਂ ਖੋਜ ਇੰਜਣ ਜੋੜਿਆ ਗਿਆ।"
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂਮ ਦਰਜ ਕਰੋ"
+msgstr "ਖੋਜ ਇੰਜਣ ਨਾਂ ਦਿਓ"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr "ਇੱਕ ਇੰਸਟੌਲ ਕੀਤੇ ਖੋਜ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਉਹ ਨਾਂ ਵਰਤ ਰਿਹਾ ਹੈ।"
+msgstr "ਇੱਕ ਇੰਸਟਾਲ ਕੀਤੇ ਖੋਜ ਇੰਜਣ ਪਹਿਲਾਂ ਹੀ ਉਹ ਨਾਂ ਵਰਤ ਰਿਹਾ ਹੈ।"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -753,7 +753,7 @@ msgstr "ਪਾਬੰਦੀ ਲਾਏ ਟਰੈਕਾਂ ਦੀ ਗਿਣਤੀ"
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "ਟ੍ਰੈਕਰਾਂ ਨੂੰ ਬਲੌਕ ਕਰੋ"
+msgstr "ਟਰੈਕਰਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 msgctxt "your_rights"
 msgid "Your Rights"
@@ -790,7 +790,7 @@ msgstr "ਤੁਹਾਡੇ ਯੰਤਰ ਉੱਪਰਲੀ ਕੋਈ ਵੀ ਐ�
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ?"
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਤੋਂ ਬਾਹਰ ਨਿਕਲਣਾ ਹੈ?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -887,7 +887,8 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
-"<ul>                                                                                                                                                                                                                                                                                                                                                                                  <li>ਇਹ ਸਮੱਸਿਆ ਕੁਝ ਵਾਰ ਕੂਕੀਜ਼ ਨੂੰ ਆਯੋਗ ਕਰਨ ਜਾਂ ਲੈਣ ਤੋਂ ਇਨਕਾਰ ਕਰਕੇ ਆ ਸਕਦੀ ਹੈ।</li>\n"
+"<ul>\n"
+" <li>ਇਹ ਸਮੱਸਿਆ ਕੁਝ ਵਾਰ ਕੂਕੀਜ਼ ਨੂੰ ਆਯੋਗ ਕਰਨ ਜਾਂ ਲੈਣ ਤੋਂ ਇਨਕਾਰ ਕਰਕੇ ਆ ਸਕਦੀ ਹੈ।</li>\n"
 "</ul>\n"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1122,7 +1123,7 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+msgstr "ਵਰਤੋਂਕਾਰ-ਨਾਂ"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
@@ -1209,7 +1210,7 @@ msgstr "ਪ੍ਰਮਾਣਿਕਤਾ ਲੋੜੀਂਦੀ ਹੈ"
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+msgstr "ਵਰਤੋਂਕਾਰ-ਨਾਂ"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
