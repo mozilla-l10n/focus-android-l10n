@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-15 03:11+0000\n"
+"PO-Revision-Date: 2018-10-15 03:25+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -492,7 +492,7 @@ msgstr "Ni´in ka̱a̱ na´a tɨɨ saa kuvi síne ka̱a̱ ya´a"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Na´a tii noo´o kuvi síne %1$s iin URL dee nune. Jee tɨɨ ka̱a̱ chiyu´u."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -506,10 +506,9 @@ msgstr "Ntu tuvi"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Chiyu´u daa tutu web saa sama ka̱a̱"
+msgstr "Chiyu´u daa tutu web saa sama ka̱a̱ jee chiyu´u ka̱a̱ natava."
 
 msgctxt "preference_category_security"
 msgid "Security"
