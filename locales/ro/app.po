@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-11 03:46+0000\n"
+"PO-Revision-Date: 2018-10-14 10:25+0000\n"
 "Last-Translator: robbp <robbpaun@gmail.com>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -572,7 +572,7 @@ msgstr "La Mozilla noi colectăm doar strictul necesar pentru a crea și îmbun�
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr "Politica de confidențialitate"
+msgstr "Notificare privind confidențialitatea"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -595,7 +595,7 @@ msgstr "Restaurează motoarele de căutare implicite"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "+ Adaugă un alt motor de căutare"
+msgstr "+ Adaugă alt motor de căutare"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
