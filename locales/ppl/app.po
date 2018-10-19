@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 18:49+0000\n"
+"PO-Revision-Date: 2018-10-19 19:02+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -109,7 +109,7 @@ msgstr "Tay Yankwik"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "Tatalilis"
+msgstr "Kan titajshitia"
 
 msgctxt "menu_about"
 msgid "About"
@@ -207,12 +207,12 @@ msgstr ""
 "<p>%1$s metzmaka control.</p>\n"
 "<p>Shikwi ken se ichtaka taitani:\n"
 "  <ul>\n"
-"    <li>Shitatejtemu wan shikijita tik ne aplicación</li>\n"
-"    <li>Shiktentzakwa ne tapachiwiani (ush shikyankwili ne configuración pal shikajkawa tapachiwiani)</li>\n"
+"    <li>Shitatejtemu wan shitajtachia tik ne aplicación</li>\n"
+"    <li>Shiktentzakwa ne tapachiwiani (ush shitajshitia uksenpa pal tikajkawa tekiti ne tapachiwiani)</li>\n"
 "    <li>Shikpupu pal tikwilewa cookies wan ne tatemulis panutuk</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>Mozilla kichiwtuk ne %1$s. Tiknekit tikajsit tikpiat se Matapan yek wan tapujtuk.<br/>\n"
+"<p>Mozilla kichiwtuk ne %1$s. Tiknekit tikajsit tikpiat se Internet yek wan tapujtuk.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -223,7 +223,7 @@ msgstr "Ichtakachiwalis wan tamanawilis"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr "Kan tikishpejpena ne rastreador, cookies, wan tamatil"
+msgstr "Kan tikishpejpena ne tapachiwiani, cookies, wan tamatil"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
@@ -244,7 +244,7 @@ msgstr "Ipanpa %1$s, tapalewilis"
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr "Shikmanawi itech rastreador"
+msgstr "Shikmanawi itech tapachiwiani"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
