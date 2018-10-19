@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 19:27+0000\n"
+"PO-Revision-Date: 2018-10-19 19:42+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -374,13 +374,13 @@ msgstr "Shiktali u shina ken taja tikneki ma temi isel ne URLs."
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
 msgid "URL to add"
-msgstr "URL yawi mutalia"
+msgstr "Shiktali ne URL"
 
 #. "Hint" text for the "custom autocomplete URL" input field. Shown when the
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Shiksalu ush shiktali ne URL"
+msgstr "Shiksalu ush shikishtuka ne URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -397,7 +397,7 @@ msgstr "Machiut: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "Yankwik URL mutalijtuk."
+msgstr "Yankwik URL machijchiwtuk wan talijtuk."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
