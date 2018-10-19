@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 17:30+0000\n"
+"PO-Revision-Date: 2018-10-19 17:50+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -415,7 +415,7 @@ msgstr "ཐོག་མའི་མ་ལག་སྐད་ཡིག་"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr "སྒོས་གསང་།"
+msgstr "སྒེར་དབང་།"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
@@ -561,7 +561,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "སྒོས་དབང་གསལ་བརྡ།"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -950,7 +950,7 @@ msgstr "%1$s འཚོལ་རབས་འདོར་སུབ་བྱེད�
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "སྒེར་དབང་ཆེ་རུ་གཏོང་།"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
@@ -982,7 +982,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "སྒེར་དབང་ཁྱོད་ཀྱི་གོམས་གཤིས་བཟོས།"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
