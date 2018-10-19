@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 19:02+0000\n"
+"PO-Revision-Date: 2018-10-19 19:27+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -547,7 +547,7 @@ msgstr "Ne iswat weli mutemiltia uk talul, melka tesu weli tekiti ken taja te ti
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr "Shikchiwa %1$s ken ne achtu pashaluani"
+msgstr "Shikchiwa %1$s ken ne achtutalijtuk tajtachialis"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
@@ -727,7 +727,7 @@ msgstr "Shiktemilti ne sitioj web uksenpa"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr "Shipashalu ka ipan"
+msgstr "Shimukwepa ka ipan"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -1351,7 +1351,9 @@ msgctxt "tip_set_default_browser"
 msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
-msgstr "Shiktapu sejse ilpika tik %1$s"
+msgstr ""
+"Shiktapu sejse ilpika %1$s\n"
+" Shikchiwa %1$s ken ne achtutalijtuk tajtachialis"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
