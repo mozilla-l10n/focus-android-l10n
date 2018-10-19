@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 18:00+0000\n"
+"PO-Revision-Date: 2018-10-19 18:29+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -131,7 +131,7 @@ msgstr "Ne tay mupal"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Rastreador tentzaktuk"
+msgstr "Tapachiwiani tentzaktuk"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -208,8 +208,8 @@ msgstr ""
 "<p>Shikwi ken se ichtaka taitani:\n"
 "  <ul>\n"
 "    <li>Shitatejtemu wan shikijita tik ne aplicación</li>\n"
-"    <li>Shiktzakwa ne rastreador (ush shikyankwili ne configuración pal shikajkawa rastreador)</li>\n"
-"    <li>Shikpupu pal shikwilewa cookies wan ne tatemulis panutuk</li>\n"
+"    <li>Shiktentzakwa ne tapachiwiani (ush shikyankwili ne configuración pal shikajkawa tapachiwiani)</li>\n"
+"    <li>Shikpupu pal tikwilewa cookies wan ne tatemulis panutuk</li>\n"
 "  </ul>\n"
 "</p>\n"
 "<p>Mozilla kichiwtuk ne %1$s. Tiknekit tikajsit tikpiat se Matapan yek wan tapujtuk.<br/>\n"
@@ -432,7 +432,7 @@ msgstr "Tay nemi ichtaka"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Shiktzakwa ne rastreador ipal anuncioj"
+msgstr "Shiktentzakwa ne tapachiwiani ipal anuncioj"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -440,7 +440,7 @@ msgstr "Sejse anuncioj kishpelwiat ne sitioj kan tipashalua, manelka tesu tikpac
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Shiktzakwa ne rajrastreador tapepetat"
+msgstr "Shiktentzakwa ne tapachiwiani tapepeta"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
@@ -448,7 +448,7 @@ msgstr "Ipal tiksentalia, tikishpepeta wan tiktamachiwa tajtaya kwak titamatuka 
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Shiktentzakwa ne rajrastreador kimatit kan tinemi"
+msgstr "Shiktentzakwa ne tajtapachiwiani kimatit kan tinemi"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -456,7 +456,7 @@ msgstr "Muishtukaktuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaj
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Shiktentzakwa ujukseuk rastreador"
+msgstr "Shiktentzakwa ujukseuk tapachiwiani"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -754,7 +754,7 @@ msgstr ""
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "Shiktzakwa ne rajrastreador"
+msgstr "Shiktentzakwa muchi ne tapachiwiani"
 
 msgctxt "your_rights"
 msgid "Your Rights"
