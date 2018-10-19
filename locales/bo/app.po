@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 17:50+0000\n"
+"PO-Revision-Date: 2018-10-19 18:04+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -66,7 +66,7 @@ msgstr "འཚོལ་བྱའི་ནང་དོན་ %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "འགྲེམ་སྤེལ་་་"
+msgstr "མཉམ་སྤྱོད་་་"
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
@@ -143,7 +143,7 @@ msgstr ""
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "འགྲིམ་སྤེལ་བརྒྱུད་ལམ།"
+msgstr "མཉམ་སྤྱོད་བརྒྱུད་ལམ།"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -506,7 +506,7 @@ msgstr "ཉེན་སྲུང་།"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
-msgstr ""
+msgstr "བྱེད་ལས།"
 
 msgctxt "preference_performance_block_webfonts"
 msgid "Block Web fonts"
@@ -573,7 +573,7 @@ msgstr "%1$s ངོ་སྤྲོད།"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "འཚོལ་བཤེར་སྒྲིག་འཇུག"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -588,7 +588,7 @@ msgstr "+ འཚོལ་བཤེར་དྲ་ངོས་གཞན་སྣ�
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "བཤེར་འཚོལ་སུབ།"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -623,7 +623,7 @@ msgstr "ཉར་ཚགས།"
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "དཔེར་ན།  example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
@@ -635,7 +635,7 @@ msgstr "འཚོལ་བཤེར་དྲ་ངོས་མིང་འདི
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "འཚོལ་བཤེར་སྒྲིག་འཇུག་ཟིན་པའི་མིང་རེད་འདུག"
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -913,7 +913,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "སྦྲེལ་མཐུད་མཉམ་སྤྱོད།"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
@@ -923,7 +923,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr "པར་འགྲེམ་སྤེལ་བྱས་པ།"
+msgstr "པར་མཉམ་སྤྱོད།"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
