@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-20 07:51+0000\n"
+"PO-Revision-Date: 2018-10-20 07:54+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -128,7 +128,7 @@ msgstr "ཁྱེད་ཀྱི་བདག་དབང"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "རྗེས་འདེད་བཀག"
+msgstr "རྗེས་འདེད་མཁན་བཀག"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -735,14 +735,14 @@ msgstr "མཉེན་ཆས་སྔོན་མ་ཕྱིར་ལོག་
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "རྗེས་འདེད་མཁན་བཀག་གྲངས།"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "རྗེས་འདེད་མཁན་འགོག"
 
 msgctxt "your_rights"
 msgid "Your Rights"
