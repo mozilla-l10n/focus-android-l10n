@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-20 15:13+0000\n"
+"PO-Revision-Date: 2018-10-20 15:40+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -29,7 +29,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "कैंसिल"
+msgstr "रद्द करियै"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -808,7 +808,7 @@ msgstr "खोलियै"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "%1$s इतिहास मेटाबै केरो बाद भी डाउनलोड करलो फाइल <b>नही मेटाएत</b>."
+msgstr "%1$s इतिहास मेटाबै केरो बाद भी डाउनलोड करलो फाइल <b>नही हटाएत</b>."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -818,7 +818,7 @@ msgstr "फाइल डाउनलोड करियै"
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr "कैंसिल"
+msgstr "रद्द करियै"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
@@ -1042,7 +1042,7 @@ msgstr "जोड़ियै"
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr "कैंसिल"
+msgstr "रद्द करियै"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
