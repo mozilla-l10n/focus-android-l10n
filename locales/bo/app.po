@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-20 07:54+0000\n"
+"PO-Revision-Date: 2018-10-20 09:55+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -260,7 +260,7 @@ msgstr "འཚོལ་བཤེར།"
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr "འཚོལ་བཤེར་བསམ་འཆར་ལེན་པ།"
+msgstr "འཚོལ་བཤེར་འབྲེལ་ཡོད་འོས་སྦྱོར་ལེན་པ།"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
@@ -1273,7 +1273,7 @@ msgstr "མཛུག་མོ་འགུལ་སྐྱོད་མགྱོག
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr "འཚོལ་བཤེར་བསམ་འཆར་དགོས་སམ།"
+msgstr "འཚོལ་བཤེར་འབྲེལ་ཡོད་འོས་སྦྱོར་དགོས་སམ།"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1304,7 +1304,7 @@ msgstr "རེད།"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr "བཤར་ཆས་འགའ་ཤས་ཀྱིས་འཚོལ་བཤེར་བསམ་འཆར་འདོན་མི་ཐུབ།"
+msgstr "བཤེར་ཆས་འགའ་ཤས་ཀྱིས་འཚོལ་བཤེར་འབྲེལ་ཡོད་འོས་སྦྱོར་མ་ཐུབ།"
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
