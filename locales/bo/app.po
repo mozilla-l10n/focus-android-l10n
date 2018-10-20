@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 18:04+0000\n"
+"PO-Revision-Date: 2018-10-20 07:51+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -128,7 +128,7 @@ msgstr "ཁྱེད་ཀྱི་བདག་དབང"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "རྗེས་འདེད་བཀག"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -419,7 +419,7 @@ msgstr "སྒེར་དབང་།"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr ""
+msgstr "རྗེས་འདེད་གཏོང་མཁན་བཀག་ཟིན་པ།"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -657,7 +657,7 @@ msgstr "ནང་འཇུག་གཙང་བཟོ།"
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "ཡང་བསྐྱར་མི་འཆར།"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
@@ -685,13 +685,13 @@ msgstr ""
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "རྒྱབ་སྣོན་བྱེད་བཞིན་ཡོད།"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "དྲ་ཚིགས་འཇུག་ཟིན།"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -709,7 +709,7 @@ msgstr ""
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "དྲ་ཚིགས་བསྐྱར་འཇུག"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -722,7 +722,7 @@ msgstr ""
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "དྲ་ཚིགས་འཇུག་མཚམས་འཇོག"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -1013,7 +1013,7 @@ msgstr "-"
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr "བསྣོན།"
+msgstr "སྣོན།"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
