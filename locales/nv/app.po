@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-23 19:49+0000\n"
+"PO-Revision-Date: 2018-10-23 20:02+0000\n"
 "Last-Translator: dereknak12 <dereknak12@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nv\n"
@@ -54,24 +54,24 @@ msgstr "T'áá bí nanil'ingo hanítá."
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr ""
+msgstr "Hanítá baa hane' yę́ę 'ígíí nits'ą́ą́' k'éé'óólchxǫ'."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr ""
+msgstr "Hanį́tą́ "
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr ""
+msgstr "Ła' bił 'ííshjání 'ádeeshłííł nisin "
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr ""
+msgstr "Siteígíí ba'at'e' hólǫ́ léi' 'áko 'éí baa hodeeshnih nisin"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -80,7 +80,7 @@ msgstr ""
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr ""
+msgstr "Tsésǫ' 'ániidígíí léi' biyi'jį' 'ąą 'ádeeshłííł nisin. "
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -102,7 +102,7 @@ msgstr ""
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr ""
+msgstr "Ha'át'íí 'ániidígo 'ádaalyaa dóó łahgo 'ádaalyaa?"
 
 msgctxt "menu_settings"
 msgid "Settings"
