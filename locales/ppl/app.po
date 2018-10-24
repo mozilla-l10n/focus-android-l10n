@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 19:42+0000\n"
+"PO-Revision-Date: 2018-10-24 05:07+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -600,7 +600,7 @@ msgstr ""
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Shikishti muchi ne tepusyulu taishtemua"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -639,19 +639,19 @@ msgstr "Machiut: machiut.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "Shiktali se yankwik tepusyulu taishtemua."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Shikishtuka ne itukay ne tepusyulu taishtemua"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "Seuk tepusyulu taishtemua kipiaya ne sesan itukay."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Shiktemu tay tikneki"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
@@ -747,7 +747,7 @@ msgstr "Shimukwepa ka ne aplicación panutuk"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Keski tapachiwiani ishtzaktuk"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -812,7 +812,7 @@ msgstr "Shiktapu"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Ne archivoj temultijtuk <b>te yawi mupupua </b> kemen tikpupua %1$s tay tikitztuk."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -832,7 +832,7 @@ msgstr "Shitemulti"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Se uijkayu panuk keman mutemultia ne iswat"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
