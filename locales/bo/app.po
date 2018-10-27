@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-27 11:42+0000\n"
+"PO-Revision-Date: 2018-10-27 12:12+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -267,7 +267,7 @@ msgstr "འཚོལ་བཤེར་ནང་དོན་འོས་སྦྱ
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s ཡིས་རང་འཇུག་པའི་འཚོལ་བྱའི་ནང་དོན་འཚོལ་བཤེར་དྲ་བ་གཏོང་ལེན་བྱེད།"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -779,7 +779,7 @@ msgstr ""
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr "གསང་རྒྱ་ནས་ཕྱིར་ཐོན་དགོས་ཡིན་ནམ།"
+msgstr "གསང་རྒྱ་ནས་ཕྱིར་ཐོན་དགོས་སམ།"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
@@ -965,7 +965,7 @@ msgstr "ཁྱོད་ཀྱི་འཚོལ་བཤེར། ཁྱོད�
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "འཚོལ་བྱའི་ནང་དོན་གཞན་དག་ཡིན་ནམ། འཚོལ་བཤེར་གཞན་ཞིག་སྒྲིག་འགོད་ནས་ངོས་གཙོར་འཇོག་རོགས།"
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1038,7 +1038,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "སྒེར་དོན་གསང་རྒྱ་དུས་མཚམས།"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1282,7 +1282,7 @@ msgstr "འཚོལ་བཤེར་འབྲེལ་ཡོད་འོས་
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "ཁྱེད་ལ་སྤྲོ་བ་ཡོད་པའི་ནང་དོན་མཁོ་འདོན་ཆེད་དུ། %1$s ཡིས་རང་འཇུག་པའི་འཚོལ་བྱའི་ནང་དོན་རང་འདེམ་པའི་འཚོལ་བཤེར་དྲ་བར་འདོན་སྤྲོད་བྱ་དགོས།"
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
