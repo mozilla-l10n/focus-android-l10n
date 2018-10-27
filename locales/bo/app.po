@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-27 12:12+0000\n"
+"PO-Revision-Date: 2018-10-27 12:30+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -42,7 +42,7 @@ msgstr "ཉར་ཚགས།"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "འཚོལ་ཞིབ་ཡང་ན་དྲ་ཚིཊ་ཁ་བྱང་འདིར་འཇུག་རོཊ།"
+msgstr "འཚོལ་བཤེར་ཡང་ན་དྲ་ཚིཊ་ཁ་བྱང་འདིར་འཇུག་རོཊ།"
 
 msgctxt "teaser"
 msgid ""
@@ -106,7 +106,7 @@ msgstr "གནས་ཚུལ་གསར་པ།"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "སྒྲིག་བཟོ།"
+msgstr "སྒྲིག་འགོད།"
 
 msgctxt "menu_about"
 msgid "About"
@@ -561,7 +561,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr "སྒོས་དབང་གསལ་བརྡ།"
+msgstr "སྒོར་དབང་གསལ་བརྡ།"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -1109,7 +1109,7 @@ msgstr ""
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr "ཐོ་མིང་།"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་།"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
@@ -1138,7 +1138,7 @@ msgstr ""
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "དྲ་བའི་བདེ་འཇགས།"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
