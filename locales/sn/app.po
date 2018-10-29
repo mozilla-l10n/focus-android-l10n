@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-29 08:14+0000\n"
-"Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
+"PO-Revision-Date: 2018-10-27 12:13+0000\n"
+"Last-Translator: jsingizi7 <jsingizi7@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sn\n"
 "MIME-Version: 1.0\n"
@@ -236,7 +236,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr ""
+msgstr "Nezvedu %1$s, rubatsiro"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -265,7 +265,7 @@ msgstr ""
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr ""
+msgstr "Tsvaga"
 
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
@@ -658,7 +658,7 @@ msgstr ""
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Dzima zvaiswa"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
