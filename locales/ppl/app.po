@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-19 18:04+0000\n"
-"Last-Translator: Alexander Parada <alessaux@outlook.es>\n"
+"PO-Revision-Date: 2018-10-29 19:51+0000\n"
+"Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: ppl\n"
@@ -573,7 +573,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr ""
+msgstr "Tanawatilis ipal ne ichtaka"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -585,7 +585,7 @@ msgstr "Ipanpa %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Tejtepusyulu taishmuat ajajshitilijtuk"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -596,7 +596,7 @@ msgstr "Shimukwepa ka achtutalijtuk motor tatemua"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Shiktali seuk tepusyulu taishtemua"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
@@ -625,7 +625,7 @@ msgstr "Shiktemu ne itukay ne motor"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "Shiktemu ne mekat yawi mukwi"
+msgstr "Search string to use"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -655,7 +655,7 @@ msgstr "Shiktemu tay tikneki"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Shikpepeta ma ne tajtaketzalis ijishtemujtuk kenha ken nemi ne Machiut"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -1052,7 +1052,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Sesión pal titaishtemua ichtaka"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
