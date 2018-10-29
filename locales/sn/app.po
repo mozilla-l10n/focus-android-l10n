@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-25 09:06+0000\n"
-"Last-Translator: eddiemanzongo <eddiemanzongo@gmail.com>\n"
+"PO-Revision-Date: 2018-10-29 07:05+0000\n"
+"Last-Translator: anesuchiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sn\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Kanzura"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -108,19 +108,19 @@ msgstr "Zvinyowani"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr ""
+msgstr "Gadziro"
 
 msgctxt "menu_about"
 msgid "About"
-msgstr ""
+msgstr "Nezvedu"
 
 msgctxt "menu_help"
 msgid "Help"
-msgstr ""
+msgstr "Rubatsiro"
 
 msgctxt "menu_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Kodzero dzako"
 
 #. Menu item: This is the label for a menu entry that shows how many trackers
 #. have been blocked          for the currently loaded website. The number of
@@ -130,7 +130,7 @@ msgstr ""
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr ""
+msgstr "Zvinotevera zvavharwa"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -139,13 +139,13 @@ msgstr ""
 #, c-format
 msgctxt "menu_custom_tab_branding"
 msgid "Powered by %1$s"
-msgstr ""
+msgstr "Zvasimbiswa na%1$s"
 
 #. This is the title of a dialog that shows all the share targets (apps or
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr ""
+msgstr "Govera uchishandisa"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -154,18 +154,18 @@ msgstr ""
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Dzima nhoroondo yezvakatsvakwa"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr ""
+msgstr "Vhura"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
 msgctxt "notification_action_erase_and_open"
 msgid "Erase and Open"
-msgstr ""
+msgstr "Dzima neku Vhura"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -269,7 +269,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
+msgstr "%1$s ichatumira zvaunonyora mu adhiresi bha yako ye injini yekutsvaga"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
