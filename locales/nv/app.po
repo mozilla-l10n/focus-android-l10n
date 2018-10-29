@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-08-28 16:52-0700\n"
-"PO-Revision-Date: 2018-10-24 02:39+0000\n"
-"Last-Translator: dereknak12 <dereknak12@gmail.com>\n"
+"PO-Revision-Date: 2018-10-29 16:47+0000\n"
+"Last-Translator: delphine <dlebedel@mozilla.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nv\n"
 "MIME-Version: 1.0\n"
@@ -61,7 +61,7 @@ msgstr "Hanítá baa hane' yę́ę 'ígíí nits'ą́ą́' k'éé'óólchxǫ'."
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "Hanį́tą́ "
+msgstr "Hanį́tá %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -80,7 +80,7 @@ msgstr "Siteígíí ba'at'e' hólǫ́ léi' 'áko 'éí baa hodeeshnih nisin"
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr "Tsésǫ' 'ániidígíí léi' biyi'jį' 'ąą 'ádeeshłííł nisin. "
+msgstr "Tsésǫ' 'ániidígíí léi' biyi'jį' 'ąą 'ádeeshłííł nisin %1$s."
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
