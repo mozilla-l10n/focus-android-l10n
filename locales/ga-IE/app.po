@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-28 16:52-0700\n"
+"POT-Creation-Date: 2018-10-29 13:51-0700\n"
 "PO-Revision-Date: 2018-05-19 03:47+0000\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language: ga_IE\n"
@@ -55,6 +55,12 @@ msgstr ""
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
 msgstr "Bánaíodh do stair bhrabhsála."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a custom tab browsing session
+msgctxt "feedback_erase_custom_tab"
+msgid "Tab’s browsing history has been erased."
+msgstr ""
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -130,6 +136,24 @@ msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
 msgstr "Lorgairí blocáilte"
 
+#. Menu item: This is the subtitle for the Trackers blocked menu entry that
+#. shows how many     trackers have been blocked for the currently loaded
+#. website.
+msgctxt "menu_trackers_blocked_subtitle"
+msgid "Turning this off may fix some site problems"
+msgstr ""
+
+#. Menu item: This is the label for turning off content blocking for the
+#. current website.
+msgctxt "menu_content_blocking"
+msgid "Content Blocking"
+msgstr ""
+
+#. This is the subtitle content blocking toggle
+msgctxt "menu_content_blocking_subtitle"
+msgid "Turn off to fix some sites"
+msgstr ""
+
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
 #. https://github.com/mozilla-mobile/focus-android/issues/2106       %1$s will
@@ -178,6 +202,22 @@ msgstr "Glan"
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
 msgstr "Glan an stair bhrabhsála"
+
+#. On Android 7+ users can add a shortcut for erasing the browsing history to
+#. the home screen.          This is the label for this shortcut. Android
+#. recommends a maximum length of 10 characters.
+msgctxt "shortcut_erase_and_open_short_label"
+msgid "Erase & open"
+msgstr ""
+
+#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
+#. shows this          instead of the short title when it has enough space.
+#. Android recommends a maximum length          of 25 characters.          %1$s
+#. will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "shortcut_erase_and_open_long_label"
+msgid "Erase and open %1$s"
+msgstr ""
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -262,6 +302,12 @@ msgctxt "preference_category_general"
 msgid "General"
 msgstr "Ginearálta"
 
+#. Preference summary for General Settings category; the three things users
+#. can find in this category
+msgctxt "preference_general_summary"
+msgid "Default browser, tabs, language"
+msgstr ""
+
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
@@ -288,6 +334,11 @@ msgctxt "preference_search_engine_default"
 msgid "Default"
 msgstr "Réamhshocrú"
 
+#. This label is shown above the currently selected search engine in settings
+msgctxt "preference_search_engine_label"
+msgid "Search engine"
+msgstr ""
+
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
@@ -304,32 +355,38 @@ msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
 msgstr "Uathchríochnú URL"
 
-#. Title of "switch" preference that enables/disables autocomplete
-msgctxt "preference_switch_autocomplete"
-msgid "Autocomplete"
-msgstr "Uathchríochnú"
-
-#. Preference title: URL autocomplete list that ships with Focus/Klar.
-msgctxt "preference_category_autocomplete_preinstalled"
-msgid "Default URL List"
-msgstr "Liosta URLanna réamhshocraithe"
-
-#. Preference summary: URL autocomplete list that ships with Focus/Klar.
-#, c-format
-msgctxt "preference_autocomplete_preinstalled_summary"
-msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
+#. Title of "switch" preference that enables/disables autocomplete for the
+#. default list
+msgctxt "preference_switch_autocomplete_topsites"
+msgid "For Top sites"
 msgstr ""
 
-#. Preference category: Custom (user-defined) autocomplete URLs.
-msgctxt "preference_category_autocomplete_custom_urls"
-msgid "Custom URLs"
-msgstr "URLanna saincheaptha"
+#. Summary for the toggle to enable autocomplete for the topsites list
+msgctxt "preference_autocomplete_topsite_summary"
+msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgstr ""
+
+#. Title of "switch" preference that enables/disables autocomplete for the
+#. user-defined list
+msgctxt "preference_switch_autocomplete_user_list"
+msgid "For Sites You Add"
+msgstr ""
+
+#. Summary for the toggle to enable autocomplete for the user-defined list
+msgctxt "preference_autocomplete_user_list_summary"
+msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgstr ""
+
+#. Preference category: Manage (user-defined) sites
+msgctxt "preference_category_autocomplete_manage_sites"
+msgid "Manage sites"
+msgstr ""
 
 #. Item in autocomplete settings that will open a new preference screen for
-#. adding and removing custom autocomplete URLs
-msgctxt "preference_autocomplete_subitem_customlist"
-msgid "Custom URLs"
-msgstr "URLanna saincheaptha"
+#. adding and removing URLs to the user-defined list
+msgctxt "preference_autocomplete_subitem_manage_sites"
+msgid "Manage sites"
+msgstr ""
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -346,6 +403,12 @@ msgstr "Cuir URL saincheaptha leis"
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr "Cuir URL saincheaptha leis"
+
+#. Label for the button to quick add the current URL to the custom
+#. autocomplete list
+msgctxt "add_custom_autocomplete_label"
+msgid "Add link to autocomplete"
+msgstr ""
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -475,6 +538,10 @@ msgstr "Cuir cosc ar fhianáin"
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
 msgstr "Níl"
+
+msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
+msgid "Block 3rd-party tracker cookies only"
+msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -718,6 +785,12 @@ msgstr "Luchtaíodh an suíomh Gréasáin"
 msgctxt "content_description_menu"
 msgid "More options"
 msgstr "Tuilleadh roghanna"
+
+#. Content description (not visible, for screen readers etc.): "Three dot"
+#. menu button used     on home screen
+msgctxt "indicator_content_description_menu"
+msgid "More options button"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -978,6 +1051,11 @@ msgstr "Úps"
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr "Ní féidir linn an leathanach seo a lódáil ar chúis éigin."
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_app"
+msgid "Open with app"
+msgstr ""
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1463,9 +1541,113 @@ msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
-#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+msgctxt "tip_disable_tips2"
+msgid "Turn off tips on the start screen"
+msgstr ""
+
+#. Label for the snackbar when a user opens a new tab
+msgctxt "new_tab_opened_snackbar"
+msgid "New tab opened"
+msgstr ""
+
+#. Label for the button in the snackbar that switches to the newly opened tab
+msgctxt "open_new_tab_snackbar"
+msgid "Switch"
+msgstr ""
+
+#. Preference for switching to a new tab immediately after opening
+msgctxt "preference_open_new_tab"
+msgid "Switch to link in new tab immediately"
+msgstr ""
+
+#. Preference for safe browsing which when enabled, blocks dangerous or
+#. deceptive webpages that may include phishing or malware
+msgctxt "preference_category_safe_browsing"
+msgid "Safe Browsing"
+msgstr ""
+
+#. Preference title for safe browsing which when enabled, blocks dangerous or
+#. deceptive webpages that may include phishing or malware
+msgctxt "preference_safe_browsing_title"
+msgid "Block potentially dangerous and deceptive sites"
+msgstr ""
+
+#. Preference summary for safe browsing which when enabled, blocks dangerous
+#. or deceptive webpages that may include phishing or malware
+msgctxt "preference_safe_browsing_summary"
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
+msgstr ""
+
+#. Preference for exceptions tracking protection
+msgctxt "preference_exceptions"
+msgid "Exceptions"
+msgstr ""
+
+#. Description for the exceptions preference screen
+msgctxt "preference_exceptions_description"
+msgid "You have disabled Content Blocking for these websites."
+msgstr ""
+
+#. Menu item to remove existing exceptions.
+msgctxt "preference_exceptions_menu_remove"
+msgid "Remove"
+msgstr ""
+
+#. Button to remove all websites from the exception list
+msgctxt "preference_exceptions_remove_all_button_label"
+msgid "Remove all websites"
+msgstr ""
+
+#. Title for the tab crash report screen
+msgctxt "tab_crash_report_title"
+msgid "Tab Crashed"
+msgstr ""
+
+#. Headline for the tab crash report screen
+msgctxt "tab_crash_report_headline"
+msgid "Sorry. We’re having a problem with this tab."
+msgstr ""
+
+#. Subtitle for the tab crash report screen
+msgctxt "tab_crash_report_description"
+msgid "As a private browser, we never save and cannot restore this tab."
+msgstr ""
+
+#. Label for button to close the tab
+msgctxt "tab_crash_report_close_tab_button_label"
+msgid "Close Tab"
+msgstr ""
+
+#. Title for the fatal crash report window         %1$s will be replaced by
+#. the app name (e.g. Firefox Focus)
 #, c-format
-msgctxt "tip_disable_tips"
-msgid "Turn off tips on the %1$s start screen"
+msgctxt "fatal_crash_report_title"
+msgid "Sorry. %1$s had a problem and crashed."
+msgstr ""
+
+#. Description for the fatal crash report window
+msgctxt "fatal_crash_report_description"
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
+msgstr ""
+
+#. Label for the button that closes the window
+msgctxt "fatal_crash_report_close_button_label"
+msgid "Close"
+msgstr ""
+
+#. Label for the button to restart Firefox         %1$s will be replaced by
+#. the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "fatal_crash_report_restart_firefox_label"
+msgid "Restart %1$s"
+msgstr ""
+
+#. Label for the checkbox to send the tab crash report to Mozilla
+msgctxt "crash_report_send_crash_label"
+msgid "Send crash report to Mozilla"
 msgstr ""
 
