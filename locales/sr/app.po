@@ -2,23 +2,26 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-28 16:52-0700\n"
+"POT-Creation-Date: 2018-10-29 13:51-0700\n"
 "PO-Revision-Date: 2018-09-01 11:31+0000\n"
 "Last-Translator: Marko Andrejić <marko.andrejic93@gmail.com>\n"
-"Language-Team: sr <LL@li.org>\n"
 "Language: sr\n"
+"Language-Team: sr <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=((((((0 == 0)) && (((n % 10) >= 2 && (n "
+"% 10) <= 4))) && (!(((n % 100) >= 12 && (n % 100) <= 14)))) || ((((0 % "
+"10) >= 2 && (0 % 10) <= 4)) && (!(((0 % 100) >= 12 && (0 % 100) <= "
+"14))))) ? 1 : (((((0 == 0)) && (((n % 10) == 1))) && (!(((n % 100) == "
+"11)))) || ((((0 % 10) == 1)) && (!(((0 % 100) == 11))))) ? 0 : 2)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -57,6 +60,12 @@ msgstr ""
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
 msgstr "Ваш историјат прегледања је обрисан."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a custom tab browsing session
+msgctxt "feedback_erase_custom_tab"
+msgid "Tab’s browsing history has been erased."
+msgstr ""
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -132,6 +141,24 @@ msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
 msgstr "Блокирани пратиоци"
 
+#. Menu item: This is the subtitle for the Trackers blocked menu entry that
+#. shows how many     trackers have been blocked for the currently loaded
+#. website.
+msgctxt "menu_trackers_blocked_subtitle"
+msgid "Turning this off may fix some site problems"
+msgstr ""
+
+#. Menu item: This is the label for turning off content blocking for the
+#. current website.
+msgctxt "menu_content_blocking"
+msgid "Content Blocking"
+msgstr ""
+
+#. This is the subtitle content blocking toggle
+msgctxt "menu_content_blocking_subtitle"
+msgid "Turn off to fix some sites"
+msgstr ""
+
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
 #. https://github.com/mozilla-mobile/focus-android/issues/2106       %1$s will
@@ -181,6 +208,22 @@ msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
 msgstr "Обриши историју прегледања"
 
+#. On Android 7+ users can add a shortcut for erasing the browsing history to
+#. the home screen.          This is the label for this shortcut. Android
+#. recommends a maximum length of 10 characters.
+msgctxt "shortcut_erase_and_open_short_label"
+msgid "Erase & open"
+msgstr ""
+
+#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
+#. shows this          instead of the short title when it has enough space.
+#. Android recommends a maximum length          of 25 characters.          %1$s
+#. will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "shortcut_erase_and_open_long_label"
+msgid "Erase and open %1$s"
+msgstr ""
+
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
@@ -197,10 +240,12 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s вам даје контролу.</p>\n"
@@ -208,10 +253,12 @@ msgstr ""
 "  <ul>\n"
 "    <li>Претражујте и сурфујте директно у апликацији</li>\n"
 "    <li>Блокирајте пратиоце (или их омогућите у поставкама)</li>\n"
-"    <li>Избришите све колачиће као и историјат прегледања и претраге</li>\n"
+"    <li>Избришите све колачиће као и историјат прегледања и претраге</li>"
+"\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s је створила Mozilla. Наша мисија је неговање здравог и отвореног интернета.<br/>\n"
+"<p>%1$s је створила Mozilla. Наша мисија је неговање здравог и отвореног "
+"интернета.<br/>\n"
 "<a href=\"%2$s\">Сазнајте више</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -260,6 +307,12 @@ msgctxt "preference_category_general"
 msgid "General"
 msgstr "Општа"
 
+#. Preference summary for General Settings category; the three things users
+#. can find in this category
+msgctxt "preference_general_summary"
+msgid "Default browser, tabs, language"
+msgstr ""
+
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
@@ -286,6 +339,11 @@ msgctxt "preference_search_engine_default"
 msgid "Default"
 msgstr "Подразумевано"
 
+#. This label is shown above the currently selected search engine in settings
+msgctxt "preference_search_engine_label"
+msgid "Search engine"
+msgstr ""
+
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
@@ -302,32 +360,38 @@ msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
 msgstr "URL aутоматско завршавање"
 
-#. Title of "switch" preference that enables/disables autocomplete
-msgctxt "preference_switch_autocomplete"
-msgid "Autocomplete"
-msgstr "Аутоматско завршавање"
+#. Title of "switch" preference that enables/disables autocomplete for the
+#. default list
+msgctxt "preference_switch_autocomplete_topsites"
+msgid "For Top sites"
+msgstr ""
 
-#. Preference title: URL autocomplete list that ships with Focus/Klar.
-msgctxt "preference_category_autocomplete_preinstalled"
-msgid "Default URL List"
-msgstr "Подразумевана URL листа"
+#. Summary for the toggle to enable autocomplete for the topsites list
+msgctxt "preference_autocomplete_topsite_summary"
+msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgstr ""
 
-#. Preference summary: URL autocomplete list that ships with Focus/Klar.
-#, c-format
-msgctxt "preference_autocomplete_preinstalled_summary"
-msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "Омогућите како би %1$s аутоматски завршавао преко 450 популарних URL адреса у адресној траци."
+#. Title of "switch" preference that enables/disables autocomplete for the
+#. user-defined list
+msgctxt "preference_switch_autocomplete_user_list"
+msgid "For Sites You Add"
+msgstr ""
 
-#. Preference category: Custom (user-defined) autocomplete URLs.
-msgctxt "preference_category_autocomplete_custom_urls"
-msgid "Custom URLs"
-msgstr "Прилагођене URL адресе"
+#. Summary for the toggle to enable autocomplete for the user-defined list
+msgctxt "preference_autocomplete_user_list_summary"
+msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgstr ""
+
+#. Preference category: Manage (user-defined) sites
+msgctxt "preference_category_autocomplete_manage_sites"
+msgid "Manage sites"
+msgstr ""
 
 #. Item in autocomplete settings that will open a new preference screen for
-#. adding and removing custom autocomplete URLs
-msgctxt "preference_autocomplete_subitem_customlist"
-msgid "Custom URLs"
-msgstr "Прилагођене URL адресе"
+#. adding and removing URLs to the user-defined list
+msgctxt "preference_autocomplete_subitem_manage_sites"
+msgid "Manage sites"
+msgstr ""
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -344,6 +408,12 @@ msgstr "Додај URL"
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr "Додај URL"
+
+#. Label for the button to quick add the current URL to the custom
+#. autocomplete list
+msgctxt "add_custom_autocomplete_label"
+msgid "Add link to autocomplete"
+msgstr ""
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -443,15 +513,21 @@ msgstr "Блокирај аналитичке пратиоце"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Користи се за сакупљање, анализирање и мерење активности као што су кликтање и скроловање"
+msgstr ""
+"Користи се за сакупљање, анализирање и мерење активности као што су "
+"кликтање и скроловање"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Блокирај друштвене пратиоце"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Уграђене у сајтове како би пратиле ваше посете и приказивале дугмиће за дељење"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Уграђене у сајтове како би пратиле ваше посете и приказивале дугмиће за "
+"дељење"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -471,6 +547,10 @@ msgstr "Блокирај колачиће"
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
 msgstr "Не"
+
+msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
+msgid "Block 3rd-party tracker cookies only"
+msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -492,8 +572,12 @@ msgstr "Користите отисак прста да откључате ап�
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Ваш отисак прста може откључати %1$s ако је URL већ отворен у апликацији. Потајни режим ће бити укључен."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Ваш отисак прста може откључати %1$s ако је URL већ отворен у апликацији."
+" Потајни режим ће бити укључен."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -509,7 +593,9 @@ msgstr "Потајни режим"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Сакриј веб странице приликом мењања између апликација и блокирај бележење снимка екрана."
+msgstr ""
+"Сакриј веб странице приликом мењања између апликација и блокирај бележење"
+" снимка екрана."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -566,8 +652,12 @@ msgstr "Сазнајте више"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla тежи ка прикупљању само оних података који су потребни да бисмо пружали и побољшали %1$s за све."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla тежи ка прикупљању само оних података који су потребни да бисмо "
+"пружали и побољшали %1$s за све."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -710,6 +800,12 @@ msgctxt "content_description_menu"
 msgid "More options"
 msgstr "Више опција"
 
+#. Content description (not visible, for screen readers etc.): "Three dot"
+#. menu button used     on home screen
+msgctxt "indicator_content_description_menu"
+msgid "More options button"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
@@ -783,8 +879,12 @@ msgstr "Пронађите апликацију која може отворит
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ниједна апликација на вашем уређају не може отворити ову везу. Можете угасити %1$s и претражити %2$s да бисте нашли неку."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ниједна апликација на вашем уређају не може отворити ову везу. Можете "
+"угасити %1$s и претражити %2$s да бисте нашли неку."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -842,13 +942,17 @@ msgstr "Повезивање није успело"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Сајт је можда тренутно недоступан или презаузет. Покушајте поново за пар минута.</li>\n"
-"        <li>Уколико не можете учитати странице, проверите интернет на вашем телефону или Wi-Fi конекцију.</li>\n"
+"        <li>Сајт је можда тренутно недоступан или презаузет. Покушајте "
+"поново за пар минута.</li>\n"
+"        <li>Уколико не можете учитати странице, проверите интернет на "
+"вашем телефону или Wi-Fi конекцију.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -865,14 +969,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Проверите адресу ради грешака у куцању као што су\n"
 "          <strong>ww</strong>.example.com уместо\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Уколико не можете учитати странице, проверите интернет на вашем телефону или Wi-Fi конекцију.</li>\n"
+"        <li>Уколико не можете учитати странице, проверите интернет на "
+"вашем телефону или Wi-Fi конекцију.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -882,12 +988,15 @@ msgstr "Адреса је неважећа"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Веб адресе се обично пишу као <strong>http://www.example.com/</strong></li>\n"
+"  <li>Веб адресе се обично пишу као "
+"<strong>http://www.example.com/</strong></li>\n"
 "  <li>Уверите се да користите косе црте (тј. <strong>/</strong>).</li>\n"
 "</ul>"
 
@@ -898,11 +1007,13 @@ msgstr "Страница се не преусмерава исправно"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Проблем понекад може бити изазван онемогућавањем или одбијањем прихватања колачића.</li>\n"
+"  <li>Проблем понекад може бити изазван онемогућавањем или одбијањем "
+"прихватања колачића.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -912,11 +1023,13 @@ msgstr "Нејасна адреса"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Можда ћете морати инсталирати други софтвер да бисте отворили ову адресу.</li>\n"
+"  <li>Можда ћете морати инсталирати други софтвер да бисте отворили ову "
+"адресу.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -926,15 +1039,19 @@ msgstr "Безбедна веза није успостављена"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ово би могао бити проблем са подешавањима сервера или се можда неко представља као сервер.</li>\n"
-"  <li>Ако сте се и раније успешно повезивали на овај сервер, грешка може бити привремена и можете поново покушати касније да му приступите.</li>\n"
+"  <li>Ово би могао бити проблем са подешавањима сервера или се можда неко"
+" представља као сервер.</li>\n"
+"  <li>Ако сте се и раније успешно повезивали на овај сервер, грешка може "
+"бити привремена и можете поново покушати касније да му приступите.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -944,6 +1061,11 @@ msgstr "Упс"
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr "Из неких разлога не можемо учитати ову страницу."
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_app"
+msgid "Open with app"
+msgstr ""
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -979,8 +1101,12 @@ msgstr "Отвори везу у новом језичку"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Сачуване и дељене слике <b>неће бити обрисане</b> када обришете %1$s историјат."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Сачуване и дељене слике <b>неће бити обрисане</b> када обришете %1$s "
+"историјат."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -989,8 +1115,12 @@ msgstr "Ојачајте вашу приватност"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Побољшајте приватност током сурфовања. Блокирајте рекламе и друге саржаје који вас прати путем сајтова и убрзајте учитавање страница."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Побољшајте приватност током сурфовања. Блокирајте рекламе и друге саржаје"
+" који вас прати путем сајтова и убрзајте учитавање страница."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -999,8 +1129,12 @@ msgstr "Ваше претраге, ваш начин"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Тражите нешто другачије? Изаберите други подразумевани претраживач у поставкама."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"Тражите нешто другачије? Изаберите други подразумевани претраживач у "
+"поставкама."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1011,8 +1145,12 @@ msgstr "Додајте пречице на вашем почетном екра�
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Вратите се на ваше омиљене сајтове у %1$s-у лако. Само изаберите \"Додај на екран телефона\" из %1$s менија."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Вратите се на ваше омиљене сајтове у %1$s-у лако. Само изаберите \"Додај "
+"на екран телефона\" из %1$s менија."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1023,8 +1161,12 @@ msgstr "Учините приватност навиком"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Поставите %1$s као ваш подразумевани прегледач и побољшајте приватност током сурфовања када отворите веб странице из других апликација."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Поставите %1$s као ваш подразумевани прегледач и побољшајте приватност "
+"током сурфовања када отворите веб странице из других апликација."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1085,8 +1227,13 @@ msgstr "Сесија за приватно прегледање"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Обавештења вам омогућавају да обришете вашу %1$s сесију једним притиском. Не морате да отворите апликацију или да проверите шта се извршава у вашем прегледачу."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Обавештења вам омогућавају да обришете вашу %1$s сесију једним притиском."
+" Не морате да отворите апликацију или да проверите шта се извршава у "
+"вашем прегледачу."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1105,15 +1252,23 @@ msgstr "Преузмите Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s је бесплатан софтвер и отвореног кода направљен од стране Mozilla-е и других доприносиоца."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s је бесплатан софтвер и отвореног кода направљен од стране Mozilla-е "
+"и других доприносиоца."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s вам је омогућен под условима <a href=\"%2$s\">Mozilla јавне лиценце</a> и других лиценци отвореног кода."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s вам је омогућен под условима <a href=\"%2$s\">Mozilla јавне "
+"лиценце</a> и других лиценци отвореног кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1121,18 +1276,25 @@ msgstr "%1$s вам је омогућен под условима <a href=\"%2$s
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Немате никаква права нити лиценцу на заштитне знакове Mozilla фондације нити било шта слично, укључујући и Mozilla, Firefox или %1$s имена или логотипе. Додатне информације можете пронаћи <a "
-"href=\"%2$s\">овде</a>."
+"Немате никаква права нити лиценцу на заштитне знакове Mozilla фондације "
+"нити било шта слично, укључујући и Mozilla, Firefox или %1$s имена или "
+"логотипе. Додатне информације можете пронаћи <a href=\"%2$s\">овде</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Додатни изворни код за %1$s је доступан под различитим бесплатним и <a href=\"%2$s\">лиценцама</a> отвореног кода."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Додатни изворни код за %1$s је доступан под различитим бесплатним и <a "
+"href=\"%2$s\">лиценцама</a> отвореног кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1140,8 +1302,14 @@ msgstr "Додатни изворни код за %1$s је доступан п�
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s такође користи блок-листе пружане од стране Disconnect инкорпорације као одвојени и независни радови под <a href=\"%2$s\">GNU General Public License v3</a> и доступним <a href=\"%3$s\">овде</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s такође користи блок-листе пружане од стране Disconnect инкорпорације"
+" као одвојени и независни радови под <a href=\"%2$s\">GNU General Public "
+"License v3</a> и доступним <a href=\"%3$s\">овде</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1318,8 +1486,12 @@ msgstr "Да ли бисте желели да укључите предлоге
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Да бисте добијали предлоге претраге, %1$s мора да шаље претраживачу који сте изабрали, оно што уносите у адресну траку. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Да бисте добијали предлоге претраге, %1$s мора да шаље претраживачу који "
+"сте изабрали, оно што уносите у адресну траку. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1365,7 +1537,9 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Подесите приступ сајтовима које користите највише, једним кликом%1$s Мени > Додај на почетни екран"
+msgstr ""
+"Подесите приступ сајтовима које користите највише, једним кликом%1$s Мени"
+" > Додај на почетни екран"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1410,8 +1584,113 @@ msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr "Радије бисте видели цео десктоп сајт?%1$s Мени > Захтевај десктоп сајт"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
-#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
+msgctxt "tip_disable_tips2"
+msgid "Turn off tips on the start screen"
+msgstr ""
+
+#. Label for the snackbar when a user opens a new tab
+msgctxt "new_tab_opened_snackbar"
+msgid "New tab opened"
+msgstr ""
+
+#. Label for the button in the snackbar that switches to the newly opened tab
+msgctxt "open_new_tab_snackbar"
+msgid "Switch"
+msgstr ""
+
+#. Preference for switching to a new tab immediately after opening
+msgctxt "preference_open_new_tab"
+msgid "Switch to link in new tab immediately"
+msgstr ""
+
+#. Preference for safe browsing which when enabled, blocks dangerous or
+#. deceptive webpages that may include phishing or malware
+msgctxt "preference_category_safe_browsing"
+msgid "Safe Browsing"
+msgstr ""
+
+#. Preference title for safe browsing which when enabled, blocks dangerous or
+#. deceptive webpages that may include phishing or malware
+msgctxt "preference_safe_browsing_title"
+msgid "Block potentially dangerous and deceptive sites"
+msgstr ""
+
+#. Preference summary for safe browsing which when enabled, blocks dangerous
+#. or deceptive webpages that may include phishing or malware
+msgctxt "preference_safe_browsing_summary"
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
+msgstr ""
+
+#. Preference for exceptions tracking protection
+msgctxt "preference_exceptions"
+msgid "Exceptions"
+msgstr ""
+
+#. Description for the exceptions preference screen
+msgctxt "preference_exceptions_description"
+msgid "You have disabled Content Blocking for these websites."
+msgstr ""
+
+#. Menu item to remove existing exceptions.
+msgctxt "preference_exceptions_menu_remove"
+msgid "Remove"
+msgstr ""
+
+#. Button to remove all websites from the exception list
+msgctxt "preference_exceptions_remove_all_button_label"
+msgid "Remove all websites"
+msgstr ""
+
+#. Title for the tab crash report screen
+msgctxt "tab_crash_report_title"
+msgid "Tab Crashed"
+msgstr ""
+
+#. Headline for the tab crash report screen
+msgctxt "tab_crash_report_headline"
+msgid "Sorry. We’re having a problem with this tab."
+msgstr ""
+
+#. Subtitle for the tab crash report screen
+msgctxt "tab_crash_report_description"
+msgid "As a private browser, we never save and cannot restore this tab."
+msgstr ""
+
+#. Label for button to close the tab
+msgctxt "tab_crash_report_close_tab_button_label"
+msgid "Close Tab"
+msgstr ""
+
+#. Title for the fatal crash report window         %1$s will be replaced by
+#. the app name (e.g. Firefox Focus)
 #, c-format
-msgctxt "tip_disable_tips"
-msgid "Turn off tips on the %1$s start screen"
-msgstr "Искључите савете на %1$s почетном екрану"
+msgctxt "fatal_crash_report_title"
+msgid "Sorry. %1$s had a problem and crashed."
+msgstr ""
+
+#. Description for the fatal crash report window
+msgctxt "fatal_crash_report_description"
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
+msgstr ""
+
+#. Label for the button that closes the window
+msgctxt "fatal_crash_report_close_button_label"
+msgid "Close"
+msgstr ""
+
+#. Label for the button to restart Firefox         %1$s will be replaced by
+#. the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "fatal_crash_report_restart_firefox_label"
+msgid "Restart %1$s"
+msgstr ""
+
+#. Label for the checkbox to send the tab crash report to Mozilla
+msgctxt "crash_report_send_crash_label"
+msgid "Send crash report to Mozilla"
+msgstr ""
+
