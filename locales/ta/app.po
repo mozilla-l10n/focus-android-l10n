@@ -6,17 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-08-28 16:52-0700\n"
+"POT-Creation-Date: 2018-10-29 13:51-0700\n"
 "PO-Revision-Date: 2018-09-25 05:46+0000\n"
 "Last-Translator: Mohammed Ammar <ksmammar@gmail.com>\n"
-"Language-Team: ta <LL@li.org>\n"
 "Language: ta\n"
+"Language-Team: ta <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -55,6 +54,12 @@ msgstr ""
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
 msgstr "உங்கள் உலாவல் வரலாறு அழிக்கப்பட்டது."
+
+#. "Snackbar" shown after the user has pressed the 'erase' button at the end
+#. of a custom tab browsing session
+msgctxt "feedback_erase_custom_tab"
+msgid "Tab’s browsing history has been erased."
+msgstr ""
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -130,6 +135,24 @@ msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
 msgstr "பின்தொடரி"
 
+#. Menu item: This is the subtitle for the Trackers blocked menu entry that
+#. shows how many     trackers have been blocked for the currently loaded
+#. website.
+msgctxt "menu_trackers_blocked_subtitle"
+msgid "Turning this off may fix some site problems"
+msgstr ""
+
+#. Menu item: This is the label for turning off content blocking for the
+#. current website.
+msgctxt "menu_content_blocking"
+msgid "Content Blocking"
+msgstr ""
+
+#. This is the subtitle content blocking toggle
+msgctxt "menu_content_blocking_subtitle"
+msgid "Turn off to fix some sites"
+msgstr ""
+
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
 #. https://github.com/mozilla-mobile/focus-android/issues/2106       %1$s will
@@ -179,6 +202,22 @@ msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
 msgstr "உலாவல் வரலாற்றை அகற்று"
 
+#. On Android 7+ users can add a shortcut for erasing the browsing history to
+#. the home screen.          This is the label for this shortcut. Android
+#. recommends a maximum length of 10 characters.
+msgctxt "shortcut_erase_and_open_short_label"
+msgid "Erase & open"
+msgstr ""
+
+#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
+#. shows this          instead of the short title when it has enough space.
+#. Android recommends a maximum length          of 25 characters.          %1$s
+#. will be replaced by the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "shortcut_erase_and_open_long_label"
+msgid "Erase and open %1$s"
+msgstr ""
+
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
@@ -195,21 +234,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s உலாவி உங்களைக் கட்டுப்படுத்துகிறது.</p>\n"
 "<p>அந்தரங்க உலாவியாகப் பயன்படுத்துக:\n"
 "  <ul>\n"
 "    <li>தேடலுக்கும் உலாவலுக்கும் இந்த உலாவியைப் பாவியுங்கள்</li>\n"
-"    <li>பின்தொடரிகளைத் தடு (அல்லது அமைவுகளை மாற்றி பின்தொடரியை அனுமதி)</li>\n"
-"    <li>நினைவிகளை அகற்றுவதன் மூலம் தேடல் மற்றும் உலாவல் வரலாற்றையும் சேர்த்து அகற்று</li>\n"
+"    <li>பின்தொடரிகளைத் தடு (அல்லது அமைவுகளை மாற்றி பின்தொடரியை "
+"அனுமதி)</li>\n"
+"    <li>நினைவிகளை அகற்றுவதன் மூலம் தேடல் மற்றும் உலாவல் வரலாற்றையும் "
+"சேர்த்து அகற்று</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s ஒரு மொசில்லா தயாரிப்பாகும். எங்களின் நோக்கம் வேகமான ஆரோக்கியமான திறந்த இணையத்தைக் கிடைக்கச் செய்வதாகும்.<br/>\n"
+"<p>%1$s ஒரு மொசில்லா தயாரிப்பாகும். எங்களின் நோக்கம் வேகமான ஆரோக்கியமான "
+"திறந்த இணையத்தைக் கிடைக்கச் செய்வதாகும்.<br/>\n"
 "<a href=\"%2$s\">மேலும் அறிய</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -258,6 +302,12 @@ msgctxt "preference_category_general"
 msgid "General"
 msgstr "பொது"
 
+#. Preference summary for General Settings category; the three things users
+#. can find in this category
+msgctxt "preference_general_summary"
+msgid "Default browser, tabs, language"
+msgstr ""
+
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
@@ -284,6 +334,11 @@ msgctxt "preference_search_engine_default"
 msgid "Default"
 msgstr "முன்னிருப்பு"
 
+#. This label is shown above the currently selected search engine in settings
+msgctxt "preference_search_engine_label"
+msgid "Search engine"
+msgstr ""
+
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
@@ -300,32 +355,38 @@ msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
 msgstr "URL தானியங்கு நிரப்பு"
 
-#. Title of "switch" preference that enables/disables autocomplete
-msgctxt "preference_switch_autocomplete"
-msgid "Autocomplete"
-msgstr "தானியங்கு நிரப்பி"
+#. Title of "switch" preference that enables/disables autocomplete for the
+#. default list
+msgctxt "preference_switch_autocomplete_topsites"
+msgid "For Top sites"
+msgstr ""
 
-#. Preference title: URL autocomplete list that ships with Focus/Klar.
-msgctxt "preference_category_autocomplete_preinstalled"
-msgid "Default URL List"
-msgstr "இயல்பு URL பட்டியல்"
+#. Summary for the toggle to enable autocomplete for the topsites list
+msgctxt "preference_autocomplete_topsite_summary"
+msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgstr ""
 
-#. Preference summary: URL autocomplete list that ships with Focus/Klar.
-#, c-format
-msgctxt "preference_autocomplete_preinstalled_summary"
-msgid "Enable to have %1$s autocomplete over 450 popular URLs in the address bar."
-msgstr "முகவரிப்பட்டையில் 450 பிரபல URLs உடைய %1$s தானியங்குநிரப்பலைக் கொண்டிருக்க செயற்படுத்தவும்."
+#. Title of "switch" preference that enables/disables autocomplete for the
+#. user-defined list
+msgctxt "preference_switch_autocomplete_user_list"
+msgid "For Sites You Add"
+msgstr ""
 
-#. Preference category: Custom (user-defined) autocomplete URLs.
-msgctxt "preference_category_autocomplete_custom_urls"
-msgid "Custom URLs"
-msgstr "தனிபயன் URLs"
+#. Summary for the toggle to enable autocomplete for the user-defined list
+msgctxt "preference_autocomplete_user_list_summary"
+msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgstr ""
+
+#. Preference category: Manage (user-defined) sites
+msgctxt "preference_category_autocomplete_manage_sites"
+msgid "Manage sites"
+msgstr ""
 
 #. Item in autocomplete settings that will open a new preference screen for
-#. adding and removing custom autocomplete URLs
-msgctxt "preference_autocomplete_subitem_customlist"
-msgid "Custom URLs"
-msgstr "தனிபயன் URLs"
+#. adding and removing URLs to the user-defined list
+msgctxt "preference_autocomplete_subitem_manage_sites"
+msgid "Manage sites"
+msgstr ""
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -342,6 +403,12 @@ msgstr "தனிபயன் URL சேர்"
 msgctxt "custom_autocomplete_quick_add"
 msgid "Add custom URL"
 msgstr "தனிபயன் URL சேர்"
+
+#. Label for the button to quick add the current URL to the custom
+#. autocomplete list
+msgctxt "add_custom_autocomplete_label"
+msgid "Add link to autocomplete"
+msgstr ""
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -433,7 +500,9 @@ msgstr "விளம்பர பின்தொடரிகளைத் தட�
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "சில விளம்பரங்கள், நீங்கள் அதனை சொடுக்காவிட்டாலும் தள பார்வைகளைப் பின்தொடரும்"
+msgstr ""
+"சில விளம்பரங்கள், நீங்கள் அதனை சொடுக்காவிட்டாலும் தள பார்வைகளைப் "
+"பின்தொடரும்"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -448,8 +517,12 @@ msgid "Block social trackers"
 msgstr "சமூக பின்தொடரிகளைத் தடு"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "உங்கள் பார்வைகளைப் பின்தொடரவும் பகிர்தல் பொத்தான் போன்றவற்றைக் காட்டவும் தளத்தில் உட்பொதியப்பட்டிருக்கும்"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"உங்கள் பார்வைகளைப் பின்தொடரவும் பகிர்தல் பொத்தான் போன்றவற்றைக் காட்டவும் "
+"தளத்தில் உட்பொதியப்பட்டிருக்கும்"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -469,6 +542,10 @@ msgstr "நினைவிகளை முடக்கு"
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
 msgstr "இல்லை"
+
+msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
+msgid "Block 3rd-party tracker cookies only"
+msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -490,7 +567,9 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
 msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -507,7 +586,9 @@ msgstr "போரியல்"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "செயலிகள் மாறும்பொழுது வலைப்பக்கங்களை மறை மற்றும் திரைப்பிடிப்பு எடுப்பதைத் தடு."
+msgstr ""
+"செயலிகள் மாறும்பொழுது வலைப்பக்கங்களை மறை மற்றும் திரைப்பிடிப்பு "
+"எடுப்பதைத் தடு."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -564,8 +645,12 @@ msgstr "மேலும் அறிய"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க மொசில்லா உறுதிபூண்டுள்ளது."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"அனைவருக்கும் %1$s வழங்க மற்றும் மேம்படுத்த தேவையானதை மட்டும் சேகரிக்க "
+"மொசில்லா உறுதிபூண்டுள்ளது."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -708,6 +793,12 @@ msgctxt "content_description_menu"
 msgid "More options"
 msgstr "கூடுதல் தேர்வுகள்"
 
+#. Content description (not visible, for screen readers etc.): "Three dot"
+#. menu button used     on home screen
+msgctxt "indicator_content_description_menu"
+msgid "More options button"
+msgstr ""
+
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
@@ -781,8 +872,12 @@ msgstr "தொடுப்பை திறக்கவல்ல ஒரு செ
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கவல்லது. %1$s என்பதை விடுத்து ஒரு செயலியால் %2$s என்பதை தேட முடியும்."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"இந்தச் சாதனத்தில் உள்ள எந்த ஒரு செயலியும் இத்தொடுப்பை திறக்கவல்லது. %1$s "
+"என்பதை விடுத்து ஒரு செயலியால் %2$s என்பதை தேட முடியும்."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -807,7 +902,9 @@ msgstr "திற"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "%1$s வரலாற்றைத் துடைக்கும் பொருட்டு பதிவிறக்கிய கோப்புகள் <b>அழிக்கப்படாது.</b>"
+msgstr ""
+"%1$s வரலாற்றைத் துடைக்கும் பொருட்டு பதிவிறக்கிய கோப்புகள் "
+"<b>அழிக்கப்படாது.</b>"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -840,13 +937,17 @@ msgstr "இணைக்க இயலவில்லை"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>இத்தளம் தற்சமயம் கிடைக்காமலோ (அ) சேவகன் மிகவும் மும்முரமாகவோ இருக்கலாம். சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>\n"
-"        <li>எந்த வலைதளத்தையும் அணுக முடியாவிட்டால், கைபேசியில் அல்லது அருகலை இணையம் உள்ளதா என உறுதிசெய்யவும்.</li>\n"
+"        <li>இத்தளம் தற்சமயம் கிடைக்காமலோ (அ) சேவகன் மிகவும் மும்முரமாகவோ "
+"இருக்கலாம். சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>\n"
+"        <li>எந்த வலைதளத்தையும் அணுக முடியாவிட்டால், கைபேசியில் அல்லது "
+"அருகலை இணையம் உள்ளதா என உறுதிசெய்யவும்.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -863,14 +964,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>நீங்கள் உள்ளிட்ட முகவரியில் பிழை உள்ளதா எனப் பாருங்கள்\n"
 "          <strong>www</strong>.thamizha.com முகவரிக்கு பதிலாக\n"
 "          <strong>ww</strong>.thamizha.com உள்ளிட்டிருக்கலாம்</li>\n"
-"        <li>உங்களால் எந்த வலைப் பக்கத்தையும் அணுக முடியவில்லையெனில், கைப்பேசி (அ) அருகலை இணையம் உள்ளதா எனப்பாருங்கள்.</li>\n"
+"        <li>உங்களால் எந்த வலைப் பக்கத்தையும் அணுக முடியவில்லையெனில், "
+"கைப்பேசி (அ) அருகலை இணையம் உள்ளதா எனப்பாருங்கள்.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -880,13 +983,17 @@ msgstr "செல்லாத முகவரி"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>இணைய முகவரி <strong>http://www.infitt.org/</strong> போன்று இருக்கனும்</li>\n"
-"  <li>நீங்க / குறியைப் பாவித்தீர்களா எனப் பார்க்கவும் (i.e. <strong>/</strong>).</li>\n"
+"  <li>இணைய முகவரி <strong>http://www.infitt.org/</strong> போன்று "
+"இருக்கனும்</li>\n"
+"  <li>நீங்க / குறியைப் பாவித்தீர்களா எனப் பார்க்கவும் (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -896,11 +1003,13 @@ msgstr "பக்கத்தை ஒழுங்காகத் திருப�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ (அ) முடக்கத்தில் இருந்தாலோ இந்தச் சிக்கல் நேரும்.</li>\n"
+"  <li>சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ (அ) முடக்கத்தில் "
+"இருந்தாலோ இந்தச் சிக்கல் நேரும்.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -910,7 +1019,8 @@ msgstr "முகவிரியின் நெறிமுறையை அற�
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -924,17 +1034,21 @@ msgstr "பாதுகாப்பான இணைப்பு முறிந�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>இந்தச் சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில் \n"
+"  <li>இந்தச் சேவகனின் கட்டமைப்பில் சிக்கல் இருக்க வேண்டும், அல்லது அதில்"
+" \n"
 "யாராவது ஆள்மாறாட்டம் செய்ய முயற்சி செய்திருப்பார்கள்.</li>\n"
 "  <li>நீங்கள் இந்தச் சேவையகத்தை ஏற்கனவே வெற்றிகரமாக அணுகிருந்தால்,\n"
-"இந்தப் பிழை தற்காலிகமானதே, எனவே சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>\n"
+"இந்தப் பிழை தற்காலிகமானதே, எனவே சிறிது நேரம் கழித்து முயற்சிக்கவும்.</li>"
+"\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -944,6 +1058,11 @@ msgstr "அச்சச்சோ"
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
 msgstr "சில காரணங்களால் இந்தப் பக்கத்தை எங்களால் ஏற்ற முடியவில்லை."
+
+#. Label used in the contextmenu shown when long-pressing on a link
+msgctxt "contextmenu_open_in_app"
+msgid "Open with app"
+msgstr ""
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -979,7 +1098,9 @@ msgstr "இணைப்பைப் புதிய கீற்றில் த
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr "%1$s வரலாற்றை அகற்றும் போது சேமித்த பகிர்ந்த படங்கள் <b>அழிக்கப்படாது</b>."
 
 #. First run tour (Default browser): Title
@@ -989,8 +1110,13 @@ msgstr "தனியுரிமையைத் துரிதப்படு�
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "தனிப்பட்ட உலாவலை அடுத்த நிலைக்கு எடுத்துச் செல்லவும். தளங்கள் எங்கும் உங்களைப் பின்தொடரக்கூடிய மற்றும் பக்க ஏற்று நேரத்தைக் கூட்டும் விளம்பரம் மற்றும் மற்ற உள்ளடக்கங்களை முடக்கு."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"தனிப்பட்ட உலாவலை அடுத்த நிலைக்கு எடுத்துச் செல்லவும். தளங்கள் எங்கும் "
+"உங்களைப் பின்தொடரக்கூடிய மற்றும் பக்க ஏற்று நேரத்தைக் கூட்டும் விளம்பரம் "
+"மற்றும் மற்ற உள்ளடக்கங்களை முடக்கு."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -999,8 +1125,12 @@ msgstr "உங்களின் தேடல் உங்கள் வழி"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "வித்தியாசமானதைத் தேடுகிறீர்களா? அமைப்புகளில் வேறொரு இயல்புநிலை தேடியியந்திரத்தைத் தேர்ந்தெடுக்கவும்."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"வித்தியாசமானதைத் தேடுகிறீர்களா? அமைப்புகளில் வேறொரு இயல்புநிலை "
+"தேடியியந்திரத்தைத் தேர்ந்தெடுக்கவும்."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1011,8 +1141,13 @@ msgstr "உங்கள் முகப்பு திரையில் சு
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "%1$s உலாவியல் உங்கள் விருப்ப தங்களுக்கு விரைவாகத் திரும்பவும். %1$s மெனுவிலிருந்து \"முகப்பு திரையில் சேர்க்கவும்\" என்பதைத் தேர்ந்தெடுக்கவும்."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"%1$s உலாவியல் உங்கள் விருப்ப தங்களுக்கு விரைவாகத் திரும்பவும். %1$s "
+"மெனுவிலிருந்து \"முகப்பு திரையில் சேர்க்கவும்\" என்பதைத் "
+"தேர்ந்தெடுக்கவும்."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1023,8 +1158,12 @@ msgstr "தனியுரிமையை ஒரு பழக்கமாக்�
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "%1$s உலாவியை முன்னிருப்பாக அமைப்பதன் மூலம் பிற செயலிகளிலிருந்து வலைத்தளங்களைத் திறக்கும்போது அந்தரங்க உலாவலின் நன்மையைப் பெறலாம்."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"%1$s உலாவியை முன்னிருப்பாக அமைப்பதன் மூலம் பிற செயலிகளிலிருந்து "
+"வலைத்தளங்களைத் திறக்கும்போது அந்தரங்க உலாவலின் நன்மையைப் பெறலாம்."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1085,8 +1224,12 @@ msgstr "அந்தரங்க உலாவல் அமர்வு"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "அறிவிப்புகள் உங்கள் %1$s அமர்வை ஒரு தட்டில் அழிக்க அனுமதிக்கிறது. நீங்கள் செயலியைத் திறக்கவோ உலாவியில் என்ன இருக்கிறது என்று பார்க்கவோ தேவையில்லை."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"அறிவிப்புகள் உங்கள் %1$s அமர்வை ஒரு தட்டில் அழிக்க அனுமதிக்கிறது. நீங்கள்"
+" செயலியைத் திறக்கவோ உலாவியில் என்ன இருக்கிறது என்று பார்க்கவோ தேவையில்லை."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1105,15 +1248,23 @@ msgstr "பயர்பாக்சைப் பதிவிறக்கு"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s மொசில்லா மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற திறந்தமூல மென்பொருள் ஆகும்."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s மொசில்லா மற்றும் பிற பங்களிப்பாளர்களால் உருவாக்கப்பட்ட கட்டற்ற "
+"திறந்தமூல மென்பொருள் ஆகும்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">மொசில்லா பொது உரிமம்</a> மற்றும் பிற திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s உங்களுக்கு <a href=\"%2$s\">மொசில்லா பொது உரிமம்</a> மற்றும் பிற "
+"திறந்த மூல உரிமங்களின் கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1121,18 +1272,26 @@ msgstr "%1$s உங்களுக்கு <a href=\"%2$s\">மொசில்�
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"உங்களுக்கு மொசில்லா அறக்கட்டளையின் அல்லது பிற தரப்பின் வணிகச்சின்னங்கள் மீது எந்த உரிமைகளும் உரிமங்களும் வழப்படவில்லை. இதில் மொசில்லா, பயர்பாக்ஸ் அல்லது %1$s பெயர்கள் அல்லது லாகோக்கள் அடங்கும். "
-"கூடுதல் விவரவங்களை <a href=\"%2$s\">இங்கே</a> காணலாம்."
+"உங்களுக்கு மொசில்லா அறக்கட்டளையின் அல்லது பிற தரப்பின் வணிகச்சின்னங்கள் "
+"மீது எந்த உரிமைகளும் உரிமங்களும் வழப்படவில்லை. இதில் மொசில்லா, பயர்பாக்ஸ்"
+" அல்லது %1$s பெயர்கள் அல்லது லாகோக்கள் அடங்கும். கூடுதல் விவரவங்களை <a "
+"href=\"%2$s\">இங்கே</a> காணலாம்."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s உடைய கூடுதல் மூல நிரல் மற்ற கட்டற்ற திறந்த மூல <a href=\"%2$s\">உரிமங்கள்</a> கீழ் கிடைக்கிறது."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"%1$s உடைய கூடுதல் மூல நிரல் மற்ற கட்டற்ற திறந்த மூல <a "
+"href=\"%2$s\">உரிமங்கள்</a> கீழ் கிடைக்கிறது."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1140,8 +1299,14 @@ msgstr "%1$s உடைய கூடுதல் மூல நிரல் மற
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s டிஸ்கணக்ட் இன்க். நிறுவனத்தின் தடைப்பட்டியல்களையும் பயன்படுத்துகிறது. இது தனித்த சுதந்தரிப் பணியாக <a href=\"%2$s\">GNUபொது உரிமம் v3</a> கீழ், <a href=\"%3$s\">இங்கே</a> கிடைக்கிறது."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s டிஸ்கணக்ட் இன்க். நிறுவனத்தின் தடைப்பட்டியல்களையும் "
+"பயன்படுத்துகிறது. இது தனித்த சுதந்தரிப் பணியாக <a href=\"%2$s\">GNUபொது "
+"உரிமம் v3</a> கீழ், <a href=\"%3$s\">இங்கே</a> கிடைக்கிறது."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1318,7 +1483,9 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
 msgstr ""
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1404,8 +1571,113 @@ msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
 msgstr ""
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
-#. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).
-#, c-format
-msgctxt "tip_disable_tips"
-msgid "Turn off tips on the %1$s start screen"
+msgctxt "tip_disable_tips2"
+msgid "Turn off tips on the start screen"
 msgstr ""
+
+#. Label for the snackbar when a user opens a new tab
+msgctxt "new_tab_opened_snackbar"
+msgid "New tab opened"
+msgstr ""
+
+#. Label for the button in the snackbar that switches to the newly opened tab
+msgctxt "open_new_tab_snackbar"
+msgid "Switch"
+msgstr ""
+
+#. Preference for switching to a new tab immediately after opening
+msgctxt "preference_open_new_tab"
+msgid "Switch to link in new tab immediately"
+msgstr ""
+
+#. Preference for safe browsing which when enabled, blocks dangerous or
+#. deceptive webpages that may include phishing or malware
+msgctxt "preference_category_safe_browsing"
+msgid "Safe Browsing"
+msgstr ""
+
+#. Preference title for safe browsing which when enabled, blocks dangerous or
+#. deceptive webpages that may include phishing or malware
+msgctxt "preference_safe_browsing_title"
+msgid "Block potentially dangerous and deceptive sites"
+msgstr ""
+
+#. Preference summary for safe browsing which when enabled, blocks dangerous
+#. or deceptive webpages that may include phishing or malware
+msgctxt "preference_safe_browsing_summary"
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
+msgstr ""
+
+#. Preference for exceptions tracking protection
+msgctxt "preference_exceptions"
+msgid "Exceptions"
+msgstr ""
+
+#. Description for the exceptions preference screen
+msgctxt "preference_exceptions_description"
+msgid "You have disabled Content Blocking for these websites."
+msgstr ""
+
+#. Menu item to remove existing exceptions.
+msgctxt "preference_exceptions_menu_remove"
+msgid "Remove"
+msgstr ""
+
+#. Button to remove all websites from the exception list
+msgctxt "preference_exceptions_remove_all_button_label"
+msgid "Remove all websites"
+msgstr ""
+
+#. Title for the tab crash report screen
+msgctxt "tab_crash_report_title"
+msgid "Tab Crashed"
+msgstr ""
+
+#. Headline for the tab crash report screen
+msgctxt "tab_crash_report_headline"
+msgid "Sorry. We’re having a problem with this tab."
+msgstr ""
+
+#. Subtitle for the tab crash report screen
+msgctxt "tab_crash_report_description"
+msgid "As a private browser, we never save and cannot restore this tab."
+msgstr ""
+
+#. Label for button to close the tab
+msgctxt "tab_crash_report_close_tab_button_label"
+msgid "Close Tab"
+msgstr ""
+
+#. Title for the fatal crash report window         %1$s will be replaced by
+#. the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "fatal_crash_report_title"
+msgid "Sorry. %1$s had a problem and crashed."
+msgstr ""
+
+#. Description for the fatal crash report window
+msgctxt "fatal_crash_report_description"
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
+msgstr ""
+
+#. Label for the button that closes the window
+msgctxt "fatal_crash_report_close_button_label"
+msgid "Close"
+msgstr ""
+
+#. Label for the button to restart Firefox         %1$s will be replaced by
+#. the app name (e.g. Firefox Focus)
+#, c-format
+msgctxt "fatal_crash_report_restart_firefox_label"
+msgid "Restart %1$s"
+msgstr ""
+
+#. Label for the checkbox to send the tab crash report to Mozilla
+msgctxt "crash_report_send_crash_label"
+msgid "Send crash report to Mozilla"
+msgstr ""
+
