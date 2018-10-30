@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 11:12+0000\n"
+"PO-Revision-Date: 2018-10-30 11:26+0000\n"
 "Last-Translator: Rhoslyn Prys <rprys@posteo.net>\n"
 "Language-Team: cy <LL@li.org>\n"
 "Language: cy\n"
@@ -404,7 +404,7 @@ msgstr "Ychwanegu URL cyfaddas"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Ychwanegu dolen i awtogwblhau"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -535,7 +535,7 @@ msgstr "Na"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Rhwystro cwcis trydydd parti'n unig"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -779,7 +779,7 @@ msgstr "Rhagor o ddewisiadau"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Rhagor o fotymau dewis"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1021,7 +1021,7 @@ msgstr "Methu llwytho'r dudalen am ryw reswm."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Agor gydag ap"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1492,106 +1492,106 @@ msgstr "Gwell gweld gwefan bwrdd gwaith lawn?%1$s Dewislen > Gwefan bwrdd gwaith
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Diffodd awgrymiadau ar y sgrin cychwyn"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "Tab newydd wedi'i agor"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Newid"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Newid i ddolen mewn tab newydd ar unwaith"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Pori Diogel"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Rhwystro gwefannau peryglus a thwyllodrus posib"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Rhwystro gwefannau twyllodrys ac ymosodol, rhai drwgwar, a meddalwedd diangen hysbys."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Eithriadau"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Rydych chi wedi analluogi Rhwystro Cynnwys y gwefannau hyn."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Tynnu"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Tynnu pob gwefan"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "Tab wedi Chwalu"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Ymddiheuriadau. Rydym yn cael anhawster gyda'r tab hwn."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Fel porwr preifat, fyddwn ni byth yn cadw ac felly'n methu adfer y tab hwn."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Cau Tab"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Ymddiheuriadau. Cafodd %1$s anhawster a chwalu."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Fel porwr preifat, fyddwn ni byth yn cadw ac felly'n methu adfer eich sesiwn pori diwethaf."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Cau"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Ailgychwyn %1$s"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Anfon adroddiad chwalu at Mozilla"
