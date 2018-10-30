@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 17:26+0000\n"
+"PO-Revision-Date: 2018-10-30 19:23+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -452,13 +452,13 @@ msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་གསར
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr "སུབས།"
+msgstr "སུབ།"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr "སུབས།"
+msgstr "སུབ།"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
@@ -593,7 +593,7 @@ msgstr "JavaScript བཀག་པ།"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "དྲ་ངོས་རྒྱབ་སྣོན་མགྱོགས་ཀྱང་རྒྱུན་ལྡན་མ་ཡིན་པའི་གནས་ཚུལ་ཐོན་སྲིད།"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -655,11 +655,11 @@ msgstr "+ འཚོལ་བཤེར་དྲ་ངོས་གཞན་སྣ�
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "འཚོལ་བཤེར་སུབས།"
+msgstr "འཚོལ་བཤེར་སུབ།"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr "སུབས།"
+msgstr "སུབ།"
 
 #. Title: Homescreen tips settings toggle to determine whether or not tips are
 #. displayed when      a user first launches the app.
@@ -1135,7 +1135,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr "འཚོལ་རབས་འདོར་སུབས་བྱོས།"
+msgstr "འཚོལ་རབས་འདོར་སུབ་བྱོས།"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1494,12 +1494,12 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "སུབ།"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "དྲ་ཚིགས་ཆ་ཚང་སུབ།"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
