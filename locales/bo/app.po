@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 17:12+0000\n"
+"PO-Revision-Date: 2018-10-30 17:26+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -54,7 +54,7 @@ msgstr "རང་འགུལ་སྒེར་དོན་གསང་རྒྱ
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "འཚོལ་རབས་འདོར་སུབ་བྱས་ཟིན།"
+msgstr "འཚོལ་རབས་འདོར་བསུབས་བྱས་ཟིན།"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a custom tab browsing session
@@ -176,7 +176,7 @@ msgstr "མཉམ་སྤྱོད་བརྒྱུད་ལམ།"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "འཚོལ་རབས་འདོར་སུབ་བྱོས།"
+msgstr "འཚོལ་རབས་འདོར་སུབས་བྱོས།"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -323,7 +323,7 @@ msgstr "རྩ་བ།"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "འཚོལ་བཤེར།"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -356,7 +356,7 @@ msgstr ""
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "ཁྱོད་ཀྱིས་སྣོན་ཟིན་པའི་དྲ་ཚིགས།"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
@@ -583,7 +583,7 @@ msgstr ""
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "འདྲ་གཟུགས་ཡང་ན་པར་རིས་མ་ཚང་བའི་དྲ་ཚིགས་ཐོན་སྲིད་པ།"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
@@ -676,7 +676,7 @@ msgstr " འཚོལ་བཤེར་དྲ་ངོས་སྣོན།"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr " འཚོལ་བཤེར་དྲ་ངོས་མིང་།"
+msgstr " འཚོལ་བཤེར་དྲ་བའི་མིང་།"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -1135,7 +1135,7 @@ msgstr ""
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr "འཚོལ་རབས་སུབས་ཤིག"
+msgstr "འཚོལ་རབས་འདོར་སུབས་བྱོས།"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
