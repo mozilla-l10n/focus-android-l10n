@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 18:50+0000\n"
+"PO-Revision-Date: 2018-10-30 19:05+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: hsb <LL@li.org>\n"
 "Language: hsb\n"
@@ -360,7 +360,7 @@ msgstr "Za najlubše sydła"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Zmóžnić, zo by so wjace hač 450 woblubowanych adresow w adresowym polu wudospołniło."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -371,7 +371,7 @@ msgstr "Za sydła, kotrež přidawaće"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Zmóžnić, zo by so wjace hač 450 woblubowanych adresow w adresowym polu wudospołniło."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -404,7 +404,7 @@ msgstr "Swójski URL přidać"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Wotkaz za awtowudospołnjenje přidać"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -535,7 +535,7 @@ msgstr "Ně"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Jenož slědowace placki třećich poskićowarjow blokować"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -779,7 +779,7 @@ msgstr "Dalše nastajenja"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Tłóčatko dalšich nastajenjow"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1492,7 +1492,7 @@ msgstr "Chceće radšo dospołne desktopowe sydło widźeć?%1$s Meni > Desktopo
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Pokiwy na starrtowej wobrazowce znjemóžnić"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1507,7 +1507,7 @@ msgstr "Přepinać"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Hnydom k wotkazej w nowym rajtarku přeńć"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1519,13 +1519,13 @@ msgstr "Wěste přehladowanje"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Potencielnje strašne a wobšudne sydła blokować"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blokujće zdźělene wobšudne a nadpadowe sydła, škódne sydła a sydła z njewitanej softwaru."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1535,7 +1535,7 @@ msgstr "Wuwzaća"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Sće blokowanje wobsaha za tute sydła znjemóžnił."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1555,12 +1555,12 @@ msgstr "Rajtark je spadnył"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Bohužel mamy problem z tutym rajtarkom."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Jako priwatny wobhladowak njeskładujemy ženje a njemóžemy tutón rajtark wobnowić."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1572,12 +1572,12 @@ msgstr "Rajtark začinić"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Bohužel je %1$s problem měł a spadnył."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Jako priwatny wobhladowak njeskładujemy ženje a njemóžemy waše poslednje přehladowanske posedźenje wobnowić."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1594,4 +1594,4 @@ msgstr "%1$s znowa startować"
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Mozilla spadowu rozprawu pósłać"
