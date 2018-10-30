@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 19:23+0000\n"
+"PO-Revision-Date: 2018-10-30 20:03+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -37,7 +37,7 @@ msgstr "ཆོག"
 
 msgctxt "action_save"
 msgid "Save"
-msgstr "ཉར་ཚགས།"
+msgstr "ཉར་གསོག"
 
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
@@ -181,7 +181,7 @@ msgstr "འཚོལ་རབས་འདོར་སུབས་བྱོས།
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
 msgid "Open"
-msgstr "ཁ་ཕྱེ་བ།"
+msgstr "ཁ་འབྱེད།"
 
 #. Notification action to erase the current browsing session AND switch to
 #. Focus (bring it          to the foreground)
@@ -208,7 +208,7 @@ msgstr "ཁྱོད་ཀྱི་འཚོལ་རབས་འདོར་ས
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "སུབ་པ་དང་ཁ་འབྱེད་པ།"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -372,7 +372,7 @@ msgstr ""
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "དྲ་ཚིགས་དོ་དམ།"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -864,7 +864,7 @@ msgstr ""
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr "ཁ་ཕྱེ་བ།"
+msgstr "ཁ་འབྱེད།"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
@@ -1467,7 +1467,7 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "བདེ་འཇགས་བཤར་ལྟ།"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
