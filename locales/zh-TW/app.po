@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 03:06+0000\n"
+"PO-Revision-Date: 2018-10-30 04:05+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1460,12 +1460,12 @@ msgstr "還是想看到桌機版頁面嗎？%1$s選單 > 開啟桌面版網站"
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "關閉啟動畫面上的使用秘訣"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "已開啟新分頁"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
@@ -1487,13 +1487,13 @@ msgstr "安全瀏覽"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "封鎖可能危險或是詐騙內容的網站"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "封鎖已被回報為詐騙、有攻擊性、惡意軟體以及有害軟體的網站。"
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1528,7 +1528,7 @@ msgstr "很抱歉，這個分頁有點問題。"
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "作為一套隱私瀏覽器，我們不會保存上網紀錄，也無法還原此分頁。"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1540,12 +1540,12 @@ msgstr "關閉分頁"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "很抱歉，%1$s 遇到問題，發生錯誤。"
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "作為一套隱私瀏覽器，我們不會保存上網紀錄，也無法還原您先前的瀏覽階段。"
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
