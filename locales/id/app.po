@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 04:09+0000\n"
+"PO-Revision-Date: 2018-10-30 04:20+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -1020,7 +1020,7 @@ msgstr "Kami tidak dapat memuat laman ini karena sejumlah alasan."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Buka dengan aplikasi"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1512,7 +1512,7 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Penjelajahan Aman"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1529,7 +1529,7 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Kekecualian"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
@@ -1539,12 +1539,12 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Hapus"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Hapus semua situs web"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
