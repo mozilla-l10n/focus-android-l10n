@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-31 18:32+0000\n"
+"PO-Revision-Date: 2018-10-31 18:43+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: dsb <LL@li.org>\n"
 "Language: dsb\n"
@@ -1021,7 +1021,7 @@ msgstr "Z někakeje pśicyny njamóžomy toś ten bok zacytaś."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Z nałoženim wócyniś"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1492,106 +1492,106 @@ msgstr "Cośo lubjej dopołne desktopowe sedło wiźeś?%1$s Meni > Desktopowe s
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Tipy na startowej wobrazowce znjemóžniś"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "Nowy rejtark jo se wócynił"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Pśešaltowaś"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Ned k wótkazoju w nowem rejtarku pśejś"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Wěste pśeglědowanje"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Ptencielnje tšašne a wobšudnikojske sedła blokěrowaś"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blokěrujśo wuzjawjone wobšudnikojske a napadowe sedła, škódne sedła a sedła z njewitaneju softwaru."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Wuwześa"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Sćo znjemóžnił blokěrowanje wopśimjeśa za toś te sedła."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Wótwónoźeś"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Wšykne sedła wótwónoźeś"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "Rejtark jo wowalił"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Bóžko mamy problem z toś tym rejtarkom."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Ako priwatny wobglědowak njeskładujomy nigda a njamóžomy toś ten rejtark wótnowiś."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Rejtark zacyniś"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Bóžko %1$s jo měł problem a jo wowalił."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Ako priwatny wobglědowak njeskładujomy nigda a njamóžomy wašo slědne pśeglědowańske pósejźenje wótnowiś."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Zacyniś"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s znowego startowaś"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Mozilla rozpšawu wowalenja pósłaś"
