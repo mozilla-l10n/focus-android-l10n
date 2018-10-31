@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-31 03:12+0000\n"
+"PO-Revision-Date: 2018-10-31 03:20+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -361,7 +361,7 @@ msgstr ""
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Aktifkan untuk melengkapi secara otomatis lebih dari 450 URL populer di bilah alamat."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -780,7 +780,7 @@ msgstr "Opsi lainnya"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Tombol opsi lainnya"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1534,7 +1534,7 @@ msgstr "Kekecualian"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Anda telah menonaktifkan Pemblokiran Konten untuk situs ini."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1593,4 +1593,4 @@ msgstr "Mulai Ulang %1$s"
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Kirim laporan kerusakan ke Mozilla"
