@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 20:33+0000\n"
+"PO-Revision-Date: 2018-10-31 16:22+0000\n"
 "Last-Translator: Emin Mastizada <emin@mastizada.com>\n"
 "Language-Team: az <LL@li.org>\n"
 "Language: az\n"
@@ -1525,7 +1525,7 @@ msgstr "Potensial təhlükəli və aldadıcı saytları əngəllə"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Zərərverici, aldadıcı, istənməyən saytları əngəllə."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1535,7 +1535,7 @@ msgstr "İstisnalar"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Bu saytlar üçün Məzmun Əngəlləməni söndürmüsünüz."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1555,12 +1555,12 @@ msgstr "Vərəq Çökdü"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Üzr istəyirik. Bu vərəqlə əlaqədar problemimiz var."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Məxfi səyyah olaraq biz heç vaxt vərəqləri saxlamırıq və bu səbəbdən də bu vərəqi bərpa edə bilməyəcik."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1572,12 +1572,12 @@ msgstr "Vərəqi Qapat"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Üzr istəyirik. %1$s səyyahında xəta oldu və çökdü."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Məxfi səyyah olaraq sessiyalarınızı saxlamırıq və bu səbəbdən də son səyahət sessiyanızı bərpa edə bilmirik."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
