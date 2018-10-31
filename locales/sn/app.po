@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-31 08:51+0000\n"
+"PO-Revision-Date: 2018-10-31 08:58+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -1427,6 +1427,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"Vhura mazano ose mu %1$s\n"
+" Ita %1$s sechekutsvagisa"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1529,14 +1531,14 @@ msgstr ""
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Vhara Tebhu"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Ndine hurombo. %1$s yakanga ine dambudziko uye yakaparara."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
@@ -1546,16 +1548,16 @@ msgstr ""
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Vhara"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Tangidza %1$s"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Tumira ripoti yekuparara kuMozilla"
