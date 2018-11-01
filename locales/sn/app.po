@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-31 09:23+0000\n"
+"PO-Revision-Date: 2018-11-01 06:51+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -62,7 +62,7 @@ msgstr "Zvawaiita paindaneti zvadzimwa."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Zvawaiita paindaneti zvadzimwa."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -114,7 +114,7 @@ msgstr "Zvinyowani"
 
 msgctxt "menu_settings"
 msgid "Settings"
-msgstr "Gadziro"
+msgstr "Gadziriso"
 
 msgctxt "menu_about"
 msgid "About"
@@ -203,14 +203,14 @@ msgstr "Dzima"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Dzima zvawaita paindaneti"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "Dzima wovhura"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -219,7 +219,7 @@ msgstr ""
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "Dzima wovhura %1$s"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -255,19 +255,19 @@ msgstr ""
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
 msgid "Privacy & Security"
-msgstr ""
+msgstr "Kuchengeteka ne Puraivhesi"
 
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "Kuchengeta, makuki, kusarudzwa kwe data"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Ita zvisizvo, zvakakwana"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -281,33 +281,33 @@ msgstr "Nezvedu %1$s, rubatsiro"
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Kuchengetedzwa pakuteverwa"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
 msgid "Web Content"
-msgstr ""
+msgstr "Zviri paindaneti"
 
 #. Preference category: stealth settings for while switching apps
 msgctxt "preference_category_switching_apps"
 msgid "Switching Apps"
-msgstr ""
+msgstr "Kuchinja maapurikesheni"
 
 #. Preference category for General Settings
 msgctxt "preference_category_general"
 msgid "General"
-msgstr ""
+msgstr "Zvechigarire"
 
 #. Preference summary for General Settings category; the three things users
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Bhurauza rechigarire, matebhu, mutauro"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Kutorwa kweData nekushandiswa kwaro"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -360,7 +360,7 @@ msgstr "Masaiti anoendwa zvakanyanya"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Batidza kuti otokombuliti iitike pamanzwi anosvika 450 akakurumbira URLs mu adhiresi bha."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -371,7 +371,7 @@ msgstr "Pema Saitsi awa isa woga"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Batidza kuti otokombuliti iitike pamanzwi anosvika 450 akakurumbira URLs mu adhiresi bha."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -404,7 +404,7 @@ msgstr "Wedzera yaunodao URL"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Isa ringi ku atokombuliti"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -457,7 +457,7 @@ msgstr "Muenzaniso: muenzaniso.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr ""
+msgstr "Itsva URL yakawedzerwa."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
