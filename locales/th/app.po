@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-30 15:37+0000\n"
+"PO-Revision-Date: 2018-11-01 17:49+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -62,7 +62,7 @@ msgstr "ล้างประวัติการท่องเว็บขอ
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "ล้างประวัติการท่องเว็บของแท็บแล้ว"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -406,7 +406,7 @@ msgstr "เพิ่ม URL ที่กำหนดเอง"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "เพิ่มลิงก์ไปยังการเติมอัตโนมัติ"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -1501,7 +1501,7 @@ msgstr "สลับ"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "สลับไปยังลิงก์ในแท็บใหม่ทันที"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1529,7 +1529,7 @@ msgstr "ข้อยกเว้น"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "คุณได้ปิดใช้งานการปิดกั้นเนื้อหาสำหรับเว็บไซต์เหล่านี้"
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1544,7 +1544,7 @@ msgstr "เอาเว็บไซต์ทั้งหมดออก"
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "แท็บขัดข้อง"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
