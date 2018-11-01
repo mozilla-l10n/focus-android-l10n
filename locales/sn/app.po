@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-01 07:08+0000\n"
+"PO-Revision-Date: 2018-11-01 07:30+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -524,7 +524,7 @@ msgstr "Ukabatidza mamwe mapeji anogona kushanda neutowo usiri iwo"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr ""
+msgstr "Vhara makuki"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -535,7 +535,7 @@ msgstr "Kwete"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Vharira 3-party tracker cookies chete"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -592,7 +592,7 @@ msgstr "Vhara runyoro rwepaDande"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr ""
+msgstr "Izvozvo zvinogona kukonzera kushaikwa kwemaayikoni kana mifananidzo"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
@@ -749,7 +749,7 @@ msgstr "Bvisa zvawambotsvaga padande"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Matebhu akavhurika: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -810,7 +810,7 @@ msgstr "Mira kuvhura webhusaiti"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Dzoka ku app yekupedzisira"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the ImageView in the menu that displays          the number
@@ -986,7 +986,7 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Mhaihwee"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
@@ -995,17 +995,17 @@ msgstr "Hatikwanise kuvhura peji iri nekuda kwezvimwe zvikonzero."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Vhura ne app"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Govera ringi"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Kopa adhiresi yeringi"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -1015,7 +1015,7 @@ msgstr "Govera mufananidzo"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Kopa adhiresi yemupikicha"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -1458,17 +1458,17 @@ msgstr ""
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Dzima mazano papeji yekutangisa"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "Tebhu idzva yavhurwa"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Chinja"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
@@ -1479,7 +1479,7 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Kutsvaga Kwakachengeteka"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1496,7 +1496,7 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Zvisarudzo"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
@@ -1506,12 +1506,12 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Bvisa"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Bvisa mawebhusaiti ese"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
@@ -1521,7 +1521,7 @@ msgstr "Tebhu rakirasha"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Ruregerero. Taita dambudziko ne tebhu iri."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
