@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-01 07:51+0000\n"
+"PO-Revision-Date: 2018-11-01 11:13+0000\n"
 "Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -210,7 +210,7 @@ msgstr "ब्राउज़िंग इतिहास मिटाएँ"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "मिटाएँ एवं खोलें"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -219,7 +219,7 @@ msgstr ""
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "मिटाएँ और %1$s खोलें"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -304,7 +304,7 @@ msgstr "सामान्य"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "डिफ़ॉल्ट ब्राउज़र, टैब, भाषा"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -335,7 +335,7 @@ msgstr "मूलभूत"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "खोज इंजन"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -357,34 +357,34 @@ msgstr "URL स्वत: पूर्ण"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "मुख्य साइटों के लिए"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "पता बार में 450 से अधिक लोकप्रिय URLs स्वत: पूर्णता के लिए सक्षम करें।"
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "आपके द्वारा जोड़े साइटों के लिए"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "पता बार में 450 से अधिक लोकप्रिय URLs स्वत: पूर्णता के लिए सक्षम करें।"
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "साइटों को प्रबंधित करें"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "साइटों को प्रबंधित करें"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -406,7 +406,7 @@ msgstr "विशिष्ट URL जोड़ें"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "स्वतः पूर्णता के लिए लिंक जोड़ें"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -537,7 +537,7 @@ msgstr "नहीं"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "केवल तृतीय-पक्ष ट्रैकर कूकीज़ ब्लॉक करें"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -781,7 +781,7 @@ msgstr "अधिक विकल्प"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "अन्य विकल्प का बटन"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1020,7 +1020,7 @@ msgstr "हम किसी कारण से इस पृष्ठ लोड
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "ऐप द्वारा खोलें"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1491,34 +1491,34 @@ msgstr "इसके बदले पूर्ण डेस्कटॉप स�
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "प्रारंभ स्क्रीन पर सलाह बंद करें"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "नया टैब खोल दिया गया"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "बदलें"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "तुरंत नए टैब में लिंक पर जाएँ"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "सुरक्षित ब्राउजिंग"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "ख़तरनाक और संदेहास्पद साइटों को ब्लॉक करें"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
@@ -1529,42 +1529,42 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "अपवाद"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "आपने इन वेबसाइटों के लिए सामग्री ब्लॉकिंग अक्षम कर दिया है।"
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "हटाएँ"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "सभी वेबसाइटों को हटाएँ"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "टैब क्रैश हो गया"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "क्षमा करें। हमें इस टैब के साथ कोई समस्या आ रही है।"
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "एक निजी ब्राउज़र के तौर पर, हम इस टैब को कभी भी सहेज तथा दुबारा प्राप्त नहीं कर सकते हैं।"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "टैब बंद करें"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
