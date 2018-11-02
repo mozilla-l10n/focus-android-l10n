@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-01 07:30+0000\n"
+"PO-Revision-Date: 2018-11-02 09:27+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -110,7 +110,7 @@ msgstr "Isa pa peji Repekutanga"
 #. this version
 msgctxt "menu_whats_new"
 msgid "What's New"
-msgstr "Zvinyowani"
+msgstr "Ndezvipi zvitsva"
 
 msgctxt "menu_settings"
 msgid "Settings"
@@ -516,7 +516,7 @@ msgstr "Yakabudiswa panzvimbo dzekutsvaga kutarisa kushanyira kwako uye kuratidz
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr ""
+msgstr "Vharira vamwe vateereri vezvinhu"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -539,7 +539,7 @@ msgstr "Vharira 3-party tracker cookies chete"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr ""
+msgstr "Vharira 3-party tracker cookies chete"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
@@ -574,7 +574,7 @@ msgstr "Hauchaoneke"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr ""
+msgstr "Viga mapepa epakombiyuta paunoshandura mapurogiramu uye udzivise kutora masikirini shoti."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -602,7 +602,7 @@ msgstr "Vhara JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
+msgstr "Mapeji anogona kuvhura nokukurumidza, asi anogonawo kutanga kuita zvisingatarisirwe"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -611,11 +611,11 @@ msgstr ""
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr ""
+msgstr "Ita %1$s bhurauza rechigarire"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
@@ -632,7 +632,7 @@ msgstr "Dzidza zvimwe"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr ""
+msgstr "Mozilla inoedza kuunganidza chete zvatinoda kupa nekuvandudza %1$s kune munhu wose."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -654,17 +654,17 @@ msgstr "Mainjini ekutsvaga akaiswa"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Dzorera mainjini okutsvaga echigaririre"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+ Wedzera imwe injini yekutsvaga"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Bvisa mainjini ekutsvaga"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -674,7 +674,7 @@ msgstr "Bvisa"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Ratidza mazano ezvikwangwani"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -719,7 +719,7 @@ msgstr "Nyora mazwi ekutsvagisa"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Cherechedza kuti tsananguro yekutsvaga yakafanana nemuenzaniso here"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -761,13 +761,13 @@ msgstr "Pinda zvakachengetedzwa"
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Zvavakuda kuita"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Webhusaiti yavhurwa"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -779,7 +779,7 @@ msgstr "Dzimwe sarudzo"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Button rinoratidza zvimwe zvingaratidzwa"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -817,14 +817,14 @@ msgstr "Dzoka ku app yekupedzisira"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Nhamba yezvinotevera zvakavharwa"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Vharira tunotsvaka kwauri"
 
 msgctxt "your_rights"
 msgid "Your Rights"
