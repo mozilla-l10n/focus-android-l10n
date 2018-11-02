@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-07-13 12:54+0000\n"
+"PO-Revision-Date: 2018-11-02 15:03+0000\n"
 "Last-Translator: Belayet Hossain <bellayet@gmail.com>\n"
-"Language: bn_BD\n"
 "Language-Team: bn_BD <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n == 0)) || ((n == 1))) ? 0 : 1)\n"
+"Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -236,26 +237,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s আপনাকে নিয়ন্ত্রণ দেয়।</p>\n"
 "<p>ব্যক্তিগত ব্রাউজার হিসাবে এটিকে ব্যবহার করুন:\n"
 "  <ul>\n"
 "    <li>অ্যাপের মধ্যেই অনুসন্ধান এবং ব্রাউজ করুন</li>\n"
-"    <li>ট্রাকারদেরকে অবরুদ্ধ করুন(অথবা ট্রাকারদের অনুমতি দিতে সেটিংস "
-"আপডেট করুন)</li>\n"
-"    <li>সেইসাথে অনুসন্ধান এবং ব্রাউজিংয়ের পূর্ববর্তী তথ্য কুকির সাথে "
-"সরাতে মুছুন</li>\n"
+"    <li>ট্রাকারদেরকে অবরুদ্ধ করুন(অথবা ট্রাকারদের অনুমতি দিতে সেটিংস আপডেট করুন)</li>\n"
+"    <li>সেইসাথে অনুসন্ধান এবং ব্রাউজিংয়ের পূর্ববর্তী তথ্য কুকির সাথে সরাতে মুছুন</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s তৈরী করেছে Mozilla। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা "
-"এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।.<br/>\n"
+"<p>%1$s তৈরী করেছে Mozilla। আমাদের মিশন হচ্ছে, ইন্টারনেটকে উন্মুক্ত রাখা এবং সেটির গুণগত মান বজায় রাখতে উৎসাহ দেওয়া।.<br/>\n"
 "<a href=\"%2$s\">আরও জানুন</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -339,7 +335,7 @@ msgstr "পূর্বনির্ধারিত"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "অনুসন্ধান ইঞ্জিন"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -502,9 +498,7 @@ msgstr "বিজ্ঞাপন গোয়েন্দা আটক করুন
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
-"কিছু বিজ্ঞাপন, আপনি তাতে ক্লিক না করলেও কি সাইট ব্রাউজ করছেন তা ট্র্যাক "
-"করে"
+msgstr "কিছু বিজ্ঞাপন, আপনি তাতে ক্লিক না করলেও কি সাইট ব্রাউজ করছেন তা ট্র্যাক করে"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -512,21 +506,15 @@ msgstr "এনালেটিকস গোয়েন্দা আটক করু
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
-"ট্যাপিং বা স্ক্রলিং এর মত কর্মকান্ডের হিসেব রাখতে, বিশ্লেষণ করতে ব্যবহৃত "
-"হয়"
+msgstr "ট্যাপিং বা স্ক্রলিং এর মত কর্মকান্ডের হিসেব রাখতে, বিশ্লেষণ করতে ব্যবহৃত হয়"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "সোশ্যাল নেটওয়ার্ক গোয়েন্দা আটক করুন"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
-"সাইটে আপনার ব্রাউজ ট্র্যাক করতে এবং শেয়ার বোতামের মত ফাংশনালিটি দেখাতে "
-"সাইটে এম্বেড রয়েছে"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "সাইটে আপনার ব্রাউজ ট্র্যাক করতে এবং শেয়ার বোতামের মত ফাংশনালিটি দেখাতে সাইটে এম্বেড রয়েছে"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -571,9 +559,7 @@ msgstr ""
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
 msgstr ""
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -648,12 +634,8 @@ msgstr "আরও জানুন"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla কেবলমাত্র সংগ্রহ করা চেষ্টা করে যা প্রত্যেকের জন্য %1$s প্রদান "
-"এবং উন্নতি করতে হবে।"
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla কেবলমাত্র সংগ্রহ করা চেষ্টা করে যা প্রত্যেকের জন্য %1$s প্রদান এবং উন্নতি করতে হবে।"
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -875,12 +857,8 @@ msgstr "একটি অ্যাপ অনুসন্ধান করো য�
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান "
-"করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "আপনার ডিভাইসের কোন অ্যাপই এই লিঙ্কটি খুলতে সক্ষম হয়নি। %2$s অনুসন্ধান করে একটি অ্যাপ বের করার জন্যে আপনি %1$s কে দ্বায়িত্ব দিতে পারেন।"
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -938,17 +916,13 @@ msgstr "সংযোগ করতে ব্যর্থ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। "
-"কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
-"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা "
-"বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"        <li>সাইটটি সাময়িকভাবে পাওয়া যাচ্ছেনা বা প্রচন্ড ব্যস্ত রয়েছে। কিছুক্ষণ পর আবার চেষ্টা করুন.</li>\n"
+"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -965,16 +939,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>টাইপজনিত ভুলের জন্য ঠিকানা পরীক্ষা করুন যেমন\n"
 "          <strong>ww</strong>.example.com বদলে\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা"
-" বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
+"        <li>আপনার কোন পেজ লোডিংয়ে ব্যর্থ হলে, আপনার ডিভাইসের মোবাইল ডাটা বা ওয়াইফাই সংযোগ পরীক্ষা করুন।</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -984,17 +956,13 @@ msgstr "ঠিকানাটি সঠিক নয়"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ওয়েব ঠিকানা সাধারণত যেভাবে লেখা হয় "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>নিশ্চিত করুন আপনি ফরোয়ার্ড স্ল্যাস ব্যবহার করছে (অর্থ্যাৎ "
-"<strong>/</strong>).</li>\n"
+"  <li>ওয়েব ঠিকানা সাধারণত যেভাবে লেখা হয় <strong>http://www.example.com/</strong></li>\n"
+"  <li>নিশ্চিত করুন আপনি ফরোয়ার্ড স্ল্যাস ব্যবহার করছে (অর্থ্যাৎ <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1004,13 +972,11 @@ msgstr "পাতাটি সঠিকভাবে রিডিরেক্ট 
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>কুকিজ নিস্ক্রিয় করে বা গ্রহন করা থেকে বিরত থাকার কারণে কখনো কখনো এই"
-" সমস্যা হতে পারে।</li>\n"
+"  <li>কুকিজ নিস্ক্রিয় করে বা গ্রহন করা থেকে বিরত থাকার কারণে কখনো কখনো এই সমস্যা হতে পারে।</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1020,13 +986,11 @@ msgstr "ঠিকানাটি বোধগম্য হয়নি"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>এই ঠিকানাটি খোলার জন্য ভিন্ন সফ্টওয়্যার ইনস্টল করার প্রয়োজন হতে "
-"পারে।</li>\n"
+"  <li>এই ঠিকানাটি খোলার জন্য ভিন্ন সফ্টওয়্যার ইনস্টল করার প্রয়োজন হতে পারে।</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -1036,22 +1000,17 @@ msgstr "নিরাপদ সংযোগ স্থাপন করতে ব�
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>সার্ভারের কনফিগারেশনের ত্রুটির কারণে এই সমস্যাটি হতে পারে, অথবা হতে"
-" পারে \n"
+"  <li>সার্ভারের কনফিগারেশনের ত্রুটির কারণে এই সমস্যাটি হতে পারে, অথবা হতে পারে \n"
 "কেউ সার্ভারের ছদ্মবেশ ধারণ করার চেষ্টা করছে।</li>\n"
-"  <li>যদি পূর্বে আপনি কখনো এই সার্ভারের সাথে সংযুক্ত হয়ে থাকেন, তাহলে "
-"সমস্যাটি\n"
-"অস্থায়ী হতে পারে, এবং আপনি কিছুক্ষণ পর আবার চেষ্টা করে দেখতে পারেন।</li>"
-"\n"
+"  <li>যদি পূর্বে আপনি কখনো এই সার্ভারের সাথে সংযুক্ত হয়ে থাকেন, তাহলে সমস্যাটি\n"
+"অস্থায়ী হতে পারে, এবং আপনি কিছুক্ষণ পর আবার চেষ্টা করে দেখতে পারেন।</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1101,12 +1060,8 @@ msgstr "নতুন ট্যাবে লিঙ্ক খুলুন"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"আপনি %1$s ইতিহাস অপসারণ করলে, সংরক্ষিত ও শেয়ার করা ছবি <b>মুছে যাবে "
-"না</b>।"
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "আপনি %1$s ইতিহাস অপসারণ করলে, সংরক্ষিত ও শেয়ার করা ছবি <b>মুছে যাবে না</b>।"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1115,13 +1070,8 @@ msgstr "আপনার গোপনীয়তা কঠোর করুন"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"ব্যাক্তিগত ব্রাউজিং কে আরেক উচ্চতায় নিয়ে যান। বিজ্ঞাপন আর অন্যান্য "
-"কনটেন্ট ব্লক করুন, যারা আপনাকে সকল ওয়েবসাইটে অনুসরণ করে বেড়ায় আর আপনার "
-"পেজ লোডিং টাইম অনেকগুন বাড়িয়ে দেয়।"
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "ব্যাক্তিগত ব্রাউজিং কে আরেক উচ্চতায় নিয়ে যান। বিজ্ঞাপন আর অন্যান্য কনটেন্ট ব্লক করুন, যারা আপনাকে সকল ওয়েবসাইটে অনুসরণ করে বেড়ায় আর আপনার পেজ লোডিং টাইম অনেকগুন বাড়িয়ে দেয়।"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1130,9 +1080,7 @@ msgstr "আপনি খুঁজবেন, আমার মত করে"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "অন্য কিছু খুঁজছেন? সেটিংস এ অন্য ডিফল্ট সার্চ ইঞ্জিন পছন্দ করুন।"
 
 #. First run tour (Shortcut): Title
@@ -1144,12 +1092,8 @@ msgstr "নীড় স্ক্রিনে শর্টকাট যোগ ক�
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"%1$s এ আপনার প্রিয় সাইটে দ্রুত ফিরে আসুন। শুধু %1$s মেনু থেকে \"হোম "
-"স্ক্রীনে যোগ করুন\" নির্বাচন করুন।"
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "%1$s এ আপনার প্রিয় সাইটে দ্রুত ফিরে আসুন। শুধু %1$s মেনু থেকে \"হোম স্ক্রীনে যোগ করুন\" নির্বাচন করুন।"
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1160,12 +1104,8 @@ msgstr "গোপনীয়তাকে অভ্যাসে পরিনত ক
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"আপনার ডিফল্ট ব্রাউজার হিসাবে %1$s সেট করুন এবং অন্য অ্যাপ্লিকেশন থেকে "
-"ওয়েবপেজ খুললে আপনি ব্যক্তিগত ব্রাউজিং এর সুবিধা পাবেন।"
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "আপনার ডিফল্ট ব্রাউজার হিসাবে %1$s সেট করুন এবং অন্য অ্যাপ্লিকেশন থেকে ওয়েবপেজ খুললে আপনি ব্যক্তিগত ব্রাউজিং এর সুবিধা পাবেন।"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1226,12 +1166,8 @@ msgstr "ব্যক্তিগত ব্রাউজিং সেশন"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"নোাটফিকেশন ট্যাপ করে আপনার %1$s সেশন মুছে ফেলা যাবে। আপনাকে অ্যাপ্লিকেশন "
-"খুলতে বা ব্রাউজারে কি চলছে তা দেখার প্রয়োজন হবে না।"
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "নোাটফিকেশন ট্যাপ করে আপনার %1$s সেশন মুছে ফেলা যাবে। আপনাকে অ্যাপ্লিকেশন খুলতে বা ব্রাউজারে কি চলছে তা দেখার প্রয়োজন হবে না।"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1250,23 +1186,15 @@ msgstr "Firefox ডাউনলোড করুন"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s হল Mozilla এবং অন্যান্য অবদানকারীর দ্বারা তৈরি ফ্রি এবং ওপেনসোর্স "
-"সফটওয়্যার।"
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s হল Mozilla এবং অন্যান্য অবদানকারীর দ্বারা তৈরি ফ্রি এবং ওপেনসোর্স সফটওয়্যার।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s আপনার কাছে <a href=\"%2$s\">Mozilla Public License</a> এবং অন্যান্য "
-"ওপেনসোর্স লাইসেন্স শর্তাবলীর আওতায় উপলব্ধ।"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s আপনার কাছে <a href=\"%2$s\">Mozilla Public License</a> এবং অন্যান্য ওপেনসোর্স লাইসেন্স শর্তাবলীর আওতায় উপলব্ধ।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1274,25 +1202,16 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"Mozilla Foundation বা Mozilla , Firefox বা %1$s নাম বা লোগো সহ কোনও "
-"পক্ষের ট্রেডমার্কের জন্য আপনার কোন অধিকার বা লাইসেন্স নেই। অতিরিক্ত "
-"তথ্য<a href=\"%2$s\">এখানে</a> পাওয়া যেতে পারে।"
+msgstr "Mozilla Foundation বা Mozilla , Firefox বা %1$s নাম বা লোগো সহ কোনও পক্ষের ট্রেডমার্কের জন্য আপনার কোন অধিকার বা লাইসেন্স নেই। অতিরিক্ত তথ্য<a href=\"%2$s\">এখানে</a> পাওয়া যেতে পারে।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"%1$s এর জন্য অতিরিক্ত সোর্স কোড বিভিন্ন অন্যান্য ফ্রি এবং ওপেনসোর্স <a "
-"href=\"%2$s\">লাইসেন্সগুলির</a> অধীনে পাওয়া যায়।"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "%1$s এর জন্য অতিরিক্ত সোর্স কোড বিভিন্ন অন্যান্য ফ্রি এবং ওপেনসোর্স <a href=\"%2$s\">লাইসেন্সগুলির</a> অধীনে পাওয়া যায়।"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1300,14 +1219,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s Disconnect, Inc দ্বারা উপলব্ধ ব্লকলিস্টগুলি যেমন <a "
-"href=\"%2$s\">GNU জেনারেল পাবলিক লাইসেন্স v3</a> এর অধীনে পৃথক এবং "
-"স্বাধীন কাজগুলি ব্যবহার করে এবং <a href=\"%3$s\">এখানে</a>।"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s Disconnect, Inc দ্বারা উপলব্ধ ব্লকলিস্টগুলি যেমন <a href=\"%2$s\">GNU জেনারেল পাবলিক লাইসেন্স v3</a> এর অধীনে পৃথক এবং স্বাধীন কাজগুলি ব্যবহার করে এবং <a href=\"%3$s\">এখানে</a>।"
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1484,9 +1397,7 @@ msgstr ""
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
 msgstr ""
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1515,7 +1426,7 @@ msgstr ""
 #. doesn't provide suggestions
 msgctxt "dismiss_no_suggestions_prompt_button"
 msgid "Dismiss"
-msgstr ""
+msgstr "বাতিল"
 
 #. Tips displayed on the home view
 #. Tip displayed on home view explaining how to disable tracking protection
@@ -1606,9 +1517,7 @@ msgstr ""
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
 msgstr ""
 
 #. Preference for exceptions tracking protection
@@ -1660,9 +1569,7 @@ msgstr ""
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
 msgstr ""
 
 #. Label for the button that closes the window
@@ -1681,4 +1588,3 @@ msgstr ""
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr ""
-
