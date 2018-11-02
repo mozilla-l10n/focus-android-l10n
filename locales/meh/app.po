@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-02 22:29+0000\n"
+"PO-Revision-Date: 2018-11-02 22:40+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -1018,7 +1018,7 @@ msgstr "Iyo iin a sá´á ntu kuvi síne página ya´a."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Sine jii kaa"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1500,7 +1500,7 @@ msgstr "Sama"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Sama kuvi chunta´a pestaña jíía ñama"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1528,7 +1528,7 @@ msgstr "Exceptions"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Nxitanu nkutuvi tu´un nuu daa sitios ya´a."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1553,7 +1553,7 @@ msgstr "Nei koo ini-nu. Iyo iin tixi jiin pestaña ya´a."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Ka̱a̱ ya´a. ntu chuva´a jee nkuvi sine pestaña ni´inu ichi yata."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1570,7 +1570,7 @@ msgstr "Nei koo ini-nu. %1$s nkumi iin tixi jee ntivu ya´a."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Ka̱a̱ ya´a. ntu chuva´a jee nkuvi sine daa nsa´anu ichi yata."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
