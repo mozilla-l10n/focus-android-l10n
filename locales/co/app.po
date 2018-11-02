@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-02 17:15+0000\n"
+"PO-Revision-Date: 2018-11-02 23:28+0000\n"
 "Last-Translator: Patriccollu di Santa Maria è S <Patrick.Santa-Maria@laposte.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: co\n"
@@ -210,7 +210,7 @@ msgstr "Squassà a crunulogia di navigazione"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr "Squassà è apre"
+msgstr "Squassà & apre"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -842,7 +842,7 @@ msgstr "Apre a leia in un'altra appiecazione"
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr "Avete da chittà %1$s per apre sta leia in %2$s."
+msgstr "Avete da lascià %1$s per apre sta leia in %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
@@ -857,20 +857,20 @@ msgstr "Truvà un'appiecazione capace d'apre sta leia"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Alcuna appiecazione di u vostru apparechju ùn hè capace d'apre sta leia. Avete da lascià %1$s per circà in %2$s un appiecazione chì ne seria capace."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Cessà a navigazione privata ?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s compiu"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
@@ -882,12 +882,12 @@ msgstr "Apre"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "I schedarii scaricati <b>ùn seranu micca squassati</b> quandu a crunulogia di %1$s hè squassata."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Scaricà u schedariu"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -902,15 +902,15 @@ msgstr "Scaricà"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Sbagliu di caricamentu di a pagina"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Pruvà torna"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Impussibule di cunnettassi"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -919,14 +919,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Forse u site hè timpurariamente indispunibule o sopraccarcu. Pruvate torna da quì à pocu.</li>\n"
+"        <li>S'ella ùn hè mancu pussibule di navigà nant'à un situ, verificate a cunnessione di dati o Wi-Fi di u vostru apparechju.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "Cumportu di cunnessione eccidutu"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Indirizzu intruvevule"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -937,10 +941,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Verificate a sintassa di l'indirizzu per circà i sbaglii cum'è\n"
+"          <strong>ww</strong>.example.com invece di\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>S'ella ùn hè mancu pussibule di navigà nant'à un situ, verificate a cunnessione di dati o Wi-Fi di u vostru apparechju.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "L'indirizzu ùn hè accettevule"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -949,10 +959,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>A sintassa di l'indirizzi web hè di solitu <strong>http://www.example.com/</strong></li>\n"
+"  <li>Assicuratevvi d'impiegà barre sbieche (i.e. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "A pagina ùn hè micca ridiretta currettamente"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -960,10 +974,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>A causa di stu penseru pò esse a disattivazione o u rifiutu di i canistrelli.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "L'indirizzu ùn hè micca statu capitu"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
