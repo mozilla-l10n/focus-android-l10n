@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-02 17:50+0000\n"
+"PO-Revision-Date: 2018-11-02 17:52+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -1582,7 +1582,7 @@ msgstr "Kojakuyu'. %1$s xk'oje' jun ruk'ayewal chuqa' xsach."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Achi'el jun ichinan okik'amaya'l, majub'ey niqayäk chuqa' man yojtikïr ta niqatzolij ri ruk'isib'äl awokem pa k'amaya'l."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1599,4 +1599,4 @@ msgstr "Titikirisäx chik %1$s"
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Titaq rutzijol sachoj chi re Mozilla"
