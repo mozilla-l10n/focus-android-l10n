@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-02 13:26+0000\n"
+"PO-Revision-Date: 2018-11-02 13:37+0000\n"
 "Last-Translator: Slimane Selyan AMIRI <slimane.amiri@gmail.com>\n"
 "Language-Team: kab <LL@li.org>\n"
 "Language: kab\n"
@@ -1517,7 +1517,7 @@ msgstr "Sewḥel yir agbur neɣ ismal iweɛṛen"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Inni-aɣ-d ɣef tigawin n usaxser n ismal, ismal n uḍfar, akked isaɣzan n ddiri deg ismal."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1552,7 +1552,7 @@ msgstr "Nesḥasef. nesεa ugur akked iccer-agi."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Immi d iminig uslig, werǧin ad nsekles neɣ ad d-nner iccaren."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1564,12 +1564,12 @@ msgstr "Mdel Iccer"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Nesḥasef. %1$s isεa ugur sakin yeɣli."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Immi d iminig uslig, werǧin ad nsekles neɣ ad d-nner tiɣimit-inek taneggarut."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
