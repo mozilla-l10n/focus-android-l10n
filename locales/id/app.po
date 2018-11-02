@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-10-31 03:20+0000\n"
+"PO-Revision-Date: 2018-11-02 16:03+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -62,7 +62,7 @@ msgstr "Riwayat penjelajahan Anda sudah dihapus."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Riwayat penjelajahan tab telah dihapus."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -536,7 +536,7 @@ msgstr "Tidak"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Hanya blokir kuki pelacak pihak ke-3"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -1554,7 +1554,7 @@ msgstr ""
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Maaf. Kami mengalami masalah dengan tab ini."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
