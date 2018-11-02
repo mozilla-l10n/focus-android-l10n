@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-09-08 13:22+0000\n"
+"PO-Revision-Date: 2018-11-02 12:12+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
-"Language: ja\n"
 "Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -61,7 +62,7 @@ msgstr "閲覧履歴が消去されました。"
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "タブのブラウジング履歴が消去されました。"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -142,18 +143,18 @@ msgstr "ブロックされた追跡"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "これをオフにすることにより、一部のサイトの問題が解決する可能性があります"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "コンテンツブロッキング"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "サイトの問題を解決するにはオフにしてください"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -209,7 +210,7 @@ msgstr "閲覧履歴を消去"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "消去して開く"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -218,7 +219,7 @@ msgstr ""
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "消去して %1$s を開く"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -236,12 +237,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s ではあなたがすべてをコントロールできます。</p>\n"
@@ -336,7 +335,7 @@ msgstr "既定"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "検索エンジン"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -514,9 +513,7 @@ msgid "Block social trackers"
 msgstr "ソーシャル追跡をブロック"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
 msgstr "ユーザーの訪問を追跡するためサイトに埋め込まれ、共有ボタンのように表示されます"
 
 msgctxt "preference_privacy_block_content"
@@ -562,9 +559,7 @@ msgstr "アプリのロック解除に指紋を使用"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
 msgstr "アプリ内で URL を開いている場合、指紋を使って %1$s のロックを解除できます。ステルスモードが有効となります。"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -638,9 +633,7 @@ msgstr "詳細情報"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr "Mozilla は %1$s を皆さんに提供し改善するために必要な情報だけを収集するよう努めています。"
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -863,9 +856,7 @@ msgstr "リンクを開けるアプリを探す"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "お使いの端末にはこのリンクを開けるアプリがありません。%1$s を離れて、開けるアプリを %2$s で探すことができます。"
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -924,16 +915,12 @@ msgstr "正常に接続できませんでした"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        "
-"<li>このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。</li>"
-"\n"
+"        <li>このサイトが一時的に利用できなくなっていたり、サーバーの負荷が高すぎて接続できなくなっている可能性があります。しばらくしてから再度試してください。</li>\n"
 "        <li>他のサイトも表示できない場合、デバイスのデータ接続や Wi-Fi 接続を確認してください。</li>\n"
 "      </ul>"
 
@@ -951,8 +938,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -969,17 +955,13 @@ msgstr "アドレスの書式が正しくありません"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>ウェブのアドレスは通常 <strong>http://www.example.com/</strong> "
-"のようなものになります。</li>\n"
-"  <li>円記号やバックスラッシュ (<strong>\\</strong>) ではなく、スラッシュ (<strong>/</strong>) "
-"が使われているか確認してください。</li>\n"
+"  <li>ウェブのアドレスは通常 <strong>http://www.example.com/</strong> のようなものになります。</li>\n"
+"  <li>円記号やバックスラッシュ (<strong>\\</strong>) ではなく、スラッシュ (<strong>/</strong>) が使われているか確認してください。</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -989,8 +971,7 @@ msgstr "ページの自動転送設定が正しくありません"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1004,8 +985,7 @@ msgstr "アドレスのプロトコルが不明です"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1019,11 +999,9 @@ msgstr "安全な接続ができませんでした"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -1079,9 +1057,7 @@ msgstr "リンクを新しいタブで開く"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "保存、共有された画像は %1$s の履歴を消去しても <b>削除されません</b>。"
 
 #. First run tour (Default browser): Title
@@ -1091,9 +1067,7 @@ msgstr "プライバシーを強化"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 msgstr "プライベートブラウジングを次のレベルへと進めましょう。サイトを越えてあなたを追跡したり、ページの読み込みを遅くしたりする可能性のある広告その他のコンテンツを自動的にブロック。"
 
 #. First run tour (Search): Title
@@ -1103,9 +1077,7 @@ msgstr "好きな方法で検索"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "何か違ったものを探していますか？ 設定で別の検索エンジンを既定として選んでみましょう。"
 
 #. First run tour (Shortcut): Title
@@ -1117,9 +1089,7 @@ msgstr "ホーム画面にショートカットを追加"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr "%1$s でもお気に入りのサイトへ素早く戻れます。%1$s のメニューから「ホーム画面に追加」を選択するだけ。"
 
 #. First run tour (Privacy): Title
@@ -1131,9 +1101,7 @@ msgstr "プライバシーを習慣に"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr "%1$s を既定のブラウザーに設定して、他のアプリからウェブページを開いたときに、プライベートブラウジングの恩恵を受けましょう。"
 
 msgctxt "firstrun_close_button"
@@ -1195,12 +1163,8 @@ msgstr "プライベートブラウジングセッション"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"%1$s "
-"のセッションは通知をワンタップするだけで消去できます。アプリを開いたり、ブラウザー内でどのページが表示されているか確認したりする必要はありません。"
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "%1$s のセッションは通知をワンタップするだけで消去できます。アプリを開いたり、ブラウザー内でどのページが表示されているか確認したりする必要はありません。"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1219,21 +1183,15 @@ msgstr "Firefox をダウンロード"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr "%1$s は Mozilla や他の貢献者によって開発されているフリーでオープンソースのソフトウェアです。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s は <a href=\"%2$s\">Mozilla Public License</a> "
-"およびその他オープンソースライセンスの条件に基づいて使用することができます。"
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s は <a href=\"%2$s\">Mozilla Public License</a> およびその他オープンソースライセンスの条件に基づいて使用することができます。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1241,25 +1199,16 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"ユーザーには、Mozilla、Firefox、%1$s の名称やロゴを含む Mozilla Foundation "
-"または第三者の商標に関するいかなる権利やライセンスも付与されていません。詳しい情報は <a href=\"%2$s\">Mozilla "
-"商標ポリシー</a> をご覧ください。"
+msgstr "ユーザーには、Mozilla、Firefox、%1$s の名称やロゴを含む Mozilla Foundation または第三者の商標に関するいかなる権利やライセンスも付与されていません。詳しい情報は <a href=\"%2$s\">Mozilla 商標ポリシー</a> をご覧ください。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"%1$s の追加のソースコードは様々な他のフリーでオープンソースの <a href=\"%2$s\">ライセンス</a> "
-"に基づいて公開されています。"
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "%1$s の追加のソースコードは様々な他のフリーでオープンソースの <a href=\"%2$s\">ライセンス</a> に基づいて公開されています。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1267,14 +1216,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s は Disconnect, Inc. によって提供されているブロックリストも <a href=\"%2$s\">GNU General "
-"Public License v3</a> の下で単独のリソースとして使用しており、それらは <a href=\"%3$s\">こちら</a> "
-"から入手可能です。"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s は Disconnect, Inc. によって提供されているブロックリストも <a href=\"%2$s\">GNU General Public License v3</a> の下で単独のリソースとして使用しており、それらは <a href=\"%3$s\">こちら</a> から入手可能です。"
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1451,9 +1394,7 @@ msgstr "検索語句の候補を表示しますか？"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
 msgstr "検索候補を取得する場合、%1$s はあなたがアドレスバーに入力した語句を選択された検索エンジンへ送信する必要があります。%2$s。"
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1579,9 +1520,7 @@ msgstr ""
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
 msgstr ""
 
 #. Preference for exceptions tracking protection
@@ -1633,9 +1572,7 @@ msgstr ""
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
 msgstr ""
 
 #. Label for the button that closes the window
@@ -1654,4 +1591,3 @@ msgstr ""
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr ""
-
