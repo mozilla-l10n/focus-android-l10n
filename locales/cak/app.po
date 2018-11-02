@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-02 17:31+0000\n"
+"PO-Revision-Date: 2018-11-02 17:50+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -361,29 +361,29 @@ msgstr "Kichin Ütz taq ajk'amaya'l ruxaq"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Titzij richin ruyonil nunojisaj naqaj chi re 450 ajowan taq URLs pa kikajtz'ik ochochib'äl."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Kichin ri taq Ruxaq Ye'atz'aqatisaj"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Titzij richin ruyonil nunojisaj naqaj chi re 450 ajowan taq URLs pa kikajtz'ik ochochib'äl."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Kenuk'samajïx taq ruxaq"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Kenuk'samajïx taq ruxaq"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -405,7 +405,7 @@ msgstr "Titz'aqatisäx ichinan URL"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Titz'aqatisäx ri ximonel richin ruyon nutz'aqatisaj"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -536,7 +536,7 @@ msgstr "Mani"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Keq'at xa xe 3rx kiwinaqil kikaxlanwäy ojqanela'"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -780,7 +780,7 @@ msgstr "Ch'aqa' chik taq cha'oj"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Kipitz'b'al ch'aqa' cha'oj"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1512,7 +1512,7 @@ msgstr "Tiq'ax pa"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Chanin tijal rik'in tixim pa k'ak'a' ruwi'"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1524,13 +1524,13 @@ msgstr "¡Tachajij awi' richin Yatok pa K'amaya'l!"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Keq'at taq ruxaq nïm kitz'ilanem chuqa' q'olonela'"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Keq'at taq ruxaq etaman chi yeq'eleb'en chuqa' yeq'olon, tz'ilanel ruxaq taq chokoy chuqa' itzel ruxaq taq solkema'."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1540,7 +1540,7 @@ msgstr "Taq man relik ta"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Xachüp ri Ruq'atik Rupam pa re ajk'amaya'l taq ruxaq re'."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1555,17 +1555,17 @@ msgstr "Keyuj ronojel ajk'amaya'l ruxaq"
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "Xsach ri Ruwi'"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Kojakuyu', K'o qak'ayewal rik'in re ruwi' re'."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Achi'el jun ichinan okik'amaya'l, majub'ey niqayäk chuqa' man yojtikïr ta niqatzolij re ruwi' re'."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1577,7 +1577,7 @@ msgstr "Titz'apïx Ruwi'"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Kojakuyu'. %1$s xk'oje' jun ruk'ayewal chuqa' xsach."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
