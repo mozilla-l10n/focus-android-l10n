@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-02 21:42+0000\n"
+"PO-Revision-Date: 2018-11-02 22:12+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -367,12 +367,12 @@ msgstr "Tee saa kuvi nánukunu 450 URLs nuu chu´un daa direcciones."
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Nuu daa sitios chisonu"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Tee saa kuvi nánukunu 450 URLs nuu chu´un daa direcciones."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -675,7 +675,7 @@ msgstr "Xita"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Xituvi tu´un chinei nuu kajie´e"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -780,7 +780,7 @@ msgstr "Kue´e-ka nuu kají"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Botón nuu kaji"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -818,7 +818,7 @@ msgstr "Niko nuu ka̱a̱ a nee yata"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Tuni daa nita noo´o nxita"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -1065,7 +1065,7 @@ msgstr "Sika privacidad noo´o"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Ni´i nánuku yu´u inka nivel. Xita daa tutu kuvi xiko a xiin daa nita noo´o, saa´a ntu jika ñama ka̱a̱ nánuku."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1087,7 +1087,7 @@ msgstr "Tee a kivu ñama nuu kajie´e"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Niko ñama nuu daa sitios ta´a ini noo´o %1$s. Kaji \"tee nuu kajie´e\" nu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1517,7 +1517,7 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Exceptions"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
@@ -1552,14 +1552,14 @@ msgstr ""
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Nakasɨ pestaña"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Nei koo ini-nu. %1$s nkumi iin tixi jee ntivu ya´a."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
@@ -1569,16 +1569,16 @@ msgstr ""
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Nakasɨ"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Nakajie´e %1$s"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Chu´un ichi saa tivu ya´a nuu Mozilla"
