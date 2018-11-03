@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-10-29 13:51-0700\n"
-"PO-Revision-Date: 2018-11-03 00:11+0000\n"
+"PO-Revision-Date: 2018-11-03 00:17+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: nb_NO <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -357,7 +357,7 @@ msgstr "Autofullfør nettadresse"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "For toppnettsteder"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
@@ -1523,73 +1523,73 @@ msgstr "Blokker potensielt farlige og villedende nettsteder"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blokker rapporterte villedende- og angrepsnettsteder, skadeprogram-nettsteder og uønskede programvarenettsteder."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Unntak"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Du har slått av innholdsblokkering for disse nettstedene."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Fjern"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Fjern alle nettsted"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "Fane krasjet"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Beklager. Vi har et problem med denne fanen."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Som en privat nettleser lagrer vi aldri og kan ikke gjenopprette denne fanen."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Lukk fane"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Beklager. %1$s hadde et problem og krasjet."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Som en privat nettleser lagrer vi aldri og kan ikke gjenopprette din siste nettleserøkt."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Lukk"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Start %1$s på nytt"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Send krasjrapport til Mozilla"
