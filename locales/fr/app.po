@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-01 20:04+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2018-11-03 08:44+0000\n"
+"Last-Translator: goofy <goofy@babelzilla.org>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -1517,7 +1517,7 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Navigation sécurisée"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1564,7 +1564,7 @@ msgstr "Nous sommes désolés, nous avons un problème avec cet onglet."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Votre navigation était privée, nous n’avons pas enregistré cet onglet et ne pouvons donc pas le restaurer."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
