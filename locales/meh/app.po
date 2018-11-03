@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-03 01:08+0000\n"
+"PO-Revision-Date: 2018-11-03 01:28+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -1214,7 +1214,7 @@ msgstr "Inka <a href=\"%2$s\"> tutu xitu </a> código nune jii ntu íyo ya´vi k
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s ni´i lista ntɨ tuvi a taji Disconnect, Inc. kua tiñu ntu ntaka jiee <a href=\"%2$s\"> tutu xitu ntaka GNU v3 </a> jee kuvi nani´inuma <a href=\"%3$s\"> ya´a </a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1520,13 +1520,13 @@ msgstr "Nánuku yu´u"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Tee ntuvi daa sitios tixin jiin sitios kantu´un"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Tee ntuvi daa sitios kuvi sa´a xeen, jee daa sitios kumi ka̱a̱ ntu íyo vatu."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
