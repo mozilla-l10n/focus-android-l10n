@@ -2,24 +2,23 @@
 # Copyright (C) 2017 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-29 13:51-0700\n"
+"POT-Creation-Date: 2018-11-02 17:36-0700\n"
 "PO-Revision-Date: 2018-11-02 18:11+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
+"Language: ia\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
-"Language: ia\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -238,21 +237,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>Usante %1$s, tu es al commando.</p>\n"
 "<p>Usa lo como un navigator private :\n"
 "  <ul>\n"
 "    <li>Cerca e naviga directemente in le application</li>\n"
-"    <li>Bloca le traciatores (o actualisa le parametros pro permitter traciatores)</li>\n"
-"    <li> “Eliminar” pro deler le cookies e tamben le chronologia de recercas e de navigation</li>\n"
+"    <li>Bloca le traciatores (o actualisa le parametros pro permitter "
+"traciatores)</li>\n"
+"    <li> “Eliminar” pro deler le cookies e tamben le chronologia de "
+"recercas e de navigation</li>\n"
 "</ul>\n"
 "</p>\n"
-"<p>%1$s es producite per Mozilla. Nostre mission es promover un Internet san e aperite.<br/>\n"
+"<p>%1$s es producite per Mozilla. Nostre mission es promover un Internet "
+"san e aperite.<br/>\n"
 "<a href=\"%2$s\">Saper plus</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -514,8 +518,12 @@ msgid "Block social trackers"
 msgstr "Blocar le traciatores social"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Integrate al sitos pro traciar tu visitas e monstrar functionalitates como buttones de compartir"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Integrate al sitos pro traciar tu visitas e monstrar functionalitates "
+"como buttones de compartir"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -560,8 +568,12 @@ msgstr "Usa le impression digital pro disblocar le application"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Tu impression digital pote disblocar %1$s si un URL es ja aperte in le application. Le modo furtive sera activate."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Tu impression digital pote disblocar %1$s si un URL es ja aperte in le "
+"application. Le modo furtive sera activate."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -577,7 +589,9 @@ msgstr "Modo furtive"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Celar le paginas web quando on cambia de applicationes e blocar le prisa de instantaneos."
+msgstr ""
+"Celar le paginas web quando on cambia de applicationes e blocar le prisa "
+"de instantaneos."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -605,7 +619,9 @@ msgstr "Blocar JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Le paginas pote cargar se plus rapidemente, mais pute alsi comportar se in maniera inattendite"
+msgstr ""
+"Le paginas pote cargar se plus rapidemente, mais pute alsi comportar se "
+"in maniera inattendite"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -634,8 +650,12 @@ msgstr "Saper plus"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla se effortia a colliger solmente le informationes necessari pro fornir e meliorar %1$s pro totes."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla se effortia a colliger solmente le informationes necessari pro "
+"fornir e meliorar %1$s pro totes."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -857,8 +877,12 @@ msgstr "Cercar un application capace de aperir le ligamine"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Nulle application de tu apparato es capace de aperir iste ligamine. Tu pote exir de %1$s pro cercar in %2$s un application capace de facer lo."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Nulle application de tu apparato es capace de aperir iste ligamine. Tu "
+"pote exir de %1$s pro cercar in %2$s un application capace de facer lo."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -883,7 +907,9 @@ msgstr "Aperir"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Le files discargate <b>non essera delite</b> quando tu elimina le chronologia de %1$s."
+msgstr ""
+"Le files discargate <b>non essera delite</b> quando tu elimina le "
+"chronologia de %1$s."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -916,13 +942,17 @@ msgstr "Incapace de connecter se"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"<li>Le sito pote esser temporarimente indisponibile o troppo occupate. Retenta in alcun instantes.</li>\n"
-"<li>Si tu es incapace de cargar qualcunque pagina, verifica le connexion de datos o Wi-Fi de tu apparato mobile.</li>\n"
+"<li>Le sito pote esser temporarimente indisponibile o troppo occupate. "
+"Retenta in alcun instantes.</li>\n"
+"<li>Si tu es incapace de cargar qualcunque pagina, verifica le connexion "
+"de datos o Wi-Fi de tu apparato mobile.</li>\n"
 "</ul>"
 
 msgctxt "error_timeout_title"
@@ -939,14 +969,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Verifica si le adresse ha errores orthographic, pro exemplo\n"
 "          <strong>ww</strong>.example.com in vice de\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Si tu es incapace de cargar ulle pagina, verifica le connexion de datos o Wi-Fi de tu apparato.</li>\n"
+"        <li>Si tu es incapace de cargar ulle pagina, verifica le "
+"connexion de datos o Wi-Fi de tu apparato.</li>\n"
 "</ul>"
 
 msgctxt "error_malformedURI_title"
@@ -956,13 +988,17 @@ msgstr "Le adresse non es valide"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Le adresses web sole esser scribite in le forma <strong>http://www.example.com/</strong></li>\n"
-"  <li>Assecura te que tu usa le barras oblique ascendente (i.e. <strong>/</strong>).</li>\n"
+"  <li>Le adresses web sole esser scribite in le forma "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Assecura te que tu usa le barras oblique ascendente (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -972,11 +1008,13 @@ msgstr "Le pagina non redirige correctemente"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Iste problema pote esser causate a vices per le inactivation o le refusa de cookies.</li>\n"
+"  <li>Iste problema pote esser causate a vices per le inactivation o le "
+"refusa de cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -986,11 +1024,13 @@ msgstr "Le adresse non ha essite recognoscite"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Pote esser necessari installar altere software pro aperir iste adresse</li>\n"
+"  <li>Pote esser necessari installar altere software pro aperir iste "
+"adresse</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -1000,16 +1040,20 @@ msgstr "Connexion secur fallite"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Isto pote esser un problema in le configuration del servitor o il pote esser\n"
+"  <li>Isto pote esser un problema in le configuration del servitor o il "
+"pote esser\n"
 "alcuno tentante usurpar le servitor.</li>\n"
-"  <li>Si tu ha connectite a iste servitor correctemente in le passato, le error pote\n"
+"  <li>Si tu ha connectite a iste servitor correctemente in le passato, le"
+" error pote\n"
 "esser temporari e tu pote retentar plus tarde.</li>\n"
 "</ul>"
 
@@ -1060,8 +1104,12 @@ msgstr "Aperir le ligamine in un nove scheda"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Le imagines salvate e compartite <b>non essera delite</b> quando tu elimina le chronologia de %1$s."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Le imagines salvate e compartite <b>non essera delite</b> quando tu "
+"elimina le chronologia de %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1070,8 +1118,13 @@ msgstr "Reinfortia tu confidentialitate"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Porta le navigation private al nivello superior. Bloca publicitates e altere contentos que pote traciar te per le sitos e relentar le tempore de carga del paginas."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Porta le navigation private al nivello superior. Bloca publicitates e "
+"altere contentos que pote traciar te per le sitos e relentar le tempore "
+"de carga del paginas."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1080,8 +1133,12 @@ msgstr "Le recerca a tu gusto"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Cerca tu qualcosa differente? Elige un altere motor de recerca in le parametros."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"Cerca tu qualcosa differente? Elige un altere motor de recerca in le "
+"parametros."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1092,8 +1149,12 @@ msgstr "Adde accessos directe a tu schermo initial"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Retorna a tu sitos favorite in %1$s rapidemente. Selige simplemente \"Adder a tu schermo initial\" ab le menu %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Retorna a tu sitos favorite in %1$s rapidemente. Selige simplemente "
+"\"Adder a tu schermo initial\" ab le menu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1104,8 +1165,13 @@ msgstr "Transforma le confidentialitate in un habito"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Defini %1$s como tu navigator predefinite e obtene le avantages del navigation private quando tu aperi le paginas web ab altere applicationes."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Defini %1$s como tu navigator predefinite e obtene le avantages del "
+"navigation private quando tu aperi le paginas web ab altere "
+"applicationes."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1166,8 +1232,13 @@ msgstr "Session de navigation private"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Le notificationes te permitte eliminar tu session %1$s con un tocco. Il non es necessari aperir le application o vider lo que es executate in tu navigator."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Le notificationes te permitte eliminar tu session %1$s con un tocco. Il "
+"non es necessari aperir le application o vider lo que es executate in tu "
+"navigator."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1186,15 +1257,23 @@ msgstr "Discargar Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s es libere, de codice aperite e facite per Mozilla e altere contributores."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s es libere, de codice aperite e facite per Mozilla e altere "
+"contributores."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s es distribuite a te sub le terminos del <a href=\"%2$s\">Licentia public Mozilla</a> e altere licentias de codice aperite."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s es distribuite a te sub le terminos del <a href=\"%2$s\">Licentia "
+"public Mozilla</a> e altere licentias de codice aperite."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1202,18 +1281,26 @@ msgstr "%1$s es distribuite a te sub le terminos del <a href=\"%2$s\">Licentia p
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Il non es concedite a te ulle derectos o licentias al marcas registrate del fundation Mozilla o de ulle tertie, includente le nomines e logotypos de Mozilla, de Firefox o de %1$s. Altere "
-"informationes pote esser trovate <a href=\"%2$s\">hic</a>."
+"Il non es concedite a te ulle derectos o licentias al marcas registrate "
+"del fundation Mozilla o de ulle tertie, includente le nomines e logotypos"
+" de Mozilla, de Firefox o de %1$s. Altere informationes pote esser "
+"trovate <a href=\"%2$s\">hic</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Le codice fonte additional pro %1$s es disponibile sub varie altere <a href=\"%2$s\">licentias</a> libere e de codice aperite."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Le codice fonte additional pro %1$s es disponibile sub varie altere <a "
+"href=\"%2$s\">licentias</a> libere e de codice aperite."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1221,8 +1308,14 @@ msgstr "Le codice fonte additional pro %1$s es disponibile sub varie altere <a h
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s usa tamben listas de blocage fornite per Disconnect, Inc. como labores separate e independente sub le <a href=\"%2$s\">Licentia Public GNU v3</a>, e es disponibile <a href=\"%3$s\">hic</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s usa tamben listas de blocage fornite per Disconnect, Inc. como "
+"labores separate e independente sub le <a href=\"%2$s\">Licentia Public "
+"GNU v3</a>, e es disponibile <a href=\"%3$s\">hic</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1399,8 +1492,13 @@ msgstr "Vole tu activar le suggestiones de recerca?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Pro obtener suggestiones de recerca, %1$s ha besonio de haber inviate lo que tu scribe in le barra de adresse al motor de recerca que tu ha eligite. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Pro obtener suggestiones de recerca, %1$s ha besonio de haber inviate lo "
+"que tu scribe in le barra de adresse al motor de recerca que tu ha "
+"eligite. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1446,7 +1544,9 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Installa le accesso a un tocco pro le sitos que tu usa plus %1$s Menu > Adder al Pagina initial"
+msgstr ""
+"Installa le accesso a un tocco pro le sitos que tu usa plus %1$s Menu > "
+"Adder al Pagina initial"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1488,11 +1588,21 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr "Vider plus tosto le sito in modo plen scriptorio?%1$s Menu > Requirer sito de scriptorio"
+msgstr ""
+"Vider plus tosto le sito in modo plen scriptorio?%1$s Menu > Requirer "
+"sito de scriptorio"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
+msgstr ""
+
+#. Tip displayed on the home view explaining how to use the Allowlist feature.
+#. "Allowlist" is a replacement for the word whitelist.
+msgctxt "tip_explain_allowlist"
+msgid ""
+"Trusted site?\n"
+" Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 
 #. Label for the snackbar when a user opens a new tab
@@ -1525,7 +1635,9 @@ msgstr ""
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
 msgstr ""
 
 #. Preference for exceptions tracking protection
@@ -1577,7 +1689,9 @@ msgstr ""
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
 msgstr ""
 
 #. Label for the button that closes the window
@@ -1596,3 +1710,4 @@ msgstr "Reinitiar %1$s"
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr "Inviar reporto de crash a Mozilla"
+

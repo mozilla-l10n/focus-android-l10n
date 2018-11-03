@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-10-29 13:51-0700\n"
+"POT-Creation-Date: 2018-11-02 17:36-0700\n"
 "PO-Revision-Date: 2018-10-30 14:34+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
-"Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
+"Language-Team: nn_NO <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -237,21 +236,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s gjev deg kontroll.</p>\n"
 "<p>Bruk han som ein privat nettlesar:\n"
 "  <ul>\n"
 "    <li>Søk og surf rett i appen</li>\n"
-"    <li>Blokker sporfølgjarar (eller oppdater innstillingane for å tillate sporfølgjarar)</li>\n"
-"    <li>Slett for å fjerne infokapslar samt søk- og nettlesarhistorikk</li>\n"
+"    <li>Blokker sporfølgjarar (eller oppdater innstillingane for å "
+"tillate sporfølgjarar)</li>\n"
+"    <li>Slett for å fjerne infokapslar samt søk- og "
+"nettlesarhistorikk</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s er produsert av Mozilla. Vår misjon er å fremme eit sunt, ope Internett.<br/>\n"
+"<p>%1$s er produsert av Mozilla. Vår misjon er å fremme eit sunt, ope "
+"Internett.<br/>\n"
 "<a href=\"%2$s\">Les meir</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -498,7 +502,9 @@ msgstr "Blokker reklamesporfølgjarar"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Nokre annonsar sporfølgjarar nettstadbesøk, sjølv om du ikkje klikkar på annonsane"
+msgstr ""
+"Nokre annonsar sporfølgjarar nettstadbesøk, sjølv om du ikkje klikkar på "
+"annonsane"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -506,15 +512,21 @@ msgstr "Blokker analysesporfølgjarar"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Brukt for å samla inn, analysera og måla aktivitetar som tastetrykk og rulling"
+msgstr ""
+"Brukt for å samla inn, analysera og måla aktivitetar som tastetrykk og "
+"rulling"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Blokker sosiale media-sporfølgjarar"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Innebygd på nettstader for å spora besøka dine og å visa funksjonalitet som dele-knappar"
+msgid ""
+"Embedded on sites to track your visits and to display functionality like "
+"share buttons"
+msgstr ""
+"Innebygd på nettstader for å spora besøka dine og å visa funksjonalitet "
+"som dele-knappar"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -559,8 +571,12 @@ msgstr "Bruk fingeravtrykk for å låse opp appen"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Fingeravtrykket ditt kan låse opp %1$s, viss ein URL allereie er open i appen. Skjult tilstand vil bli slått på."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Fingeravtrykket ditt kan låse opp %1$s, viss ein URL allereie er open i "
+"appen. Skjult tilstand vil bli slått på."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -633,8 +649,12 @@ msgstr "Les meir"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla strevar etter å berre samla inn det vi treng for å tilby og forbetra %1$s for alle."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla strevar etter å berre samla inn det vi treng for å tilby og "
+"forbetra %1$s for alle."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -856,8 +876,12 @@ msgstr "Finn ein app som kan opna lenka"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ingen av appane på eininga di kan opna denne lenka. Du kan gå ut av %1$s for å søka på %2$s etter ein app som kan gjera dette."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ingen av appane på eininga di kan opna denne lenka. Du kan gå ut av %1$s "
+"for å søka på %2$s etter ein app som kan gjera dette."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -882,7 +906,9 @@ msgstr "Opna"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Nedlasta filer <b>vil ikkje bli fjerna</b> når du slettar %1$s-historikken."
+msgstr ""
+"Nedlasta filer <b>vil ikkje bli fjerna</b> når du slettar "
+"%1$s-historikken."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -915,13 +941,17 @@ msgstr "Kan ikkje kopla til"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Sida kan vera mellombels utilgjengeleg, eller opptatt. Prøv igjen om ei stund.</li>\n"
-"        <li>Viss du ikkje klarer å lasta nokre sider, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>\n"
+"        <li>Sida kan vera mellombels utilgjengeleg, eller opptatt. Prøv "
+"igjen om ei stund.</li>\n"
+"        <li>Viss du ikkje klarer å lasta nokre sider, kontroller data- "
+"eller Wi-Fi-sambandet til eininga di.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -938,14 +968,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Kontroller om det er skrivefeil i adressa, til dømes\n"
 "          <strong>ww</strong>.example.com i staden for \n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Viss du ikkje klarer å lasta nokre nettsider, kontroller data- eller Wi-Fi-sambandet til eininga di.</li>\n"
+"        <li>Viss du ikkje klarer å lasta nokre nettsider, kontroller "
+"data- eller Wi-Fi-sambandet til eininga di.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -955,13 +987,17 @@ msgstr "Adressa er ikkje gyldig"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Nettadresser skriv ein vanlegvis som <strong>http://www.example.com/</strong></li>\n"
-"  <li>Pass på at du brukar vanleg skråstrek (dvs. <strong>/</strong>).</li>\n"
+"  <li>Nettadresser skriv ein vanlegvis som "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Pass på at du brukar vanleg skråstrek (dvs. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -971,11 +1007,13 @@ msgstr "Nettsida vidaresender ikkje korrekt"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dette problemet kan av og til skuldast at infokapslar er slått av eller ved å ikkje godta infokapslar.</li>\n"
+"  <li>Dette problemet kan av og til skuldast at infokapslar er slått av "
+"eller ved å ikkje godta infokapslar.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -985,11 +1023,13 @@ msgstr "Klarte ikkje å forstå adressa"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Du må kanskje installera anna programvare for å opna denne adressa.</li>\n"
+"  <li>Du må kanskje installera anna programvare for å opna denne "
+"adressa.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -999,15 +1039,20 @@ msgstr "Trygg tilkopling feila"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dette kan vera på grunn av eit problem med serverkonfigurasjonen, eller det kan vera fordi nokon prøver å forfalska tilkoplinga til serveren.</li>\n"
-"  <li>Dersom du har klart å kopla til serveren tidlegare, kan problemet vera mellombels og du kan prøva igjen seinare.\n"
+"  <li>Dette kan vera på grunn av eit problem med serverkonfigurasjonen, "
+"eller det kan vera fordi nokon prøver å forfalska tilkoplinga til "
+"serveren.</li>\n"
+"  <li>Dersom du har klart å kopla til serveren tidlegare, kan problemet "
+"vera mellombels og du kan prøva igjen seinare.\n"
 "</li>\n"
 "</ul>"
 
@@ -1058,8 +1103,12 @@ msgstr "Opna lenke i ny fane"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Lagra og delte bilde <b>vil ikkje bli fjerna</b> når du slettar %1$s-historikken."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Lagra og delte bilde <b>vil ikkje bli fjerna</b> når du slettar "
+"%1$s-historikken."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1068,8 +1117,13 @@ msgstr "Styrk personvernet ditt"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Ta privat nettlesing til neste nivå. Blokker annonsar og anna innhald som kan spora deg på tvers av nettstadar og som kan gjera nedlasting av nettsider tregare."
+msgid ""
+"Take private browsing to the next level. Block ads and other content that"
+" can track you across sites and bog down page load times."
+msgstr ""
+"Ta privat nettlesing til neste nivå. Blokker annonsar og anna innhald som"
+" kan spora deg på tvers av nettstadar og som kan gjera nedlasting av "
+"nettsider tregare."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1078,8 +1132,12 @@ msgstr "Ditt søk på din måte"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Søkjer du etter noko anna? Vel ein annan standard-søkjemotor i Innstillingar."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"Søkjer du etter noko anna? Vel ein annan standard-søkjemotor i "
+"Innstillingar."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1090,8 +1148,12 @@ msgstr "Legg til snarvegar på startskjermen"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Gå raskt tilbake til favorittnettstadane dine i %1$s. Vel «Legg til på startskjermen» frå %1$s-menyen."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Gå raskt tilbake til favorittnettstadane dine i %1$s. Vel «Legg til på "
+"startskjermen» frå %1$s-menyen."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1102,8 +1164,12 @@ msgstr "Gjer personvern til ein vane"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Vel %1$s som standardnettleser, og få fordelane med privat nettlesing når du opnar nettsider frå andre apper."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Vel %1$s som standardnettleser, og få fordelane med privat nettlesing når"
+" du opnar nettsider frå andre apper."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1164,8 +1230,12 @@ msgstr "Privat nettlesingsøkt"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Med varsel kan du sletta økta di i %1$s med eitt klikk. Du treng ikkje å opna appen, eller å sjå kva som køyrer i nettlesaren din."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Med varsel kan du sletta økta di i %1$s med eitt klikk. Du treng ikkje å "
+"opna appen, eller å sjå kva som køyrer i nettlesaren din."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1184,15 +1254,24 @@ msgstr "Last ned Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s er fri og open kjeldekode-programvare laga av Mozilla og andre bidragsytarar."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s er fri og open kjeldekode-programvare laga av Mozilla og andre "
+"bidragsytarar."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s er gjort tilgjengeleg for deg under vilkåra i <a href=\"%2$s\">Mozilla Public License</a> og andre lisensar for open kjeldekode."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s er gjort tilgjengeleg for deg under vilkåra i <a "
+"href=\"%2$s\">Mozilla Public License</a> og andre lisensar for open "
+"kjeldekode."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1200,18 +1279,25 @@ msgstr "%1$s er gjort tilgjengeleg for deg under vilkåra i <a href=\"%2$s\">Moz
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Du får ingen rettar eller lisensar til varemerka som høyrer til Mozilla Foundation eller nokon part, inkludert Mozilla, Firefox eller %1$s namn eller logoar. Ytterlegare informasjon finn du <a "
-"href=\"%2$s\">her</a>."
+"Du får ingen rettar eller lisensar til varemerka som høyrer til Mozilla "
+"Foundation eller nokon part, inkludert Mozilla, Firefox eller %1$s namn "
+"eller logoar. Ytterlegare informasjon finn du <a href=\"%2$s\">her</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Ytterlegare kjeldekode for %1$s er tilgjengeleg under ulike andre frie og opne kjeldekode-<a href=\"%2$s\">lisensar</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Ytterlegare kjeldekode for %1$s er tilgjengeleg under ulike andre frie og"
+" opne kjeldekode-<a href=\"%2$s\">lisensar</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1219,8 +1305,14 @@ msgstr "Ytterlegare kjeldekode for %1$s er tilgjengeleg under ulike andre frie o
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s brukar òg blokklister frå Disconnect, Inc. som separate og uavhengige verk under <a href=\"%2$s\">GNU General Public License v3</a>, og er tilgjengelege <a href=\"%3$s\">her</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s brukar òg blokklister frå Disconnect, Inc. som separate og "
+"uavhengige verk under <a href=\"%2$s\">GNU General Public License v3</a>,"
+" og er tilgjengelege <a href=\"%3$s\">her</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1397,8 +1489,12 @@ msgstr "Vil du skru på søkjeforslag?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "For å få søkjeforslag treng %1$s å senda det du skriv i adressefeltet til søkjemotoren du har valt. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"For å få søkjeforslag treng %1$s å senda det du skriv i adressefeltet til"
+" søkjemotoren du har valt. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1444,7 +1540,9 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Få tilgang dei meste besøkte nettstedene med eit knapptrykk%1$s Meny > Legg til på startskjermen"
+msgstr ""
+"Få tilgang dei meste besøkte nettstedene med eit knapptrykk%1$s Meny > "
+"Legg til på startskjermen"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1486,11 +1584,21 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr "Vil du heller sjå full skrivebordsversjon?%1$s Meny > Vis skrivebordversjon"
+msgstr ""
+"Vil du heller sjå full skrivebordsversjon?%1$s Meny > Vis "
+"skrivebordversjon"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
+msgstr ""
+
+#. Tip displayed on the home view explaining how to use the Allowlist feature.
+#. "Allowlist" is a replacement for the word whitelist.
+msgctxt "tip_explain_allowlist"
+msgid ""
+"Trusted site?\n"
+" Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 
 #. Label for the snackbar when a user opens a new tab
@@ -1523,7 +1631,9 @@ msgstr ""
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
 msgstr ""
 
 #. Preference for exceptions tracking protection
@@ -1575,7 +1685,9 @@ msgstr ""
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
 msgstr ""
 
 #. Label for the button that closes the window
@@ -1594,3 +1706,4 @@ msgstr "Start %1$s på nytt"
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr ""
+
