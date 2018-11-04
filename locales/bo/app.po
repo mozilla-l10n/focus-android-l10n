@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 05:31+0000\n"
+"PO-Revision-Date: 2018-11-04 05:52+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -141,7 +141,7 @@ msgstr "རྗེས་འདེད་མཁན་བཀག་འགོག"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "འདི་གསོད་ན་དྲ་ཚིགས་འགའ་ཤས་ཀྱི་གནད་དོན་བཅོས་སྒྲིག་བྱ་སྲིད།"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -1033,7 +1033,7 @@ msgstr "སྒེར་དབང་ཆེ་རུ་གཏོང་།"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "སྒེར་རྒྱ་རིམ་པ་རྗེས་མ་འཁྱེར་བ། ཁྱབ་བསྒྲགས་དང་རྗེས་འདེད་དེ་བཞིན་དྲ་ངོས་སྣོན་འགོག་གནད་ཆས་བཀག་འགོག་བྱེད།"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1519,7 +1519,7 @@ msgstr ""
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "དགོངས་དག ང་ཚོ་རེའུ་མིག་བཟོ་རྟགས་འདི་དང་གནད་དོན་འཕྲད་སོང་།"
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
