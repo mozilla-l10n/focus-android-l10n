@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 03:01+0000\n"
+"PO-Revision-Date: 2018-11-04 03:29+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -63,7 +63,7 @@ msgstr "Mupupujtuk mutatemulis panutuk."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Ne tay titajtachiatuya mupupujtuk."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -150,7 +150,7 @@ msgstr "Su tiksewia yaja weli kiekchiwa sejse uijkayu"
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "Shiktentzakwa ne tay nemi kalijtik"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
@@ -1350,7 +1350,7 @@ msgstr ""
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "Yankwik Sesion"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1539,7 +1539,7 @@ msgstr "Shikishti muchi ne sitioj ipal ne matapan"
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "Ne pestañaj kunaktuk nemi"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
@@ -1554,7 +1554,7 @@ msgstr ""
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Shiktapu ne pestañaj"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
@@ -1583,4 +1583,4 @@ msgstr "Shiktzinti uksenpa %1$s"
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Shikilwi Mozilla ka mukunakak"
