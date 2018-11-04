@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 09:09+0000\n"
+"PO-Revision-Date: 2018-11-04 09:30+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -548,7 +548,7 @@ msgstr "མཛུབ་ཐེལ་བེད་སྤྱོད་བྱས་ཏ
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "གལ་ཏེ་URLསྔོན་ནས་མཉེན་ཆས་ཀྱིས་ཁ་ཕྱེ་ཡོད་ཚེ་མཛུབ་ཐེལ་བེད་སྤྱོད་དེ་%1$sཁ་འབྱེད། གསངས་ཐབས་སྤྱོད་འགོ་རྩོམ་ཡོང་།"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -665,18 +665,18 @@ msgstr "སྤོ་འབུད།"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "བརྙན་ཡོལ་གཙོ་བའི་ཐབས་མཆོག་འཆར།"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr " འཚོལ་བཤེར་དྲ་ངོས་སྣོན།"
+msgstr "འཚོལ་བཤེར་དྲ་ངོས་སྣོན།"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr " འཚོལ་བཤེར་དྲ་བའི་མིང་།"
+msgstr "འཚོལ་བཤེར་དྲ་བའི་མིང་།"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -986,7 +986,7 @@ msgstr "ང་ཚོས་མ་རྟོགས་པའི་གནད་དོ
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "མཉེན་ཆས་ཐོག་ཁ་འབྱེད།"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1067,7 +1067,7 @@ msgstr "གསང་དོན་ཁྱོད་ཀྱི་གོམས་གཤ
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s སྔོན་སྒྲིག་བཤར་ཆས་སུ་བཀོད་དེ་གསང་རྒྱ་ཡི་ཁེ་ཕན་ཡོད་ཚད་དྲ་ཚིགས་མཉེན་ཆས་གཞན་ནས་ཁ་འབྱེད་སྐབས་ལེན་པ།"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
