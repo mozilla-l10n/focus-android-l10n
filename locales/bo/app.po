@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 05:10+0000\n"
+"PO-Revision-Date: 2018-11-04 05:31+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -217,7 +217,7 @@ msgstr "སུབ་པ་དང་ཁ་འབྱེད་པ།"
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "སུབ་ནས་%1$sཁ་འབྱེད་པ།"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -891,15 +891,15 @@ msgstr "ཕབ་ལེན།"
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "དྲ་ངོས་སྣོན་འཇུག་གནད་དོན་འཕྲད་སོང་།"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr " བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།"
+msgstr "བསྐྱར་དུ་ཚོད་ལྟ་བྱོས།"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "སྦྲེལ་མི་ཐུབ་པ།"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -911,11 +911,11 @@ msgstr ""
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "འབྲེལ་མཐུད་དུས་ཚོད་ཡོལ་བ།"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "ཞབས་ཞུ་འཕྲུལ་ཆས་མ་རྙེད།"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -977,11 +977,11 @@ msgstr ""
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "ཨ་ཁ་ཁ།"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "ང་ཚོས་མ་རྟོགས་པའི་གནད་དོན་ཞིག་གིས་དྲ་ངོས་སྣོན་འཇུག་མ་ཐུབ།"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
