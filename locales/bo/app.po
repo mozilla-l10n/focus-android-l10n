@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 07:49+0000\n"
+"PO-Revision-Date: 2018-11-04 08:11+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -1105,7 +1105,7 @@ msgstr "འདོར་བ།"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "མྱུར་ལམ་གྱིས་ཁ་འབྱེད་ཚེ་རྗེས་འདེད་སྲུང་སྐྱོབ་མི་སྤྱོད།"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1269,7 +1269,7 @@ msgstr ""
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "དབང་སྤྲོད་དགོས་པ།"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
@@ -1296,7 +1296,7 @@ msgstr "དྲ་ཚིཊ་ཁ་བྱང་བཤུས་ཟིན།"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "གསར་སྤེལ་ལག་ཆ།"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1326,7 +1326,7 @@ msgstr "མཛུབ་ཐེལ་ཚོར་ཤེས་ལ་ཐུག་ན
 #. previous session is cleared, and authentication is not required.
 msgctxt "biometric_auth_new_session"
 msgid "New Session"
-msgstr ""
+msgstr "གླིང་མོལ་གསར་པ།"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1541,7 +1541,7 @@ msgstr "དགོངས་དག %1$s ལ་གནད་དོན་འདུག
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "སྒེར་གྱི་བཤར་ཆས་ཡིན་པས་ང་ཚོས་ནམ་ཡང་ཁྱེད་ཀྱི་གླིང་མོལ་ཉར་གསོག་དང་སོར་ཆུད་མི་བྱེད།"
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
