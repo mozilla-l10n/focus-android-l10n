@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 08:23+0000\n"
+"PO-Revision-Date: 2018-11-04 08:47+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -345,7 +345,7 @@ msgstr "URL རང་སྒྲུབ།"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "དྲ་ཚིགས་གཙུག་ཕོད་ཆེད་དུ།"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
@@ -746,7 +746,7 @@ msgstr ""
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "བདེ་འཇགས་འབྲེལ་བཐུད།"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -764,13 +764,13 @@ msgstr "དྲ་ཚིགས་འཇུག་ཟིན།"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "གདམ་ཚན་དེ་བས་མང་།"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "གདམ་ཚན་མཐེབ་བཅུས་དེ་བས་མང་།"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -963,7 +963,7 @@ msgstr ""
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "བདེ་འཇགས་འབྲེལ་བཐུད་བ་ཐུབ།"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
