@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 03:49+0000\n"
+"PO-Revision-Date: 2018-11-04 04:08+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -86,7 +86,7 @@ msgstr "དྲ་ཚིགས་གནད་དོན་སྙན་སེང་
 #, c-format
 msgctxt "menu_open_with_default_browser2"
 msgid "Open in %1$s"
-msgstr "ཁ་ཕྱེ་ཡུལ་%1$s"
+msgstr "ཁ་འབྱེད་ཡུལ་ %1$s"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. This menu item       will be shown if there are multiple browsers and we do
@@ -96,7 +96,7 @@ msgstr "ཁ་ཕྱེ་ཡུལ་%1$s"
 #. from.
 msgctxt "menu_open_with_a_browser2"
 msgid "Open in…"
-msgstr "ཁ་ཕྱེ་ཡུལ་་་་"
+msgstr "ཁ་འབྱེད་ཡུལ་་་་"
 
 #. Menu item: Add the current page as a shortcut to the device's home screen
 #. (launcher).
@@ -194,7 +194,7 @@ msgstr "འདོར་སུབ་དང་འཆར་བ།"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_short_label"
 msgid "Erase"
-msgstr "འདོར་སུབ།"
+msgstr "སུབ་པ།"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -339,7 +339,7 @@ msgstr "སྤྱོད་མཚམས་འཇོག"
 #. URL autocomplete behavior.
 msgctxt "preference_subitem_autocomplete"
 msgid "URL Autocomplete"
-msgstr "དྲ་ཚིཊ་ཁ་བྱང་རང་གྲུབ།"
+msgstr "URL རང་སྒྲུབ།"
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. default list
@@ -366,7 +366,7 @@ msgstr ""
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "དྲ་ཚིགས་དོ་དམ།"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
@@ -409,7 +409,7 @@ msgstr "གནས་ཚུལ་འདམ་ག།"
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
 msgid "Remove custom URLs"
-msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སུབ།"
+msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སྤོ་འབུད།"
 
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
@@ -452,13 +452,13 @@ msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་གསར
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
 msgid "Remove"
-msgstr "སུབ།"
+msgstr "སྤོ་འབུད།"
 
 #. Content description (not visible, for screen readers etc.): Button that
 #. will delete all selected custom autocomplete URLs.
 msgctxt "preference_autocomplete_action_remove_content_description"
 msgid "Remove"
-msgstr "སུབ།"
+msgstr "སྤོ་འབུད།"
 
 #. Error message shown if the entered custom autocomplete URL is not valid or
 #. empty.
@@ -655,11 +655,11 @@ msgstr "+ འཚོལ་བཤེར་དྲ་ངོས་གཞན་སྣ�
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "འཚོལ་བཤེར་སུབ།"
+msgstr "འཚོལ་བཤེར་སྤོ་འབུད།།"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
-msgstr "སུབ།"
+msgstr "སྤོ་འབུད།"
 
 #. Title: Homescreen tips settings toggle to determine whether or not tips are
 #. displayed when      a user first launches the app.
@@ -684,7 +684,7 @@ msgstr ""
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr "ཉར་ཚགས།"
+msgstr "ཉར་གསོག"
 
 #. Example of search engine url
 #, c-format, python-format
@@ -1011,7 +1011,7 @@ msgstr "པར་གྱི་ཁ་བྱང་ཉར།"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr "པར་ཉར།"
+msgstr "པར་ཉར་གསོག"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
@@ -1502,12 +1502,12 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr "སུབ།"
+msgstr "སྤོ་འབུད།"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr "དྲ་ཚིགས་ཆ་ཚང་སུབ།"
+msgstr "དྲ་ཚིགས་ཆ་ཚང་སྤོ་འབུད།།"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
