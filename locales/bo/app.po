@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 08:47+0000\n"
+"PO-Revision-Date: 2018-11-04 09:09+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -539,7 +539,7 @@ msgstr "འགྲིག"
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr "མཛུབ་ཐེལ་བེད་སྤྱོད་བྱས་ཏེ་མཉེན་ཆས་ཁ་ཕྱེས།"
+msgstr "མཛུབ་ཐེལ་བེད་སྤྱོད་བྱས་ཏེ་མཉེན་ཆས་ཁ་འབྱེད།"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -776,7 +776,7 @@ msgstr "གདམ་ཚན་མཐེབ་བཅུས་དེ་བས་མ
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "མདུན་ཕྱོགས་སྒྱུར།"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
@@ -788,7 +788,7 @@ msgstr "དྲ་ཚིགས་བསྐྱར་འཇུག"
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "རྒྱབ་ཕྱོགས་སྒྱུར།"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
@@ -1048,7 +1048,7 @@ msgstr "འཚོལ་བྱའི་ནང་དོན་གཞན་དག་
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "མྱུར་ལམ་བརྙན་ཡོལ་གཙོ་བོ་ཐོག་འཇོག"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
