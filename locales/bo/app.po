@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 03:31+0000\n"
+"PO-Revision-Date: 2018-11-04 03:49+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -394,7 +394,7 @@ msgstr "རང་བཅོས་དྲ་ཚིཊ་ཁ་བྱང་སྣོ
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "སྦྲེལ་མཐུད་རང་སྒྲུབ་ལ་སྣོན་པ།"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -996,7 +996,7 @@ msgstr "སྦྲེལ་མཐུད་མཉམ་སྤྱོད།"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "སྦྲེལ་མཐུད་གནས་ཡུལ་མཁོ་ཕབ་བྱེད།"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -1284,7 +1284,7 @@ msgstr "གསང་གྲངས།"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr "གློག་ཀླད་དྲ་ངོས་རེ་སྐུལ་བྱེད་པ།"
+msgstr "ཅོག་ངོས་དྲ་ཚིགས་རེ་ཞུ་བྱེད།"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
@@ -1441,7 +1441,7 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr "དྲ་ངོས་གང་ག་གཟིགས་འདོད་དམ། %1$s  དཀར་ཆག་ > གློག་ཀླད་དྲ་ངོས་རེ་སྐུལ་བྱེད་པ།"
+msgstr "དྲ་ངོས་གང་ག་གཟིགས་འདོད་དམ། %1$s  དཀར་ཆག་ > ཅོག་ངོས་དྲ་ཚིགས་རེ་ཞུ་བྱེད།"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
@@ -1551,7 +1551,7 @@ msgstr "ཁ་རྒྱག"
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s བསྐྱར་སློང་བྱེད།"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
