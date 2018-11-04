@@ -2,27 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-09-02 14:58+0000\n"
+"PO-Revision-Date: 2018-11-04 14:50+0000\n"
 "Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
-"Language: ru\n"
 "Language-Team: ru <LL@li.org>\n"
-"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (((n % 10) >= 2 && (n %"
-" 10) <= 4))) && (!(((n % 100) >= 12 && (n % 100) <= 14)))) ? 1 : (((((0 "
-"== 0)) && (((n % 10) == 0))) || (((0 == 0)) && (((n % 10) >= 5 && (n % "
-"10) <= 9)))) || (((0 == 0)) && (((n % 100) >= 11 && (n % 100) <= 14)))) ?"
-" 2 : ((((0 == 0)) && (((n % 10) == 1))) && (!(((n % 100) == 11)))) ? 0 : "
-"3)\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -66,7 +62,7 @@ msgstr "Ваша история посещения сайтов была стё�
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "История просмотров вкладки была стёрта."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -147,18 +143,18 @@ msgstr "Трекеров заблокировано"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "Отключение этой функции может решить некоторые проблемы с сайтом"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "Блокировка содержимого"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Отключить для решения проблем с некоторыми сайтами"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -214,7 +210,7 @@ msgstr "Удалить историю веб-сёрфинга"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "Стереть и открыть"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -223,7 +219,7 @@ msgstr ""
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "Стереть и открыть %1$s"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -241,26 +237,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s даёт вам контроль.</p>\n"
 "<p>Используйте его как приватный браузер:\n"
 "  <ul>\n"
 "    <li>Ищите и занимайтесь веб-сёрфингом</li>\n"
-"    <li>Блокируйте трекеры (или измените настройки, чтобы разрешить "
-"их)</li>\n"
-"    <li>Стирайте и удаляйте куки, а также историю поиска и просмотра</li>"
-"\n"
+"    <li>Блокируйте трекеры (или измените настройки, чтобы разрешить их)</li>\n"
+"    <li>Стирайте и удаляйте куки, а также историю поиска и просмотра</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s создан Mozilla. Наша миссия — способствовать здоровому, открытому"
-" Интернету.<br/>\n"
+"<p>%1$s создан Mozilla. Наша миссия — способствовать здоровому, открытому Интернету.<br/>\n"
 "<a href=\"%2$s\">Узнать больше</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -313,7 +304,7 @@ msgstr "Основные"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Браузер по умолчанию, вкладки, язык"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -334,9 +325,7 @@ msgstr "Получать поисковые предложения"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
-"%1$s будет отправлять поисковой системе текст, который вы вводите в "
-"адресной строке"
+msgstr "%1$s будет отправлять поисковой системе текст, который вы вводите в адресной строке"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -346,7 +335,7 @@ msgstr "По умолчанию"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "Поисковая система"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -368,34 +357,34 @@ msgstr "URL-адрес автодополнения"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "Для топа сайтов"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Включить автодополнение для более чем 450 популярных сайтов в адресной строке."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Для добавленных вами сайтов"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Включить автодополнение для более чем 450 популярных сайтов в адресной строке."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Управление сайтами"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Управление сайтами"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -417,7 +406,7 @@ msgstr "Добавить пользовательский URL"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Добавить ссылку для автодополнения"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -509,9 +498,7 @@ msgstr "Блокировать трекеры рекламы"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr ""
-"Некоторая реклама отслеживает посещения сайтов, даже если вы на неё не "
-"нажимали"
+msgstr "Некоторая реклама отслеживает посещения сайтов, даже если вы на неё не нажимали"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -519,21 +506,15 @@ msgstr "Блокировать трекеры аналитики"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr ""
-"Используются для сбора, анализа и измерения активности, например, нажатий"
-" и скроллинга"
+msgstr "Используются для сбора, анализа и измерения активности, например, нажатий и скроллинга"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Блокировать социальные трекеры"
 
 msgctxt "preference_privacy_block_social_summary"
-msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr ""
-"Вставляются на сайты, чтобы отслеживать ваши посещения и внедрять "
-"дополнительную функциональность, например, кнопку «Поделиться»"
+msgid "Embedded on sites to track your visits and to display functionality like share buttons"
+msgstr "Вставляются на сайты, чтобы отслеживать ваши посещения и внедрять дополнительную функциональность, например, кнопку «Поделиться»"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -541,9 +522,7 @@ msgstr "Блокировать другие трекеры содержимог�
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr ""
-"Включение этой функции может вызвать непредсказуемое поведение некоторых "
-"страниц"
+msgstr "Включение этой функции может вызвать непредсказуемое поведение некоторых страниц"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -558,7 +537,7 @@ msgstr "Нет"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Не принимать только куки от сторонних трекеров"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -580,12 +559,8 @@ msgstr "Использовать отпечатки пальцев для раз
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
-"Ваш отпечаток сможет разблокировать %1$s, если ссылка уже открыта в "
-"приложении. Режим «Невидимка» будет включён."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Ваш отпечаток сможет разблокировать %1$s, если ссылка уже открыта в приложении. Режим «Невидимка» будет включён."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -601,9 +576,7 @@ msgstr "Невидимка"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr ""
-"Скрывать веб-страницы при переключении приложений и блокировать создание "
-"скриншотов."
+msgstr "Скрывать веб-страницы при переключении приложений и блокировать создание скриншотов."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -660,12 +633,8 @@ msgstr "Подробнее"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla обязуется собирать только ту информацию, которая необходима для "
-"работы %1$s и его улучшения в будущем."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla обязуется собирать только ту информацию, которая необходима для работы %1$s и его улучшения в будущем."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -812,7 +781,7 @@ msgstr "Дополнительно"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Кнопка дополнительных настроек"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -887,12 +856,8 @@ msgstr "Найдите приложение, которое может откр�
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы"
-" можете выйти из %1$s для поиска подходящего приложения в %2$s."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Ни одно из приложений на вашем устройстве не может открыть эту ссылку. Вы можете выйти из %1$s для поиска подходящего приложения в %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -950,17 +915,13 @@ msgstr "Не удалось подключиться"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Возможно, сайт временно недоступен или перегружен запросами. "
-"Подождите некоторое время и попробуйте снова.</li>\n"
-"        <li>Если ни одна страница не загружается, проверьте соединение "
-"вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
+"        <li>Возможно, сайт временно недоступен или перегружен запросами. Подождите некоторое время и попробуйте снова.</li>\n"
+"        <li>Если ни одна страница не загружается, проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -977,17 +938,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Проверьте, не допущена ли ошибка при наборе адреса, например,"
-"\n"
+"        <li>Проверьте, не допущена ли ошибка при наборе адреса, например,\n"
 "          <strong>ww</strong>.test.ru вместо\n"
 "          <strong>www</strong>.test.ru</li>\n"
-"        <li>Если ни одна страница не загружается, проверьте соединение "
-"вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
+"        <li>Если ни одна страница не загружается, проверьте соединение вашего устройства с мобильной или Wi-Fi сетью.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -997,17 +955,13 @@ msgstr "Формат адреса неверен"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Адреса веб-сайтов обычно записываются в формате "
-"<strong>http://www.test.ru/</strong></li>\n"
-"  <li>Убедитесь, что вы используете слеши (например, "
-"<strong>/</strong>).</li>\n"
+"  <li>Адреса веб-сайтов обычно записываются в формате <strong>http://www.test.ru/</strong></li>\n"
+"  <li>Убедитесь, что вы используете слеши (например, <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1017,13 +971,11 @@ msgstr "Циклическое перенаправление на страни�
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Эта проблема может быть вызвана отключением или запретом принимать "
-"куки.</li>\n"
+"  <li>Эта проблема может быть вызвана отключением или запретом принимать куки.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1033,13 +985,11 @@ msgstr "Неизвестный тип адреса"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Для открытия данного адреса вам, возможно, понадобится установить "
-"стороннее программное обеспечение.</li>\n"
+"  <li>Для открытия данного адреса вам, возможно, понадобится установить стороннее программное обеспечение.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -1049,19 +999,15 @@ msgstr "Не удалось установить защищённое соеди
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Это может быть проблемой с конфигурацией сервера или же кто-то "
-"пытается подменить нужный вам сервер другим.</li>\n"
-"  <li>Если в прошлом вы успешно соединялись с этим сервером, то, "
-"возможно, эта ошибка является временной. Попробуйте зайти позже.</li>\n"
+"  <li>Это может быть проблемой с конфигурацией сервера или же кто-то пытается подменить нужный вам сервер другим.</li>\n"
+"  <li>Если в прошлом вы успешно соединялись с этим сервером, то, возможно, эта ошибка является временной. Попробуйте зайти позже.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1075,7 +1021,7 @@ msgstr "Мы почему-то не можем загрузить эту стр�
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Открыть в приложении"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1111,12 +1057,8 @@ msgstr "Открыть ссылку в новой вкладке"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Сохранённые и отправленные фотографии <b>не будут удалены</b>, когда вы "
-"сотрёте историю %1$s."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Сохранённые и отправленные фотографии <b>не будут удалены</b>, когда вы сотрёте историю %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1125,13 +1067,8 @@ msgstr "Усильте свою приватность"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
-msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
-msgstr ""
-"Поднимите приватный просмотр на новый уровень. Блокируйте рекламу и "
-"другое содержимое, которое может отслеживать вас и замедлять загрузку "
-"страниц."
+msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
+msgstr "Поднимите приватный просмотр на новый уровень. Блокируйте рекламу и другое содержимое, которое может отслеживать вас и замедлять загрузку страниц."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1140,12 +1077,8 @@ msgstr "Ваш поиск, Ваш Интернет"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
-msgstr ""
-"Искали что-то другое? Выберите другую поисковую систему по умолчанию в "
-"настройках."
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr "Искали что-то другое? Выберите другую поисковую систему по умолчанию в настройках."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1156,12 +1089,8 @@ msgstr "Добавьте ярлыки на домашний экран"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"С %1$s вы сможете быстро вернуться к любимым сайтам. Просто выберите "
-"«Добавить на домашний экран» из меню %1$s."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "С %1$s вы сможете быстро вернуться к любимым сайтам. Просто выберите «Добавить на домашний экран» из меню %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1172,13 +1101,8 @@ msgstr "Сделайте приватность своей привычкой"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Установите %1$s своим браузером по умолчанию и получите преимущества "
-"приватного веб-сёрфинга, когда вы открываете веб-страницы из других "
-"приложений."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Установите %1$s своим браузером по умолчанию и получите преимущества приватного веб-сёрфинга, когда вы открываете веб-страницы из других приложений."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1239,12 +1163,8 @@ msgstr "Приватная сессия"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Уведомления позволяют стереть вашу сессию в %1$s одним касанием. Вам не "
-"нужно открывать приложение или видеть, что запущено в вашем браузере."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Уведомления позволяют стереть вашу сессию в %1$s одним касанием. Вам не нужно открывать приложение или видеть, что запущено в вашем браузере."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1263,23 +1183,15 @@ msgstr "Загрузить Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s является бесплатной программой с открытым исходным кодом, созданной "
-"Mozilla и другими участниками."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s является бесплатной программой с открытым исходным кодом, созданной Mozilla и другими участниками."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s предоставляется вам на условиях <a href=\"%2$s\">Mozilla Public "
-"License</a> и других лицензий для открытого исходного кода."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s предоставляется вам на условиях <a href=\"%2$s\">Mozilla Public License</a> и других лицензий для открытого исходного кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1287,27 +1199,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Вы не получаете никаких прав или лицензий на товарные знаки Mozilla "
-"Foundation или любой из сторон, включая имена или логотипы Mozilla, "
-"Firefox или %1$s. Дополнительную информацию можно найти <a "
+"Вы не получаете никаких прав или лицензий на товарные знаки Mozilla Foundation или любой из сторон, включая имена или логотипы Mozilla, Firefox или %1$s. Дополнительную информацию можно найти <a "
 "href=\"%2$s\">здесь</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Дополнительный исходный код для %1$s доступен на условиях различных "
-"других <a href=\"%2$s\">лицензий</a> для бесплатного и открытого "
-"исходного кода."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Дополнительный исходный код для %1$s доступен на условиях различных других <a href=\"%2$s\">лицензий</a> для бесплатного и открытого исходного кода."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1315,14 +1218,9 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s также использует списки блокировки, предоставленные Disconnect, Inc."
-" как отдельные и независимые произведения на условиях <a "
-"href=\"%2$s\">GNU General Public License v3</a> и доступные <a "
+"%1$s также использует списки блокировки, предоставленные Disconnect, Inc. как отдельные и независимые произведения на условиях <a href=\"%2$s\">GNU General Public License v3</a> и доступные <a "
 "href=\"%3$s\">здесь</a>."
 
 #. Text shown in prompts for GeckoView
@@ -1500,12 +1398,8 @@ msgstr "Вы хотите включить поисковые предложен
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
-"Для получения поисковых предложений, %1$s необходимо отправлять то, что "
-"вы вводите в адресной строке, в вашу поисковую систему. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Для получения поисковых предложений, %1$s необходимо отправлять то, что вы вводите в адресной строке, в вашу поисковую систему. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1551,9 +1445,7 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Получайте доступ к нужным сайтам в одно касание%1$s Меню > Добавить на "
-"домашний экран"
+msgstr "Получайте доступ к нужным сайтам в одно касание%1$s Меню > Добавить на домашний экран"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1600,7 +1492,7 @@ msgstr "Хотите увидеть полную версию сайта?%1$s М
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Отключить советы на домашнем экране"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1609,110 +1501,107 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Надежный сайт?\n"
+" Список разрешений отключает Защиту от отслеживания для сайтов, которые вы знаете и которым доверяете."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "Открыта новая вкладка"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Перейти"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Сразу переходить на новую вкладку"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Безопасный веб-сёрфинг"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Блокировать потенциально опасные и обманывающие сайты"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
-msgstr ""
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
+msgstr "Блокировать известные обманывающие и вредоносные сайты, заражённые сайты и сайты с нежелательным ПО."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Исключения"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Вы отключили блокировку содержимого для этих веб-сайтов."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Удалить все веб-сайты"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "Вкладка упала"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Извините. С этой вкладкой возникли проблемы."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Как приватный браузер, мы никогда не сохраняем и не можем восстановить эту вкладку."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Закрыть вкладку"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Извините. %1$s столкнулся с проблемой и аварийно завершил работу."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
-msgstr ""
+msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgstr "Как приватный браузер, мы никогда не сохраняем и не можем восстановить вашу последнюю сессию."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Перезапустить %1$s"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
-
+msgstr "Отправить сообщение о падении в Mozilla"
