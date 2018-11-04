@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 04:08+0000\n"
+"PO-Revision-Date: 2018-11-04 04:21+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -147,7 +147,7 @@ msgstr ""
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "ནང་དོན་འགོག་པ།"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
@@ -292,7 +292,7 @@ msgstr "སྤྱི་བཀོལ།"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "སྔོན་སྒྲིག་བཤར་ཆས། རེའུ་མིག་བཟོ་རྟགས། སྐད་ཡིག"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -602,7 +602,7 @@ msgstr "དྲ་ངོས་རྒྱབ་སྣོན་མགྱོགས་
 #, c-format
 msgctxt "preference_default_browser2"
 msgid "Make %1$s default browser"
-msgstr " %1$s རྩ་བའི་བཤར་བཆས་སུ་བསྐོས།"
+msgstr " %1$s སྔོན་སྒྲིག་བཤར་ཆས་སུ་བཀོད་པ།"
 
 msgctxt "preference_category_mozilla"
 msgid "Mozilla"
