@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 02:49+0000\n"
+"PO-Revision-Date: 2018-11-04 03:01+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -944,6 +944,12 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Shikpepeta ne dirección pal tikita su nemi ejerror kenha ken\n"
+"          <strong>ww</strong>.example.com ipatka\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>Su tesu tiweli tikimiltia nian se sitioj, shikpepeta ne dajdatoj ipal mutanutzalis ush su ne Wi-Fi salujtuk nemi.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -1004,7 +1010,7 @@ msgstr "Anka se te kiajkawa mutemiltia ini iswat."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Shiktapu iwan ne aplicación"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1485,7 +1491,7 @@ msgstr ""
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Shikpata"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
@@ -1523,7 +1529,7 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Shikishti"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
@@ -1565,14 +1571,14 @@ msgstr ""
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Shiktzakwa"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Shiktzinti uksenpa %1$s"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
