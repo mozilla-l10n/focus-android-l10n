@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 08:11+0000\n"
+"PO-Revision-Date: 2018-11-04 08:23+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -54,13 +54,13 @@ msgstr "རང་འགུལ་སྒེར་དོན་གསང་རྒྱ
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "འཚོལ་རབས་འདོར་བསུབས་བྱས་ཟིན།"
+msgstr "ཁྱེད་ཀྱི་འཚོལ་རབས་འདོར་བསུབས་བྱས་ཟིན།"
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "རེའུ་མིག་བཟོ་རྟགས་ཀྱི་འཚོལ་རབས་འདོར་བསུབས་བྱས་ཟིན།"
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -1457,6 +1457,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"ཡིད་རྟོན་དྲ་ཚིགས་ཡིན་ནམ།\n"
+" ཆོག་ཐོ་ཡིས་དྲ་ཚིགས་རྗེས་འདེད་སྲུང་སྐྱོབ་དང་ཡིད་རྟོན་མི་སྤྱོད།"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
