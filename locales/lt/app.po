@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 16:31+0000\n"
+"PO-Revision-Date: 2018-11-04 16:34+0000\n"
 "Last-Translator: Paulius <paulius@mozilla.lt>\n"
 "Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
@@ -1582,26 +1582,26 @@ msgstr "Užverti kortelę"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Atsiprašome. „%1$s“ susidūrė su problema ir užstrigo."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Kaip privačioji naršyklė, mes nesaugome ir negalime atkurti paskutinio naršymo seanso."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Užverti"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Paleisti „%1$s“ iš naujo"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Pranešti apie strigtį „Mozillai“"
