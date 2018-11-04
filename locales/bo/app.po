@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 04:21+0000\n"
+"PO-Revision-Date: 2018-11-04 04:47+0000\n"
 "Last-Translator: Lobsang <iamlobsangtsering@gmail.com>\n"
 "Language-Team: bo <LL@li.org>\n"
 "Language: bo\n"
@@ -245,7 +245,7 @@ msgstr ""
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
 msgid "Privacy & Security"
-msgstr "སྒེར་དབང་དང་ཉེན་སྲུང་།"
+msgstr "གསང་དོན་དང་བདེ་འཇགས།"
 
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
@@ -318,7 +318,7 @@ msgstr "%1$s ཡིས་ཁྱེད་འཇུག་པའི་འཚོལ�
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr "རྩ་བ།"
+msgstr "སྔོན་སྒྲིག"
 
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
@@ -474,11 +474,11 @@ msgstr "སྐད་ཡིག"
 #. Focus          is using the system default language.
 msgctxt "preference_language_systemdefault"
 msgid "System default"
-msgstr "ཐོག་མའི་མ་ལག་སྐད་ཡིག་"
+msgstr "རྒྱུད་ཁོངས་སྔོན་སྒྲིག"
 
 msgctxt "preference_category_privacy"
 msgid "Privacy"
-msgstr "སྒེར་དབང་།"
+msgstr "གསང་དོན།"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
@@ -628,7 +628,7 @@ msgstr ""
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
 msgid "Privacy Notice"
-msgstr "སྒོར་དབང་གསལ་བརྡ།"
+msgstr "གསང་དོན་གསལ་བརྡ།"
 
 #. Item in Preferences that shows the about page. Parameter 1 is the app name,
 #. i.e. Firefox Focus/Firefox Klar.
@@ -645,7 +645,7 @@ msgstr "འཚོལ་བཤེར་སྒྲིག་འཇུག"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "རྩ་བའི་འཚོལ་བཤེར་དྲ་ངོས་བསྐྱར་གསོ་བྱོས།"
+msgstr "སྔོན་སྒྲིག་འཚོལ་བཤེར་རང་ལོག"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
@@ -1060,7 +1060,7 @@ msgstr ""
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr "སྒེར་དབང་ཁྱོད་ཀྱི་གོམས་གཤིས་བཟོས།"
+msgstr "གསང་དོན་ཁྱོད་ཀྱི་གོམས་གཤིས་བཟོས།"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
