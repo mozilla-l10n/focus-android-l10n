@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-05 06:51+0000\n"
+"PO-Revision-Date: 2018-11-05 06:54+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -1467,6 +1467,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"আপনার সবচে বেশী ব্যবহৃত স্বয়ংপূরণ URLs\n"
+" অ্যাড্রেস বারে যেকোনো URL লং-প্রেস করুন"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1476,14 +1478,15 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"একটি নতুন ট্যাব একটি লিঙ্ক খুলুন\n"
+" কোন পেজে কোন লিংক লং-প্রেস করুন"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "এর বদলে সম্পূর্ণ ডেস্কটপ সাইট দেখবেন?%1$s মেনু > ডেস্কটপ সাইট অনুরোধ করুন"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
