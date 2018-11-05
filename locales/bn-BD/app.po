@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-05 06:10+0000\n"
+"PO-Revision-Date: 2018-11-05 06:19+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -1389,7 +1389,7 @@ msgstr "আঙ্গুল খুব দ্রুত সরে গেছে। �
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "আপনি কি অনুসন্ধান পরামর্শ সক্রিয় করতে চান?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1398,29 +1398,29 @@ msgstr ""
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
+msgstr "অনুসন্ধানের পরামর্শ পেতে হলে, %1$s আপনি অ্যাড্রেস বারে যা টাইপ করেন সেটি আপনার বাছাইকৃত অনুসন্ধান ইঞ্জিনের নিকট পাঠাতে হবে। %2$s।"
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
 msgctxt "enable_search_suggestion_subtitle_learnmore"
 msgid "Learn more"
-msgstr ""
+msgstr "আরও জানুন"
 
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "না"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
 msgid "Yes"
-msgstr ""
+msgstr "হ্যাঁ"
 
 #. Message displayed when using a search engine that doesn't provide
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr ""
+msgstr "কিছু সার্চ ইঞ্জিন পরামর্শ প্রদর্শন করতে পারবে না।"
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1437,6 +1437,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"সাইট অপ্রত্যাশিত আচরণ করছে?\n"
+" ট্র্যাকিং সুরক্ষা বন্ধ করে দেখুন"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
