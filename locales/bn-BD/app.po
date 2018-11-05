@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-05 22:45+0000\n"
+"PO-Revision-Date: 2018-11-05 23:02+0000\n"
 "Last-Translator: S M Sarwar Nobin <smsarwar1996@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -574,10 +574,9 @@ msgstr "অদৃশ্য"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "অ্যাপ বদলের সময় ওয়েবপেইজ আড়াল কর"
+msgstr "অ্যাপ্লিকেশন পরিবর্তনের সময় ওয়েব পেজ লুকান এবং স্ক্রিনশট গ্রহণ ব্লক করুন।"
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -1500,6 +1499,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"বিশ্বস্ত সাইট?\n"
+" Allowlist আপনার পরিচিত এবং বিশ্বাসযোগ্য সাইটের জন্য ট্র্যাকিং সুরক্ষা অক্ষম করে।"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1514,91 +1515,91 @@ msgstr "পরিবর্তন"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "অবিলম্বে নতুন ট্যাব লিঙ্ক স্যুইচ করুন"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "নিরাপদ ব্রাউজিং"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "সম্ভাব্য বিপজ্জনক এবং প্রতারণামূলক সাইট ব্লক করুন"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "প্রতারণামূলক এবং আক্রমণ সাইট, ম্যালওয়্যার সাইট, এবং অবাঞ্ছিত সফ্টওয়্যারের সাইট ব্লক করুন।"
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "ব্যতিক্রম"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "আপনি এই ওয়েবসাইটগুলির জন্য সামগ্রী অবরোধ নিষ্ক্রিয় করেছেন।"
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "অপসারণ করুন"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "সব ওয়েবসাইট অপসারণ করুন"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "ট্যাব ক্র্যাশ হয়েছে"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "দুঃখিত। আমদের এই ট্যাবের সাথে একটি সমস্যা হচ্ছে।"
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "ব্যক্তিগত ব্রাউজার হিসাবে, আমরা কখনও সংরক্ষণ এবং এই ট্যাব পুনরুদ্ধার করতে পারব না।"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "ট্যাব বন্ধ করুন"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "দুঃখিত। %1$s সমস্যা ছিল এবং ক্র্যাশ হয়েছে।"
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "ব্যক্তিগত ব্রাউজার হিসাবে, আমরা কখনও আপনার শেষ ব্রাউজিং সেশন সংরক্ষণ করি না এবং আপনি এটি পুনরুদ্ধারও করতে পারবেন না।"
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "বন্ধ করুন"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s পুনরায় শুরু করুন"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Mozilla কে ক্র্যাশ রিপোর্ট পাঠান"
