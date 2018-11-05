@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-05 09:11+0000\n"
+"PO-Revision-Date: 2018-11-05 09:20+0000\n"
 "Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
 "Language-Team: hu <LL@li.org>\n"
 "Language: hu\n"
@@ -357,23 +357,23 @@ msgstr "Automatikus URL kiegészítés"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "Leggyakrabban felkeresett oldalak esetén"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Automatikus kiegészítés engedélyezése a címsávban több mint 450 népszerű URL esetén."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Hozzáadott oldalak esetén"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Automatikus kiegészítés engedélyezése a címsávban több mint 450 népszerű URL esetén."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -1566,7 +1566,7 @@ msgstr "Sajnálom. Probléma van ezzel a lapon."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Privát böngészőként sosem mentjük el, és visszaállítani sem tudjuk ezt a lapot."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1583,7 +1583,7 @@ msgstr "Sajnáljuk. A %1$s problémába ütközött és összeomlott."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Privát böngészőként sosem mentjük el, és visszaállítani sem tudjuk a legutóbbi böngészési munkamenetet."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
