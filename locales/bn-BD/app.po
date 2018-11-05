@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-05 05:46+0000\n"
+"PO-Revision-Date: 2018-11-05 06:10+0000\n"
 "Last-Translator: Mahay Alam Khan <mahayalamkhan@gmail.com>\n"
 "Language-Team: bn_BD <LL@li.org>\n"
 "Language: bn_BD\n"
@@ -1377,14 +1377,14 @@ msgstr "আঙ্গুলের ছাপ আইকন"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "আঙ্গুলের ছাপ চেনা যাচ্ছে না। আবার চেষ্টা করুন।"
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "আঙ্গুল খুব দ্রুত সরে গেছে। আবার চেষ্টা করুন।"
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
