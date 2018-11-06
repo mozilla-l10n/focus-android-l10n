@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-06 14:29+0000\n"
+"PO-Revision-Date: 2018-11-06 16:23+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -1180,13 +1180,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Iwe hauna kupa kodzero chero ipi zvayo kana malayisensi kune zvikwangwani zveMozilla Foundation kana chero sangano, kusanganisira maMozilla, Firefox kana% 1 $ s mazita kana logos. Zvimwe "
+"zvinowanikwa zvinogona kuwanikwa <a href=\"%2$s\">pano</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Zvimwe zvinyorwa zvekushandisa kwe %1$s zvinowanikwa pasi pemamwe marudzi akasiyana uye akasununguka kubva kune <a href=\"%2$s\">zvibvumirano</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
