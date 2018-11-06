@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-06 06:31+0000\n"
+"PO-Revision-Date: 2018-11-06 06:44+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -560,14 +560,14 @@ msgstr "ਐਪ ਅਣ-ਲਾਕ ਕਰਨ ਲਈ ਫਿੰਗਰਪਰਿੰਟ 
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "ਜੇ URL ਪਹਿਲਾਂ ਹੀ ਐਪ ਵਿੱਚ ਖੁੱਲ੍ਹਾ ਹੈ ਤਾਂ ਤੁਹਾਡਾ ਉਂਗਲ-ਨਿਸ਼ਾਨ %1$s ਨੂੰ ਅਣ-ਲਾਕ ਕਰ ਸਕਦਾ ਹੈ। ਭੇਤੀ ਰੂਪ ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਜਾਵੇਗਾ।"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
 #. taking screenshots or casting the app to other displays.
 msgctxt "preference_privacy_secure_mode"
 msgid "Stealth"
-msgstr "ਭੇਤ"
+msgstr "ਭੇਤੀ"
 
 #. Preference Summary: Stealth mode (previously "Secure mode") is a setting
 #. that prevents the      app's content (in our case especially the content of
@@ -781,7 +781,7 @@ msgstr "ਹੋਰ ਚੋਣਾਂ"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "ਹੋਰ ਚੋਣਾਂ ਬਟਨ"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1000,7 +1000,7 @@ msgstr "ਅਸੀਂ ਕੁਝ ਕਾਰਣਾਂ ਲਈ ਇਸ ਸਫੇ ਨੂ
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "ਐਪ ਨਾਲ ਖੋਲ੍ਹੋ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1047,7 +1047,7 @@ msgstr "ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਕੰਟਰੋਲ ਕ�
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਅਗਲੇ ਪੱਧਰ ਤੇ ਲੈ ਜਾਓ। ਇਸ਼ਤਿਹਾਰ ਅਤੇ ਹੋਰ ਸਮੱਗਰੀ, ਜੋ ਕਿ ਤੁਹਾਨੂੰ ਸਾਈਟਾਂ ਉੱਤੇ ਟਰੈਕ ਕਰ ਅਤੇ ਸਫ਼ਾ ਲੋਡ ਕਰਨ ਨੂੰ ਹੌਲੀ ਕਰ ਸਕਦੀ ਹੈ, ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1433,6 +1433,8 @@ msgid ""
 "Open every link in %1$s\n"
 " Set %1$s as default browser"
 msgstr ""
+"ਹਰ ਲਿੰਕ ਨੂੰ %1$s ਵਿੱਚ ਖੋਲ੍ਹੋ\n"
+" %1$s ਨੂੰ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1476,101 +1478,101 @@ msgstr ""
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹੀ ਗਈ"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "ਬਦਲੋ"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "ਲਿੰਕ ਨੂੰ ਤੁਰੰਤ ਨੂੰ ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਬਦਲੋ"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਅਤ ਬਰਾਊਜ਼ਿੰਗ"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "ਸੰਭਾਵਿਤ ਖ਼ਤਰਨਾਕ ਅਤੇ ਭਰਮਪੂਰਕ ਸਾਈਟਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "ਰਿਪੋਰਟ ਕੀਤੀਆਂ ਭਰਮਪੂਰਕ ਤੇ ਹਮਲਾਪੂਰਕ ਸਾਈਟਾਂ, ਮਾਲਵੇਅਰ ਸਾਈਟਾਂ ਅਤੇ ਬੇਲੋੜ ਸਾਫਟਵੇਅਰ ਵਾਲੀਆਂ ਸਾਈਟਾਂ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।"
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "ਛੋਟਾਂ"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "ਤੁਸੀਂ ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਨੂੰ ਅਸਮਰੱਥ ਕਰ ਚੁੱਕੇ ਹੋ।"
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "ਹਟਾਓ"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਹਟਾਓ"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "ਟੈਬ ਨਸ਼ਟ ਹੋਈ"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "ਅਫ਼ਸੋਸ। ਸਾਨੂੰ ਇਸ ਟੈਬ ਨਾਲ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ।"
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰ ਵਜੋਂ, ਅਸੀਂ ਇਸ ਟੈਬ ਲਈ ਕੁਝ ਨਹੀਂ ਸੰਭਾਲਿਆ ਅਤੇ ਬਹਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ।"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "ਟੈਬ ਬੰਦ ਕਰੋ"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "ਅਫ਼ਸੋਸ। %1$s ਨੂੰ ਸਮੱਸਿਆ ਆਈ ਅਤੇ ਨਸ਼ਟ ਹੋ ਗਈ।"
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਰ ਨਾਲ ਅਸੀਂ ਤੁਹਾਡੇ ਪਿਛਲੇ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਕਦੇ ਵੀ ਸੰਭਾਲਦੇ ਨਹੀਂ ਹਾਂ ਅਤੇ ਬਹਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ।"
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "ਬੰਦ ਕਰੋ"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s ਮੁੜ-ਚਾਲੂ ਕਰੋ"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "ਨਸ਼ਟ ਹੋਣ ਰਿਪੋਰਟਾਂ ਮੋਜ਼ੀਲਾ ਨੂੰ ਭੇਜੋ"
