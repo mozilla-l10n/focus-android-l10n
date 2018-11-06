@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 13:19+0000\n"
+"PO-Revision-Date: 2018-11-06 14:39+0000\n"
 "Last-Translator: Lan Glad <upwinxp@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -368,7 +368,7 @@ msgstr "Omogočite samodejno dopolnjevanje preko 450 priljubljenih URL-jev v nas
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Za strani, ki jih dodate"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
@@ -406,7 +406,7 @@ msgstr "Dodaj spletni naslov po meri"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Dodaj povezavo za samodejno dopolnjevanje"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -1503,6 +1503,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Zaupanja vredna stran?\n"
+" Seznam dovoljenih onemogoči zaščito pred sledenjem za strani, ki jih poznate in jim zaupate."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1517,7 +1519,7 @@ msgstr "Preklopi"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Takoj preklopi na povezavo v novem zavihku"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
