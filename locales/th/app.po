@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-03 12:50+0000\n"
+"PO-Revision-Date: 2018-11-06 17:43+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -362,7 +362,7 @@ msgstr "สำหรับไซต์เด่น"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "เปิดใช้งานเพื่อเติมโดยอัตโนมัติมากกว่า 450 URL ยอดนิยมในแถบที่อยู่"
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -373,7 +373,7 @@ msgstr "สำหรับไซต์ที่คุณเพิ่ม"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "เปิดใช้งานเพื่อเติมโดยอัตโนมัติมากกว่า 450 URL ยอดนิยมในแถบที่อยู่"
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -1495,6 +1495,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"ไซต์ที่เชื่อถือได้?\n"
+" รายการอนุญาตปิดใช้งานการป้องกันการติดตามสำหรับไซต์ที่คุณรู้จักและเชื่อถือ"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1562,7 +1564,7 @@ msgstr "ขออภัย เรากำลังมีปัญหากั�
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "ในฐานะเบราว์เซอร์ส่วนตัว เราไม่เคยบันทึกและไม่สามารถเรียกคืนแท็บนี้ได้"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1579,7 +1581,7 @@ msgstr "ขออภัย %1$s มีปัญหาและขัดข้อ
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "ในฐานะเบราว์เซอร์ส่วนตัว เราไม่เคยบันทึกและไม่สามารถเรียกคืนวาระการท่องเว็บล่าสุดของคุณได้"
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
