@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 15:42+0000\n"
-"Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
+"PO-Revision-Date: 2018-11-04 19:04+0000\n"
+"Last-Translator: Jordi Cuevas <jordicuevas@gmail.com>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
@@ -406,7 +406,7 @@ msgstr "Agregar URL personalizada"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Añadir el enlace para completar automáticamente"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -1519,7 +1519,7 @@ msgstr "Cambiar"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Cambie a un enlace en una nueva pestaña inmediatamente"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1547,32 +1547,32 @@ msgstr "Excepciones"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Ha desactivado el bloqueo de contenido para estos sitios."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Eliminar todos los sitios web"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "La pestaña falló"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Lo sentimos. Tenemos problemas con esta pestaña."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Como navegador privado, nunca guardamos y no podemos restaurar esta pestaña."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
