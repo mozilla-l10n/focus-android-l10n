@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-06 17:43+0000\n"
+"PO-Revision-Date: 2018-11-07 17:40+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -143,7 +143,7 @@ msgstr "ตัวติดตามที่ถูกปิดกั้น"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "การปิดสิ่งนี้อาจแก้ปัญหาบางอย่างของไซต์"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -1517,7 +1517,7 @@ msgstr "สลับไปยังลิงก์ในแท็บใหม่
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "การท่องเว็บแบบปลอดภัย"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
