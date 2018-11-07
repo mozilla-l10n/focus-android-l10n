@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-07 17:40+0000\n"
+"PO-Revision-Date: 2018-11-07 18:08+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -154,7 +154,7 @@ msgstr "การปิดกั้นเนื้อหา"
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "ปิดเพื่อแก้ไขไซต์บางส่วน"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -1529,7 +1529,7 @@ msgstr "ปิดกั้นไซต์ที่อาจเป็นอัน
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "ปิดกั้นไซต์หลอกลวงและรุกราน, ไซต์ที่มีมัลแวร์ และไซต์ที่มีซอฟต์แวร์ไม่พึงประสงค์ตามการรายงาน"
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
