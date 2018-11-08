@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-03 17:15+0000\n"
-"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
+"PO-Revision-Date: 2018-11-04 16:14+0000\n"
+"Last-Translator: goofy <goofy@babelzilla.org>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -1497,6 +1497,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Un site de confiance ?\n"
+" Allowlist désactive la protection contre le pistage pour les sites que vous connaissez et auxquels vous faites confiance."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1511,7 +1513,7 @@ msgstr "Afficher"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Afficher immédiatement les liens ouverts dans de nouveaux onglets"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
