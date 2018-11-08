@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-08 02:32+0000\n"
+"PO-Revision-Date: 2018-11-08 02:37+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -1216,7 +1216,7 @@ msgstr "Zvimwe zvinyorwa zvekushandisa kwe %1$s zvinowanikwa pasi pemamwe marudz
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s inoshandisa mabhiilopu anopiwa neDisconnect, Inc. sezvikamu zvakasiyana uye zvakazvimirira pasi pe <a href=\"%2$s\"> GNU General Public License v3 </a>, uye iripo <a href = \"%3$s \">pano</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1463,6 +1463,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Ma URLs echikwata zvemasayiti aunonyanya kushandisa\n"
+" Dhinda kwenguva ipi neipi URL mubhare rekero"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1472,13 +1474,15 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"Vhura lingi mune imwe tebhu\n"
+" Dhinda kwenguva refu chero chibatanidza pane peji"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "Pane kuti uone yakazara desktop site?%1$s Menyu > Kumbira nzvimbo ye desktop"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
@@ -1492,6 +1496,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Nzvimbo yakatendwa?\n"
+" Chibvumirano chinodzivisa Kuchengetedzwa Kwekuchengetedza kwemasayithi ounoziva uye kuvimba."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1518,13 +1524,13 @@ msgstr "Kutsvaga Kwakachengeteka"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Chengetedza nzvimbo dzingangove dzine ngozi uye dzinonyengedza"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Vharira nzvimbo dzinonyengedza kunze uye dzekurwisa, nzvimbo dzisina kuwanikwa, uye dzisina kuwanikwa software."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1534,7 +1540,7 @@ msgstr "Zvisarudzo"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Wadzima Content Blocking nekuda kwemawebsite aya."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1559,7 +1565,7 @@ msgstr "Ruregerero. Taita dambudziko ne tebhu iri."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Sekuchengetedzwa kwepachivande, hatina kumbochengetedza uye hatigoni kudzorera tabu iyi."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1576,7 +1582,7 @@ msgstr "Ndine hurombo. %1$s yakanga ine dambudziko uye yakaparara."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Se bhurauza repachivande, hatitombo chengete zvawanga uchiita paindaneti."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
