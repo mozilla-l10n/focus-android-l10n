@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-06 16:23+0000\n"
+"PO-Revision-Date: 2018-11-08 02:32+0000\n"
 "Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: sn <LL@li.org>\n"
 "Language: sn\n"
@@ -939,6 +939,12 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li> Tarisa kero yekunyora zvikanganiso zvakadai se\n"
+"          <strong> ww </ strong> .example.com panzvimbo ye\n"
+"          <strong> www </ strong> .example.com </ li>\n"
+"        <li> Kana usingakwanisi kutakura mapeji chero ipi zvayo, chengeta dhidhi yako yedhidhiyo kana Wi-Fi connection. </ li>\n"
+"      </ ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
@@ -951,6 +957,10 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li> Kero kero dzeWebhu dzinowanzonyorwa se <strong> http://www.example.com/ </ strong> </ li>\n"
+"  <li> Iva nechokwadi chokuti uri kushandisa mberi slashes (i.e. <strong> / </ strong>). </ li>\n"
+"</ ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -962,6 +972,9 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Iyi dambudziko dzimwe nguva inokonzerwa nekudzivisa kana kuramba kubvuma makuki </ li>\n"
+"</ ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
@@ -972,7 +985,7 @@ msgid ""
 "<ul>\n"
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
-msgstr ""
+msgstr "<ul> <li> Unofanira kuisa imwe software kuti ukwanise kuvhura adhiresi iyi.</li>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -987,6 +1000,12 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li> Izvi zvinogona kuva dambudziko nekugadziriswa kwevhavha, kana zvingave\n"
+"mumwe munhu achiedza kutevedzera sevha. </ li>\n"
+"  <li> Kana wakabatana neiyo server kubudirira munguva yakapfuura, kukanganisa kunogona\n"
+"iva kwenguva duku, uye iwe unogona zvakare zvakare gare gare. </ li>\n"
+"</ ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -1036,7 +1055,7 @@ msgstr "Vhura link mu tebhu nyowani"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Mifananidzo yakachengetwa <b>neyakagoverwa haibviswe</b> paunodzima %1$s nhoroondo."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1046,7 +1065,7 @@ msgstr "Shandisa simba rako rechivande"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Tora browsing pachedu kune imwe inotevera. Chengetedza zvikwereti nezvimwe zvinhu zvinogona kukutevera pazvikwata uye kuvhara pasi peji kutengesa nguva."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1056,7 +1075,7 @@ msgstr "Kutsvaga kwako, inzira yako"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Kutsvaka chimwe chinhu chakasiyana? Sarudza imwe shandiso yekutsvaga injini muZvirevo."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1068,7 +1087,7 @@ msgstr "Wedzera zvidzitiro pamba peimba yako"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Dzokera kunzvimbo dzako dzaunoda mu %1$s nokukurumidza. Ingosarudza \"Wedzera Pamba peji\" kubva ku %1$s menyu."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1080,7 +1099,7 @@ msgstr "Ita kuchengeteka kwako chive chijairire"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Ita %1$s sechitsvaga chako chekutsvaga uye uwane mararamiro ehupfumi hwepachivande paunotanga mapepa ewebhu kubva kune mamwe maitiro."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1118,7 +1137,7 @@ msgstr "Kanzura"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Shortcut ichazaruka neTracking Protection yakavharwa"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1129,7 +1148,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Sesheni yekutsvaga pachivande"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1487,7 +1506,7 @@ msgstr "Chinja"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Chinja ringi kune tebhu idzva pakarepo"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
