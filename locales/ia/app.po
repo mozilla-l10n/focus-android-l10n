@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-09 07:10+0000\n"
+"PO-Revision-Date: 2018-11-09 07:26+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -1502,6 +1502,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Sito fidite?\n"
+"Iste function disactiva le protection contra le traciamento pro sitos que tu cognosce e fide."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1534,7 +1536,7 @@ msgstr "Blocar le sitos potentialmente periculose e fraudulente"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blocar le sitos reportate como fraudulente e que attacca, le sitos de malware e illos de software non desirate."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1544,7 +1546,7 @@ msgstr "Exceptiones"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Tu ha disactivate le blocage de contentos pro iste sitos."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1586,7 +1588,7 @@ msgstr "Nos regretta. %1$s habeva un problema e collabeva."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Como navigator private, nos jammais salva e non pote restaurar tu ultime session de navigation."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
