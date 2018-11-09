@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-09 16:37+0000\n"
+"PO-Revision-Date: 2018-11-09 16:59+0000\n"
 "Last-Translator: عمر <um.qshi@gmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
@@ -210,7 +210,7 @@ msgstr "برائوزنگ سابقات مٹائیں"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "مٹائیں اور کھولیں"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -1387,7 +1387,7 @@ msgstr ""
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr ""
+msgstr "کیا آپ تلاش تجاویز چالو کرنا چاہیں گے؟"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
