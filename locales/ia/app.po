@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-09 06:29+0000\n"
+"PO-Revision-Date: 2018-11-09 06:50+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -305,7 +305,7 @@ msgstr "General"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Navigator, scheda, lingua predefinite"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -538,7 +538,7 @@ msgstr "No"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Blocar solo le cookies traciator de tertie partes"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -782,7 +782,7 @@ msgstr "Altere optiones"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Button altere optiones"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1024,7 +1024,7 @@ msgstr "Nos non pote cargar iste pagina pro alcun ration."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Aperir per application"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
