@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-09 22:11+0000\n"
+"PO-Revision-Date: 2018-11-09 22:28+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -510,7 +510,7 @@ msgstr "Folosit pentru a colecta, analiza și măsura activități precum atinge
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Blochează urmăritorii sociali"
+msgstr "Blochează urmăritorii rețelelor sociale"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -634,7 +634,7 @@ msgstr "Află mai multe"
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
 msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "La Mozilla noi colectăm doar strictul necesar pentru a crea și îmbunătăți %1$s pentru toată lumea."
+msgstr "Mozilla se străduiește să colecteze doar strictul necesar pentru a furniza și a îmbunătăți %1$s pentru toți."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -687,11 +687,11 @@ msgstr "Adaugă motorul de căutare"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr "Nume motor de căutare"
+msgstr "Numele motorului de căutare"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "Text de căutare"
+msgstr "Text de căutare spre utilizare"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
