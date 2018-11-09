@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-09 21:28+0000\n"
+"PO-Revision-Date: 2018-11-09 21:52+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -1392,7 +1392,7 @@ msgstr "Deget mutat prea repede. Încearcă din nou."
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr "Dorești să reactivezi sugestiile de căutare?"
+msgstr "Dorești să activezi sugestiile de căutare?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1440,14 +1440,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
-"Site-ul se comportă neașteptat?\n"
+"Site-ul are un comportament neașteptat?\n"
 " Încearcă să dezactivezi protecția împotriva urmăririi"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Obține acces cu o singură atingere la site-urile vizitate frecvent%1$s Meniu > Adaugă la ecranul principal"
+msgstr "Obține acces cu o singură atingere la site-urile pe care intri des%1$s Meniu > Adaugă la ecranul principal"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1470,8 +1470,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
-"Autocompletează adrese pentru site-uri frecvent vizitate\n"
-" Apasă lung pe orice adreesă din bara de adrese"
+"Completează automat URL-urile site-urilor pe care intri des\n"
+" Apasă lung pe orice URL din bara de adrese"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1482,7 +1482,7 @@ msgid ""
 " Long-press any link on a page"
 msgstr ""
 "Deschide un link într-o filă nouă\n"
-" Apasă lung pe orice link din pagină"
+" Apasă lung pe orice link dintr-o pagină"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
@@ -1584,26 +1584,26 @@ msgstr "Închide fila"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Ne pare rău. %1$s a avut o problemă și s-a închis neașteptat."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Ca browser privat, nu salvăm niciodată și nu putem restaura ultima sesiune de navigare."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Închide"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Repornește %1$S"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Trimite un raport de defecțiune către Mozilla"
