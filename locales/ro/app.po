@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-09 21:52+0000\n"
+"PO-Revision-Date: 2018-11-09 22:11+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -248,10 +248,10 @@ msgstr ""
 "  <ul>\n"
 "    <li>Caută și navighează direct din aplicație</li>\n"
 "    <li>Blochează urmăritorii (sau actualizează setările pentru a permite urmăritorii)</li>\n"
-"    <li>Șterge pentru a îndepărta cookie-urile precum și istoricul de căutare și navigare</li>\n"
+"    <li>Șterge pentru a elimina cookie-urile, precum și istoricul de căutare și navigare</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s este produs de Mozilla. Misiunea noastră este să promovăm un internet deschis și sănătos.<br/>\n"
+"<p>%1$s este produs de Mozilla. Misiunea noastră este să promovăm un internet sănătos și deschis.<br/>\n"
 "<a href=\"%2$s\">Află mai multe</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -676,7 +676,7 @@ msgstr "Elimină"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr "Arată ponturi în ecranul principal"
+msgstr "Afișează ponturi în ecranul principal"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -1080,7 +1080,7 @@ msgstr "Caută în felul tău"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Cauţi ceva diferit? Alege un alt motor de căutare implicit din Setări."
+msgstr "Cauți ceva diferit? Alege un alt motor de căutare implicit din Setări."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1092,7 +1092,7 @@ msgstr "Adaugă scurtături la ecranul principal"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Întoarce-te la site-urile tale preferate în %1$s numaidecât. Selectează pur și simplu „Adaugă la ecranul principal” din meniul %1$s."
+msgstr "Întoarce-te numaidecât la site-urile tale favorite în %1$s. Selectează pur și simplu „Adaugă la ecranul principal” din meniul %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1116,7 +1116,7 @@ msgstr "Omite"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr "Mai departe"
+msgstr "Înainte"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1489,7 +1489,7 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr "Vrei să vezi site-ul de desktop?%1$s Meniu > Cere versiune de desktop"
+msgstr "Preferi să vezi versiunea de desktop completă?%1$s Meniu > Cere versiune de desktop"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
