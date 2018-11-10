@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-10 15:50+0000\n"
+"PO-Revision-Date: 2018-11-10 15:56+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: oc <LL@li.org>\n"
 "\n"
@@ -1500,6 +1500,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Site de confisança ?\n"
+" La liste d’autorizacion desactiva la proteccion contra lo seguiment pels sites que coneissètz e que vos fisatz."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1514,7 +1516,7 @@ msgstr "Mostrar"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Mostrar sulcòp los ligams dobèrts"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1526,13 +1528,13 @@ msgstr "Navegacion securizada"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Blocar los sites potencialament perilhoses e enganaires"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blocar los sites senhalats coma perilhoses, los sites de logicials dangieroses e los sites de logicials pas desirats."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1542,7 +1544,7 @@ msgstr "Excepcions"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Avètz desactivat lo blocatge de contengut per aquestes sites."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
