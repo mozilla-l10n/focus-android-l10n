@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-10 15:11+0000\n"
+"PO-Revision-Date: 2018-11-10 15:29+0000\n"
 "Last-Translator: Siddhi Dave <siddhi_dave@yahoo.in>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -62,7 +62,7 @@ msgstr "તમારો બ્રાઉઝિંગ ઇતિહાસ કાઢ
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "ટૅબનો બ્રાઉઝિંગ ઇતિહાસ કાઢી નાખવામાં આવ્યો છે."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -537,7 +537,7 @@ msgstr "ના"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "માત્ર તૃતીય-પક્ષ ટ્રેકર કૂકીઝને અવરોધિત કરો"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -781,7 +781,7 @@ msgstr "વધુ વિકલ્પ"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "વધુ વિકલ્પો બટન"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1023,7 +1023,7 @@ msgstr "અમે કોઈ કારણસર આ પૃષ્ઠને લો�
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "એપ્લિકેશન સાથે ખોલો"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1494,7 +1494,7 @@ msgstr "તેના બદલે સંપૂર્ણ ડેસ્કટૉપ
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "પ્રારંભ સ્ક્રીન પર ટિપ્પણીઓ બંધ કરો"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1503,16 +1503,18 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"વિશ્વસનીય સાઇટ?\n"
+" તમે જાણો છો અને વિશ્વાસ કરો છો તે સાઇટ્સ માટે પરવાનગી-સૂચિ એ ટ્રેકિંગ સુરક્ષાને નિષ્ક્રીય કરે છે."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "નવી ટૅબ ખૂલી ગઇ છે"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "ફેરફાર કરો"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
@@ -1555,53 +1557,53 @@ msgstr "દૂર કરો"
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "બધી વેબસાઇટ્સને દૂર કરો"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "ટૅબ ક્રેશ થયું"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "માફ કરશો. અમને આ ટૅબમાં સમસ્યા આવી રહી છે."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "ખાનગી બ્રાઉઝર તરીકે, અમે આ ટૅબને ક્યારેય સાચવી શકતા નથી અને પુનઃસ્થાપિત કરી શકતા નથી."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "ટૅબ બંધ કરો"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "માફ કરશો. %1$s ને કોઈ સમસ્યા હતી અને ક્રેશ થયું."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "એક ખાનગી બ્રાઉઝર તરીકે, અમે ક્યારેય તમારું છેલ્લું બ્રાઉઝિંગ સત્ર સંગ્રહિત અને પુન:સ્થાપિત કરી શકતા નથી."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "બંધ કરો"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s ફરીથી શરૂ કરો"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Mozilla પર ક્રેશ રિપોર્ટ મોકલો"
