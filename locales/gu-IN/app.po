@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-10 14:29+0000\n"
+"PO-Revision-Date: 2018-11-10 14:51+0000\n"
 "Last-Translator: Siddhi Dave <siddhi_dave@yahoo.in>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -143,7 +143,7 @@ msgstr "ટ્રેકર્સ અવરોધિત"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "આને બંધ કરવું એ કેટલીક સાઇટ સમસ્યાઓને ઠીક કરી શકે છે"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -304,7 +304,7 @@ msgstr "સામાન્ય"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "ડિફૉલ્ટ બ્રાઉઝર, ટૅબ્સ, ભાષા"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -335,7 +335,7 @@ msgstr "મૂળભૂત"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "શોધ એન્જિન"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -357,34 +357,34 @@ msgstr "URL સ્વતઃપૂર્ણ"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "ટોચની સાઇટ્સ માટે"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "સરનામાં બારમાં 450 કરતાં વધુ લોકપ્રિય URLs ને સ્વતઃપૂર્ણ કરવા માટે સક્રીય કરો."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "તમે ઉમેરો છો તે સાઇટ્સ માટે"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "સરનામાં બારમાં 450 કરતાં વધુ લોકપ્રિય URLs ને સ્વતઃપૂર્ણ કરવા માટે સક્રીય કરો."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "સાઇટ્સની ગોઠવણ કરો"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "સાઇટ્સની ગોઠવણ કરો"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -406,7 +406,7 @@ msgstr "પોતાનું URL ઉમેરો"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "સ્વતઃપૂર્ણ કરવા માટે લિંક ઉમેરો"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -1523,13 +1523,13 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "સુરક્ષિત બ્રાઉઝિંગ"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "સંભવિત જોખમી અને ભ્રામક સાઇટ્સને અવરોધિત કરો"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
@@ -1540,12 +1540,12 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "અપવાદો"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "તમે આ વેબસાઇટ્સ માટે સામગ્રી અવરોધિત કરવાનું નિષ્ક્રીય કર્યું છે."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
