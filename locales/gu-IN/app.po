@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-10 15:29+0000\n"
+"PO-Revision-Date: 2018-11-10 15:38+0000\n"
 "Last-Translator: Siddhi Dave <siddhi_dave@yahoo.in>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -1514,12 +1514,12 @@ msgstr "નવી ટૅબ ખૂલી ગઇ છે"
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr "ફેરફાર કરો"
+msgstr "બદલો"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "તરત જ નવી ટૅબમાં લિંક પર જાઓ"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1537,7 +1537,7 @@ msgstr "સંભવિત જોખમી અને ભ્રામક સા�
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "રિપોર્ટ કરાયેલી ભ્રામક અને હુમલો કરવાવાળી સાઇટ્સ, મૉલવેરવાળી સાઇટ્સ અને અનિચ્છનીય સૉફ્ટવેરવાળી સાઇટ્સને અવરોધિત કરો."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
