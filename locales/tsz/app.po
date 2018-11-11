@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-11 20:48+0000\n"
+"PO-Revision-Date: 2018-11-11 21:09+0000\n"
 "Last-Translator: Bulmaro González <gonzalezbul@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -61,7 +61,7 @@ msgstr "Ampe mankari jirinhant'apka mirikurhisti ya."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Jirinhantskata ampe kéntitanhasti ya."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -142,7 +142,7 @@ msgstr "Estakutichani kwarhukuani"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "Nántika jatsïntaaka xerekurhikwa ampe íni p'átaparini"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -303,7 +303,7 @@ msgstr "Yámu"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Jirinhatarantskwa, erahukwaecha, wantakwa"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -356,7 +356,7 @@ msgstr "URL Karanharhikuarini"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "Erakukuhikwaecha"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
