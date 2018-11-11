@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-06 04:00+0000\n"
+"PO-Revision-Date: 2018-11-11 20:57+0000\n"
 "Last-Translator: Bald3mar <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -573,10 +573,9 @@ msgstr "Sèè"
 #. webpages) to show up in the "recent apps"      screen. Additionally Android
 #. will prevent the user from taking screenshots or casting the app      to
 #. other displays.
-#, fuzzy
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Chika sèè pagina ta ku ndasamu aplicaciòn."
+msgstr "Chika sèè pagina ta ku samu aplicaciòn cha casi ña ndatava."
 
 msgctxt "preference_category_security"
 msgid "Security"
