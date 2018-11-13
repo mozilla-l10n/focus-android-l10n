@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-13 11:26+0000\n"
+"PO-Revision-Date: 2018-11-13 12:31+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -135,7 +135,7 @@ msgstr "अपने के अधिकार"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "ट्रैकर ब्लॉक भेलै"
+msgstr "ट्रेकर्स ब्लॉक भेलै"
 
 #. Menu item: This is the subtitle for the Trackers blocked menu entry that
 #. shows how many     trackers have been blocked for the currently loaded
@@ -536,7 +536,7 @@ msgstr "नैय"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "खाली 3र्ड पार्टी ट्रैकर कूकीज ब्लौक करियै"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -1538,7 +1538,7 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "हटैइयै"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
