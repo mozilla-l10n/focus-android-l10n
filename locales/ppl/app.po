@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-13 23:24+0000\n"
+"PO-Revision-Date: 2018-11-13 23:40+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1249,7 +1249,7 @@ msgstr "Timusalua wan tesu nejmachnemi"
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "Kitak yek %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
@@ -1465,6 +1465,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
+"Ma temit isel ne URLs ipal ne sijsitioj sujsul tikita\n"
+" Shikpajpachu ne URL tay tikneki ijtik ne barraj ipal dirección"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
