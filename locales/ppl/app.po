@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-13 20:02+0000\n"
+"PO-Revision-Date: 2018-11-13 21:27+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1565,7 +1565,7 @@ msgstr "Shitapupulwi. Saman tikpiat uijkayu iwan ini itzun."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Ken se tajtachialis ichtaka, tejemet te keman tikanat nian talneshtiat ini itzun."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1577,12 +1577,12 @@ msgstr "Shiktzakwa ne tzunyu"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Shitapupulwia. %1$s kipishki se uijkayu wan kunaktuk tzaktuk."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Ken se tajtachialis ichtaka, tejemet te keman tikanat tay tikitak yewasan."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
