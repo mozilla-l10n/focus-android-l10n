@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-13 03:31+0000\n"
+"PO-Revision-Date: 2018-11-13 03:50+0000\n"
 "Last-Translator: Alexander Parada <alessaux@outlook.es>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -305,7 +305,7 @@ msgstr "Muchi tajtaya"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr "Ne tajtachialis achtutalijtuk, ijitzun, taketzalis"
+msgstr "Ne tajtachialis achtutalijtuk, tzujtzunyu, taketzalis"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -752,7 +752,7 @@ msgstr "Shikpupu mutatemulis panutuk"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr "Pestañaj tajtapujtuk: %1$s"
+msgstr "Tzujtzunyu tajtapujtuk: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -1040,7 +1040,7 @@ msgstr "Shikana ne kwikwil"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr "Shiktapu ne ilpika tik se yankwik pestañaj"
+msgstr "Shiktapu ne ilpika tik ukse tzunyu"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -1206,7 +1206,7 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "Disconnect, Inc. kipalewi nusan %1$s pal tatentzakwa ken itekiw wan tesu tupal, wan  <a href=\"%2$s\">GNU General Public License v3</a> kituktia pal tiwelit tikitat <a href=\"%3$s\">here</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1240,7 +1240,7 @@ msgstr ""
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "Tetajpialis ipal ne tepewa"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
@@ -1308,7 +1308,7 @@ msgstr "Constraseñaj"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "Shikita ne version ipal ne compu"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
@@ -1541,7 +1541,7 @@ msgstr "Shikishti muchi ne sitioj ipal ne matapan"
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr "Ne pestañaj kunaktuk nemi"
+msgstr "Ne tzunyu kunaktuk nemi"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
@@ -1556,7 +1556,7 @@ msgstr ""
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr "Shiktapu ne pestañaj"
+msgstr "Shiktzakwa ne tzunyu"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
