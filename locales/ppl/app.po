@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-13 19:52+0000\n"
+"PO-Revision-Date: 2018-11-13 20:02+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1487,7 +1487,7 @@ msgstr "Tiknekiskia nikita muchi ne escritorioj?%1$s Menu > Shiktajtani ne iswat
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Ma musewi ne tajtanawatial ijpak ne achtu iswat"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1502,7 +1502,7 @@ msgstr ""
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "Se yankwik itzun tapwik"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
@@ -1518,13 +1518,13 @@ msgstr "Shiktapu ne ilpika melaktik tik ukse itzunyu"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Pal tinejmachnemi keman titajtachia"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Ma mutentzakwakan ne sijsitioj tesajsay wan tashijshikuani"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
@@ -1560,7 +1560,7 @@ msgstr "Ne tzunyu kunaktuk nemi"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Shitapupulwi. Saman tikpiat uijkayu iwan ini itzun."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
