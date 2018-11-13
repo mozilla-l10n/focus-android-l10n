@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-08 14:58+0000\n"
-"Last-Translator: Mateus Generoso <mtsgeneroso@gmail.com>\n"
+"PO-Revision-Date: 2018-11-13 18:17+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -1501,6 +1501,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"É um site de confiança?\n"
+" A lista de permissões desativa a proteção contra rastreamento em sites que você conhece e confia."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1563,7 +1565,7 @@ msgstr "A aba travou"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Desculpe, estamos tendo um problema com esta aba."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
@@ -1580,7 +1582,7 @@ msgstr "Fechar aba"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Desculpe, o %1$s teve um problema e travou."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
