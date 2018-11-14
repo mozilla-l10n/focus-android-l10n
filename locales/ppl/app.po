@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-14 17:17+0000\n"
+"PO-Revision-Date: 2018-11-14 18:30+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1359,7 +1359,7 @@ msgstr "Shikmakishti %1$s"
 #. the user when opening the app
 msgctxt "biometric_auth_description"
 msgid "Touch the fingerprint sensor to continue."
-msgstr ""
+msgstr "Shikchijchimi ne sensor ipal ne mapipiltashkal pal tikalaki."
 
 #. New session button for the fingerprint authentication dialog box that is
 #. shown to the user when opening the app.      When pressed, the user's
@@ -1379,14 +1379,14 @@ msgstr "Mapipiltashkal"
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "Ne mapipiltashkal tesu muishmati. Shikejeku uksenpa."
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
 #. the app launches.
 msgctxt "biometric_auth_moved_too_quickly"
 msgid "Finger moved too fast. Try again."
-msgstr ""
+msgstr "Tikpanultij mumapipil sujsul talul. Shikejeku uksenpa."
 
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
@@ -1536,17 +1536,17 @@ msgstr "Ma mutentzakwakan ne sijsitioj tesajsay wan tashijshikuani"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Shiktentzakwa ne sijsitioj tesajsay wan tashijshikuani, sitioj malware. wan sitioj ipal software tesu tikneki."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Tay te nemi muishtukaktuk"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Taja tiksewij Tatentzakwalis ipal Tay Nemi ka Ijtik ipal ne isijsitioj ne Wey Matat."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
