@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-14 18:30+0000\n"
+"PO-Revision-Date: 2018-11-14 18:40+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -63,7 +63,7 @@ msgstr "Mupupujtuk mutatemulis panutuk."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr "Ne tay titajtachiatuya mupupujtuk."
+msgstr "Ne tay titajtachiatuya tik ne ijitzun mupupujtuk."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -305,7 +305,7 @@ msgstr "Muchi tajtaya"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr "Ne tajtachialis achtutalijtuk, tzujtzunyu, taketzalis"
+msgstr "Ne tajtachialis achtutalijtuk, itzujtzun, taketzalis"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -752,7 +752,7 @@ msgstr "Shikpupu mutatemulis panutuk"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr "Tzujtzunyu tajtapujtuk: %1$s"
+msgstr "Itzujtzun tajtapujtuk: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
@@ -1054,7 +1054,7 @@ msgstr "Shikana ne kwikwil"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr "Shiktapu ne ilpika tik ukse tzunyu"
+msgstr "Shiktapu ne ilpika tik ukse itzun"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -1480,7 +1480,7 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
-"Shiktapu se ilpika tik ukse tzunyu\n"
+"Shiktapu se ilpika tik ukse itzun\n"
 " Shikpajpachu yek ne ilpika taja tikneki tik se iswat"
 
 #. Tip displayed on home view explaining how to request the desktop version of
@@ -1518,7 +1518,7 @@ msgstr "Shikpata"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr "Shiktapu ne ilpika melaktik tik ukse itzunyu"
+msgstr "Shiktapu ne ilpika melaktik tik ukse itzun"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1561,7 +1561,7 @@ msgstr "Shikishti muchi ne sitioj ipal ne matapan"
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr "Ne tzunyu kunaktuk nemi"
+msgstr "Ne itzun kunaktuk nemi"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
@@ -1576,7 +1576,7 @@ msgstr "Ken se tajtachialis ichtaka, tejemet te keman tikanat nian talneshtiat i
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr "Shiktzakwa ne tzunyu"
+msgstr "Shiktzakwa ne itzun"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
