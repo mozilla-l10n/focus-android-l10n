@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-14 04:28+0000\n"
+"PO-Revision-Date: 2018-11-14 04:45+0000\n"
 "Last-Translator: Alexander Parada <alessaux@outlook.es>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1205,13 +1205,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Tesu timetztakuliat ne chimalpanti ush te tiwelis tikwi itukay ne Fundación Mozilla ush se itakutun, nian ne inchimal Mozilla, FireFox ush %1$s. Tiweliskia tikmatiuk ipanpa tik <a href=\"%2$s\"> "
+"</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Ukse %1$s tikwi ken tikneki </a> wan nujme ne kipiat \"código fuente\" ipal <a href=\"%2$s\">."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
