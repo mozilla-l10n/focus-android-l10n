@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-14 04:05+0000\n"
+"PO-Revision-Date: 2018-11-14 04:28+0000\n"
 "Last-Translator: Alexander Parada <alessaux@outlook.es>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1105,7 +1105,7 @@ msgstr "Shinemi ichtaka mujmusta"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Shitajshiti %1$s ken ne mutatemuliani wan tikitas ka tiweliskia tipashalua ichtaka kwak tiktapua ijiswat tik ujukse aplicaciones."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1167,7 +1167,7 @@ msgstr "Sesión pal titaishtemua ichtaka"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Titantik metzajkawa tikpupua %1$s pashalulis semaya asu tikpachua. Tea muneki ma shiktapu ne apliacion ush shikita tay panu tik ne tajtachialis."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1187,14 +1187,14 @@ msgstr "Shiktemulti Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s te metztajtanilia mutumin wan Mozilla wan sejseuk metzchiwilijtiwit mupal."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "Tiweli tikwi %1$s wan yajini takamati tay kituktia <a href=\"%2$s\"> Mozilla Public License </a> wan ukse tatuktilis ne metztajtaniliat tatka."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
