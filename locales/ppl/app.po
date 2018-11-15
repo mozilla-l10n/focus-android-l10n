@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-15 14:30+0000\n"
+"PO-Revision-Date: 2018-11-15 15:49+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -247,7 +247,7 @@ msgstr ""
 "<p>%1$s metzajkawa titatekimaka.</p>\n"
 "<p>Shikwi kenha ken se ichtaka tajtachialis:\n"
 "  <ul>\n"
-"    <li>Shitatejtemu wan shitajtachia tik ne aplicación</li>\n"
+"    <li>Shitatejtemu wan shipashalu tik ne aplicación</li>\n"
 "    <li>Shiktentzakwa ne tapachiwiani (ush shitajshitia uksenpa pal tikajkawa tekiti ne tapachiwiani)</li>\n"
 "    <li>Shikpupu pal tikpupua cookies wan tay tiktemuj yewa</li>\n"
 "  </ul>\n"
@@ -326,7 +326,7 @@ msgstr "Shikneshti tay niweliskia nikishtemua"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr "%1$s yawi kititania tay titajkwilua tik ne barraj ipal dirección tik ne motor tatemualis"
+msgstr "%1$s yawi kititania tay titajkwilua tik ne barraj ipal dirección tik ne tepusyulu taishtemua"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -677,7 +677,7 @@ msgstr "Shikishti"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr "Shikneshti tanawatilis ipal ne achtu iswat"
+msgstr "Shikneshti tanajnawatial ipal ne achtu iswat"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -1105,7 +1105,7 @@ msgstr "Shinemi ichtaka mujmusta"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Shitajshiti %1$s ken ne mutatemuliani wan tikitas ka tiweliskia tipashalua ichtaka kwak tiktapua ijiswat tik ujukse aplicaciones."
+msgstr "Shikajshiti %1$s ken tajtachialis mupal wan tikitas ka tiweliskia tipashalua ichtaka kwak tiktapua ijiswat tik ujukse aplicaciones."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1194,7 +1194,7 @@ msgstr "%1$s te metztajtanilia mutumin wan Mozilla wan sejseuk kichijtiwit mupal
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "Tiweli tikwi %1$s wan yajini takamati tay kituktia <a href=\"%2$s\"> Mozilla Public License </a> wan ukse tatuktilis ne metztajtaniliat tatka."
+msgstr "Tiweli tikwi %1$s kwak titakamati tay kituktia <a href=\"%2$s\">Mozilla Public License</a> wan sejseuk licenciaj iwan walajkewalis tapujtuk."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1256,7 +1256,7 @@ msgstr "Kitak yek %1$s"
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr "Tetajpialis kan titajtachia"
+msgstr "Tetajpialis kan tipashalua"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
@@ -1469,7 +1469,7 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
-"Ma temit isel ne URLs ipal kan taja sejsenpa titajtachia\n"
+"Ma temit isel ne URLs ipal kan taja sejsenpa tipashalua\n"
 " Shikpajpachu ne URL tay tikneki ijtik ne barraj ipal dirección"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
@@ -1524,7 +1524,7 @@ msgstr "Shiktapu ne ilpika melaktik tik ukse itzun"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr "Pal tinejmachnemi keman titajtachia"
+msgstr "Pal tinejmachnemi keman tipashalua"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1571,7 +1571,7 @@ msgstr "Shitapupulwi. Saman tikpiat uijkayu iwan ini itzun."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr "Ken se tajtachialis ichtaka, tejemet te keman tikanat nian talneshtiat ini itzun."
+msgstr "Ika se tajtachialis ichtaka, tejemet te keman tikanat nian talneshtiat ini itzun."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1588,7 +1588,7 @@ msgstr "Shitapupulwia. %1$s kipishki se uijkayu wan kunaktuk tzaktuk."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr "Ken se tajtachialis ichtaka, tejemet te keman tikanat tay tikitak yewasan."
+msgstr "Ika se tajtachialis ichtaka, tejemet te keman tikanat tay tikitak yewasan."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
