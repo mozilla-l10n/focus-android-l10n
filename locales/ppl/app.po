@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-15 14:07+0000\n"
+"PO-Revision-Date: 2018-11-15 14:30+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -80,7 +80,7 @@ msgstr "Shiktakuli..."
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr "Shina tay te yek"
+msgstr "Shina tay te yek tik ne sitioj"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -144,7 +144,7 @@ msgstr "Tapachiwiani tentzaktuk"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr "Su tiksewia yajini, yaja weli kiekchiwa sejse uijkayu"
+msgstr "Su tiksewia yajini, yaja weli kiekchiwa sejse uijkayu tik ne sitioj"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -379,13 +379,13 @@ msgstr "Shiktimaka su tikneki ma temi isel wan nemit 450 ush ukchupi URLs tik ne
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr "Shiktekitali ne tepewa"
+msgstr "Shiktekimaka ne sijsitioj"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr "Shiktekitali ne tepewa"
+msgstr "Shiktekimaka ne sijsitioj"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -412,7 +412,7 @@ msgstr "Shiktali se ilpika pal temi isel"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr "Cookies wan ne itamanti ne sitioj"
+msgstr "Cookies wan ne ititanti ne sitioj"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
@@ -515,7 +515,7 @@ msgstr "Shiktentzakwa ne tajtapachiwiani kimatit kan tinemi"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Muishtukaktuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaja tekiti ken ne bojbotón pal tiktakulia"
+msgstr "Muishtukaktuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaja tekiti kenha ken ne bojbotón pal tiktakulia"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -770,7 +770,7 @@ msgstr "Mutemiltia"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "Iswat ipal ne matapan kimiltijtuk"
+msgstr "Sitioj ipal ne matapan kimiltijtuk"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -807,7 +807,7 @@ msgstr "Shimukwepa ka ipan"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "Makaya shiktemilti ne sitioj web"
+msgstr "Makaya shiktemilti ne sitioj ne matapan"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -924,7 +924,7 @@ msgid ""
 msgstr ""
 "<ul>\n"
 "        <li>Uksan ne sitioj tesu weli tekiti ush kipia wey itekiw. Shikejeku uksenpa nemanha.</li>\n"
-"        <li>Asu te tiweli tikimiltia ne sitioj, shikita ne dajdatoj ipal mutanutzalis ush asu ne Wi-Fi musalujtuk nemi.</li>\n"
+"        <li>Asu te weli mukimiltia ne sitioj, shikita ne tijtitanti ipal mutanutzalis ush asu ne Wi-Fi musalujtuk nemi.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -1093,7 +1093,7 @@ msgstr "Shiktalili ne achtu iswat se atajoj"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Shimukwepa ne iswat kan tipashalua sea tik %1$s talul. Semaya shitajshiti \"shitali tik ne achtu ishkalyu\" itech ne %1$s kashit."
+msgstr "Shimukwepa ka ne sitioj kan mugustuj tipashalua %1$s talul. Semaya shikishpejpena \"Shiktalili tik ne Achtu Iswat\" itech ne menú %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1256,7 +1256,7 @@ msgstr "Kitak yek %1$s"
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr "Tetajpialis ipal ne tepewa"
+msgstr "Tetajpialis kan titajtachia"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
@@ -1439,7 +1439,7 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
-"Ne sitioj te tekiti ken tikneki?\n"
+"Kan titajtachia te tekiti ken tikneki?\n"
 " Anka su tiksewia Tamanawalis itech Tapachiwiani"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
@@ -1469,7 +1469,7 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
-"Ma temit isel ne URLs ipal ne sijsitioj sujsul tikita\n"
+"Ma temit isel ne URLs ipal kan taja sejsenpa titajtachia\n"
 " Shikpajpachu ne URL tay tikneki ijtik ne barraj ipal dirección"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
