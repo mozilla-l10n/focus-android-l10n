@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-15 15:49+0000\n"
+"PO-Revision-Date: 2018-11-15 16:15+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -75,7 +75,7 @@ msgstr "Shiktemu %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Shiktakuli..."
+msgstr "Shiktakuli…"
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
@@ -358,7 +358,7 @@ msgstr "URL temi isel"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr "Ne sitioj kan tiaw sejsenpa"
+msgstr "Kan tipajpashalua sejsenpa"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
@@ -1222,7 +1222,7 @@ msgstr "Ukse %1$s tikwi ken tikneki </a> wan nujme ne kipiat \"código fuente\" 
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "Disconnect, Inc. kipalewi nusan %1$s pal tatentzakwa ken itekiw wan tesu tupal, wan  <a href=\"%2$s\">GNU General Public License v3</a> kituktia pal tiwelit tikitat <a href=\"%3$s\">here</a>."
+msgstr "Disconnect, Inc. kipalewi nusan iwan %1$s pal tatentzakwa ken itekiw tepal ipanpa ne <a href=\"%2$s\">GNU General Public License v3</a> wan tiwelit tikitat nikan <a href=\"%3$s\">here</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1400,7 +1400,7 @@ msgstr "Mugustoskia asu timetzmakat tay tiweliskia tikishtemua?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Asu tikneki ma timetzmakakan tay tikishtemua %1$s muneki kituktilia tay titajkwilua tik ne barraj ipal ne dirección pal ne mutatemuliani kishtemua mupatka. %2$s."
+msgstr "Asu tikneki ma timetzilwikan tay tikishtemua %1$s muneki kititania tay titajkwilua tik ne barraj ipal ne dirección ipal ne tepusyulu taishtemua taja tikishpejpen. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
