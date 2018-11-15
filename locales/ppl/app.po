@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-15 16:15+0000\n"
+"PO-Revision-Date: 2018-11-15 16:23+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -599,13 +599,13 @@ msgstr "Anka puliwisket ijiconoj wan kwijkwikwil"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr "Shiktzakwa JavaScript"
+msgstr "Shiktentzakwa JavaScript"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Ne iswat weli mutemiltia uk talul, melka tesu weli tekiti ken taja te tikneki"
+msgstr "Ne iswat weli mukimiltia uk talul, melka tesu weli tekiti ken taja te tikneki"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -684,7 +684,7 @@ msgstr "Shikneshti tanajnawatial ipal ne achtu iswat"
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "Shiktali se motor tatemualis"
+msgstr "Shiktali se tepusyulu taishtemua"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -710,7 +710,7 @@ msgstr "Shiktali se yankwik tepusyulu taishtemua."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "Shikishtuka ne itukay ne tepusyulu taishtemua"
+msgstr "Shiktajkwilu ne itukay ne tepusyulu taishtemua"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
@@ -728,7 +728,7 @@ msgstr "Shikpepeta ma ne tajtaketzalis ijishtemujtuk kenha ken nemi ne Machiut"
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr "Shikpupu ne tajkwilujtuk"
+msgstr "Shikpupu ne mutajkwilujtuk"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -758,19 +758,19 @@ msgstr "Itzujtzun tajtapujtuk: %1$s"
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr "Te kanaj teyek keman nikneki nimusalua"
+msgstr "Muchi yek keman nikneki nimusalua"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr "Mutemiltia"
+msgstr "Mukimiltia"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr "Sitioj ipal ne matapan kimiltijtuk"
+msgstr "Ne sitioj matapan mukimiltijtuk"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
@@ -782,7 +782,7 @@ msgstr "Ukchiupi taishpejpenalis"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr "Botonchin pal nikitayuk"
+msgstr "Botón pal nikita uksé taishpejpenalis"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -794,7 +794,7 @@ msgstr "Shu ka ishpan"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "Shiktemilti ne sitioj Matapan uksenpa"
+msgstr "Ma mukimilti ne sitioj matapan uksenpa"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -807,7 +807,7 @@ msgstr "Shimukwepa ka ipan"
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr "Makaya shiktemilti ne sitioj ne matapan"
+msgstr "Makaya shikimilti ne sitioj matapan"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
@@ -885,7 +885,7 @@ msgstr "Shiktapu"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Ne archivoj temultijtuk <b>te yawi mupupua </b> kemen tikpupua %1$s tay tikitztuk."
+msgstr "Ne archivoj temultijtuk <b>te yawi mupupua </b> kwak tikpupua %1$s tay tikitak."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -900,12 +900,12 @@ msgstr "Shikajkawa"
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr "Shitemulti"
+msgstr "Shiktemulti"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr "Se uijkayu panuk keman mutemultia ne iswat"
+msgstr "Se uijkayu panuk keman mukimiltia ne iswat"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
@@ -948,7 +948,7 @@ msgstr ""
 "        <li>Shikpepeta ne dirección pal tikita su nemi ejerror kenha ken\n"
 "          <strong>ww</strong>.example.com ipatka\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Su tesu tiweli tikimiltia nian se sitioj, shikpepeta ne dajdatoj ipal mutanutzalis ush su ne Wi-Fi salujtuk nemi.</li>\n"
+"        <li>Su tesu tiweli tikimiltia nian se sitioj, shikpepeta ne titanti ipal mutanutzalis ush su ne Wi-Fi salujtuk nemi.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -1019,7 +1019,7 @@ msgstr "Ups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr "Anka se te kiajkawa mutemiltia ini iswat."
+msgstr "Anka se te kiajkawa mukimiltia ini iswat."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
