@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-14 19:51+0000\n"
+"PO-Revision-Date: 2018-11-15 04:48+0000\n"
 "Last-Translator: Alexander Parada <alessaux@outlook.es>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -34,7 +34,7 @@ msgstr "Shikajkawa"
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
 msgid "OK"
-msgstr "Yek"
+msgstr "Yeka"
 
 msgctxt "action_save"
 msgid "Save"
@@ -51,19 +51,19 @@ msgid ""
 "Browse. Erase. Repeat."
 msgstr ""
 "Shipashalu ichtaka senpa.\n"
-"Shipashalu. Shitapupulu. Shikchiwa uksenpa."
+"Shipashalu. Shitapupu. Shikchiwa uksenpa."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a browsing session
 msgctxt "feedback_erase"
 msgid "Your browsing history has been erased."
-msgstr "Mupupujtuk mutatemulis panutuk."
+msgstr "Mupupujtuk tay tiktemuj yewa."
 
 #. "Snackbar" shown after the user has pressed the 'erase' button at the end
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr "Ne tay titajtachiatuya tik ne ijitzun mupupujtuk."
+msgstr "Mupupujtuk tay titajtachiatuya tik ne ijitzun."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -144,18 +144,18 @@ msgstr "Tapachiwiani tentzaktuk"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr "Su tiksewia yaja weli kiekchiwa sejse uijkayu"
+msgstr "Su tiksewia yajini, yaja weli kiekchiwa sejse uijkayu"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr "Shiktentzakwa ne tay nemi kalijtik"
+msgstr "Shiktentzakwa ne tay nemi ka ijtik"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr "Shiksewi pal tiekchiwa sejse sitioj"
+msgstr "Shiksewi pal tikekchiwa sejse sitioj"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -179,7 +179,7 @@ msgstr "Shiktakuli tik"
 #. button in the application.
 msgctxt "notification_erase_text"
 msgid "Erase browsing history"
-msgstr "Shikpupu mutatemulis panutuk"
+msgstr "Ma mupupu tay niktemuj yewa"
 
 #. Notification action to open Focus and resume the current browsing session.
 msgctxt "notification_action_open"
@@ -204,7 +204,7 @@ msgstr "Shikpupu"
 #. Android recommends a maximum length          of 25 characters.
 msgctxt "shortcut_erase_long_label"
 msgid "Erase browsing history"
-msgstr "Shikpupu mutatemulis panutuk"
+msgstr "Shikpupu tay niktemuj yewa"
 
 #. On Android 7+ users can add a shortcut for erasing the browsing history to
 #. the home screen.          This is the label for this shortcut. Android
@@ -253,7 +253,7 @@ msgstr ""
 "  </ul>\n"
 "</p>\n"
 "<p>Mozilla kichiwtuk ne %1$s. Tiknekit tikajsit tikpiat ne Wey Matat yek wan tapujtuk.<br/>\n"
-"<a href=\"%2$s\">Learn more</a></p>"
+"<a href=\"%2$s\">Shikmatiuk</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -263,7 +263,7 @@ msgstr "Ichtakachiwalis wan tamanawilis"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr "Kan tikishpejpena ne tapachiwiani, cookies, wan tamatil"
+msgstr "Kan tikishpejpena ne tapachiwiani, cookies, wan titanti"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
@@ -310,11 +310,11 @@ msgstr "Ne tajtachialis achtutalijtuk, itzujtzun, taketzalis"
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr "Kan tiksenputzua tamatil wan ken tikwi"
+msgstr "Kan tiksenputzua titanti wan ken tikwi"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr "Shiktemu"
+msgstr "Shikishtemu"
 
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
@@ -326,12 +326,12 @@ msgstr "Shikneshti tay niweliskia nikishtemua"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr "%1$s yawi kituktia tay titajkwilua tik ne barraj ipal dirección tik ne motor tatemualis"
+msgstr "%1$s yawi kititania tay titajkwilua tik ne barraj ipal dirección tik ne motor tatemualis"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr "Achtu configuración"
+msgstr "Ne achtutalijtuk"
 
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
@@ -391,7 +391,7 @@ msgstr "Shiktekitali ne tepewa"
 #. a new screen to add a new URL to the list.
 msgctxt "preference_autocomplete_action_add"
 msgid "+ Add custom URL"
-msgstr "+Shiktalili ne mu-URL"
+msgstr "+ Shiktalili ne mu-URL"
 
 #. Title of the screen for adding custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_add"
@@ -412,12 +412,12 @@ msgstr "Shiktali se ilpika pal temi isel"
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
 msgid "Cookies and Site Data"
-msgstr "Cookies wan ne idatoj ne sitioj"
+msgstr "Cookies wan ne itamanti ne sitioj"
 
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr "Kan tikishpejpena ne tamatil"
+msgstr "Kan tikishpejpena ne titanti"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -519,7 +519,7 @@ msgstr "Muishtukaktuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaj
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Shiktentzakwa ujukseuk tapachiwiani"
+msgstr "Shiktentzakwa ujukseuk tapachiwiani ipal tay kipia kalijtik"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -622,7 +622,7 @@ msgstr "Mozilla"
 
 msgctxt "preference_mozilla_telemetry2"
 msgid "Send usage data"
-msgstr "Shiktitani ne tamatil ipanpa keski seujti nipashalua"
+msgstr "Shiktitani ne titanti ipanpa keski seujti nipashalua"
 
 #. A link to SUMO at the end of the summary
 #. (preference_mozilla_telemetry_summary2) of the "Send anonymous usage data"
@@ -1187,7 +1187,7 @@ msgstr "Shiktemulti Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s te metztajtanilia mutumin wan Mozilla wan sejseuk metzchiwilijtiwit mupal."
+msgstr "%1$s te metztajtanilia mutumin wan Mozilla wan sejseuk kichijtiwit mupal."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1440,7 +1440,7 @@ msgid ""
 " Try turning off Tracking Protection"
 msgstr ""
 "Ne sitioj te tekiti ken tikneki?\n"
-" Anka shiksewi Tamanawalis itech Tapachiwiani"
+" Anka su tiksewia Tamanawalis itech Tapachiwiani"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
