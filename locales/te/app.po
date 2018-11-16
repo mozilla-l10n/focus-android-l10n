@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-13 11:44+0000\n"
+"PO-Revision-Date: 2018-11-16 12:40+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: te <LL@li.org>\n"
 "Language: te\n"
@@ -147,7 +147,7 @@ msgstr ""
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "విషయ నిరోధం"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
@@ -355,7 +355,7 @@ msgstr "URL స్వయంపూర్తి"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "మేటి సైట్లకు"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
@@ -366,7 +366,7 @@ msgstr ""
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "మీరు జోడించిన సైట్లకు"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
@@ -376,13 +376,13 @@ msgstr ""
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "సైట్ల నిర్వహణ"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "సైట్లను నిర్వహించండి"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -1506,7 +1506,7 @@ msgstr ""
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "మారు"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
@@ -1517,7 +1517,7 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "సురక్షిత విహరణ"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1549,7 +1549,7 @@ msgstr "తొలగించు"
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "అన్ని వెబ్‌సైట్లను తీసివేయి"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
@@ -1559,7 +1559,7 @@ msgstr ""
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "క్షమించండి. ఈ ట్యాబులో ఏదో సమస్య ఉంది."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
@@ -1569,7 +1569,7 @@ msgstr ""
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "ట్యాబును మూసివేయి"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
