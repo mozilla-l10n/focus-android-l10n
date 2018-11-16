@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-03 01:32+0000\n"
+"PO-Revision-Date: 2018-11-16 03:00+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
@@ -43,7 +43,7 @@ msgstr "Chuva´a"
 #. This text is shown in the URL bar when it's empty
 msgctxt "urlbar_hint"
 msgid "Search or enter address"
-msgstr "Nánuku a xiin chu´un iin nuu"
+msgstr "Nánuku a xíín chu´un iin nuu"
 
 msgctxt "teaser"
 msgid ""
@@ -68,7 +68,7 @@ msgstr "Daa nnánukunu nnaá nuu pestaña."
 #, c-format
 msgctxt "search_hint"
 msgid "Search for %1$s"
-msgstr "Nuku jii %1$s"
+msgstr "Nánuku %1$s"
 
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
@@ -441,7 +441,7 @@ msgstr "URL a tee"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Tee a xiin chu´un URL"
+msgstr "Tee a xíín chu´un URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -593,7 +593,7 @@ msgstr "Chiyu´u tu´un web"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Kuvi tuvi íconos a xiin nkutuvi tutu natava"
+msgstr "Kuvi tuvi íconos a xíín nkutuvi tutu natava"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
@@ -928,7 +928,7 @@ msgstr "A netu nnɨ´ɨ nuu conexión"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr "Ntu nani´í kaa servidor"
+msgstr "Ntu nani´í ka̱a̱ servidor"
 
 msgctxt "error_hostLookup_message"
 msgid ""
