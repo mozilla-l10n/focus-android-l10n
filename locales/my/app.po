@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 07:53+0000\n"
+"PO-Revision-Date: 2018-11-17 08:22+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -1540,12 +1540,12 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "ခြွင်းချက်များ"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "သင်သည် ထိုဝဘ်ဆိုက်များအတွက် Content Blocking ကို ပိတ်ထားသည်။"
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1565,34 +1565,34 @@ msgstr "တပ်ဗ် ရပ်ဆိုင်းသွားသည်"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "ဝမ်းနည်းပါတယ်။ ယခုတပ်ဗ်တွင် ပြဿနာတစ်ခု ရှိနေပါသည်။"
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "တစ်ကိုယ်ရေသုံး ဘရောင်ဇာတစ်ခု ဖြစ်သည့်အတွက် ယခုတပ်ဗ်ဆိုင်ရာ မှတ်တမ်းများကို မသိမ်းပါ၊ ထို့ပြင် ၎င်းတပ်ဗ်ကို ပြန်၍ဖွင့်မရနိုင်ပါ။"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "တပ်ဗ်ကို ပိတ်ပါ"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "ဝမ်းနည်းပါတယ်။ %1$s တွင် ပြဿနာတစ်ခု ပေါ်ခဲ့သဖြင့် ရပ်ဆိုင်းသွားသည်။"
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "တစ်ကိုယ်ရေသုံး ဘရောင်ဇာတစ်ခု ဖြစ်သည့်အတွက် သင်နောက်ဆုံးအသုံးပြုခဲ့သည့် မှတ်တမ်းများကို မသိမ်းပါ၊ ထို့ပြင် ၎င်းကို ပြန်၍ဖွင့်မရနိုင်ပါ။"
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "ပိတ်ပါ"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
