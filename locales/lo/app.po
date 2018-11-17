@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 08:52+0000\n"
+"PO-Revision-Date: 2018-11-17 09:08+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -378,13 +378,13 @@ msgstr "ເປີດນຳໃຊ້ autocomplete ທີ່ມີຫລາຍກ�
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "ຄຸ້ມຄອງເວັບໄຊທ"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "ຄຸ້ມຄອງເວັບໄຊທ"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -406,7 +406,7 @@ msgstr "ເພີ່ມ URL ທີ່ກຳນົດເອງ"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "ເພີ່ມລີ້ງເຂົ້າໄປ autocomplete"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -537,7 +537,7 @@ msgstr "ບໍ່"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "ບັອກຕົວຕິດຕາມຄຸກກີ້ຈາກບຸກຄົນທີ່ສາມເທົ່ານັ້ນ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -781,7 +781,7 @@ msgstr "ຕົວເລືອກເພີ່ມເຕີມ"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "ປຸ່ມຕົວເລືອກເພີ່ມເຕີມ"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1019,7 +1019,7 @@ msgstr "ພວກເຮົາບໍ່ສາມາດໂຫລດຫນ້າເ
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "ເປີດດ້ວຍແອັບ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1486,7 +1486,7 @@ msgstr "ຕ້ອງການເຫັນໄຊສຳລັບເດສທ້ອ
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "ປິດເຄັດລັບໃນໜ້າຈໍເລີ່ມຕົ້ນ"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1499,101 +1499,101 @@ msgstr ""
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "ເປີດແທັບໃຫມ່ແລ້ວ"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "ສະລັບ"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "ສະລັບໄປຫາແທັບໃຫມ່ທັນທີ"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "ການທ່ອງເວັບແບບປອດໄພ"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "ບັອກເວັບໄຊທທີ່ເປັນອັນຕະລາຍ ແລະ ຕົ້ມຕຸນ"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "ບັອກເວັບໄຊທຕົ້ມຕຸນ ແລະ ຈູ່ໂຈມ, ເວັບໄຊທີ່ມີມອລແວ ແລະ ເວັບໄຊທທີ່ມີຊັອບແວທີ່ບໍ່ຕ້ອງການຕາມທີ່ໄດ້ຮັບການລາຍງານ."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "ຍົກເວັ້ນ"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "ທ່ານໄດ້ປິດຕົວບັອກເນື້ອຫາສຳລັບເວັບໄຊທເຫລົ່ານີ້."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "ລຶບ"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "ລຶບເວັບໄຊທທັງຫມົດ"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "ແທັບຂັດຂ້ອງ"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "ຂໍອະໄພ ພວກເຮົາກຳລັງບັນຫາກັບແທັບນີ້"
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "ໃນເວັບບຣາວເຊີແບບສ່ວນຕົວ ພວກເຮົາບໍ່ໄດ້ບັນທຶກ ແລະ ບໍ່ສາມາດກູ້ຄືນແທັບນີ້ໄດ້."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "ປິດແທັບ"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "ຂໍ​ອະໄພ %1$s ມີບັນຫາ ແລະ ຂັດຂ້ອງ"
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "ໃນເວັບບຣາວເຊີແບບສ່ວນຕົວ ພວກເຮົາບໍ່ໄດ້ບັນທຶກ ແລະ ບໍ່ສາມາດກູ້ຄືນ session ການທ່ອງເວັບຄັ້ງທີ່ຜ່ານມາຂອງທ່ານໄດ້."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "ປິດ"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "ເລີ່ມການເຮັດວຽກ %1$s ໃຫມ່"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "ສົ່ງລາຍງານການຂັດຂ້ອງໄປຫາ Mozilla"
