@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 00:11+0000\n"
+"PO-Revision-Date: 2018-11-17 00:17+0000\n"
 "Last-Translator: Luis Flores Martínez <lufom90@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -282,7 +282,7 @@ msgstr "Tin kwentaj an %1$s, tolmixtaláb"
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr "K'anix abal yab kit elan"
+msgstr "K'anix abal yab ka exláj jant'oj a aliyamal"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
@@ -493,11 +493,11 @@ msgstr "Tsinataláb"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Ka kuba' axi in aliyal an olnom"
+msgstr "Yab ka jila' kit olchin axi nujuwáb"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Wa'ats i olnom axi ti ts'u'tal tam a tsa'biyal wa'ats an xeklek, yab in t'ajál max yab a ni'al eblim jaj"
+msgstr "Wa'ats axi in olnál an nujnél, ani in tsu'tal jant'oj a met'al al an xeklek axi a tsa'biyal, aba' ij ka ni'a' eblim al an olchixtaláb"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
