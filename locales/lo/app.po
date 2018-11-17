@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 09:08+0000\n"
+"PO-Revision-Date: 2018-11-17 10:09+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -304,7 +304,7 @@ msgstr "ທົ່ວໄປ"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "ບຣາວເຊີຫລັກ, ແທັບ, ພາສາ"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -1495,6 +1495,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"ເວັບໄຊທທີ່ເຊື່ອຖືໄດ້ບໍ່?\n"
+" Allowlist ໄດ້ປິດຕົວປ້ອງກັນການຕິດຕາມສໍາລັບເວັບໄຊທທີ່ທ່ານຮູ້ ແລະ ເຊື່ອຖື."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
