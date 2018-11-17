@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-16 23:49+0000\n"
+"PO-Revision-Date: 2018-11-17 00:11+0000\n"
 "Last-Translator: Luis Flores Martínez <lufom90@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -261,14 +261,14 @@ msgstr "Tsinataláb ani belkadhtaláb"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr "Abal ka takuy tin kwentaj an alim, cookies, kwetém kidhbax"
+msgstr "Alim, cookies, a k'al"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr "Ka punuw abal ka kalej ok'ox an kwetém kidhbax"
+msgstr "An eyendhanél axi a takuyamal, kwetem kidhbax"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -303,7 +303,7 @@ msgstr "Tin patál"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Ok'ox eyendhanél, xeklek, káwintal"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -430,7 +430,7 @@ msgstr "Ka exla' más"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "Ka punuw ani ka t'ojojoy an kwetém kidhbax URL axi tsab bijidh."
+msgstr "Ka punuw ani ka t'ojojoy an kwetém kidhbax URL."
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -647,7 +647,7 @@ msgstr "Tin kwentaj an tsinaxtaláb"
 #, c-format
 msgctxt "preference_about"
 msgid "About %1$s"
-msgstr "Tolmixtaláb %1$s"
+msgstr "Tin kwentaj an %1$s"
 
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
@@ -1079,7 +1079,7 @@ msgstr "A alimtal jant'in tat a le'"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "¿A aliyal jant'oj pil? Ka t'ojojoy pil i alim abal ka ok'ox tejwa'mej."
+msgstr "¿A aliyal jant'oj pil? Ka t'ojojoy pil i alim."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1337,7 +1337,7 @@ msgstr "Eyendhanél abal an ts'ejkom"
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
 msgid "Advanced"
-msgstr "Axi k'ibat"
+msgstr "Axi lej ebál in tsap"
 
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
@@ -1511,7 +1511,7 @@ msgstr ""
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Ka japiy al jún i it xeklek"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
