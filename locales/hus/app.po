@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 20:31+0000\n"
+"PO-Revision-Date: 2018-11-17 20:39+0000\n"
 "Last-Translator: Luis Flores Martínez <lufom90@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -63,7 +63,7 @@ msgstr "Pakuwatits an dhuchlab xi in olnál jant'oj a aliyamal."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Pakuwatits an dhuchlab xi in olnál jant'oj a aliyamal."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -220,7 +220,7 @@ msgstr ""
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "Ka pakuw ani ka japiy %1$s"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -279,7 +279,7 @@ msgstr "An eyendhanél axi a takuyamal, kwetem kidhbax"
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
-msgstr "Tin kwentaj an %1$s, tolmixtaláb"
+msgstr "Tin kwentaj %1$s, tolmixtaláb"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -363,7 +363,7 @@ msgstr ""
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "ka lek'wtsiy abal kin kwetém kidhbay 450 i URLs abal ebál, axi lej exladh, ti jolataláb ju'taj it alim."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -374,7 +374,7 @@ msgstr ""
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "ka lek'wtsiy abal kin kwetém kidhbay 450 i URLs abal ebál, axi lej exladh, ti jolataláb ju'taj it alim."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -538,7 +538,7 @@ msgstr "Ibaj"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Ka kuba' an cookies xi in k'al pil jita'"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -1490,7 +1490,7 @@ msgstr "A le' ka meta' an xeklek ta mexajil%1$s Takuxtaláb > Ka konoy an xeklek
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Ka tepdha' an kawchix axi ti olchal ti ok'ox xeklek"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1546,7 +1546,7 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Ka pakuw"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
