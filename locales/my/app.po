@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 08:22+0000\n"
+"PO-Revision-Date: 2018-11-17 08:44+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -362,7 +362,7 @@ msgstr "ထိပ်တန်းဆိုက်များအတွက်"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "လူသိများသော URL အခု 450 ကျော် ကို အသုံးပြုနိုင်ရန် လိပ်စာဘားတန်းတွင် အလိုအလျောက်ဖြည့်သော လုပ်ဆောင်ချက်ကို ဖွင့်ပါ။"
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -373,7 +373,7 @@ msgstr "သင်ရွေးချယ်ထားသော ဝဘ်ဆို�
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "လိပ်စာဘားတွင် နာမည်ကြီးသောURLs 450ကျော်ကိုဖြည့်စွက်မှုဖွင့်ပါ"
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -1535,7 +1535,7 @@ msgstr "အန္တရာယ်ရှိပြီး လှည့်ဖြာ�
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "အစီရင်ခံစာတင်ထားသော တိုက်ခိုက်မှုပြုတတ်သည့်ဆိုက်များကို ဖျောက်ပါ"
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1599,9 +1599,9 @@ msgstr "ပိတ်ပါ"
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s ကို ပြန်စပါ"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Mozillaသို့ ပျက်စီးမှုအစီရင်ခံစာပို့ပါ"
