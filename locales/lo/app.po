@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 02:45+0000\n"
+"PO-Revision-Date: 2018-11-17 05:32+0000\n"
 "Last-Translator: Saikeo <kavhanxay@hotmail.com>\n"
 "Language-Team: lo <LL@li.org>\n"
 "Language: lo\n"
@@ -143,18 +143,18 @@ msgstr "ຕົວຕິດຕາມໄດ້ຖືກບັອກ"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "ການປິດສິງນີ້ອາດຈະຊ່ວຍແກ້ໄຂບັນຫາບາງຢ່າງຂອງເວັບໄຊທໄດ້"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "ການບັອກເນື້ອຫາ"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "ປິດເພື່ອແກ້ໄຂບາງບັນຫາຂອງເວັບໄຊທ"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -210,7 +210,7 @@ msgstr "ລຶບປະຫວັດການທ່ອງເວັບ"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "ລຶບແລ້ວເປີດ"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -219,7 +219,7 @@ msgstr ""
 #, c-format
 msgctxt "shortcut_erase_and_open_long_label"
 msgid "Erase and open %1$s"
-msgstr ""
+msgstr "ລຶບ ແລະ ເປີດ %1$s"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
