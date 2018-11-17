@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 05:32+0000\n"
+"PO-Revision-Date: 2018-11-17 05:49+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -537,7 +537,7 @@ msgstr "မဟုတ်ပါ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "အခြားသူများ၏ နောက်ယောင်ခံ ကိရိယာများကိုသာ တားဆီးပါ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -781,7 +781,7 @@ msgstr "နောက်ထပ် ရွေးချယ်စရာများ"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "အခြားဆောင်ရွက်နိုင်သည်များ ခလုတ်"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1021,7 +1021,7 @@ msgstr "အခြားအကြောင်းအရာများ ရှိ�
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "အက်ပ်ဖြင့် ဖွင့်ပါ"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1492,7 +1492,7 @@ msgstr "ဒက်စတော့ဆိုက်ကိုသာ ကြည့်�
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "စတင်အသုံးရန် မျက်နှာပြင်တွင် အကြံပြုချက်များ ပြသခြင်းကို ပိတ်ပါ"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1501,27 +1501,29 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"ယုံကြည်ရသော ဝဘ်ဆိုက်များ ဖြစ်ပါသလား။\n"
+" Allowlist သည် သင်သိပြီး ယုံကြည်သော ဝဘ်ဆိုက်များအတွက်သာ ခြေရာခံကာကွယ်မှုကို ပိတ်ပါသည်။"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "တပ်ဗ်အသစ် ဖွင့်ထားသည်"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "ပြောင်းလဲအသုံးပြုရန်"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "လင့်ခ်ကို ချက်ခြင်း တပ်ဗ်အသစ်ထဲတွင် အသုံးပြုရန်"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "လုံခြုံသော ရှာဖွေခြင်း"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
