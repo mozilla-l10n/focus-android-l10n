@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 07:11+0000\n"
+"PO-Revision-Date: 2018-11-17 07:15+0000\n"
 "Last-Translator: Nur Fahmia <nfahmia.id@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -155,7 +155,7 @@ msgstr "Blokir kontèn"
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Patèni kanggo ndandani sawetara situs"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -326,12 +326,12 @@ msgstr ""
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "Mesin panggolèk"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
 msgid "On"
-msgstr ""
+msgstr "Uripké"
 
 #. Text that is shown below a "switch" preference that is disabled.
 msgctxt "preference_state_off"
@@ -417,7 +417,7 @@ msgstr ""
 #. A link to SUMO at autocomplete settings.
 msgctxt "preference_autocomplete_learn_more"
 msgid "Learn more"
-msgstr ""
+msgstr "Sinau liyané"
 
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
