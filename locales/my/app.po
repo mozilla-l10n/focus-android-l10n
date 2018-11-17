@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 05:49+0000\n"
+"PO-Revision-Date: 2018-11-17 07:53+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -1529,7 +1529,7 @@ msgstr "လုံခြုံသော ရှာဖွေခြင်း"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "အန္တရာယ်ရှိပြီး လှည့်ဖြားတတ်သည့် ဝဘ်ဆိုက်များကို တားဆီးပါ"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
@@ -1550,17 +1550,17 @@ msgstr ""
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "ဖယ်ရှားပါ"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "ဝဘ်ဆိုက်အားလုံးကို ဖယ်ရှားပါ"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "တပ်ဗ် ရပ်ဆိုင်းသွားသည်"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
