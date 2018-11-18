@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-18 03:31+0000\n"
+"PO-Revision-Date: 2018-11-18 03:35+0000\n"
 "Last-Translator: Nur Fahmia <nfahmia.id@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -658,7 +658,7 @@ msgstr "+Tambah mesin panggolèk liyané"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr ""
+msgstr "Busak mesin panggolèk"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -668,14 +668,14 @@ msgstr "Busak"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "Tuduhaké tip layar"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr ""
+msgstr "Tambah mesin panggolèk"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -1194,21 +1194,21 @@ msgstr "Jeneng Panganggo"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Tembung wadi"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Busak"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Sambungan aman"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "Sambungan ora aman"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
@@ -1223,17 +1223,17 @@ msgstr ""
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL wis ana"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Golèki ing kaca"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "Golekì ing kaca"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1241,7 +1241,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d / %2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1249,7 +1249,7 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d saka %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
@@ -1282,7 +1282,7 @@ msgstr "Jeneng Panganggo"
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Tembung wadi"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
