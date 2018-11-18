@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-17 07:15+0000\n"
+"PO-Revision-Date: 2018-11-18 03:31+0000\n"
 "Last-Translator: Nur Fahmia <nfahmia.id@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -407,7 +407,7 @@ msgstr ""
 #. Preference category for settings about data choices
 msgctxt "preference_category_data_choices"
 msgid "Data Choices"
-msgstr ""
+msgstr "Pilihan Data"
 
 #. Title of the screen for removing custom autocomplete URLs.
 msgctxt "preference_autocomplete_title_remove"
@@ -643,18 +643,18 @@ msgstr "Ngenani %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr ""
+msgstr "Mesin panggolèk sing wis dipasang"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr ""
+msgstr "Mulihaké mesin panggolèk standar"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr ""
+msgstr "+Tambah mesin panggolèk liyané"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
