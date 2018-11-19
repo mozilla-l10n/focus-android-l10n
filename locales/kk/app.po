@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-18 16:08+0000\n"
+"PO-Revision-Date: 2018-11-19 16:30+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: kk <LL@li.org>\n"
 "Language: kk\n"
@@ -362,18 +362,18 @@ msgstr "Үздік сайттар үшін"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Адрестік жолақта 450-ден астам әйгілі URL-ды автотолықтыру үшін іске қосыңыз."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Қосылатын сайттар үшін"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Адрестік жолақта 450-ден астам әйгілі URL-ды автотолықтыру үшін іске қосыңыз."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -406,7 +406,7 @@ msgstr "Таңдауыңызша URL қосу"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Автотолықтыру үшін сілтемені қосу"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -537,7 +537,7 @@ msgstr "Жоқ"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Тек үшінші жақты cookies файлдарын бұғаттау"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -781,7 +781,7 @@ msgstr "Көбірек опциялар"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Қосымша опциялар батырмасы"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1492,7 +1492,7 @@ msgstr "Жұмыс үстелге арналған толық өлшемді к�
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Іске қосу экранында кеңестерді сөндіру"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1501,6 +1501,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Сенімді сайт па?\n"
+" Рұқсат тізімі өзіңіз білетін және сенетін сайттар үшін бақылаудан қорғанысты сөндіреді."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1515,7 +1517,7 @@ msgstr "Ауысу"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Жаңа бетке тура ауысу"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1533,17 +1535,17 @@ msgstr "Қауіпті және алдамшы болуы мүмкін сайт�
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Хабарланған алмамшы, шабуылшы, зиянкес және қаламайтын БҚ орнататын сайттарды бұғаттау."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Ережеден бөлек"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Бұл веб-сайттар үшін құраманы бұғаттауды сөндіргенсіз."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
