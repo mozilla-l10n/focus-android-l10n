@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-20 06:01+0000\n"
+"PO-Revision-Date: 2018-11-20 06:26+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -495,7 +495,7 @@ msgstr "Tay nemi ichtaka"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Shiktentzakwa ne tapachiwiani ipal anuncioj"
+msgstr "Shiktentzakwa ne tapachiwiani ipal tanawatilis"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -511,7 +511,7 @@ msgstr "Ipal tiksentalia, tikishpepeta wan tiktamachiwa tajtaya kwak titamatuka 
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Shiktentzakwa ne tajtapachiwiani kimatit kan tinemi"
+msgstr "Shiktentzakwa ne tapachiwiani kimati kan tinejnemi"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -534,7 +534,7 @@ msgstr "Shiktentzakwa cookies"
 #. blocked)
 msgctxt "preference_privacy_should_block_cookies_no_option"
 msgid "No"
-msgstr "Te"
+msgstr "Tesu"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
@@ -677,7 +677,7 @@ msgstr "Shikishti"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr "Shikneshti tanajnawatial ipal ne achtu iswat"
+msgstr "Ma nesikan tanajnawatial tik ne achtu iswat"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -1315,7 +1315,7 @@ msgstr "Muneki ma shina kaj taja"
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr "Mukwachtuyak"
+msgstr "Mukwachtukay"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
@@ -1325,7 +1325,7 @@ msgstr "Constraseñaj"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr "Shikita ne version ipal ne tajkwilultapech"
+msgstr "Shikita version tajkwilultapech"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
