@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-20 04:29+0000\n"
+"PO-Revision-Date: 2018-11-20 06:01+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1087,14 +1087,14 @@ msgstr "Tikishtemua seuk? Shikishpejpena ukse mutatemuliani kan titajshitia."
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr "Shiktalili ne achtu iswat se atajoj"
+msgstr "Shiktali tamelawka tik ne achtu iswat"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Shimukwepa ka ne sitioj kan mugustuj tipashalua %1$s talul. Semaya shikishpejpena \"Shiktalili tik ne Achtu Iswat\" itech ne menú %1$s."
+msgstr "Shimukwepa ka ne sitioj kan mugustuj tipashalua %1$s talul. Semaya shikishpejpena \"Shiktali tik ne Achtu Iswat\" itech ne menú %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1144,7 +1144,7 @@ msgstr "Shikajkawa"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr "Ne tamelawalis tapui iwan ne Tamanawalis itech Tapachiwiani sewtuk"
+msgstr "Ne tamelawka tapui kwak sewtuk ne Tamanawilis itech Tapachiwiani"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
