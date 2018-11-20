@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-20 15:49+0000\n"
+"PO-Revision-Date: 2018-11-20 16:03+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -507,7 +507,7 @@ msgstr "Shiktentzakwa ne tapachiwiani tapepeta"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Ipal tiksentalia, tikishpepeta wan tiktamachiwa tajtaya kwak titamatuka wan titamatilua"
+msgstr "Ipal tiksentalia, tikishpepeta wan tiktamachiwa tajtaya kwak titatasa wan titamatilua"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -1188,7 +1188,7 @@ msgstr "Shiktemulti Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s te metztajtanilia mutumin wan Mozilla wan sejseuk kichijtiwit mupal."
+msgstr "%1$s te metztajtanilia tumin wan yaja se software ipal walajkewalis tapujtuk. Mozilla wan sejseuk kichijtiwit mupal."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1214,7 +1214,7 @@ msgstr ""
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Ukse %1$s tikwi ken tikneki <a href=\"%2$s\">wan nujme ne kipiat \"código fuente\" ipal</a>."
+msgstr "Ukse icodigoj walajkewalis ipal %1$s weli muajsi tik sejseuk walajkewalis te mutashtawia wan tapujtuk <a href=\"%2$s\">licenciaj</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1223,7 +1223,7 @@ msgstr "Ukse %1$s tikwi ken tikneki <a href=\"%2$s\">wan nujme ne kipiat \"códi
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "Disconnect, Inc. kipalewi nusan iwan %1$s pal tatentzakwa ken itekiw tepal ipanpa ne <a href=\"%2$s\">GNU General Public License v3</a> wan tiwelit tikitat nikan <a href=\"%3$s\">here</a>."
+msgstr "%1$s nusan kikwi ne ilistaj Disconnect, Inc. pal tatentzakwa ken itekiw tepal wan isel tik ne <a href=\"%2$s\">GNU Licenciaj General Public v3</a>, wan weli muita <a href=\"%3$s\">nikan</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1447,7 +1447,7 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Shikpachu sema senpa pal tikalaki tik ne ijiswat taja tikita mas%1$s Menu > Shiktalili tik Achtu Iswat"
+msgstr "Shiktasa sema senpa pal tikalaki tik ne ijiswat taja tikita mas%1$s Menu > Shiktalili tik Achtu Iswat"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
