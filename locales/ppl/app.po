@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-20 06:26+0000\n"
+"PO-Revision-Date: 2018-11-20 14:51+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -314,12 +314,12 @@ msgstr "Kan tiksenputzua titanti wan ken tikwi"
 
 msgctxt "preference_category_search"
 msgid "Search"
-msgstr "Shikishtemu"
+msgstr "Shiktemu"
 
 #. Title of "switch" preference that enables/disables search suggestions
 msgctxt "preference_show_search_suggestions"
 msgid "Get search suggestions"
-msgstr "Shikneshti tay niweliskia nikishtemua"
+msgstr "Shikneshti tay niweliskia niktemua"
 
 #. Description of the preference that enables/disables search suggestions
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
@@ -336,7 +336,7 @@ msgstr "Ne achtutalijtuk"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr "Tepusyulu taishtemua"
+msgstr "Tepusyulu tatemua"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -515,7 +515,7 @@ msgstr "Shiktentzakwa ne tapachiwiani kimati kan tinejnemi"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Muishtukaktuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaja tekiti kenha ken ne bojbotón pal tiktakulia"
+msgstr "Muishtukatuk kan tipashalua pal metzishpelwia wan pal kineshtia ken yaja tekiti kenha ken ne bojbotón pal tiktakulia"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -652,7 +652,7 @@ msgstr "Ipanpa %1$s"
 #. Header for the list of installed search engines
 msgctxt "preference_search_installed_search_engines"
 msgid "Installed search engines"
-msgstr "Tejtepusyulu taishtemuat ajajshitilijtuk"
+msgstr "Tejtepusyulu tatemuat ajajshitilijtuk"
 
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
@@ -663,11 +663,11 @@ msgstr "Shimukwepa ka achtutalijtuk motor tatemua"
 #. used to emphasize that this is an "add" action
 msgctxt "preference_search_add2"
 msgid "+ Add another search engine"
-msgstr "+ Shiktali seuk tepusyulu taishtemua"
+msgstr "+ Shiktali seuk tepusyulu tatemua"
 
 msgctxt "preference_search_remove_title"
 msgid "Remove search engines"
-msgstr "Shikishti muchi ne tepusyulu taishtemua"
+msgstr "Shikishti muchi ne tepusyulu tatemua"
 
 msgctxt "preference_search_remove"
 msgid "Remove"
@@ -684,7 +684,7 @@ msgstr "Ma nesikan tanajnawatial tik ne achtu iswat"
 #. field)
 msgctxt "action_option_add_search_engine"
 msgid "Add search engine"
-msgstr "Shiktali se tepusyulu taishtemua"
+msgstr "Shiktali se tepusyulu tatemua"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
@@ -692,7 +692,7 @@ msgstr "Shiktemu ne itukay ne motor"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr "Search string to use"
+msgstr "Ne tajtaketzalis yawit mutemuat"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
@@ -706,15 +706,15 @@ msgstr "Machiut: machiut.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr "Shiktali se yankwik tepusyulu taishtemua."
+msgstr "Shiktali se yankwik tepusyulu tatemua."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr "Shiktajkwilu ne itukay ne tepusyulu taishtemua"
+msgstr "Shiktajkwilu ne itukay ne tepusyulu tatemua"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr "Seuk tepusyulu taishtemua kipiaya ne sesan itukay."
+msgstr "Seuk tepusyulu tatemua kipiaya ne sesan itukay."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
@@ -722,7 +722,7 @@ msgstr "Shiktemu tay tikneki"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr "Shikpepeta ma ne tajtaketzalis ijishtemujtuk kenha ken nemi ne Machiut"
+msgstr "Shikpepeta ma ne tajtaketzalis tejtemujtuk kenha ken nemi ne Machiut"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -964,7 +964,7 @@ msgid ""
 msgstr ""
 "<ul>\n"
 "  <li> Ne direccion web nesi kenha ken <strong>http://www.example.com/</strong></li>\n"
-"  <li> Shikishtemu uksenpa asu tikwi tinemi ne barraj ishpilkatuk (i.e.: <strong>/</strong>).</li>\n"
+"  <li> Shiktemu uksenpa asu tikwi tinemi ne barraj ishpilkatuk (i.e.: <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1082,7 +1082,7 @@ msgstr "Ken tikneki titatemua"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Tikishtemua seuk? Shikishpejpena ukse mutatemuliani kan titajshitia."
+msgstr "Tiktemua seuk? Shikishpejpena ukse mutatemuliani kan titajshitia."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1168,7 +1168,7 @@ msgstr "Tanamikilis pal tipashalua ichtaka"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Titantik metzajkawa tikpupua %1$s pashalulis semaya asu tikpachua. Tea muneki ma shiktapu ne apliacion ush shikita tay panu tik ne tajtachialis."
+msgstr "Titantik metzajkawa tikpupua %1$s pashalulis semaya asu tikpachua. Tea muneki ma shiktapu ne aplicacion ush shikita tay panu tik ne tajtachialis."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1347,7 +1347,7 @@ msgstr "Tapanawilis"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr "Shitayekchiwa wejka iwan USB/Wi-Fi"
+msgstr "Shitayekchiwa wejka ipanpa ne USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
@@ -1392,7 +1392,7 @@ msgstr "Tikpanultij mumapipil sujsul talul. Shikejeku uksenpa."
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr "Mugustoskia asu timetzmakat tay tiweliskia tikishtemua?"
+msgstr "Tiknekiskia ma timetzmakat tay tiweliskia tiktemua?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1401,7 +1401,7 @@ msgstr "Mugustoskia asu timetzmakat tay tiweliskia tikishtemua?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Asu tikneki ma timetzilwikan tay tikishtemua %1$s muneki kititania tay titajkwilua tik ne barraj ipal ne dirección ipal ne tepusyulu taishtemua taja tikishpejpen. %2$s."
+msgstr "Asu tikneki ma timetzilwikan tay tiktemua %1$s muneki kititania tay titajkwilua tik ne barraj ipal ne dirección ipal ne tepusyulu taishtemua taja tikishpejpen. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1423,7 +1423,7 @@ msgstr "Eje"
 #. suggestions
 msgctxt "no_suggestions_message"
 msgid "Some search engines cannot show suggestions."
-msgstr "Sejse tepusyulu taishtemuat te welit tanawatiat."
+msgstr "Sejse tepusyulu tatemuat te welit tanawatiat."
 
 #. Button to dismiss the message displayed  when using a search engine that
 #. doesn't provide suggestions
@@ -1542,7 +1542,7 @@ msgstr "Shiktentzakwa ne sijsitioj tesajsay wan tashijshikuani, sitioj malware. 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr "Tay te nemi muishtukaktuk"
+msgstr "Tay te nemi muishtukatuk"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
