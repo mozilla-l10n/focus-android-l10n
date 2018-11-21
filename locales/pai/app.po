@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-11 20:48+0000\n"
-"Last-Translator: Armandina <argoncas58@gmail.com>\n"
+"PO-Revision-Date: 2018-11-21 17:17+0000\n"
+"Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: pai\n"
@@ -78,7 +78,7 @@ msgstr "Mkwimu…"
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
 msgid "Report Site Issue"
-msgstr "Wawchuha chlyeebha paytum jwaknaabchu"
+msgstr "Wawchuha klyeebha paytum jwaknaabchu"
 
 #. Menu item: Switch to another browser to open the currently visible page.
 #. %1$s will be       replaced with the name of the browser like: "Open in
@@ -148,12 +148,12 @@ msgstr "Chwichu yak yoya mchubowutemum amchuhal chatewulim chajankyawyu"
 #. current website.
 msgctxt "menu_content_blocking"
 msgid "Content Blocking"
-msgstr ""
+msgstr "Mtbspachmwir amchu ñulyoom mchajanhikyawa"
 
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Mtubspach amchu ñulyom mchajanhikyawa"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -209,7 +209,7 @@ msgstr "Sal amchu mujiñ"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "Ŕmar e sol"
 
 #. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
 #. shows this          instead of the short title when it has enough space.
@@ -299,7 +299,7 @@ msgstr "Payt"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Sal amchu yooch, muul chmichu, kwaawchu"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -330,7 +330,7 @@ msgstr "Ñub ik chmiich"
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
 msgid "Search engine"
-msgstr ""
+msgstr "Chŕmeechu"
 
 #. Text that is shown below a "switch" preference that is enabled.
 msgctxt "preference_state_on"
@@ -352,34 +352,34 @@ msgstr "URL yeemik chublwi"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "Amchu kajan kajanu"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Nmakchum 450 chayoomm chublwiich paa katee uchu URLs wachu tñurchuhal."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Wachuha sal chmiich"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Mnmakchum 450 chayoomm chublwich paa katee URLs tñur chmichu hal chmii."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Waachu ñumtrcheech"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Waachu numtrcheech"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -401,7 +401,7 @@ msgstr "URL yeemik wii jam sal chmii"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Jabchu yemik matchublwiibu"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -532,7 +532,7 @@ msgstr "Pem"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "T´am 3 nyumuk cookies uj nyaamch jmuuk jmuukum"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -555,7 +555,7 @@ msgstr "Ŕalum mchknaa sak muyok mjab hikyawa"
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "Mŕal yal hay chsol kyaaw yuyi %1$s o URL ŕit kur sol ñwam. Sigiil hay yemik soola."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -777,7 +777,7 @@ msgstr "Chwichu terab"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Tawiinchu chaterab kyaaw"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -853,7 +853,7 @@ msgstr "Aplicacion ŕit jabchu solum mŕmee"
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "Aplicacion dispositiiv mwi ŕitulik yak yoya soltema. %1$s myaam %2$s mŕmee aplicación ŕit kwa solhikyawa."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
