@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-22 14:44+0000\n"
+"PO-Revision-Date: 2018-11-22 15:12+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -595,7 +595,7 @@ msgstr "Shiktentzakwa ne tajkwilultzin ipal ne Matapan"
 #. use icons/images from a font and those do not show up if fonts are blocked.
 msgctxt "preference_performance_block_webfonts_summary"
 msgid "May result in missing icons or images"
-msgstr "Anka puliwisket ijiconoj wan kwijkwikwil"
+msgstr "Anka puliwiskiat ijiconoj wan kwijkwikwil"
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
@@ -657,7 +657,7 @@ msgstr "Tejtepusyulu tatemuat ajajshitilijtuk"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "Shimukwepa ka achtutalijtuk motor tatemua"
+msgstr "Shimukwepa ka achtutalijtuk tepusyulu tatemua"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
@@ -688,7 +688,7 @@ msgstr "Shiktali se tepusyulu tatemua"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr "Shiktemu ne itukay ne motor"
+msgstr "Shiktemu ne itukay ne tepusyulu tatemua"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
@@ -718,7 +718,7 @@ msgstr "Seuk tepusyulu tatemua kipiaya ne sesan itukay."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr "Shiktemu tay tikneki"
+msgstr "Shiktajkwilu tay tikneki tiktemua"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
@@ -813,14 +813,14 @@ msgstr "Makaya shikimilti ne sitioj matapan"
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr "Shimukwepa ka ne aplicación panutuk"
+msgstr "Shimukwepa ne aplicación panutuk"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the ImageView in the menu that displays          the number
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr "Keski tapachiwiani ishtzaktuk"
+msgstr "Tapual ipal tapachiwiani tentzaktuk"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -885,7 +885,7 @@ msgstr "Shiktapu"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Ne archivoj temultijtuk <b>te yawi mupupua </b> kwak tikpupua %1$s tay tikitak."
+msgstr "Ne archivoj temultijtuk <b>te yawi mupupua </b> kwak tikpupua %1$s tay tikitak yewa."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
