@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-22 15:12+0000\n"
+"PO-Revision-Date: 2018-11-22 15:31+0000\n"
 "Last-Translator: Garysqo <garyspleen@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -978,7 +978,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li> Anka panu ika seujseujti tesu tikneki metzkwikwi ne cookies. </li>\n"
+"  <li>Ini uijkayu anka panu ika seujseujti tesu tikneki tikajkawa tekitit ne cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -992,12 +992,12 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li> Anka ukse programaj muneki ma shikajshiti pal ne direccion nesi. </li> \n"
+"  <li>Anka ukse programaj muneki ma muajshiti pal tapui ne direccion.</li> \n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr "Tesu muajshitij ne conexión seguruj"
+msgstr "Tesu muajsik ne conexión seguruj"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -1009,7 +1009,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li> Yajini anka se ujkayu iwan ken muajshitij ne servidor, ush anka se akaj kineki kichiwa personificar ne servidor.</li>\n"
+"  <li> Yajini anka se ujkayu iwan ken muajshitij ne servidor, ush anka akaj kineki kichiwa personificar ne servidor.</li>\n"
 "    <li> Su taja timusalujtuk itech ini servidor achtu, ne error anka tesu ishtuna, ush tiweli tikejekua uksenpa nemanha.</li>\n"
 "</ul>"
 
@@ -1061,7 +1061,7 @@ msgstr "Shiktapu ne ilpika tik ukse itzun"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Ne kwijkwil muantuk wan mutakulijtuk <b>tesu yawi mupuluat</b> keman tikpupua ne tay tikitak ipanpa %1$s."
+msgstr "Ne kwijkwil muantuk wan mutakulijtuk <b>tesu yawi mupuluat</b> keman tikpupua ne tay tikitak yewa %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1082,7 +1082,7 @@ msgstr "Ken tikneki titatemua"
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Tiktemua seuk? Shikishpejpena ukse mutatemuliani kan titajshitia."
+msgstr "Tiktemua seuk? Shikajshiti ukse achtutalijtuk tepusyulu tatemua."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1094,7 +1094,7 @@ msgstr "Shiktali tamelawka tik ne achtu iswat"
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Shimukwepa ka ne sitioj kan mugustuj tipashalua %1$s talul. Semaya shikishpejpena \"Shiktali tik ne Achtu Iswat\" itech ne menú %1$s."
+msgstr "Shimukwepa tik ne sitioj kan mugustuj tipashalua %1$s talul. Semaya shikishpejpena \"Shiktali tik ne Achtu Iswat\" itech ne menú %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1168,13 +1168,13 @@ msgstr "Tanamikilis pal tipashalua ichtaka"
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Titantik metzajkawa tikpupua %1$s pashalulis semaya asu tikpachua. Tea muneki ma shiktapu ne aplicacion ush shikita tay panu tik ne tajtachialis."
+msgstr "Tajtanawatilis metzajkawat tikpupua mu%1$s tanamikilis kan tiktasa iwan mumapipil. Te nemi pal tiktapu ne aplicacion ush pal tikita tay panu tik ne tajtachialis."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr "Shikpupu kan tipashaluj"
+msgstr "Shikpupu kan tipashaluj yewa"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1293,7 +1293,7 @@ msgstr "%1$d ipal %2$d"
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr "Shikajsi tay yawi kisa uksenpa"
+msgstr "Shikajsi tay yawi kisa nemanha"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
@@ -1310,7 +1310,7 @@ msgstr "Maka shikwi tay muajsik tik ne iswat"
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr "Muneki ma shina kaj taja"
+msgstr "Nemi pal tina kaj taja"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
@@ -1320,7 +1320,7 @@ msgstr "Mukwachtukay"
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr "Constraseñaj"
+msgstr "Ichtaka taketzalis"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
