@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-14 13:53+0000\n"
+"PO-Revision-Date: 2018-11-22 10:11+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -136,7 +136,7 @@ msgstr "Quyền lợi của bạn"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Số lượng theo dõi bị chặn"
+msgstr "Trình theo dõi đã chặn"
 
 #. Menu item: This is the subtitle for the Trackers blocked menu entry that
 #. shows how many     trackers have been blocked for the currently loaded
@@ -819,7 +819,7 @@ msgstr "Quay về ứng dụng trước đó"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr "Số trình theo dõi bị chặn"
+msgstr "Số trình theo dõi đã chặn"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
