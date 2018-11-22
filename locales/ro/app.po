@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-22 19:07+0000\n"
+"PO-Revision-Date: 2018-11-22 19:16+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -325,7 +325,7 @@ msgstr "Obține sugestii de căutare"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr "%1$s va trimite ce tastezi în bara de adrese la motorul de căutare"
+msgstr "%1$s va trimite ce tastezi în bara de adresă la motorul de căutare"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -362,7 +362,7 @@ msgstr "Pentru site-uri de top"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Activează pentru a completa automat peste 450 de URL-uri populare în bara de adrese."
+msgstr "Activează pentru a completa automat peste 450 de URL-uri populare în bara de adresă."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -373,7 +373,7 @@ msgstr "Pentru site-uri pe care le adaugi"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Activează pentru a completa automat peste 450 de URL-uri populare în bara de adrese."
+msgstr "Activează pentru a completa automat peste 450 de URL-uri populare în bara de adresă."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -1401,7 +1401,7 @@ msgstr "Dorești să activezi sugestiile de căutare?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Pentru a obține sugestii de căutare, %1$s trebuie să trimită ce tastezi în bara de adrese la motorul de căutare ales. %2$s."
+msgstr "Pentru a obține sugestii de căutare, %1$s trebuie să trimită ce tastezi în bara de adresă la motorul de căutare ales. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1471,7 +1471,7 @@ msgid ""
 " Long-press any URL in the address bar"
 msgstr ""
 "Completează automat URL-urile site-urilor pe care intri des\n"
-" Apasă lung pe orice URL din bara de adrese"
+" Apasă lung pe orice URL din bara de adresă"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
