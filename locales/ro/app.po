@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-22 19:16+0000\n"
+"PO-Revision-Date: 2018-11-24 02:12+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -136,7 +136,7 @@ msgstr "Drepturile tale"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "Urmăritori blocați"
+msgstr "Elemente de urmărire blocate"
 
 #. Menu item: This is the subtitle for the Trackers blocked menu entry that
 #. shows how many     trackers have been blocked for the currently loaded
@@ -494,7 +494,7 @@ msgstr "Confidențialitate"
 
 msgctxt "preference_privacy_block_ads"
 msgid "Block ad trackers"
-msgstr "Blochează urmăritorii publicitari"
+msgstr "Blochează elementele de urmărire publicitare"
 
 msgctxt "preference_privacy_block_ads_summary"
 msgid "Some ads track site visits, even if you don’t click the ads"
@@ -502,7 +502,7 @@ msgstr "Anumite reclame urmăresc vizitele pe site, chiar dacă nu dai clic pe r
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
-msgstr "Blochează urmăritorii analitici"
+msgstr "Blochează elementele de urmărire analitice"
 
 msgctxt "preference_privacy_block_analytics_summary"
 msgid "Used to collect, analyze and measure activities like tapping and scrolling"
@@ -510,7 +510,7 @@ msgstr "Folosit pentru a colecta, analiza și măsura activități precum atinge
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
-msgstr "Blochează urmăritorii rețelelor sociale"
+msgstr "Blochează elementele de urmărire ale rețelelor sociale"
 
 msgctxt "preference_privacy_block_social_summary"
 msgid "Embedded on sites to track your visits and to display functionality like share buttons"
@@ -518,7 +518,7 @@ msgstr "Încorporat în site-uri pentru a-ți urmări vizitele și a afișa func
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
-msgstr "Blochează alți urmăritori de conținut"
+msgstr "Blochează alte elemente de urmărire de conținut"
 
 msgctxt "preference_privacy_block_content_summary2"
 msgid "Enabling may cause some pages to behave unexpectedly"
@@ -819,14 +819,14 @@ msgstr "Întoarce-te la aplicația anterioară"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr "Numărul de urmăritori blocați"
+msgstr "Numărul de elemente de urmărire blocate"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr "Blochează urmăritorii"
+msgstr "Blochează elementele de urmărire"
 
 msgctxt "your_rights"
 msgid "Your Rights"
