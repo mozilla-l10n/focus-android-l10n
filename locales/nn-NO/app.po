@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-26 01:26+0000\n"
+"PO-Revision-Date: 2018-11-26 01:44+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -362,7 +362,7 @@ msgstr "For toppnettsider"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Aktiver for å autofullføre meir enn 450 populære nettadresser i adressefeltet."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -373,7 +373,7 @@ msgstr "For nettsider du legg til"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Aktiver for å autofullføre meir enn 450 populære nettadresser i adressefeltet."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -1528,13 +1528,13 @@ msgstr "Trygg nettlesing"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Blokker potensielt farlege og villeiande nettsider"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blokker rapporterte villeiande- og angrepsnettsider, skadeprogram-nettsider og uønskte programvarenettsider."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1544,7 +1544,7 @@ msgstr "Unntak"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Du har slått av innhaldsblokkering for desse nettsidene."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1564,12 +1564,12 @@ msgstr "Fana krasja"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Orsak. Vi har eit problem med denne fana."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Som ein privat nettlesar lagrar vi aldri og kan ikkje gjenopprette denne fana."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1581,12 +1581,12 @@ msgstr "Lat att fane"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Orsak. %1$s hadde problem og krasja."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Som ein privat nettleser lagrar vi aldri og kan ikkje gjenopprette den siste nettlesarøkta di."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
