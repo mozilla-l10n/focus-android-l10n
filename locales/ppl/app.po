@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-26 00:18+0000\n"
-"Last-Translator: Garysqo <garyspleen@gmail.com>\n"
+"PO-Revision-Date: 2018-11-26 03:57+0000\n"
+"Last-Translator: Alexander Parada <alessaux@outlook.es>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: ppl\n"
@@ -1392,7 +1392,7 @@ msgstr "Tikpanultij mumapipil sujsul talul. Shikejeku uksenpa."
 #. Title for the prompt to enable search suggestions
 msgctxt "enable_search_suggestion_title"
 msgid "Would you like to turn on search suggestions?"
-msgstr "Tiknekiskia ma timetzmakat tay tiweliskia tiktemua?"
+msgstr "Tiknekiskia ma timetzmakakan tay tiweliskia tiktemua?"
 
 #. Description for the prompt to enable search suggestions         %1$s will
 #. be replaced by the app name (e.g. Firefox Focus)         %2$s will be
@@ -1401,7 +1401,7 @@ msgstr "Tiknekiskia ma timetzmakat tay tiweliskia tiktemua?"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
 msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Asu tikneki ma timetzilwikan tay tiktemua %1$s muneki kititania tay titajkwilua tik ne barraj ipal ne dirección ipal ne tepusyulu taishtemua taja tikishpejpen. %2$s."
+msgstr "Asu tikneki ma timetzilwikan tay tiktemua, %1$s muneki kititania tay titajkwilua tik ne barraj ipal ne dirección ipal ne tepusyulu taishtemua taja tikishpejpen. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
