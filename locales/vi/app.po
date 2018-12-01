@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-22 10:11+0000\n"
+"PO-Revision-Date: 2018-12-01 14:47+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -28,7 +28,7 @@ msgstr ""
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
 msgid "Cancel"
-msgstr "Hủy"
+msgstr "Hủy bỏ"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_ok"
@@ -243,7 +243,7 @@ msgid ""
 "<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
-"<p>%1$s giúp bạn kiểm soát.</p>\n"
+"<p>%1$s giúp bạn kiểm soát mọi thứ.</p>\n"
 "<p>Sử dụng nó như một trình duyệt riêng tư:\n"
 "  <ul>\n"
 "    <li>Tìm kiếm và duyệt ngay trong ứng dụng</li>\n"
@@ -269,7 +269,7 @@ msgstr "Theo dõi, cookie, lựa chọn dữ liệu"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr "Đặt mặc định, tự đồng điền"
+msgstr "Đặt làm mặc định, tự đồng điền"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
