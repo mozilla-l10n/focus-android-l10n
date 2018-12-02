@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-10 14:27+0000\n"
+"PO-Revision-Date: 2018-12-02 07:01+0000\n"
 "Last-Translator: صفا الفليج <safa1996alfulaij@gmail.com>\n"
 "Language-Team: ar <LL@li.org>\n"
 "Language: ar\n"
@@ -779,7 +779,7 @@ msgstr "المزيد من الخيارات"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "زر ”خيارات أخرى“"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1498,6 +1498,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"أهذا موقع موثوق؟\n"
+" تُعطّل قائمة السماح الحمايةَ من التعقّب في المواقع التي تعرفها وتثق بها."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
