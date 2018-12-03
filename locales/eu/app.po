@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 09:46+0000\n"
-"Last-Translator: Txopi <txopi@ikusimakusi.eus>\n"
+"PO-Revision-Date: 2018-12-03 09:39+0000\n"
+"Last-Translator: julenx <julenx@gmail.com>\n"
 "Language-Team: eu <LL@li.org>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
@@ -141,7 +141,7 @@ msgstr "Blokeatutako elementuak"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "Hau itzaltzeak zenbait guneren arazoak konpon litzake"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -152,7 +152,7 @@ msgstr "Edukia blokeatzea"
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Itzali zenbait gune konpontzeko"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -302,7 +302,7 @@ msgstr "Orokorra"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Nabigatzaile lehenetsia, fitxak, hizkuntza"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -355,23 +355,23 @@ msgstr "URLen osatze automatikoa"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "Gune erabilienetarako"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Gaituz gero, helbide-barran automatikoki osatuko dira 450 URL ezagun baino gehiago."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Gehitzen dituzun guneetarako"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Gaituz gero, helbide-barran automatikoki osatuko dira 450 URL ezagun baino gehiago."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -404,7 +404,7 @@ msgstr "Gehitu URL pertsonalizatua"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Gehitu automatikoki osatzeko lotura"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -535,7 +535,7 @@ msgstr "Ez"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Blokeatu soilik hirugarrenen jarraipen-cookieak"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -779,7 +779,7 @@ msgstr "Aukera gehiago"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Aukera gehiagorako botoia"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1021,7 +1021,7 @@ msgstr "Ezin dugu orri hau kargatu arrazoi ezezagun batengatik."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Ireki aplikazioarekin"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1492,7 +1492,7 @@ msgstr "Nahiago duzu mahaigaineko gune osoa ikusi?%1$s Menua > Mahaigaineko gune
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Desgaitu hasierako pantailako aholkuak"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1501,39 +1501,41 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Gune fidagarria?\n"
+"Baimentze-zerrendak jarraipenaren babesa desgaitzen du ezagutzen dituzun eta fidagarriak zaizkizun guneetarako."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "Fitxa berria irekita"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Aldatu"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Aldatu berehala loturara fitxa berrian"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Nabigatze segurua"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Blokeatu arriskutsuak eta iruzurtiak izan litezkeen guneak"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Blokeatu iruzurti eta erasotzaile gisa identifikatutako guneak, hala nola malwarea eta eskatu gabeko softwarea duten guneak."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1543,7 +1545,7 @@ msgstr "Salbuespenak"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Edukia blokeatzea desgaitu duzu gune hauetarako."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1563,7 +1565,7 @@ msgstr "Fitxak huts egin du"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Barkatu. Arazo bat izaten ari gara fitxa honekin."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
