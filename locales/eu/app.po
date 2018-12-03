@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-03 09:39+0000\n"
+"PO-Revision-Date: 2018-12-03 09:40+0000\n"
 "Last-Translator: julenx <julenx@gmail.com>\n"
 "Language-Team: eu <LL@li.org>\n"
 "Language: eu\n"
@@ -1570,7 +1570,7 @@ msgstr "Barkatu. Arazo bat izaten ari gara fitxa honekin."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Nabigatzaile pribatu gisa, inoiz ez dugu ezer gordetzen eta ezin dugu fitxa hau berreskuratu."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1582,12 +1582,12 @@ msgstr "Itxi fitxa"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Barkatu. %1$s(e)k arazo bat izan du eta huts egin du."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Nabigatzaile pribatu gisa, inoiz ez dugu ezer gordetzen eta ezin dugu zure azken nabigazio-saioa berreskuratu."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
