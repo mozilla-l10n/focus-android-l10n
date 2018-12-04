@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-04 18:30+0000\n"
+"PO-Revision-Date: 2018-12-04 18:43+0000\n"
 "Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -949,6 +949,10 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Tñuur kwimchu Web ha pichtem yabyu tñurb <strong>http://www.example.com/</strong></li>\n"
+"  <li>M'uhmajanuk trchech chu ñum mtrech mwahay oblicua yuwu (o yabyuya <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
@@ -989,6 +993,10 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Ya Chajanchu paa kubtarha aay kos jantem me, o ñika aay paa kubtarha uchpach kabyuya.</li>\n"
+"  <li>Kur raab paa kubtaar yal mchpaachum w´ŕitum myuso, ch´chamchu yay kaŕitl kjkee ñubyumyus mtkweek mwiyik.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
@@ -996,12 +1004,12 @@ msgstr "Ups"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "Ñukweek aaw namaan tñur ŕmrrchuya, kos jukeewchu yuu tem."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Aplicación num msol"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1011,7 +1019,7 @@ msgstr "Jabchu paa maat eecha"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Tñur kwiimchu sak chpachu mtkweek mtñuri"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
@@ -1021,7 +1029,7 @@ msgstr "Tñurch paa eem"
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Tñur uchú hal mtkweek mtñuri"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
@@ -1031,66 +1039,66 @@ msgstr "Tñurch chgo"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Tñur chmichu jkaayk msol"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Tñur chkwach hay ee maat emch hay <b>kos ŕput tem a</b> %1$s kur rabb mtñur kjkeech ha kos poktema."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Myeemik chumwiwuha ta mwiluk"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Sal amchu ksool tpayha myaabraab mwaam. Cehapayt jkay knawchu ee jkay sal yak chumwiwu hal jaab wawchu t´t´orum kyakhal unuu tñur kwimch kajanha chmii chum."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Myeemik, chmŕmeewu"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "¿Ñukwee jkaayum yakum mŕmee´e? Chajanchu kur sal chmiich ha chubowu wiiha myok."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Pantaal kajanha wayiibraw sal mchmii"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Amchu jnmiraabhal %1$s hal khal koha wamyiibraw sal mtkweek. \"Tñur kwimch namanchuhal mchmii\" im myok %1$s chnamanchuhal."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Myeemik chmwiwuha myok majanuk"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s ha sal amchu kajan mik mchmii pay sal amchu myeemik mwii ha kabuwu ha m´uk aplicación o tñur kwimch web hal amchu ha payrum m´uu."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "¡M´eb´e!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Kos ñulm´ebtem"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
@@ -1120,7 +1128,7 @@ msgstr "Tubspach"
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Mir mir januk jabchuha ñsool ŕbok janchu ha kos bootem sola"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1131,7 +1139,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Chyunch sal amchu ŕ´aap"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1144,7 +1152,7 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Chknaabchuhay chynchu ha %1$s ah ŕmara tawinch ŕisum. Kos aplicación ha msol yaŕaaltem o sal amchuhay boo kwawu uch yutem."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1158,7 +1166,7 @@ msgstr "Sal amchu mujiñ"
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Firefox munaal"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
