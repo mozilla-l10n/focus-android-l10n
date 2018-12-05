@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-04 23:06+0000\n"
-"Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
+"PO-Revision-Date: 2018-12-05 19:34+0000\n"
+"Last-Translator: Armandina <argoncas58@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: pai\n"
@@ -1178,7 +1178,7 @@ msgstr "Firefox munaal"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s software kos codig wiiytem solkyoha Mozilla ha ee jkay kubtar cyobchya."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1335,14 +1335,14 @@ msgstr ""
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr ""
+msgstr "Ñulyomuk tkryeechu USB/Wi-Fi nyaam"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Soolch %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
