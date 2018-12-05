@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-05 21:52+0000\n"
+"PO-Revision-Date: 2018-12-05 21:53+0000\n"
 "Last-Translator: صفا الفليج <safa1996alfulaij@gmail.com>\n"
 "Language-Team: ar <LL@li.org>\n"
 "Language: ar\n"
@@ -1532,7 +1532,7 @@ msgstr "احجب المواقع التي قد تكون ضارة وخدّاعة"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "احجب المواقع التي لها بلاغ بأنها ضارة أو هجومية، أو فيها ما هو ضار أو ما هو غير مرغوب من برمجيات."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1584,7 +1584,7 @@ msgstr "نأسف. واجه %1$s مشكلة وانهار."
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "باعتبار هذا متصفح خاص، لن نحفظ آخر جلسة تصفّح لك ولا نقدر على استعادتها."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
