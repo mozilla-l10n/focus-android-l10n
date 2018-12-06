@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-04 04:58+0000\n"
+"PO-Revision-Date: 2018-12-06 10:57+0000\n"
 "Last-Translator: robbp <robbpaun@gmail.com>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -870,7 +870,7 @@ msgstr "Ieși din navigarea privată?"
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr "%1$s s-a încheiat"
+msgstr "%1$s terminat"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
