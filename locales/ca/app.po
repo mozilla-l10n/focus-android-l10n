@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-06 21:52+0000\n"
+"PO-Revision-Date: 2018-12-06 22:12+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -60,7 +60,7 @@ msgstr "S'ha esborrat l'historial de navegació."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "S'ha esborrat l'historial de navegació de la pestanya."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -141,7 +141,7 @@ msgstr "Elements blocats"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "Si es desactiva, pot ser que s'arreglin problemes amb alguns llocs"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -152,7 +152,7 @@ msgstr "Bloqueig de contingut"
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Desactiveu-ho per arreglar problemes amb alguns llocs"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -376,13 +376,13 @@ msgstr "Activeu-ho per permetre l'emplenament automàtic més de 450 URL popular
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Gestiona els llocs"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Gestiona els llocs"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -404,7 +404,7 @@ msgstr "Afegeix URL personalitzat"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Afegeix l'enllaç a l'emplenament automàtic"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -535,7 +535,7 @@ msgstr "No"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Bloca només les galetes de seguiment de tercers"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -779,7 +779,7 @@ msgstr "Més opcions"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "Botó de més opcions"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1019,7 +1019,7 @@ msgstr "No s'ha pogut carregar aquesta pàgina per algun motiu."
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Obre amb una aplicació"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1490,7 +1490,7 @@ msgstr "Preferiu veure el lloc com es mostra en l'escriptori?%1$s Menú > Mostra
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Desactiva els consells de la pantalla d'inici"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1503,101 +1503,101 @@ msgstr ""
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
 msgid "New tab opened"
-msgstr ""
+msgstr "S'ha obert una pestanya nova"
 
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "Vés-hi"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "En obrir un enllaç en una pestanya nova, vés-hi immediatament"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "Navegació segura"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Bloca els llocs potencialment perillosos i maliciosos"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Bloca els llocs atacants i els llocs amb programari maliciós i indesitjable."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "Excepcions"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Heu desactivat el bloqueig de contingut en aquests llocs web."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "Elimina"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "Elimina tots els llocs web"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "La pestanya ha fallat"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "S'ha produït un problema amb aquesta pestanya."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Com a navegador privat, aquesta pestanya no s'ha desat i, per tant, no es pot restaurar."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "Tanca la pestanya"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "El %1$s ha tingut un problema i ha fallat."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Com a navegador privat, la vostra sessió de navegació no s'ha desat i, per tant, no es pot restaurar."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "Tanca"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "Reinicia el %1$s"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Envia un informe de fallada a Mozilla"
