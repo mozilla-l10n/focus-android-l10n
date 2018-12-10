@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-04 14:13+0000\n"
-"Last-Translator: Nabeela Qadir <nabeelaqadir8@gmail.com>\n"
+"PO-Revision-Date: 2018-12-10 10:51+0000\n"
+"Last-Translator: عمر <um.qshi@gmail.com>\n"
 "Language-Team: ur <LL@li.org>\n"
 "Language: ur\n"
 "MIME-Version: 1.0\n"
@@ -357,7 +357,7 @@ msgstr "URL خودکار تکميل"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "بہترین سائٹس کے لیئے"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
@@ -677,7 +677,7 @@ msgstr "ہٹائیں"
 #. displayed when      a user first launches the app.
 msgctxt "preference_homescreen_tips"
 msgid "Show home screen tips"
-msgstr ""
+msgstr "ابتدائی صفحہ کی تجاویز دکھائیں"
 
 #. Clickable action text that shows when user long-presses on a search engine
 #. search field (this is similar to paste or copy when long-pressing a text
@@ -1332,7 +1332,7 @@ msgstr "نقل شدہ URL"
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "تخلیق کار ٹول"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1368,14 +1368,14 @@ msgstr "نیا سیشن"
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
 msgid "Fingerprint icon"
-msgstr ""
+msgstr "فنگر پرنٹ آئکن"
 
 #. Error text displayed when the user's fingerprint cannot be recognized upon
 #. re-entering the app.      This is displayed during the authentication flow
 #. as the app launches.
 msgctxt "biometric_auth_not_recognized_error"
 msgid "Fingerprint not recognized. Try again."
-msgstr ""
+msgstr "فنگر پرنٹ کی پہچان نہیں ہو سکی. دوبارہ کوشش کریں۔"
 
 #. Error text displayed when the user's fingerprint moved too quickly upon
 #. re-entering the app     This is displayed during the authentication flow as
@@ -1549,7 +1549,7 @@ msgstr "تمام ویب سائٹیں ہٹائیں"
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "ٹیب تباہ ہوگیا"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
@@ -1559,7 +1559,7 @@ msgstr ""
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "ایک نجی براؤزر کے طور پر، ہم کبھی بھی اس ٹیب کو محفوظ یا بحال نہیں کرسکتے ہیں۔"
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
