@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-16 17:27+0000\n"
+"PO-Revision-Date: 2018-12-16 17:39+0000\n"
 "Last-Translator: Michal Stanke <mstanke@mozilla.cz>\n"
 "Language-Team: cs <LL@li.org>\n"
 "Language: cs\n"
@@ -656,7 +656,7 @@ msgstr "Nainstalované vyhledávače"
 #. Action for restoring the default list of search engines
 msgctxt "preference_search_restore"
 msgid "Restore default search engines"
-msgstr "Obnovit výchozí sadu vyhledávačů"
+msgstr "Obnovit výchozí seznam vyhledávačů"
 
 #. Action for adding an additional search engine to the list.     The "+" is
 #. used to emphasize that this is an "add" action
