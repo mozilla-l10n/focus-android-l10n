@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-04 16:14+0000\n"
-"Last-Translator: goofy <goofy@babelzilla.org>\n"
+"PO-Revision-Date: 2018-12-20 18:07+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -526,7 +526,7 @@ msgstr "Activer cette option peut provoquer des problèmes sur certaines pages"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
-msgstr "Interdire les cookies"
+msgstr "Bloquer les cookies"
 
 #. Three options for Cookie blocking. Yes (All cookies Blocked), Block
 #. 3rd-party cookies     only (Only 3rd-party Cookies Blocked), No (No cookies
@@ -541,7 +541,7 @@ msgstr "Bloquer uniquement les cookies tiers utilisés pour le pistage"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
-msgstr "Interdire les cookies tiers uniquement"
+msgstr "Bloquer les cookies tiers uniquement"
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
