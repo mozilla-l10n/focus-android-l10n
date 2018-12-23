@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-23 16:01+0000\n"
+"PO-Revision-Date: 2018-12-23 17:16+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -304,7 +304,7 @@ msgstr "Γενικά"
 #. can find in this category
 msgctxt "preference_general_summary"
 msgid "Default browser, tabs, language"
-msgstr ""
+msgstr "Προεπιλεγμένο πρόγραμμα περιήγησης, καρτέλες, γλώσσα"
 
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
@@ -537,7 +537,7 @@ msgstr "Όχι"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Φραγή μόνο των cookies ιχνηλάτη τρίτων"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -1496,7 +1496,7 @@ msgstr "Προτιμάτε την πλήρη έκδοση για υπολογι�
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Απενεργοποίηση συμβουλών στην αρχική οθόνη"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1584,7 +1584,7 @@ msgstr "Κλείσιμο καρτέλας"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "Συγγνώμη. Το %1$s αντιμετώπισε πρόβλημα και κατέρρευσε."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
