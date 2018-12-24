@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-23 17:16+0000\n"
+"PO-Revision-Date: 2018-12-24 21:11+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: el <LL@li.org>\n"
 "Language: el\n"
@@ -62,7 +62,7 @@ msgstr "Το ιστορικό περιήγησής έχει εκκαθαριστ
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Το ιστορικό περιήγησης καρτέλας έχει διαγραφεί."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -143,7 +143,7 @@ msgstr "Αποκλεισμένοι ιχνηλάτες"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "Η απενεργοποίηση αυτού ενδέχεται να διορθώσει μερικά προβλήματα ιστοσελίδων"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -154,7 +154,7 @@ msgstr "Φραγή περιεχομένου"
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Απενεργοποιήστε για διόρθωση μερικών ιστοσελίδων"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -362,18 +362,18 @@ msgstr "Για κορυφαίες ιστοσελίδες"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Ενεργοποιήστε για αυτόματη συμπλήρωση περισσότερων από 450 δημοφιλών URLs στη γραμμή διευθύνσεων."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Για ιστοσελίδες που προσθέτετε"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Ενεργοποιήστε για αυτόματη συμπλήρωση περισσότερων από 450 δημοφιλών URLs στη γραμμή διευθύνσεων."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -406,7 +406,7 @@ msgstr "Προσθήκη προσαρμοσμένου URL"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Προσθήκη συνδέσμου για αυτόματη συμπλήρωση"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -1505,6 +1505,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"Αξιόπιστη ιστοσελίδα;\n"
+" Το Allowlist απενεργοποιεί την Προστασία από καταγραφή για ιστοσελίδες που ξέρετε και εμπιστεύεστε."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1519,7 +1521,7 @@ msgstr "Εναλλαγή"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Άμεση εναλλαγή στο σύνδεσμο σε νέα καρτέλα"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1531,13 +1533,13 @@ msgstr "Ασφαλής περιήγηση"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Φραγή πιθανώς επικίνδυνων και παραπλανητικών ιστοσελίδων"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Φραγή παραπλανητικών ιστοσελίδων και ιστοσελίδων επιθέσεων, κακόβουλων ιστοσελίδων και ιστοσελίδων ανεπιθύμητου λογισμικού."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1547,7 +1549,7 @@ msgstr "Εξαιρέσεις"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Έχετε απενεργοποιήσει Φραγή περιεχομένου για αυτές τις ιστοσελίδες."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
@@ -1567,12 +1569,12 @@ msgstr "Η καρτέλα κατέρρευσε"
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "Συγγνώμη. Αντιμετωπίζουμε πρόβλημα με αυτή την καρτέλα."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "Ως πρόγραμμα ιδιωτικής περιήγησης, δεν αποθηκεύουμε ποτέ και δεν μπορούμε να ανακτήσουμε αυτή την καρτέλα."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1589,7 +1591,7 @@ msgstr "Συγγνώμη. Το %1$s αντιμετώπισε πρόβλημα κ
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "Ως πρόγραμμα ιδιωτικής περιήγησης, δεν αποθηκεύουμε ποτέ και δεν μπορούμε να ανακτήσουμε την τελευταία συνεδρία περιήγησής σας."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
