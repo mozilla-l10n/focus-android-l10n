@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-05 22:10+0000\n"
+"PO-Revision-Date: 2018-12-27 21:29+0000\n"
 "Last-Translator: Gisela Solis <gisela.solis.roman@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1196,6 +1196,8 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"Kos mir mir o ch´chyaabch chpayt Mozilla Fundation ŕumuul chkwiichkyaawha ñikee ñyakuham, sal Firefox ha sal yaki o %1$s logotiip o mulya, Capayt knawch jkaay m´uhik kyawa yak yak <a "
+"href=\"%2$s\">yak</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1211,7 +1213,7 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s hay list ŕ´amchu ha kwiyik ya Disconect, Inc. kwii trchech buuk yak o yemik wii yak ntpachka <a href=\"%2$s\">GNU ch´chyaabchu paa katee payt v3</a>, yal yaki <a href=\"%3$s\">yakya</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1249,7 +1251,7 @@ msgstr ""
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL kuryak"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
