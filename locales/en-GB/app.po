@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-12-31 15:03+0000\n"
+"PO-Revision-Date: 2018-12-31 15:32+0000\n"
 "Last-Translator: Ian Neal <iann_bugzilla@blueyonder.co.uk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en_GB\n"
@@ -687,47 +687,47 @@ msgstr "Add search engine"
 
 msgctxt "search_add_manually_name_hint"
 msgid "Search engine name"
-msgstr ""
+msgstr "Search engine name"
 
 msgctxt "search_add_manually_string"
 msgid "Search string to use"
-msgstr ""
+msgstr "Search string to use"
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #. Example of search engine url
 #, c-format, python-format
 msgctxt "search_add_manually_example"
 msgid "Example: example.com/search/?q=%s"
-msgstr ""
+msgstr "Example: example.com/search/?q=%s"
 
 msgctxt "search_add_confirmation"
 msgid "New search engine added."
-msgstr ""
+msgstr "New search engine added."
 
 msgctxt "search_add_error_empty_name"
 msgid "Enter search engine name"
-msgstr ""
+msgstr "Enter search engine name"
 
 msgctxt "search_add_error_duplicate_name"
 msgid "An installed search engine is already using that name."
-msgstr ""
+msgstr "An installed search engine is already using that name."
 
 msgctxt "search_add_error_empty_search"
 msgid "Enter search string"
-msgstr ""
+msgstr "Enter search string"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
+msgstr "Check that search string matches Example format"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
 msgctxt "content_description_clear_input"
 msgid "Clear input"
-msgstr ""
+msgstr "Clear input"
 
 #. Content description (not visible, for screen readers etc.): Clicking on the
 #. website overlay      while in typing mode will dismiss and go back to the
@@ -735,13 +735,13 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/50
 msgctxt "content_description_dismiss_input"
 msgid "Dismiss"
-msgstr ""
+msgstr "Dismiss"
 
 #. Content description (not visible, for screen readers etc.): Erase button:
 #. Erase the browsing      history and go back to the home screen.
 msgctxt "content_description_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Clear browsing history"
 
 #. If the user has multiple tabs open we will show an addition "floating
 #. action button" showing how many tabs are open.      This string is not
@@ -751,90 +751,90 @@ msgstr ""
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Tabs open: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Secure connection"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
 msgctxt "accessibility_announcement_loading"
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Web site loaded"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "More options"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "More options button"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
 msgctxt "content_description_forward"
 msgid "Navigate forward"
-msgstr ""
+msgstr "Navigate forwards"
 
 #. Content description (not visible, for screen readers etc.): Reload current
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr ""
+msgstr "Reload web site"
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
 msgctxt "content_description_back"
 msgid "Navigate back"
-msgstr ""
+msgstr "Navigate backwards"
 
 #. Content description (not visible, for screen readers etc.): Stop loading
 #. the current website. This button will turn into the refresh button once
 #. loading has been completed (see content_description_reload)
 msgctxt "content_description_stop"
 msgid "Stop loading website"
-msgstr ""
+msgstr "Stop loading web site"
 
 #. Content description (not visible, for screen readers etc.): Custom Tab exit
 #. button - closes the custom tab and returns to the previous app.
 msgctxt "content_description_customtab_exit"
 msgid "Return to previous app"
-msgstr ""
+msgstr "Return to previous app"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the ImageView in the menu that displays          the number
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr ""
+msgstr "Number of trackers blocked"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
 #. content blocking for the current session
 msgctxt "content_description_blocking_switch"
 msgid "Block trackers"
-msgstr ""
+msgstr "Block trackers"
 
 msgctxt "your_rights"
 msgid "Your Rights"
-msgstr ""
+msgstr "Your Rights"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Open link in another app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -842,13 +842,13 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt"
 msgid "You can leave %1$s to open this link in %2$s."
-msgstr ""
+msgstr "You can leave %1$s to open this link in %2$s."
 
 #. This text is the title of a dialog shown if no app could be found for a
 #. custom link protocol.
 msgctxt "external_app_prompt_no_app_title"
 msgid "Find an app that can open link"
-msgstr ""
+msgstr "Find an app that can open link"
 
 #. This text is shown in a dialog if no app could be found for a custom link
 #. protocol. %1$s is the name of the app (i.e. Firefox Focus) and %2$s is the
@@ -857,60 +857,60 @@ msgstr ""
 #, c-format
 msgctxt "external_app_prompt_no_app"
 msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr ""
+msgstr "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
 msgctxt "external_multiple_apps_matched_exit"
 msgid "Exit Private Browsing?"
-msgstr ""
+msgstr "Exit Private Browsing?"
 
 #. Snackbar that will be displayed after a download has completed. %1$s will
 #. be replaced with the file name.
 #, c-format
 msgctxt "download_snackbar_finished"
 msgid "%1$s finished"
-msgstr ""
+msgstr "%1$s finished"
 
 #. Snackbar action to immediately open the successfully downloaded file.
 msgctxt "download_snackbar_open"
 msgid "Open"
-msgstr ""
+msgstr "Open"
 
 #. Download dialog: Warns users that downloaded files will not be deleted even
 #. when erasing history. %1$s will be replaced with the app name (i.e. Firefox
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Download File"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #. Option in download dialogue to start a download
 msgctxt "download_dialog_action_download"
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #. The page html title (i.e. the <title> tag content)
 msgctxt "errorpage_title"
 msgid "Problem loading page"
-msgstr ""
+msgstr "Problem loading page"
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Try Again"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "Unable to connect"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -919,14 +919,18 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"      </ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
-msgstr ""
+msgstr "The connection timed out"
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Server not found"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -937,10 +941,16 @@ msgid ""
 "        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"        <li>Check the address for typing errors such as\n"
+"          <strong>ww</strong>.example.com instead of\n"
+"          <strong>www</strong>.example.com</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"      </ul>"
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "The address isn’t valid"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -949,10 +959,14 @@ msgid ""
 "  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"</ul>"
 
 msgctxt "error_redirectLoop_title"
 msgid "The page isn’t redirecting properly"
-msgstr ""
+msgstr "The page isn’t redirecting properly"
 
 msgctxt "error_redirectLoop_message"
 msgid ""
@@ -960,10 +974,13 @@ msgid ""
 "  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
 msgid "The address wasn’t understood"
-msgstr ""
+msgstr "The address wasn’t understood"
 
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
@@ -971,10 +988,13 @@ msgid ""
 "  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>You might need to install other software to open this address.</li>\n"
+"</ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
-msgstr ""
+msgstr "Secure connection failed"
 
 msgctxt "error_sslhandshake_message"
 msgid ""
@@ -985,130 +1005,136 @@ msgid ""
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
+"<ul>\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"someone trying to impersonate the server.</li>\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
+"be temporary, and you can try again later.</li>\n"
+"</ul>"
 
 msgctxt "error_generic_title"
 msgid "Oops"
-msgstr ""
+msgstr "Oops"
 
 msgctxt "error_generic_message"
 msgid "We can’t load this page for some reason."
-msgstr ""
+msgstr "We can’t load this page for some reason."
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Open with app"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr ""
+msgstr "Share link"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
 msgid "Copy link address"
-msgstr ""
+msgstr "Copy link address"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr ""
+msgstr "Share image"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
 msgid "Copy image address"
-msgstr ""
+msgstr "Copy image address"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Save image"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Open link in new tab"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
 msgid "Power up your privacy"
-msgstr ""
+msgstr "Power up your privacy"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text2"
 msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr ""
+msgstr "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Your search, your way"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
 msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr ""
+msgstr "Searching for something different? Choose another default search engine in Settings."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
 msgid "Add shortcuts to your home screen"
-msgstr ""
+msgstr "Add shortcuts to your home screen"
 
 #. First run tour (Shortcut): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
 msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr ""
+msgstr "Return to your favourite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
 msgid "Make privacy a habit"
-msgstr ""
+msgstr "Make privacy a habit"
 
 #. First run tour (Privacy): Text. %1$s will be replaced with the name of the
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "Set %1$s as your default browser and get the benefits of private browsing when you open web pages from other apps."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "OK, got it!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Skip"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
 msgctxt "content_blocking_disabled"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #. Label of the action that will add the current website to the home screen
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #. When tracking protection is disabled for the current session then we will
 #. show this warning in the "Add to home screen" dialog to          let the
@@ -1116,7 +1142,7 @@ msgstr ""
 #. disabled.
 msgctxt "dialog_addtohomescreen_tracking_protection"
 msgid "Shortcut will open with Tracking Protection disabled"
-msgstr ""
+msgstr "Shortcut will open with Tracking Protection disabled"
 
 #. The user visible name of the "notification channel" (Android 8+ feature)
 #. for the ongoing notification shown while a browsing session is active.
@@ -1127,7 +1153,7 @@ msgstr ""
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 msgctxt "notification_browsing_session_channel_name"
 msgid "Private browsing session"
-msgstr ""
+msgstr "Private browsing session"
 
 #. The user visible description of the "notification channel" (Android 8+
 #. feature) for the ongoing notification shown while a browsing session is
@@ -1140,13 +1166,13 @@ msgstr ""
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
 msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr ""
+msgstr "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
 msgctxt "tabs_tray_action_erase"
 msgid "Erase browsing history"
-msgstr ""
+msgstr "Erase browsing history"
 
 #. If the user decides to open the current page in another browser and if
 #. Firefox is not installed then we show this       item in the list of
@@ -1154,20 +1180,20 @@ msgstr ""
 #. (usually that's Google Play).
 msgctxt "download_firefox"
 msgid "Download Firefox"
-msgstr ""
+msgstr "Download Firefox"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr ""
+msgstr "%1$s is free and open source software made by Mozilla and other contributors."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
+msgstr "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public Licence</a> and other open source licences."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1178,13 +1204,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
+"You are not granted any rights or licences to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"href=\"%2$s\">here</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
+msgstr "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licences</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1193,55 +1221,55 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public Licence v3</a>, and available <a href=\"%3$s\">here</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 msgctxt "gv_prompt_password_hint"
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
 msgctxt "security_popup_secure_connection"
 msgid "Secure Connection"
-msgstr ""
+msgstr "Secure Connection"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr ""
+msgstr "Insecure Connection"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
 msgctxt "security_popup_security_verified"
 msgid "Verified by: %1$s"
-msgstr ""
+msgstr "Verified by: %1$s"
 
 #. Content Description of Security Icon in toolbar
 msgctxt "site_security_icon_content_description"
 msgid "Site Security"
-msgstr ""
+msgstr "Site Security"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr ""
+msgstr "URL already exists"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Find in Page"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
 msgid "Find in page"
-msgstr ""
+msgstr "Find in page"
 
 #. String to show the number of results found in the page and the
 #. position the user is at. The first argument is the position, the second
@@ -1249,7 +1277,7 @@ msgstr ""
 #, c-format
 msgctxt "find_in_page_result"
 msgid "%1$d/%2$d"
-msgstr ""
+msgstr "%1$d/%2$d"
 
 #. String to be read by the accessibility service presenting the number of
 #. results found in the page         and the position the user is at. The first
@@ -1257,45 +1285,45 @@ msgstr ""
 #, c-format
 msgctxt "accessibility_find_in_page_result"
 msgid "%1$d out of %2$d"
-msgstr ""
+msgstr "%1$d out of %2$d"
 
 #. String to be read by the accessibility service when focusing the next
 #. result button
 msgctxt "accessibility_next_result"
 msgid "Find next result"
-msgstr ""
+msgstr "Find next result"
 
 #. String to be read by the accessibility service when focusing the previous
 #. result button
 msgctxt "accessibility_previous_result"
 msgid "Find previous result"
-msgstr ""
+msgstr "Find previous result"
 
 #. String to be read by the accessibility service when focusing the dismiss
 #. button in the "find in page" UI
 msgctxt "accessibility_dismiss_find_in_page"
 msgid "Dismiss find in page"
-msgstr ""
+msgstr "Dismiss find in page"
 
 #. Http Authentication Popup: Title
 msgctxt "http_auth_dialog_title"
 msgid "Authentication required"
-msgstr ""
+msgstr "Authentication required"
 
 #. Http Authentication Popup: Username
 msgctxt "http_auth_dialog_username"
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #. Http Authentication Popup: Password
 msgctxt "http_auth_dialog_password"
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr ""
+msgstr "Request desktop site"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
