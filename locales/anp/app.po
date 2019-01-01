@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2019-01-01 17:45+0000\n"
+"PO-Revision-Date: 2019-01-01 17:58+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -361,7 +361,7 @@ msgstr "सर्वोच्च साइट्स खातिर"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "एड्रेस बार में 450 से अधिक लोकप्रिय URLs पर %1$s स्वत: पूर्णता लेली सक्षम करू."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
