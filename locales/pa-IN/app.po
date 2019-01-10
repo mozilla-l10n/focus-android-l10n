@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2018-11-02 17:36-0700\n"
-"PO-Revision-Date: 2018-11-06 06:44+0000\n"
+"PO-Revision-Date: 2019-01-10 06:31+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -1037,7 +1037,7 @@ msgstr "ਨਵੀਂ ਟੈਬ ਚ ਖੋਲ੍ਹੋ"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
+msgstr "ਜਦੋਂ ਤੁਸੀਂ %1$s ਅਤੀਤ ਮਿਟਾਉਂਦੇ ਹੋ ਤਾਂ ਸੰਭਾਲੇ ਅਤੇ ਸਾਂਝੇ ਕੀਤੇ ਚਿੱਤਰ <b>ਹਟਾ ਦਿੱਤੇ ਜਾਣਗੇ</b>।"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1081,7 +1081,7 @@ msgstr "ਪਰਦੇਦਾਰੀ ਨੂੰ ਆਦਤ ਬਣਾਓ"
 #, c-format
 msgctxt "firstrun_privacy_text"
 msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr ""
+msgstr "%1$s ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਰਾਊਜ਼ਰ ਬਣਾਓ ਅਤੇ ਜਦੋਂ ਹੋਰ ਐਪਾਂ ਤੋਂ ਵੈੱਬ-ਸਫ਼ੇ ਖੋਲ੍ਹਦੇ ਹੋ ਤਾਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਫਾਇਦੇ ਲਵੋ।"
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1196,7 +1196,7 @@ msgstr ""
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
+msgstr "%1$s Disconnect, Inc. ਵਲੋਂ ਪਾਬੰਦੀਸ਼ੁਦਾ-ਸੂਚੀਆਂ ਦੀ ਵਰਤੋਂ ਵੱਖਰੇ ਅਤੇ ਆਜ਼ਾਦਾਨਾ ਤੌਰ 'ਤੇ <a href=\"%2$s\">ਗਨੂ ਜਰਨਲ ਪਬਲਿਕ ਲਸੰਸ v3</a> ਦੇ ਤਹਿਤ ਕਰਦਾ ਹੈ ਅਤੇ ਇਹ <a href=\"%3$s\">ਇੱਥੇ</a> ਮੌਜੂਦ ਹੈ।"
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1453,19 +1453,20 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
+"ਲਿੰਕ ਨੂੰ ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਲ੍ਹੋ\n"
+" ਸਫ਼ੇ 'ਤੇ ਕਿਸੇ ਵੀ ਲਿੰਕ ਨੂੰ ਲੰਮਾ ਸਮਾਂ ਦਬਾਓ"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
 #. application.
-#, fuzzy
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
+msgstr "ਇਸ ਦੀ ਬਜਾਏ ਪੂਰੀ ਡੈਸਕਟਾਪ ਸਾਈਟ ਨੂੰ ਵੇਖਣਾ ਹੈ? %1$s ਮੀਨੂ> ਡੈਸਕਟਾਪ ਸਾਈਟ ਦੀ ਮੰਗ ਕਰੋ"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "ਸ਼ੁਰੂ ਵਾਲੀ ਸਕਰੀਨ ਉੱਤੇ ਸੁਝਾਅ ਬੰਦ ਕਰੋ"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1474,6 +1475,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"ਭਰੋਸੇਯੋਗ ਸਾਈਟ ਹੈ?\n"
+" ਮਨਜ਼ੂਰ-ਸੂਚੀ ਤੁਹਾਡੇ ਵਲੋਂ ਪਛਾਣੀਆਂ ਤੇ ਭਰੋਸਾ ਕੀਤੀਆਂ ਸਾਈਟਾਂ ਲਈ ਟਰੈਕ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰਦੀ ਹੈ।"
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
