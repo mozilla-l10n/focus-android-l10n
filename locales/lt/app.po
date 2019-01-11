@@ -2,23 +2,25 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-11-02 17:36-0700\n"
+"POT-Creation-Date: 2019-01-11 13:52-0800\n"
 "PO-Revision-Date: 2018-11-18 20:51+0000\n"
 "Last-Translator: Rimas Kudelis <rimas@mozilla.lt>\n"
-"Language-Team: lt <LL@li.org>\n"
 "Language: lt\n"
+"Language-Team: lt <LL@li.org>\n"
+"Plural-Forms: nplurals=4; plural=(((((n % 10) >= 2 && (n % 10) <= 9)) && "
+"(!(((n % 100) >= 11 && (n % 100) <= 19)))) ? 1 : (!((0 == 0))) ? 2 : "
+"((((n % 10) == 1)) && (!(((n % 100) >= 11 && (n % 100) <= 19)))) ? 0 : 3)"
+"\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -212,15 +214,6 @@ msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
 msgstr "Išvalyti ir atverti"
 
-#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
-#. shows this          instead of the short title when it has enough space.
-#. Android recommends a maximum length          of 25 characters.          %1$s
-#. will be replaced by the app name (e.g. Firefox Focus)
-#, c-format
-msgctxt "shortcut_erase_and_open_long_label"
-msgid "Erase and open %1$s"
-msgstr "Išvalyti ir atverti „%1$s“"
-
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
@@ -237,21 +230,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>„%1$s“ suteikia jums kontrolę.</p>\n"
 "<p>Naudokite ją kaip privačią naršyklę:\n"
 "  <ul>\n"
 "    <li>Ieškokite ir naršykite pačioje programoje</li>\n"
-"    <li>Blokuokite stebėjimo elementus (arba atnaujinkite nustatymus, jeigu norite juos leisti)</li>\n"
-"    <li>Išvalykite, norėdami pašalinti slapukus, paieškos ir naršymo žurnalus</li>\n"
+"    <li>Blokuokite stebėjimo elementus (arba atnaujinkite nustatymus, "
+"jeigu norite juos leisti)</li>\n"
+"    <li>Išvalykite, norėdami pašalinti slapukus, paieškos ir naršymo "
+"žurnalus</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>„%1$s“ yra „Mozillos“ kūrinys. Mūsų misija yra skatinti sveiką, atvirą internetą.<br/>\n"
+"<p>„%1$s“ yra „Mozillos“ kūrinys. Mūsų misija yra skatinti sveiką, atvirą"
+" internetą.<br/>\n"
 "<a href=\"%2$s\">Sužinoti daugiau</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -279,6 +277,11 @@ msgstr "Parinkite numatytąją, automatinio užbaigimo"
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
 msgstr "Apie „%1$s“, žinynas"
+
+#. Preference category for ad blocking
+msgctxt "preference_category_ad_blocking"
+msgid "Ad Blocking"
+msgstr ""
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -362,7 +365,9 @@ msgstr "Lankomiausioms svetainėms"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Įjungus, adreso lauke bus automatiškai užbaigiama virš 450 populiarių URL adresų."
+msgstr ""
+"Įjungus, adreso lauke bus automatiškai užbaigiama virš 450 populiarių URL"
+" adresų."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -371,9 +376,9 @@ msgid "For Sites You Add"
 msgstr "Svetainėms, kurias pridedate"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
-msgctxt "preference_autocomplete_user_list_summary"
-msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Įjungus, adreso lauke bus automatiškai užbaigiama virš 450 populiarių URL adresų."
+msgctxt "preference_autocomplete_user_list_description"
+msgid "Enable to autocomplete sites you add here."
+msgstr ""
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -492,37 +497,63 @@ msgctxt "preference_category_privacy"
 msgid "Privacy"
 msgstr "Privatumas"
 
-msgctxt "preference_privacy_block_ads"
-msgid "Block ad trackers"
-msgstr "Blokuoti reklaminius stebėjimo elementus"
+msgctxt "preference_privacy_ads_block_ads"
+msgid "Block ads and other annoyances"
+msgstr ""
 
-msgctxt "preference_privacy_block_ads_summary"
-msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Kai kurios reklamos stebi svetainių aplankymus, net jeigu ir nespustelite jų."
+#. Description for the toggle to block ads and some other annoyances on the
+#. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
+#. Annoyance" or "777Guard Mobile Ad Filter"
+msgctxt "preference_privacy_ads_block_ads_summary"
+msgid ""
+"Stops ads and other annoyances using block lists from Easylist, "
+"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
 msgstr "Blokuoti analizės stebėjimo elementus"
 
-msgctxt "preference_privacy_block_analytics_summary"
-msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Naudojama rinkti, analizuoti ir matuoti tokias veiklas, kaip bakstelėjimai ir slinkimas"
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "Blokuoti reklaminius stebėjimo elementus"
+
+#. Description for the toggle that blocks and remove ads from webpages that
+#. are designed to track your visiting behavior
+msgctxt "preference_privacy_block_ads_new_summary"
+msgid "Removes ads designed to track site visits even if you don’t tap them"
+msgstr ""
+
+#. Description for the toggle that Blocks trackers (scripts) that are designed
+#. to analyze and measure user interaction
+msgctxt "preference_privacy_block_analytics_new_summary"
+msgid ""
+"Blocks trackers that analyze and measure interactions like tapping and "
+"scrolling"
+msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Blokuoti socialinius stebėjimo elementus"
 
-msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Įterpiama svetainėse, norint stebėti jūsų apsilankymus ir rodyti tokį funkcionalumą, kaip dalinimosi mygtukai"
+#. Description for the toggle that Blocks social-media related trackers
+#. (scripts), including the ones that embed share buttons
+msgctxt "preference_privacy_block_social_new_summary"
+msgid ""
+"Stops social-media related trackers embedded on websites, including "
+"social share buttons"
+msgstr ""
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
 msgstr "Blokuoti kitus turinio stebėjimo elementus"
 
-msgctxt "preference_privacy_block_content_summary2"
-msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr "Įjungus gali sutrikti kai kurių tinklalapių veikimas"
+#. Description for the toggle that blocks other trackers
+msgctxt "preference_privacy_block_content_new_summary"
+msgid ""
+"Blocks tracking activity, but may cause some sites and pages to behave "
+"unexpectedly"
+msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -547,6 +578,25 @@ msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
 msgstr "Taip"
 
+#. New four options for Cookie blocking
+msgctxt "preference_privacy_block_cookies_no"
+msgid "No (allow all cookies)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_tracker"
+msgid "Block third-party trackers cookies (recommended)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_only"
+msgid ""
+"Block all third-party cookies \n"
+"(may cause websites to break)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_yes"
+msgid "Block all cookies (will cause websites to break)"
+msgstr ""
+
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
@@ -559,8 +609,12 @@ msgstr "Atrakinti programą piršto atspaudu"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Naudojant jūsų piršto antspaudą, galima atrakinti „%1$s“ programą, kai joje jau yra atvertas tinklalapis. Bus įjungtas slaptumas."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Naudojant jūsų piršto antspaudą, galima atrakinti „%1$s“ programą, kai "
+"joje jau yra atvertas tinklalapis. Bus įjungtas slaptumas."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -576,7 +630,9 @@ msgstr "Slaptumas"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr "Slėpti tinklalapius pereinant tarp programų bei neleisti daryti ekrano nuotraukų."
+msgstr ""
+"Slėpti tinklalapius pereinant tarp programų bei neleisti daryti ekrano "
+"nuotraukų."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -633,8 +689,12 @@ msgstr "Sužinoti daugiau"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "„Mozilla“ siekia rinkti tik tai, ko reikia norint pagerinti „%1$s“ visiems."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"„Mozilla“ siekia rinkti tik tai, ko reikia norint pagerinti „%1$s“ "
+"visiems."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -856,8 +916,12 @@ msgstr "Suraskite programą, kuri gali atverti saitą"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Nė viena iš jūsų įrenginyje esančių programų negali atverti šio saito. Galite palikti „%1$s“, norėdami ieškoti tinkamos programos per „%2$s“."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Nė viena iš jūsų įrenginyje esančių programų negali atverti šio saito. "
+"Galite palikti „%1$s“, norėdami ieškoti tinkamos programos per „%2$s“."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -882,7 +946,9 @@ msgstr "Atverti"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Atsiųsti failai <b>nebus pašalinti</b> jums išvalius „%1$s“ naršymo žurnalą."
+msgstr ""
+"Atsiųsti failai <b>nebus pašalinti</b> jums išvalius „%1$s“ naršymo "
+"žurnalą."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -915,13 +981,17 @@ msgstr "Nepavyko užmegzti ryšio"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Svetainė gali būti laikinai nepasiekiama. Pabandykite šiek tiek vėliau.</li>\n"
-"        <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo įrenginio duomenų arba belaidį ryšį.</li>\n"
+"        <li>Svetainė gali būti laikinai nepasiekiama. Pabandykite šiek "
+"tiek vėliau.</li>\n"
+"        <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo "
+"įrenginio duomenų arba belaidį ryšį.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -938,14 +1008,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Patikrinkite, ar įvestame adrese nėra klaidų, pvz.:\n"
 "          <strong>ww</strong>.example.com vietoje\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo įrenginio duomenų arba belaidį ryšį.</li>\n"
+"        <li>Jeigu nepavyksta įkelti jokio tinklalapio, patikrinkite savo "
+"įrenginio duomenų arba belaidį ryšį.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -955,13 +1027,17 @@ msgstr "Neteisingas adresas"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Svetainių adresai dažniausiai rašomi taip: <strong>http://www.example.com/</strong></li>\n"
-"  <li>Įsitikinkite, kad naudojate pasviruosius brūkšnius (į priekį): <strong>/</strong>.</li>\n"
+"  <li>Svetainių adresai dažniausiai rašomi taip: "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Įsitikinkite, kad naudojate pasviruosius brūkšnius (į priekį): "
+"<strong>/</strong>.</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -971,11 +1047,13 @@ msgstr "Neteisingas tinklalapio peradresavimas"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.</li>\n"
+"  <li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės "
+"slapukų.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -985,11 +1063,13 @@ msgstr "Neatpažintas adresas"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.</li>\n"
+"  <li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą "
+"programinę įrangą.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -999,15 +1079,19 @@ msgstr "Saugaus ryšio užmegzti nepavyko"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Ši problema gali kilti dėl blogai parinktų serverio parametrų arba dėl bandymo apsimesti kitu serveriu.</li>\n"
-"  <li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li>\n"
+"  <li>Ši problema gali kilti dėl blogai parinktų serverio parametrų arba "
+"dėl bandymo apsimesti kitu serveriu.</li>\n"
+"  <li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas"
+" gali būti laikinas. Bandykite prisijungti vėliau.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1057,8 +1141,12 @@ msgstr "Atverti naujoje kortelėje"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "Įrašyti ir pasidalinti paveikslai <b>nebus pašalinti</b> jums išvalius „%1$s“ naršymo žurnalą."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
+msgstr ""
+"Įrašyti ir pasidalinti paveikslai <b>nebus pašalinti</b> jums išvalius "
+"„%1$s“ naršymo žurnalą."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1066,9 +1154,11 @@ msgid "Power up your privacy"
 msgstr "Pagerinkite savo privatumą"
 
 #. First run tour (Default browser): Text.
-msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Pereikite į aukštesnį privačiojo naršymo lygį. Blokuokite reklamas ir kitą jūsų naršymą galintį stebėti turinį, tuo pačiu sutrumpindami svetainių įkėlimo laiką."
+msgctxt "firstrun_defaultbrowser_text_new"
+msgid ""
+"Block content like ads and code that follow you around the web and slow "
+"you down. Turn on ad blocking to browse faster without annoying ads."
+msgstr ""
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1077,7 +1167,9 @@ msgstr "Jūsų paieška, jūsų skoniui"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr "Ieškote kažko kito? Pasirinkite kitą numatytąją ieškyklę nustatymuose."
 
 #. First run tour (Shortcut): Title
@@ -1089,8 +1181,12 @@ msgstr "Pridėkite leistukų į savo pradžios ekraną"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Greitai grįžkite į savo mėgstamiausias svetaines „%1$s“ naršyklėje. Tiesiog pasirinkite „Įtraukti į pradžios ekraną“ iš „%1$s“ meniu."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Greitai grįžkite į savo mėgstamiausias svetaines „%1$s“ naršyklėje. "
+"Tiesiog pasirinkite „Įtraukti į pradžios ekraną“ iš „%1$s“ meniu."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1101,8 +1197,12 @@ msgstr "Įpraskite prie privatumo"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Paskirkite „%1$s“ savo numatytąja naršykle ir naudokitės privačiojo naršymo privalumais atverdami svetaines iš kitų programų."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Paskirkite „%1$s“ savo numatytąja naršykle ir naudokitės privačiojo "
+"naršymo privalumais atverdami svetaines iš kitų programų."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1115,6 +1215,20 @@ msgstr "Praleisti"
 msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "Toliau"
+
+#. Title for intro card shown to users after updating. %1$s will be replaced
+#. with the name of the app (e.g. Firefox Focus)
+#, c-format
+msgctxt "block_ads_card_title"
+msgid "%1$s is ready to block ads"
+msgstr ""
+
+#. Description for intro card shown to users after updating.
+msgctxt "block_ads_card_description"
+msgid ""
+"New feature! Browse faster by stopping ads and code that follow you "
+"around the web."
+msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1163,8 +1277,12 @@ msgstr "Privačiojo naršymo seansas"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Pranešimai leidžia išvalyti jūsų „%1$s“ seansą bakstelėjus. Jums nereikia atverti programos ar matyti, kas atverta naršyklėje."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Pranešimai leidžia išvalyti jūsų „%1$s“ seansą bakstelėjus. Jums nereikia"
+" atverti programos ar matyti, kas atverta naršyklėje."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1183,15 +1301,24 @@ msgstr "Parsisiųsti „Firefox“"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "„%1$s“ yra laisvoji atviroji programa, kuriama „Mozillos“ ir kitų bendradarbių."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"„%1$s“ yra laisvoji atviroji programa, kuriama „Mozillos“ ir kitų "
+"bendradarbių."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "Jums leidžiama naudotis „%1$s“ programa, vadovaujantis <a href=\"%2$s\">„Mozillos“ viešąja licencija</a> ir kitomis atviromis licencijomis."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"Jums leidžiama naudotis „%1$s“ programa, vadovaujantis <a "
+"href=\"%2$s\">„Mozillos“ viešąja licencija</a> ir kitomis atviromis "
+"licencijomis."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1199,18 +1326,25 @@ msgstr "Jums leidžiama naudotis „%1$s“ programa, vadovaujantis <a href=\"%2
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Jums nėra suteikta jokių teisių ar licencijų į „Mozilla Foundation“ prekinius ženklus, ar „Mozilla“, „Firefox“, „%1$s“ pavadinimus ir logotipus. Daugiau informacijos galite rasti <a "
-"href=\"%2$s\">čia</a>."
+"Jums nėra suteikta jokių teisių ar licencijų į „Mozilla Foundation“ "
+"prekinius ženklus, ar „Mozilla“, „Firefox“, „%1$s“ pavadinimus ir "
+"logotipus. Daugiau informacijos galite rasti <a href=\"%2$s\">čia</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Dalis „%1$s“ pirminio teksto yra pateikiama su įvairiomis kitomis laisvomis atviromis <a href=\"%2$s\">licencijomis</a>."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Dalis „%1$s“ pirminio teksto yra pateikiama su įvairiomis kitomis "
+"laisvomis atviromis <a href=\"%2$s\">licencijomis</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1218,10 +1352,15 @@ msgstr "Dalis „%1$s“ pirminio teksto yra pateikiama su įvairiomis kitomis l
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"„%1$s“ naudoja blokavimo sąrašus, kuriuos teikia „Disconnect, Inc.“, kaip atskirus ir nepriklausomus darbus vadovaujantis <a href=\"%2$s\">„GNU General Public License v3“</a> licencija, ir "
-"pasiekiamus <a href=\"%3$s\">čia</a>."
+"„%1$s“ naudoja blokavimo sąrašus, kuriuos teikia „Disconnect, Inc.“, kaip"
+" atskirus ir nepriklausomus darbus vadovaujantis <a href=\"%2$s\">„GNU "
+"General Public License v3“</a> licencija, ir pasiekiamus <a "
+"href=\"%3$s\">čia</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1367,6 +1506,14 @@ msgctxt "biometric_auth_new_session"
 msgid "New Session"
 msgstr "Naujas seansas"
 
+#. Button for the fingerprint authentication dialog box that is shown to the
+#. user when sharing a link to the app     while the user has biometric
+#. authentication enabled. When pressed, the user's previous session is
+#. cleared, and the shared link is opened.
+msgctxt "biometric_auth_open_link_new_session"
+msgid "Open Link in New Session"
+msgstr ""
+
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
@@ -1398,8 +1545,12 @@ msgstr "Ar norite įjungti paieškos žodžių siūlymus?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Kad gautų paieškos žodžių siūlymus, „%1$s“ turi persiųsti jūsų pasirinktai ieškyklei viską, ką rašote į adreso lauką. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Kad gautų paieškos žodžių siūlymus, „%1$s“ turi persiųsti jūsų "
+"pasirinktai ieškyklei viską, ką rašote į adreso lauką. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1445,7 +1596,9 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Pasiekite lankomiausias svetaines vienu spustelėjimu%1$s Meniu > Įtraukti į pradžios ekraną"
+msgstr ""
+"Pasiekite lankomiausias svetaines vienu spustelėjimu%1$s Meniu > Įtraukti"
+" į pradžios ekraną"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1487,12 +1640,24 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr "Norite tradicinės svetainės versijos?%1$s Meniu > Prašyti ne mob. svetainės"
+msgstr ""
+"Norite tradicinės svetainės versijos?%1$s Meniu > Prašyti ne mob. "
+"svetainės"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
 msgstr "Išjungti patarimus pradžios ekrane"
+
+#. Tip displayed on home view explaining ad blocking
+msgctxt "tip_block_ads"
+msgid "Browse faster by stopping ads and code that follows you around the web."
+msgstr ""
+
+#. Title for a switch that enables or disables ads
+msgctxt "block_ads_title"
+msgid "Ad blocking"
+msgstr ""
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1502,7 +1667,8 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "Patikima svetainė?\n"
-" Leidimų sąrašas išjungia apsaugą nuo stebėjimo tose svetainėse, kurias žinote ir pasitikite."
+" Leidimų sąrašas išjungia apsaugą nuo stebėjimo tose svetainėse, kurias "
+"žinote ir pasitikite."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1534,8 +1700,12 @@ msgstr "Blokuoti galimai pavojingas ir apgaulingas svetaines"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr "Blokuoti žinomas apgaulingas, kenksmingas, nepageidaujamą programinę įrangą siūlančias svetaines."
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
+msgstr ""
+"Blokuoti žinomas apgaulingas, kenksmingas, nepageidaujamą programinę "
+"įrangą siūlančias svetaines."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1586,8 +1756,12 @@ msgstr "Atsiprašome. „%1$s“ susidūrė su problema ir užstrigo."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr "Kaip privačioji naršyklė, mes nesaugome ir negalime atkurti paskutinio naršymo seanso."
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
+msgstr ""
+"Kaip privačioji naršyklė, mes nesaugome ir negalime atkurti paskutinio "
+"naršymo seanso."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1605,3 +1779,24 @@ msgstr "Paleisti „%1$s“ iš naujo"
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr "Pranešti apie strigtį „Mozillai“"
+
+#. Pop-up message to inform users they have enabled content blocking
+msgctxt "content_blocking_enabled_snackbar_message"
+msgid "Content Blocking is enabled"
+msgstr ""
+
+#. Pop-up message to inform users they have disabled content blocking
+msgctxt "content_blocking_disabled_snackbar_message"
+msgid "Content Blocking is disabled"
+msgstr ""
+
+#. Snackbar action button that users can press to enable content blocking
+msgctxt "content_blocking_snackbar_enable_action"
+msgid "Enable"
+msgstr ""
+
+#. Snackbar action button that users can press to disable content blocking
+msgctxt "content_blocking_snackbar_disable_action"
+msgid "Disable"
+msgstr ""
+
