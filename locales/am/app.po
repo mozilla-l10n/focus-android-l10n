@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-11-02 17:36-0700\n"
+"POT-Creation-Date: 2019-01-11 13:52-0800\n"
 "PO-Revision-Date: 2018-09-25 01:38+0000\n"
 "Last-Translator: lilymeheret22 <lilymeheret22@gmail.com>\n"
 "Language: am\n"
@@ -213,15 +213,6 @@ msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
 msgstr ""
 
-#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
-#. shows this          instead of the short title when it has enough space.
-#. Android recommends a maximum length          of 25 characters.          %1$s
-#. will be replaced by the app name (e.g. Firefox Focus)
-#, c-format
-msgctxt "shortcut_erase_and_open_long_label"
-msgid "Erase and open %1$s"
-msgstr ""
-
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
@@ -283,6 +274,11 @@ msgstr ""
 #, c-format
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
+msgstr ""
+
+#. Preference category for ad blocking
+msgctxt "preference_category_ad_blocking"
+msgid "Ad Blocking"
 msgstr ""
 
 #. Preference category for ad blocking and tracking protection settings
@@ -376,8 +372,8 @@ msgid "For Sites You Add"
 msgstr ""
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
-msgctxt "preference_autocomplete_user_list_summary"
-msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
+msgctxt "preference_autocomplete_user_list_description"
+msgid "Enable to autocomplete sites you add here."
 msgstr ""
 
 #. Preference category: Manage (user-defined) sites
@@ -497,39 +493,63 @@ msgctxt "preference_category_privacy"
 msgid "Privacy"
 msgstr "የግል መብት መጠበቅ"
 
-msgctxt "preference_privacy_block_ads"
-msgid "Block ad trackers"
-msgstr "የማስታወቂያ መከታተያዎችን አግድ"
+msgctxt "preference_privacy_ads_block_ads"
+msgid "Block ads and other annoyances"
+msgstr ""
 
-msgctxt "preference_privacy_block_ads_summary"
-msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "ማስታወቂያዎች ባይጫኑ እንኳን አንዳንድ የማስታወቂያ መከታተያዎች የጣቢያ ጉብኝቶችን ይከታተላሉ "
+#. Description for the toggle to block ads and some other annoyances on the
+#. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
+#. Annoyance" or "777Guard Mobile Ad Filter"
+msgctxt "preference_privacy_ads_block_ads_summary"
+msgid ""
+"Stops ads and other annoyances using block lists from Easylist, "
+"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
 msgstr "መተንተኛ ተቆጣጣሪዎች ያግዱ"
 
-msgctxt "preference_privacy_block_analytics_summary"
-msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "እንደ ማሸብለል እና መታ በማድረግ ያሉ እንቅስቃሴዎችን ለመተንተን እና ለመለካት ጥቅም ላይ የዋለ"
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "የማስታወቂያ መከታተያዎችን አግድ"
+
+#. Description for the toggle that blocks and remove ads from webpages that
+#. are designed to track your visiting behavior
+msgctxt "preference_privacy_block_ads_new_summary"
+msgid "Removes ads designed to track site visits even if you don’t tap them"
+msgstr ""
+
+#. Description for the toggle that Blocks trackers (scripts) that are designed
+#. to analyze and measure user interaction
+msgctxt "preference_privacy_block_analytics_new_summary"
+msgid ""
+"Blocks trackers that analyze and measure interactions like tapping and "
+"scrolling"
+msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "ማህበራዊ ሚዲያ መከታተያዎችን አግድ\n"
 
-msgctxt "preference_privacy_block_social_summary"
+#. Description for the toggle that Blocks social-media related trackers
+#. (scripts), including the ones that embed share buttons
+msgctxt "preference_privacy_block_social_new_summary"
 msgid ""
-"Embedded on sites to track your visits and to display functionality like "
-"share buttons"
-msgstr "የእርስዎን ጉብኝቶች ለመከታተል እና እንደ የአጋራ አዝራሮች ያሉ ተግባሮችን ለማሳየት በጣቢያዎች ላይ የተካተተ"
+"Stops social-media related trackers embedded on websites, including "
+"social share buttons"
+msgstr ""
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
 msgstr "ሌሎች የይዘት መከታተያዎችን ያግዱ\n"
 
-msgctxt "preference_privacy_block_content_summary2"
-msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr "ማስቻል አንዳንድ ገፆችን ያልታሰበ ፀባይ እንዲፈጽሙ ሊያደርጋቸው ይችላል"
+#. Description for the toggle that blocks other trackers
+msgctxt "preference_privacy_block_content_new_summary"
+msgid ""
+"Blocks tracking activity, but may cause some sites and pages to behave "
+"unexpectedly"
+msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -552,6 +572,25 @@ msgstr ""
 
 msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
+msgstr ""
+
+#. New four options for Cookie blocking
+msgctxt "preference_privacy_block_cookies_no"
+msgid "No (allow all cookies)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_tracker"
+msgid "Block third-party trackers cookies (recommended)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_only"
+msgid ""
+"Block all third-party cookies \n"
+"(may cause websites to break)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_yes"
+msgid "Block all cookies (will cause websites to break)"
 msgstr ""
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
@@ -1099,13 +1138,11 @@ msgid "Power up your privacy"
 msgstr "ግላዊነትዎን ያስፉ"
 
 #. First run tour (Default browser): Text.
-msgctxt "firstrun_defaultbrowser_text2"
+msgctxt "firstrun_defaultbrowser_text_new"
 msgid ""
-"Take private browsing to the next level. Block ads and other content that"
-" can track you across sites and bog down page load times."
+"Block content like ads and code that follow you around the web and slow "
+"you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
-"የግል ፍለጋን ወደ ቀጣዩ ደረጃ ይወስዳል::በጣቢያዎች ውስጥ እርስዎን ሊከታተል የሚችል እና የገፅ ጭነት ጊዜዎችን "
-"ማደንዘዝ ማስታወቂያዎችን እና ሌላ ይዘትን አግድ"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1162,6 +1199,20 @@ msgstr "እለፍ"
 msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "ቀጣይ"
+
+#. Title for intro card shown to users after updating. %1$s will be replaced
+#. with the name of the app (e.g. Firefox Focus)
+#, c-format
+msgctxt "block_ads_card_title"
+msgid "%1$s is ready to block ads"
+msgstr ""
+
+#. Description for intro card shown to users after updating.
+msgctxt "block_ads_card_description"
+msgid ""
+"New feature! Browse faster by stopping ads and code that follow you "
+"around the web."
+msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1423,6 +1474,14 @@ msgctxt "biometric_auth_new_session"
 msgid "New Session"
 msgstr ""
 
+#. Button for the fingerprint authentication dialog box that is shown to the
+#. user when sharing a link to the app     while the user has biometric
+#. authentication enabled. When pressed, the user's previous session is
+#. cleared, and the shared link is opened.
+msgctxt "biometric_auth_open_link_new_session"
+msgid "Open Link in New Session"
+msgstr ""
+
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
@@ -1546,6 +1605,16 @@ msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
 msgstr ""
 
+#. Tip displayed on home view explaining ad blocking
+msgctxt "tip_block_ads"
+msgid "Browse faster by stopping ads and code that follows you around the web."
+msgstr ""
+
+#. Title for a switch that enables or disables ads
+msgctxt "block_ads_title"
+msgid "Ad blocking"
+msgstr ""
+
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
 msgctxt "tip_explain_allowlist"
@@ -1658,5 +1727,25 @@ msgstr ""
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
+msgstr ""
+
+#. Pop-up message to inform users they have enabled content blocking
+msgctxt "content_blocking_enabled_snackbar_message"
+msgid "Content Blocking is enabled"
+msgstr ""
+
+#. Pop-up message to inform users they have disabled content blocking
+msgctxt "content_blocking_disabled_snackbar_message"
+msgid "Content Blocking is disabled"
+msgstr ""
+
+#. Snackbar action button that users can press to enable content blocking
+msgctxt "content_blocking_snackbar_enable_action"
+msgid "Enable"
+msgstr ""
+
+#. Snackbar action button that users can press to disable content blocking
+msgctxt "content_blocking_snackbar_disable_action"
+msgid "Disable"
 msgstr ""
 

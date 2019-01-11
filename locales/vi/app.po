@@ -2,23 +2,22 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-11-02 17:36-0700\n"
+"POT-Creation-Date: 2019-01-11 13:52-0800\n"
 "PO-Revision-Date: 2018-12-01 14:47+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
-"Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
+"Language-Team: vi <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -212,15 +211,6 @@ msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
 msgstr "Xóa & mở"
 
-#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
-#. shows this          instead of the short title when it has enough space.
-#. Android recommends a maximum length          of 25 characters.          %1$s
-#. will be replaced by the app name (e.g. Firefox Focus)
-#, c-format
-msgctxt "shortcut_erase_and_open_long_label"
-msgid "Erase and open %1$s"
-msgstr "Xóa và mở %1$s"
-
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
@@ -237,21 +227,26 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s giúp bạn kiểm soát mọi thứ.</p>\n"
 "<p>Sử dụng nó như một trình duyệt riêng tư:\n"
 "  <ul>\n"
 "    <li>Tìm kiếm và duyệt ngay trong ứng dụng</li>\n"
-"    <li>Chặn các trình theo dõi (hoặc cập nhật cài đặt để cho phép các trình theo dõi)</li>\n"
-"    <li>Xóa cookie cũng như lịch sử tìm kiếm và duyệt web khi xong phiên làm việc</li>\n"
+"    <li>Chặn các trình theo dõi (hoặc cập nhật cài đặt để cho phép các "
+"trình theo dõi)</li>\n"
+"    <li>Xóa cookie cũng như lịch sử tìm kiếm và duyệt web khi xong phiên "
+"làm việc</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s được sản xuất bởi Mozilla. Nhiệm vụ của chúng tôi là thúc đẩy một Internet lành mạnh, cởi mở.<br/>\n"
+"<p>%1$s được sản xuất bởi Mozilla. Nhiệm vụ của chúng tôi là thúc đẩy một"
+" Internet lành mạnh, cởi mở.<br/>\n"
 "<a href=\"%2$s\">Tìm hiểu thêm</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -279,6 +274,11 @@ msgstr "Đặt làm mặc định, tự đồng điền"
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
 msgstr "Giới thiệu về %1$s, trợ giúp"
+
+#. Preference category for ad blocking
+msgctxt "preference_category_ad_blocking"
+msgid "Ad Blocking"
+msgstr ""
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -325,7 +325,9 @@ msgstr "Nhận gợi ý tìm kiếm"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr "%1$s sẽ gửi nội dung bạn nhập vào thanh địa chỉ đến công cụ tìm kiếm của bạn"
+msgstr ""
+"%1$s sẽ gửi nội dung bạn nhập vào thanh địa chỉ đến công cụ tìm kiếm của "
+"bạn"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -371,9 +373,9 @@ msgid "For Sites You Add"
 msgstr "Với trang web bạn thêm"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
-msgctxt "preference_autocomplete_user_list_summary"
-msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Bật để tự động hoàn thành hơn 450 URL phổ biến trong thanh địa chỉ."
+msgctxt "preference_autocomplete_user_list_description"
+msgid "Enable to autocomplete sites you add here."
+msgstr ""
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -492,37 +494,63 @@ msgctxt "preference_category_privacy"
 msgid "Privacy"
 msgstr "Riêng tư"
 
-msgctxt "preference_privacy_block_ads"
-msgid "Block ad trackers"
-msgstr "Chặn trình theo dõi quảng cáo"
+msgctxt "preference_privacy_ads_block_ads"
+msgid "Block ads and other annoyances"
+msgstr ""
 
-msgctxt "preference_privacy_block_ads_summary"
-msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Một số quảng cáo theo dõi lượt truy cập trang, ngay cả khi bạn không click vào quảng cáo"
+#. Description for the toggle to block ads and some other annoyances on the
+#. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
+#. Annoyance" or "777Guard Mobile Ad Filter"
+msgctxt "preference_privacy_ads_block_ads_summary"
+msgid ""
+"Stops ads and other annoyances using block lists from Easylist, "
+"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
 msgstr "Chặn trình theo dõi phân tích"
 
-msgctxt "preference_privacy_block_analytics_summary"
-msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Được sử dụng để thu thập, phân tích và đo lường các hoạt động như chạm và cuộn trang"
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "Chặn trình theo dõi quảng cáo"
+
+#. Description for the toggle that blocks and remove ads from webpages that
+#. are designed to track your visiting behavior
+msgctxt "preference_privacy_block_ads_new_summary"
+msgid "Removes ads designed to track site visits even if you don’t tap them"
+msgstr ""
+
+#. Description for the toggle that Blocks trackers (scripts) that are designed
+#. to analyze and measure user interaction
+msgctxt "preference_privacy_block_analytics_new_summary"
+msgid ""
+"Blocks trackers that analyze and measure interactions like tapping and "
+"scrolling"
+msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Chặn trình theo dõi xã hội"
 
-msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Được nhúng vào các trang để theo dõi lượt truy cập của bạn và để hiển thị tính năng chẳng hạn như các nút chia sẻ"
+#. Description for the toggle that Blocks social-media related trackers
+#. (scripts), including the ones that embed share buttons
+msgctxt "preference_privacy_block_social_new_summary"
+msgid ""
+"Stops social-media related trackers embedded on websites, including "
+"social share buttons"
+msgstr ""
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
 msgstr "Chặn trình theo dõi khác"
 
-msgctxt "preference_privacy_block_content_summary2"
-msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr "Việc kích hoạt có thể khiến một số trang hoạt động không như mong đợi"
+#. Description for the toggle that blocks other trackers
+msgctxt "preference_privacy_block_content_new_summary"
+msgid ""
+"Blocks tracking activity, but may cause some sites and pages to behave "
+"unexpectedly"
+msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -547,6 +575,25 @@ msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
 msgstr "Có"
 
+#. New four options for Cookie blocking
+msgctxt "preference_privacy_block_cookies_no"
+msgid "No (allow all cookies)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_tracker"
+msgid "Block third-party trackers cookies (recommended)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_only"
+msgid ""
+"Block all third-party cookies \n"
+"(may cause websites to break)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_yes"
+msgid "Block all cookies (will cause websites to break)"
+msgstr ""
+
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
@@ -559,8 +606,12 @@ msgstr "Sử dụng vân tay để mở khóa ứng dụng"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "Cảm biến vân tay của bạn có thể mở khóa %1$s nếu một URL đã được mở trong ứng dụng. Riêng tư sẽ được kích hoạt."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
+msgstr ""
+"Cảm biến vân tay của bạn có thể mở khóa %1$s nếu một URL đã được mở trong"
+" ứng dụng. Riêng tư sẽ được kích hoạt."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -633,8 +684,12 @@ msgstr "Tìm hiểu thêm"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
-msgstr "Mozilla chỉ thu thập những gì chúng tôi cần cung cấp và cải tiến %1$s cho tất cả mọi người."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
+msgstr ""
+"Mozilla chỉ thu thập những gì chúng tôi cần cung cấp và cải tiến %1$s cho"
+" tất cả mọi người."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -856,8 +911,12 @@ msgstr "Tìm ứng dụng có thể mở liên kết này"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Không có ứng dụng nào trên thiết bị của bạn có thể mở liên kết này. Bạn có thể rời khỏi %1$s để tìm ứng dụng có thể mở %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Không có ứng dụng nào trên thiết bị của bạn có thể mở liên kết này. Bạn "
+"có thể rời khỏi %1$s để tìm ứng dụng có thể mở %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -915,13 +974,17 @@ msgstr "Không thể kết nối"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Trang web có thể tạm thời không hoạt động hoặc quá tải. Hãy thử lại sau vài phút.</li>\n"
-"        <li>Nếu bạn không thể tải bất kỳ trang nào, hãy kiểm tra dữ liệu di động hoặc kết nối Wi-Fi.</li>\n"
+"        <li>Trang web có thể tạm thời không hoạt động hoặc quá tải. Hãy "
+"thử lại sau vài phút.</li>\n"
+"        <li>Nếu bạn không thể tải bất kỳ trang nào, hãy kiểm tra dữ liệu "
+"di động hoặc kết nối Wi-Fi.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -938,14 +1001,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Kiểm tra các lỗi ở địa chỉ như\n"
 "          <strong>ww</strong>.example.com thay vì nhập \n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Nếu bạn không thể tải bất kỳ trang nào, hãy kiểm tra dữ liệu di động hoặc kết nối Wi-Fi của bạn.</li>\n"
+"        <li>Nếu bạn không thể tải bất kỳ trang nào, hãy kiểm tra dữ liệu "
+"di động hoặc kết nối Wi-Fi của bạn.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -955,14 +1020,17 @@ msgstr "Địa chỉ không hợp lệ"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  <li>Địa chỉ web thường được viết như\n"
 "<strong>http://www.example.com/</strong></li>\n"
-"  <li>Đảm bảo bạn đang sử dụng dấu gạch chéo (tức là <strong>/</strong>).\n"
+"  <li>Đảm bảo bạn đang sử dụng dấu gạch chéo (tức là <strong>/</strong>)."
+"\n"
 "</li>\n"
 "</ul>"
 
@@ -973,11 +1041,13 @@ msgstr "Trang này không chuyển hướng đúng cách"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Vấn đề này đôi khi có thể là do vô hiệu hoặc từ chối chấp nhận cookie.</li>\n"
+"  <li>Vấn đề này đôi khi có thể là do vô hiệu hoặc từ chối chấp nhận "
+"cookie.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -987,7 +1057,8 @@ msgstr "Địa chỉ không được hỗ trợ"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1001,15 +1072,19 @@ msgstr "Kết nối bảo mật thất bại"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Đây có thể là sự cố với cấu hình của máy chủ hoặc có thể là một người cố mạo danh máy chủ.</li>\n"
-"  <li>Nếu trước đây bạn đã kết nối với máy chủ này, lỗi này có thể là tạm thời và bạn có thể thử lại sau.</li>\n"
+"  <li>Đây có thể là sự cố với cấu hình của máy chủ hoặc có thể là một "
+"người cố mạo danh máy chủ.</li>\n"
+"  <li>Nếu trước đây bạn đã kết nối với máy chủ này, lỗi này có thể là tạm"
+" thời và bạn có thể thử lại sau.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1059,7 +1134,9 @@ msgstr "Mở liên kết trong thẻ mới"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr "Ảnh đã lưu và chia sẻ <b>sẽ không xóa</b> khi bạn xóa lịch sử %1$s."
 
 #. First run tour (Default browser): Title
@@ -1068,9 +1145,11 @@ msgid "Power up your privacy"
 msgstr "Tăng quyền riêng tư của bạn"
 
 #. First run tour (Default browser): Text.
-msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Duyệt web ở chế độ riêng tư để nâng cao bảo mật. Giúp làm giảm thời gian tải trang và chặn các quảng cáo và nội dung mà có thể theo dõi bạn trên các trang web."
+msgctxt "firstrun_defaultbrowser_text_new"
+msgid ""
+"Block content like ads and code that follow you around the web and slow "
+"you down. Turn on ad blocking to browse faster without annoying ads."
+msgstr ""
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1079,8 +1158,12 @@ msgstr "Tìm kiếm của bạn, theo cách của bạn"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
-msgstr "Đang tìm kiếm với cái gì khác? Chọn công cụ tìm kiếm khác thành mặc định trong Cài đặt."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
+msgstr ""
+"Đang tìm kiếm với cái gì khác? Chọn công cụ tìm kiếm khác thành mặc định "
+"trong Cài đặt."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1091,8 +1174,12 @@ msgstr "Thêm lối tắt tới màn hình chính của bạn"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Quay lại trang web của bạn nhanh hơn trong %1$s. Chỉ cần chọn \"Thêm vào màn hình chính\" trong menu %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Quay lại trang web của bạn nhanh hơn trong %1$s. Chỉ cần chọn \"Thêm vào "
+"màn hình chính\" trong menu %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1103,8 +1190,12 @@ msgstr "Làm cho sự riêng tư thành một thói quen"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Đặt %1$s làm trình duyệt mặc định của bạn và nhận được lợi ích của duyệt web riêng tư khi bạn mở các trang web từ các ứng dụng khác."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Đặt %1$s làm trình duyệt mặc định của bạn và nhận được lợi ích của duyệt "
+"web riêng tư khi bạn mở các trang web từ các ứng dụng khác."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1117,6 +1208,20 @@ msgstr "Bỏ qua"
 msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "Tiếp"
+
+#. Title for intro card shown to users after updating. %1$s will be replaced
+#. with the name of the app (e.g. Firefox Focus)
+#, c-format
+msgctxt "block_ads_card_title"
+msgid "%1$s is ready to block ads"
+msgstr ""
+
+#. Description for intro card shown to users after updating.
+msgctxt "block_ads_card_description"
+msgid ""
+"New feature! Browse faster by stopping ads and code that follow you "
+"around the web."
+msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1165,8 +1270,13 @@ msgstr "Phiên duyệt web riêng tư"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Thông báo cho phép bạn xóa phiên làm việc của %1$s với một cú nhấp. Bạn không cần mở ứng dụng hoặc xem những gì đang chạy trong trình duyệt của bạn."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Thông báo cho phép bạn xóa phiên làm việc của %1$s với một cú nhấp. Bạn "
+"không cần mở ứng dụng hoặc xem những gì đang chạy trong trình duyệt của "
+"bạn."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1185,15 +1295,23 @@ msgstr "Tải Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s là phần mềm miễn phí và mã nguồn mở do Mozilla và các cộng tác viên khác cung cấp."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s là phần mềm miễn phí và mã nguồn mở do Mozilla và các cộng tác viên "
+"khác cung cấp."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s được cung cấp cho bạn theo các điều khoản của <a href=\"%2$s\">giấy phép Mozilla Public</a> và các giấy phép nguồn mở khác."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s được cung cấp cho bạn theo các điều khoản của <a href=\"%2$s\">giấy "
+"phép Mozilla Public</a> và các giấy phép nguồn mở khác."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1201,18 +1319,26 @@ msgstr "%1$s được cung cấp cho bạn theo các điều khoản của <a hr
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Bạn không được cấp bất kỳ quyền hoặc giấy phép nào đối với nhãn hiệu của tổ chức Mozilla hoặc bất kỳ bên nào, bao gồm tên hoặc biểu trưng của Mozilla, Firefox hoặc %1$s. Thông tin bổ sung có thể "
-"được tìm thấy <a href=\"%2$s\">ở đây</a>."
+"Bạn không được cấp bất kỳ quyền hoặc giấy phép nào đối với nhãn hiệu của "
+"tổ chức Mozilla hoặc bất kỳ bên nào, bao gồm tên hoặc biểu trưng của "
+"Mozilla, Firefox hoặc %1$s. Thông tin bổ sung có thể được tìm thấy <a "
+"href=\"%2$s\">ở đây</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Mã bổ sung cho %1$s có sẵn dưới nhiều loại <a href=\"%2$s\">giấy phép</a> tự do và nguồn mở khác nhau."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Mã bổ sung cho %1$s có sẵn dưới nhiều loại <a href=\"%2$s\">giấy phép</a>"
+" tự do và nguồn mở khác nhau."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1220,10 +1346,14 @@ msgstr "Mã bổ sung cho %1$s có sẵn dưới nhiều loại <a href=\"%2$s\"
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s cũng sử dụng danh sách chặn được cung cấp bởi Disconnect, Inc. là các công việc riêng biệt và độc lập theo <a href=\"%2$s\"> GNU General Public License v3</a>, và có sẵn <a href=\"%3$s\"> ở "
-"đây</a>."
+"%1$s cũng sử dụng danh sách chặn được cung cấp bởi Disconnect, Inc. là "
+"các công việc riêng biệt và độc lập theo <a href=\"%2$s\"> GNU General "
+"Public License v3</a>, và có sẵn <a href=\"%3$s\"> ở đây</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1369,6 +1499,14 @@ msgctxt "biometric_auth_new_session"
 msgid "New Session"
 msgstr "Phiên mới"
 
+#. Button for the fingerprint authentication dialog box that is shown to the
+#. user when sharing a link to the app     while the user has biometric
+#. authentication enabled. When pressed, the user's previous session is
+#. cleared, and the shared link is opened.
+msgctxt "biometric_auth_open_link_new_session"
+msgid "Open Link in New Session"
+msgstr ""
+
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
@@ -1400,8 +1538,12 @@ msgstr "Bạn có muốn bật gợi ý tìm kiếm không?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Để nhận được các đề xuất tìm kiếm, %1$s cần gửi những gì bạn gõ vào thanh địa chỉ đến công cụ tìm kiếm bạn đã chọn. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Để nhận được các đề xuất tìm kiếm, %1$s cần gửi những gì bạn gõ vào thanh"
+" địa chỉ đến công cụ tìm kiếm bạn đã chọn. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1447,7 +1589,9 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Truy cập một chạm vào các trang web bạn sử dụng nhiều nhất%1$s Menu > Thêm vào Màn hình chính"
+msgstr ""
+"Truy cập một chạm vào các trang web bạn sử dụng nhiều nhất%1$s Menu > "
+"Thêm vào Màn hình chính"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1496,6 +1640,16 @@ msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
 msgstr "Tắt mẹo trên màn hình bắt đầu"
 
+#. Tip displayed on home view explaining ad blocking
+msgctxt "tip_block_ads"
+msgid "Browse faster by stopping ads and code that follows you around the web."
+msgstr ""
+
+#. Title for a switch that enables or disables ads
+msgctxt "block_ads_title"
+msgid "Ad blocking"
+msgstr ""
+
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
 msgctxt "tip_explain_allowlist"
@@ -1504,7 +1658,8 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "Tin tưởng một trang nào đó?\n"
-" Danh sách cho phép vô hiệu hóa Theo dõi bảo vệ cho các trang web bạn biết và tin tưởng."
+" Danh sách cho phép vô hiệu hóa Theo dõi bảo vệ cho các trang web bạn "
+"biết và tin tưởng."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1536,8 +1691,12 @@ msgstr "Chặn các trang web nguy hiểm và lừa đảo"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr "Chặn các trang web được báo cáo là lừa đảo và tấn công, trang web phần mềm độc hại và các trang web phần mềm không mong muốn."
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
+msgstr ""
+"Chặn các trang web được báo cáo là lừa đảo và tấn công, trang web phần "
+"mềm độc hại và các trang web phần mềm không mong muốn."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1572,7 +1731,9 @@ msgstr "Rất tiếc. Chúng tôi đã gặp sự cố với thẻ này."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr "Trong trình duyệt riêng tư, chúng tôi không bao giờ lưu và không thể khôi phục thẻ này."
+msgstr ""
+"Trong trình duyệt riêng tư, chúng tôi không bao giờ lưu và không thể khôi"
+" phục thẻ này."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1588,8 +1749,12 @@ msgstr "Rất tiếc. %1$s đã gặp sự cố và đã hỏng."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr "Trong trình duyệt riêng tư, chúng tôi không bao giờ lưu và không thể khôi phục phiên duyệt web cuối cùng của bạn."
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
+msgstr ""
+"Trong trình duyệt riêng tư, chúng tôi không bao giờ lưu và không thể khôi"
+" phục phiên duyệt web cuối cùng của bạn."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1607,3 +1772,24 @@ msgstr "Khởi động lại %1$s"
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr "Gửi báo cáo lỗi đến Mozilla"
+
+#. Pop-up message to inform users they have enabled content blocking
+msgctxt "content_blocking_enabled_snackbar_message"
+msgid "Content Blocking is enabled"
+msgstr ""
+
+#. Pop-up message to inform users they have disabled content blocking
+msgctxt "content_blocking_disabled_snackbar_message"
+msgid "Content Blocking is disabled"
+msgstr ""
+
+#. Snackbar action button that users can press to enable content blocking
+msgctxt "content_blocking_snackbar_enable_action"
+msgid "Enable"
+msgstr ""
+
+#. Snackbar action button that users can press to disable content blocking
+msgctxt "content_blocking_snackbar_disable_action"
+msgid "Disable"
+msgstr ""
+

@@ -2,24 +2,23 @@
 # Copyright (C) 2017 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-11-02 17:36-0700\n"
+"POT-Creation-Date: 2019-01-11 13:52-0800\n"
 "PO-Revision-Date: 2018-11-16 03:14+0000\n"
 "Last-Translator: Netza López <l.lopeznetza@gmail.com>\n"
+"Language: meh\n"
 "Language-Team: meh <LL@li.org>\n"
 "\n"
-"Language: meh\n"
+"Plural-Forms: nplurals=1; plural=(0)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
-"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -211,15 +210,6 @@ msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
 msgstr "Xita jee síne"
 
-#. The same as 'shortcut_erase_short_label' but more descriptive. The launcher
-#. shows this          instead of the short title when it has enough space.
-#. Android recommends a maximum length          of 25 characters.          %1$s
-#. will be replaced by the app name (e.g. Firefox Focus)
-#, c-format
-msgctxt "shortcut_erase_and_open_long_label"
-msgid "Erase and open %1$s"
-msgstr "Xita jee síne %1$s"
-
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
 #. perform a search in the default search engine.
@@ -236,10 +226,12 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing "
+"history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
+"Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s taji kajinu.</p>\n"
@@ -250,7 +242,8 @@ msgstr ""
 "    <li>Xina saa kuvi naá cokies jii daa tu´un nnánukunu</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s kuviji iin nsa´a Mozilla. Nuku-ani iin internet vii jee va´a<br/>\n"
+"<p>%1$s kuviji iin nsa´a Mozilla. Nuku-ani iin internet vii jee va´a<br/>"
+"\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -278,6 +271,11 @@ msgstr "Tee kua predeterminado"
 msgctxt "preference_mozilla_summary"
 msgid "About %1$s, help"
 msgstr "Jiee ya´a %1$s, chineí"
+
+#. Preference category for ad blocking
+msgctxt "preference_category_ad_blocking"
+msgid "Ad Blocking"
+msgstr ""
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -370,9 +368,9 @@ msgid "For Sites You Add"
 msgstr "Nuu daa sitios chisonu"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
-msgctxt "preference_autocomplete_user_list_summary"
-msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Tee saa kuvi nánukunu 450 URLs nuu chu´un daa direcciones."
+msgctxt "preference_autocomplete_user_list_description"
+msgid "Enable to autocomplete sites you add here."
+msgstr ""
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -491,37 +489,63 @@ msgctxt "preference_category_privacy"
 msgid "Privacy"
 msgstr "Yɨ´ɨ yu´u"
 
-msgctxt "preference_privacy_block_ads"
-msgid "Block ad trackers"
-msgstr "Chiyu´u daa tutu xiko nantiñu"
+msgctxt "preference_privacy_ads_block_ads"
+msgid "Block ads and other annoyances"
+msgstr ""
 
-msgctxt "preference_privacy_block_ads_summary"
-msgid "Some ads track site visits, even if you don’t click the ads"
-msgstr "Daa tutu xiko, sunika ntu sinenuma, nitada noo´o daa nnánukunu nuu web"
+#. Description for the toggle to block ads and some other annoyances on the
+#. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
+#. Annoyance" or "777Guard Mobile Ad Filter"
+msgctxt "preference_privacy_ads_block_ads_summary"
+msgid ""
+"Stops ads and other annoyances using block lists from Easylist, "
+"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
 msgstr "Chiyu´u daa ka̱a̱ nita noo´o"
 
-msgctxt "preference_privacy_block_analytics_summary"
-msgid "Used to collect, analyze and measure activities like tapping and scrolling"
-msgstr "Ni´idama jee xitutuda, jee chunku´va a sá´á jii a ke´i"
+msgctxt "preference_privacy_block_ads"
+msgid "Block ad trackers"
+msgstr "Chiyu´u daa tutu xiko nantiñu"
+
+#. Description for the toggle that blocks and remove ads from webpages that
+#. are designed to track your visiting behavior
+msgctxt "preference_privacy_block_ads_new_summary"
+msgid "Removes ads designed to track site visits even if you don’t tap them"
+msgstr ""
+
+#. Description for the toggle that Blocks trackers (scripts) that are designed
+#. to analyze and measure user interaction
+msgctxt "preference_privacy_block_analytics_new_summary"
+msgid ""
+"Blocks trackers that analyze and measure interactions like tapping and "
+"scrolling"
+msgstr ""
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
 msgstr "Chiyu´u daa ka̱a̱ sociales"
 
-msgctxt "preference_privacy_block_social_summary"
-msgid "Embedded on sites to track your visits and to display functionality like share buttons"
-msgstr "Yɨ´ɨ nuu daa web saa kuvi kuntada noo´o jee kutuvi daa botones kuvi kua´a"
+#. Description for the toggle that Blocks social-media related trackers
+#. (scripts), including the ones that embed share buttons
+msgctxt "preference_privacy_block_social_new_summary"
+msgid ""
+"Stops social-media related trackers embedded on websites, including "
+"social share buttons"
+msgstr ""
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
 msgstr "Chiyu´u daa ka̱a̱ nita daa inka contenido"
 
-msgctxt "preference_privacy_block_content_summary2"
-msgid "Enabling may cause some pages to behave unexpectedly"
-msgstr "Dee tee ya´a kuvi sá´á daa web nsatiñu vii"
+#. Description for the toggle that blocks other trackers
+msgctxt "preference_privacy_block_content_new_summary"
+msgid ""
+"Blocks tracking activity, but may cause some sites and pages to behave "
+"unexpectedly"
+msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -546,6 +570,25 @@ msgctxt "preference_privacy_should_block_cookies_yes_option"
 msgid "Yes"
 msgstr "Kuvi"
 
+#. New four options for Cookie blocking
+msgctxt "preference_privacy_block_cookies_no"
+msgid "No (allow all cookies)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_tracker"
+msgid "Block third-party trackers cookies (recommended)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_third_party_only"
+msgid ""
+"Block all third-party cookies \n"
+"(may cause websites to break)"
+msgstr ""
+
+msgctxt "preference_privacy_block_cookies_yes"
+msgid "Block all cookies (will cause websites to break)"
+msgstr ""
+
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
@@ -558,7 +601,9 @@ msgstr "Ni´in ka̱a̱ na´a tɨɨ saa kuvi síne ka̱a̱ ya´a"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgid ""
+"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
+"Stealth will be turned on."
 msgstr "Na´a tii noo´o kuvi síne %1$s iin URL dee nune. Jee tɨɨ ka̱a̱ chiyu´u."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -632,7 +677,9 @@ msgstr "Ka´vi kue´eka"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgid ""
+"Mozilla strives to collect only what we need to provide and improve %1$s "
+"for everyone."
 msgstr "Mozilla nake´e sani daa a íyo tiñu jee jia´a va´a %1$s nuu kuaiyo daa yo."
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -855,8 +902,12 @@ msgstr "Nánuku iin ka̱a̱ nuu kuvi síne link ya´a"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
-msgstr "Ni´i daa ka̱a̱ nuu ka̱a̱ noo´o kuvi síne link ya´a. Kuvi kenenu nuu %1$s saa kuvi nánukunu iin ka̱a̱ kuvi koo inu jii %2$s."
+msgid ""
+"None of the apps on your device are able to open this link. You can leave"
+" %1$s to search %2$s for an app that can."
+msgstr ""
+"Ni´i daa ka̱a̱ nuu ka̱a̱ noo´o kuvi síne link ya´a. Kuvi kenenu nuu %1$s "
+"saa kuvi nánukunu iin ka̱a̱ kuvi koo inu jii %2$s."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -914,13 +965,16 @@ msgstr "Ntu nkuvi kivɨ"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try "
+"again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile "
+"device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Sitio ya´a ntu kuvi síne a xíín kue´e ñɨvɨ ni´i ya´a.</li>\n"
-"        <li>Dee ntu kuvi síne iin página, kune´yá datos ka̱a̱ noo´o a xiin Wi-Fi.</li></ul>"
+"        <li>Dee ntu kuvi síne iin página, kune´yá datos ka̱a̱ noo´o a "
+"xiin Wi-Fi.</li></ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
@@ -936,13 +990,16 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data"
+" or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Kune´yá sivɨ ntee-nú íyo vatu sa̱naan kumi errores kua\n"
-"          <strong>ww</strong>.nakuvi.com nuu inka ya´a <strong>www</strong>.ejemplo.com</li>\n"
-"        <li>De ntu kuvi síne ni´i página, kune´yá datos ka̱a̱-nu a xíín conexión Wi-Fi.</li>\n"
+"          <strong>ww</strong>.nakuvi.com nuu inka ya´a "
+"<strong>www</strong>.ejemplo.com</li>\n"
+"        <li>De ntu kuvi síne ni´i página, kune´yá datos ka̱a̱-nu a xíín "
+"conexión Wi-Fi.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -952,13 +1009,17 @@ msgstr "Dirección ntu vatu"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Dirección Web ntaka ichi íyo sukuan <strong>http://www.example.com/</strong></li>\n"
-"  <li>Kune´yá de ni´í nijin-nu daa barras sukuan (kua ya´a. <strong>/</strong>).</li>\n"
+"  <li>Dirección Web ntaka ichi íyo sukuan "
+"<strong>http://www.example.com/</strong></li>\n"
+"  <li>Kune´yá de ni´í nijin-nu daa barras sukuan (kua ya´a. "
+"<strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -968,11 +1029,13 @@ msgstr "Ntu sá´á vatu redirección página ya´a"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to "
+"accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Problema ya´a sa̱naan kuvi jiee íyo deshabilitado a xiin ntu sia´anu jia´a cookies.</li>\n"
+"  <li>Problema ya´a sa̱naan kuvi jiee íyo deshabilitado a xiin ntu "
+"sia´anu jia´a cookies.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -982,7 +1045,8 @@ msgstr "Ntu kuka'nuni nuu ya´a"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>\n"
+"  <li>You might need to install other software to open this address.</li>"
+"\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -996,15 +1060,19 @@ msgstr "Ntu nkuvi sá´á conexión vatu"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it could be\n"
+"  <li>This could be a problem with the server’s configuration, or it "
+"could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the error may\n"
+"  <li>If you have connected to this server successfully in the past, the "
+"error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Sa̱naan kuvi iin problema jii configuración ka̱a̱ servidor a xíín íyo neva kuvi sa´a xeen.</li>\n"
-"  <li>Dee a kivɨ-nu servidor ya´a íchi yata sa̱naan kuvi iin error nkuvi sa̱naan, kuvi nakivɨ-nu íchika dee nníní.</li>\n"
+"  <li>Sa̱naan kuvi iin problema jii configuración ka̱a̱ servidor a xíín "
+"íyo neva kuvi sa´a xeen.</li>\n"
+"  <li>Dee a kivɨ-nu servidor ya´a íchi yata sa̱naan kuvi iin error nkuvi "
+"sa̱naan, kuvi nakivɨ-nu íchika dee nníní.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1054,7 +1122,9 @@ msgstr "Síne link nuu iin pestaña jíía"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgid ""
+"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
+"history."
 msgstr "Daa tutu nátava <b>Nná</b> dee náxitá-nu %1$s daa tu´un nnánukunu."
 
 #. First run tour (Default browser): Title
@@ -1063,9 +1133,11 @@ msgid "Power up your privacy"
 msgstr "Sika privacidad noo´o"
 
 #. First run tour (Default browser): Text.
-msgctxt "firstrun_defaultbrowser_text2"
-msgid "Take private browsing to the next level. Block ads and other content that can track you across sites and bog down page load times."
-msgstr "Ni´i nánuku yu´u inka nivel. Xita daa tutu kuvi xiko a xíín daa nita noo´o, saa´a ntu jika ñama ka̱a̱ nánuku."
+msgctxt "firstrun_defaultbrowser_text_new"
+msgid ""
+"Block content like ads and code that follow you around the web and slow "
+"you down. Turn on ad blocking to browse faster without annoying ads."
+msgstr ""
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1074,7 +1146,9 @@ msgstr "Nánuku, kua kachi noo´o"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid "Searching for something different? Choose another default search engine in Settings."
+msgid ""
+"Searching for something different? Choose another default search engine "
+"in Settings."
 msgstr "Nánukunu inka tu´un? Kaji inka ka̱a̱ nánuku nuu daa ke´í."
 
 #. First run tour (Shortcut): Title
@@ -1086,8 +1160,12 @@ msgstr "Tee a kivu ñama nuu kajie´e"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
-msgstr "Niko ñama nuu daa sitios ta´a ini noo´o %1$s. Kaji \"tee nuu kajie´e\" nu %1$s."
+msgid ""
+"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
+"screen\" from the %1$s menu."
+msgstr ""
+"Niko ñama nuu daa sitios ta´a ini noo´o %1$s. Kaji \"tee nuu kajie´e\" nu"
+" %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1098,8 +1176,12 @@ msgstr "Kino jii privacidad"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
-msgstr "Tee %1$s kua ka̱a̱ xinañu´u jee kune´ya a taji saa nánuku yu´unu saa sinenu nuu daa inka ka̱a̱."
+msgid ""
+"Set %1$s as your default browser and get the benefits of private browsing"
+" when you open webpages from other apps."
+msgstr ""
+"Tee %1$s kua ka̱a̱ xinañu´u jee kune´ya a taji saa nánuku yu´unu saa "
+"sinenu nuu daa inka ka̱a̱."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1112,6 +1194,20 @@ msgstr "Nava"
 msgctxt "firstrun_next_button"
 msgid "Next"
 msgstr "Inka"
+
+#. Title for intro card shown to users after updating. %1$s will be replaced
+#. with the name of the app (e.g. Firefox Focus)
+#, c-format
+msgctxt "block_ads_card_title"
+msgid "%1$s is ready to block ads"
+msgstr ""
+
+#. Description for intro card shown to users after updating.
+msgctxt "block_ads_card_description"
+msgid ""
+"New feature! Browse faster by stopping ads and code that follow you "
+"around the web."
+msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1160,8 +1256,12 @@ msgstr "Nánuku yu´u"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
-msgstr "Daa notificación kuvi xita daa sesión nuu %1$s nejika kuaxinu. Ntu nejika sinenu ka̱a̱ saa kune´yanu a nune nu ka̱a̱ nánuku."
+msgid ""
+"Notifications let you erase your %1$s session with a tap. You don’t need "
+"to open the app or see what’s running in your browser."
+msgstr ""
+"Daa notificación kuvi xita daa sesión nuu %1$s nejika kuaxinu. Ntu nejika"
+" sinenu ka̱a̱ saa kune´yanu a nune nu ka̱a̱ nánuku."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1180,15 +1280,23 @@ msgstr "Xinuun Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s kuviji iin ka̱a̱ ntu íyo ya´vi jee kuviji iin código nune a sa´a Mozilla jii inka ñivɨ."
+msgid ""
+"%1$s is free and open source software made by Mozilla and other "
+"contributors."
+msgstr ""
+"%1$s kuviji iin ka̱a̱ ntu íyo ya´vi jee kuviji iin código nune a sa´a "
+"Mozilla jii inka ñivɨ."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "%1$s kuviji jiee <a href=\"%2$s\">tutu xitu Mozilla</a> jii inka tutu código nune."
+msgid ""
+"%1$s is made available to you under the terms of the <a "
+"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr ""
+"%1$s kuviji jiee <a href=\"%2$s\">tutu xitu Mozilla</a> jii inka tutu "
+"código nune."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1196,16 +1304,25 @@ msgstr "%1$s kuviji jiee <a href=\"%2$s\">tutu xitu Mozilla</a> jii inka tutu c�
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the "
+"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
+"names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr "Ntu taji tutu xitu a xíín daa inka tutu xitu Mozilla nu inka vetiñu, ya´a kuvi logos a xiin sivɨ Mozilla, Firefox a xiin %1$s. Kuni kue´e jiee ya´a <a href=\"%2$s\"> nuu </a>."
+msgstr ""
+"Ntu taji tutu xitu a xíín daa inka tutu xitu Mozilla nu inka vetiñu, ya´a"
+" kuvi logos a xiin sivɨ Mozilla, Firefox a xiin %1$s. Kuni kue´e jiee "
+"ya´a <a href=\"%2$s\"> nuu </a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Inka <a href=\"%2$s\"> tutu xitu </a> código nune jii ntu íyo ya´vi kumidaja código %1$s."
+msgid ""
+"Additional source code for %1$s is available under various other free and"
+" open source <a href=\"%2$s\">licenses</a>."
+msgstr ""
+"Inka <a href=\"%2$s\"> tutu xitu </a> código nune jii ntu íyo ya´vi "
+"kumidaja código %1$s."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1213,8 +1330,14 @@ msgstr "Inka <a href=\"%2$s\"> tutu xitu </a> código nune jii ntu íyo ya´vi k
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s ni´i lista ntɨ tuvi a taji Disconnect, Inc. kua tiñu ntu ntaka jiee <a href=\"%2$s\"> tutu xitu ntaka GNU v3 </a> jee kuvi nani´inuma <a href=\"%3$s\"> ya´a </a>."
+msgid ""
+"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
+"independent works under the <a href=\"%2$s\">GNU General Public License "
+"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr ""
+"%1$s ni´i lista ntɨ tuvi a taji Disconnect, Inc. kua tiñu ntu ntaka jiee "
+"<a href=\"%2$s\"> tutu xitu ntaka GNU v3 </a> jee kuvi nani´inuma <a "
+"href=\"%3$s\"> ya´a </a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1360,6 +1483,14 @@ msgctxt "biometric_auth_new_session"
 msgid "New Session"
 msgstr "Sesión jíía"
 
+#. Button for the fingerprint authentication dialog box that is shown to the
+#. user when sharing a link to the app     while the user has biometric
+#. authentication enabled. When pressed, the user's previous session is
+#. cleared, and the shared link is opened.
+msgctxt "biometric_auth_open_link_new_session"
+msgid "Open Link in New Session"
+msgstr ""
+
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
 msgctxt "biometric_auth_image_description"
@@ -1391,8 +1522,12 @@ msgstr "A kuvinu tee daa tu´un chineí nánukunu ñama?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
-msgstr "Saa kuvi ni´inu tu´un chineí nánuku, %1$s nejika chu´un ichinu daa a teenu nu chu´un direcciones jii ka̱a̱ ni´inu. %2$s."
+msgid ""
+"To get search suggestions, %1$s needs to send what you type in the "
+"address bar to the search engine you’ve chosen. %2$s."
+msgstr ""
+"Saa kuvi ni´inu tu´un chineí nánuku, %1$s nejika chu´un ichinu daa a "
+"teenu nu chu´un direcciones jii ka̱a̱ ni´inu. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1438,7 +1573,9 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Kuaxin ntu ichi jee kivu nuu daa sitios ni´inu ntaka ichi %1$s Kaji > Tee nuu kajie´e"
+msgstr ""
+"Kuaxin ntu ichi jee kivu nuu daa sitios ni´inu ntaka ichi %1$s Kaji > Tee"
+" nuu kajie´e"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1487,6 +1624,16 @@ msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
 msgstr "Xita tu´un chineí nánukunu nuu kajie´e"
 
+#. Tip displayed on home view explaining ad blocking
+msgctxt "tip_block_ads"
+msgid "Browse faster by stopping ads and code that follows you around the web."
+msgstr ""
+
+#. Title for a switch that enables or disables ads
+msgctxt "block_ads_title"
+msgid "Ad blocking"
+msgstr ""
+
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
 msgctxt "tip_explain_allowlist"
@@ -1495,7 +1642,8 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "Sitio vatu?\n"
-" Dee tee ya´a, kachi a sitio ya´a íyo vatu jee ntu kuvi sa´a xeen a xiin kuntada noo´o."
+" Dee tee ya´a, kachi a sitio ya´a íyo vatu jee ntu kuvi sa´a xeen a xiin "
+"kuntada noo´o."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1527,8 +1675,12 @@ msgstr "Tee ntuvi daa sitios tixin jiin sitios kantu´un"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr "Tee ntuvi daa sitios kuvi sa´a xeen, jee daa sitios kumi ka̱a̱ ntu íyo vatu."
+msgid ""
+"Block reported deceptive and attack sites, malware sites, and unwanted "
+"software sites."
+msgstr ""
+"Tee ntuvi daa sitios kuvi sa´a xeen, jee daa sitios kumi ka̱a̱ ntu íyo "
+"vatu."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1579,7 +1731,9 @@ msgstr "Nei koo ini-nu. %1$s nkumi iin tixi jee ntivu ya´a."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgid ""
+"As a private browser, we never save and cannot restore your last browsing"
+" session."
 msgstr "Ka̱a̱ ya´a. ntu chuva´a jee nkuvi sine daa nsa´anu ichi yata."
 
 #. Label for the button that closes the window
@@ -1598,3 +1752,24 @@ msgstr "Nakajie´e %1$s"
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
 msgstr "Chu´un ichi saa tivu ya´a nuu Mozilla"
+
+#. Pop-up message to inform users they have enabled content blocking
+msgctxt "content_blocking_enabled_snackbar_message"
+msgid "Content Blocking is enabled"
+msgstr ""
+
+#. Pop-up message to inform users they have disabled content blocking
+msgctxt "content_blocking_disabled_snackbar_message"
+msgid "Content Blocking is disabled"
+msgstr ""
+
+#. Snackbar action button that users can press to enable content blocking
+msgctxt "content_blocking_snackbar_enable_action"
+msgid "Enable"
+msgstr ""
+
+#. Snackbar action button that users can press to disable content blocking
+msgctxt "content_blocking_snackbar_disable_action"
+msgid "Disable"
+msgstr ""
+
