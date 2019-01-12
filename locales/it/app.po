@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 12:41+0000\n"
+"PO-Revision-Date: 2019-01-12 12:48+0000\n"
 "Last-Translator: Sav22999 <saverio.morelli@outlook.it>\n"
 "Language-Team: it <LL@li.org>\n"
 "Language: it\n"
@@ -517,7 +517,7 @@ msgstr ""
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Blocca gli elementi traccianti che analizzano e misurano le interazioni come tocchi e scorrimenti"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -536,7 +536,7 @@ msgstr "Blocca altri contenuti traccianti"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Blocca l’attività di tracciamento, ma può causare un comportamento imprevisto di alcuni siti e pagine"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -564,11 +564,11 @@ msgstr "Sì"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "No (permetti tutti i cookie)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Blocca solo cookie traccianti di terze parti (consigliato)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
@@ -1099,7 +1099,7 @@ msgstr "Potenzia la tua privacy"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Blocca contenuti come pubblicità e codice che ti seguono sul Web e ti rallentano. Attiva il blocco annunci per navigare più velocemente senza fastidiosi annunci."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1416,7 +1416,7 @@ msgstr "Nuova sessione"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Apri link in nuova sessione"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1548,12 +1548,12 @@ msgstr "Disattiva suggerimenti nella schermata iniziale"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Naviga più velocemente bloccando pubblicità e codice che ti seguono sul Web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Blocco pubblicità"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1670,19 +1670,19 @@ msgstr "Invia la segnalazione di arresto anomalo a Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Il blocco contenuti è attivato"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Il blocco contenuti è disattivato"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Attiva"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Disattiva"
