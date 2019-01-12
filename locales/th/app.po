@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 04:23+0000\n"
+"PO-Revision-Date: 2019-01-12 05:22+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -568,17 +568,17 @@ msgstr "ไม่ (อนุญาตคุกกี้ทั้งหมด)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "ปิดกั้นคุกกี้ของตัวติดตามจากบุคคลที่สาม (แนะนำ)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
-msgstr ""
+msgstr "ปิดกั้นคุกกี้จากบุคคลที่สามทั้งหมด (อาจส่งผลให้เว็บไซต์ไม่สมบูรณ์)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "ปิดกั้นคุกกี้ทั้งหมด (จะส่งผลให้เว็บไซต์ไม่สมบูรณ์)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1152,7 +1152,7 @@ msgstr "ถัดไป"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s พร้อมที่จะปิดกั้นโฆษณา"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
