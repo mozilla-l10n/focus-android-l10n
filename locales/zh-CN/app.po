@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 00:47+0000\n"
+"PO-Revision-Date: 2019-01-12 01:04+0000\n"
 "Last-Translator: 우믿트 <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -517,7 +517,7 @@ msgstr ""
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "拦截会收集、分析和测量交互（如点击与滚动）的跟踪器"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -1156,7 +1156,7 @@ msgstr "下一步"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr "%1$s 已准备好拦截广告"
+msgstr ""
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
