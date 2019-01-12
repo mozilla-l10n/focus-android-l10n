@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 18:43+0000\n"
+"PO-Revision-Date: 2019-01-12 19:01+0000\n"
 "Last-Translator: Patriccollu di Santa Maria è S <Patrick.Santa-Maria@laposte.net>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -518,7 +518,7 @@ msgstr "Caccia e publicità cuncepite per spiunà e vostre visite nant’à i si
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Bluccheghja i perseguitatori chì analizanu è misuranu l’interazzioni cum’è picchichjà è sfilà"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -565,7 +565,7 @@ msgstr "Iè"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Innò (permette tutti canistrelli)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
@@ -1157,7 +1157,7 @@ msgstr "Seguente"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s hè prontu à bluccà e publicità"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
@@ -1421,7 +1421,7 @@ msgstr "Nova sessione"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Apre a leia in nova sessione"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1558,7 +1558,7 @@ msgstr ""
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Blucchime di publicità"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1675,19 +1675,19 @@ msgstr "Mandà un raportu di penseri à Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "U blucchime di cuntenutu hè attivatu"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "U blucchime di cuntenutu hè disattivatu"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Attivà"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Disattivà"
