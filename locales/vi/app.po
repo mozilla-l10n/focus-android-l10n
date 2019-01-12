@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 05:51+0000\n"
+"PO-Revision-Date: 2019-01-12 06:00+0000\n"
 "Last-Translator: Quế Tùng <best.cloney.1301@gmail.com>\n"
 "Language-Team: vi <LL@li.org>\n"
 "Language: vi\n"
@@ -358,7 +358,7 @@ msgstr "Với các trang web hàng đầu"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "Bật để tự động hoàn thành hơn 450 URL phổ biến trong thanh địa chỉ."
+msgstr "Kích hoạt để tự động hoàn thành hơn 450 URL phổ biến trong thanh địa chỉ."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -497,7 +497,7 @@ msgstr "Chặn quảng cáo và những phiền toái khác"
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Chặn quảng cáo và các phiền toái khác bằng cách sử dụng danh sách chặn từ Easylist, EasyPrivacy, Fanboy's Annoyance và 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -527,7 +527,7 @@ msgstr "Chặn trình theo dõi xã hội"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Chặn các trình theo dõi liên quan đến phương tiện truyền thông xã hội được nhúng trên các trang web, bao gồm các nút chia sẻ xã hội"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "Chặn trình theo dõi khác"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Chặn hoạt động theo dõi, nhưng có thể khiến một số trang web không hoạt động như mong đợi"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -1105,7 +1105,7 @@ msgstr "Tăng quyền riêng tư của bạn"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Chặn nội dung như quảng cáo và đoạn mã theo dõi bạn trên web và làm chậm lại. Bật tính năng chặn quảng cáo để duyệt nhanh hơn mà không bị làm phiền bởi quảng cáo."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1163,7 +1163,7 @@ msgstr "%1$s đã sẵn sàng chặn quảng cáo"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Tính năng mới! Duyệt nhanh hơn bằng cách chặn quảng cáo và đoạn mã theo dõi bạn trên web."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1554,7 +1554,7 @@ msgstr "Tắt mẹo trên màn hình bắt đầu"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Duyệt nhanh hơn bằng cách chặn quảng cáo và đoạn mã theo dõi bạn trên web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
@@ -1569,7 +1569,7 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "Tin tưởng một trang nào đó?\n"
-" Danh sách cho phép vô hiệu hóa Theo dõi bảo vệ cho các trang web bạn biết và tin tưởng."
+" Lập danh sách cho phép vô hiệu hóa trình chống theo dõi cho các trang web bạn biết và tin tưởng."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
