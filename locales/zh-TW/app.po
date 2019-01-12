@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 06:19+0000\n"
+"PO-Revision-Date: 2019-01-12 07:29+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -509,13 +509,13 @@ msgstr "封鎖廣告型追蹤器"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "移除就算您不點擊，也會追蹤您造訪過哪些網站的廣告"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "封鎖會分析或計算您與頁面如何互動的追蹤器"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -525,7 +525,7 @@ msgstr "封鎖社交追蹤器"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "防止社群網路相關的追蹤器（包含分享到社交網路的按鈕）置放於網站中"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -534,7 +534,7 @@ msgstr "封鎖其他內容追蹤器"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "封鎖追蹤行為，但可能造成某些網站與頁面運作不正常"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -562,21 +562,21 @@ msgstr "是"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "不封鎖（允許所有 Cookie） "
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "封鎖來自第三方追蹤器的 Cookie（推薦）"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
-msgstr ""
+msgstr "封鎖所有第三方 Cookie（可能造成網站不正常）"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "封鎖所有 Cookie（會造成網站不正常）"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1075,7 +1075,7 @@ msgstr "加強您的隱私"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "封鎖會在整個網路世界中追蹤您並拖慢上網速度的廣告與程式碼等內容。可開啟廣告封鎖功能，減掉討人厭的廣告，讓您上網變得更快。"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1133,7 +1133,7 @@ msgstr "%1$s 已準備好封鎖廣告"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "推出全新功能！封鎖會在整個網路世界中追蹤您的廣告與程式碼。"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1388,7 +1388,7 @@ msgstr "開新使用階段"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "用新瀏覽階段開啟鏈結"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1518,7 +1518,7 @@ msgstr "關閉啟動畫面上的使用秘訣"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "封鎖會在整個網路世界中追蹤您的廣告與程式碼。"
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
