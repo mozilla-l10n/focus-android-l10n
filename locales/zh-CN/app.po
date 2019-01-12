@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2018-12-03 01:21+0000\n"
-"Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
-"Language: zh_Hans_CN\n"
+"PO-Revision-Date: 2019-01-12 00:47+0000\n"
+"Last-Translator: 우믿트 <eloli@foxmail.com>\n"
 "Language-Team: zh_Hans_CN <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=(0)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -227,12 +228,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s 让您掌控线上生活。</p>\n"
@@ -497,9 +496,7 @@ msgstr ""
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
-msgid ""
-"Stops ads and other annoyances using block lists from Easylist, "
-"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
 msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
@@ -519,9 +516,7 @@ msgstr ""
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
-msgid ""
-"Blocks trackers that analyze and measure interactions like tapping and "
-"scrolling"
+msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
 msgstr ""
 
 msgctxt "preference_privacy_block_social"
@@ -531,9 +526,7 @@ msgstr "拦截社交跟踪器"
 #. Description for the toggle that Blocks social-media related trackers
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
-msgid ""
-"Stops social-media related trackers embedded on websites, including "
-"social share buttons"
+msgid "Stops social-media related trackers embedded on websites, including social share buttons"
 msgstr ""
 
 msgctxt "preference_privacy_block_content"
@@ -542,9 +535,7 @@ msgstr "拦截其他内容跟踪器"
 
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
-msgid ""
-"Blocks tracking activity, but may cause some sites and pages to behave "
-"unexpectedly"
+msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
 msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
@@ -577,17 +568,19 @@ msgstr ""
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "拦截第三方跟踪器 Cookie（推荐）"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"拦截所有第三方 Cookie\n"
+"（可能导致网站异常）"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "拦截所有 Cookie（将会导致网站异常）"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -601,9 +594,7 @@ msgstr "使用指纹解锁应用"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
 msgstr "如果应用内有已打开的网址，您需用指纹解锁 %1$s。隐形模式将被开启。"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
@@ -677,9 +668,7 @@ msgstr "详细了解"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
 msgstr "Mozilla 坚持仅收集为大众提供和改进 %1$s 所必需的数据。"
 
 #. In-app link (in settings) to Focus privacy notice.
@@ -902,9 +891,7 @@ msgstr "寻找可以打开此链接的应用"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
 msgstr "您的设备上的应用都不能打开此链接。您可以离开 %1$s，到 %2$s 找找适合的应用。"
 
 #. This label is shown above a list of apps that can be used to open a given
@@ -963,10 +950,8 @@ msgstr "无法连接"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -988,8 +973,7 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
@@ -1006,10 +990,8 @@ msgstr "地址无效"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1024,8 +1006,7 @@ msgstr "此页面不正确地重定向"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1039,8 +1020,7 @@ msgstr "无法理解该地址"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1054,11 +1034,9 @@ msgstr "安全连接失败"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -1114,9 +1092,7 @@ msgstr "新建标签页打开链接"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
 msgstr "清除 %1$s 的历史记录时，<b>不会删除</b>已保存和已分享的图像。"
 
 #. First run tour (Default browser): Title
@@ -1126,9 +1102,7 @@ msgstr "强化您的隐私"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
-msgid ""
-"Block content like ads and code that follow you around the web and slow "
-"you down. Turn on ad blocking to browse faster without annoying ads."
+msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -1138,9 +1112,7 @@ msgstr "用你的方式搜你所寻"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "想搜点不一样的东西？可在设置里选择换个默认搜索引擎。"
 
 #. First run tour (Shortcut): Title
@@ -1152,9 +1124,7 @@ msgstr "在主屏幕中添加快捷方式"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
 msgstr "快速用 %1$s 回到您喜爱的网站。只需在 %1$s 菜单中选择“添加到主屏幕”。"
 
 #. First run tour (Privacy): Title
@@ -1166,9 +1136,7 @@ msgstr "让隐私成为一种习惯"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
 msgstr "将 %1$s 设为您的默认浏览器，用其他应用打开网页时即可享受隐私浏览。"
 
 msgctxt "firstrun_close_button"
@@ -1188,13 +1156,11 @@ msgstr "下一步"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s 已准备好拦截广告"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
-msgid ""
-"New feature! Browse faster by stopping ads and code that follow you "
-"around the web."
+msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
 msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
@@ -1244,9 +1210,7 @@ msgstr "隐私浏览会话"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
 msgstr "通知您可以一键清除您的 %1$s 浏览记录。清除无需打开应用或查看浏览器中的内容。"
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
@@ -1266,18 +1230,14 @@ msgstr "下载 Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
 msgstr "%1$s 是由 Mozilla 及贡献者制作的一款自由的开源软件。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
 msgstr "%1$s 依照 <a href=\"%2$s\">Mozilla 公共许可证</a>及其他一些开源许可证向您授权。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1286,21 +1246,15 @@ msgstr "%1$s 依照 <a href=\"%2$s\">Mozilla 公共许可证</a>及其他一些�
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
-msgstr ""
-"您没有取得 Mozilla 基金会或任何一方的商标的任何权利或许可，包括 Mozilla、Firefox 和 %1$s "
-"名称或徽标的许可。有关信息请查阅<a href=\"%2$s\">此处</a>。"
+msgstr "您没有取得 Mozilla 基金会或任何一方的商标的任何权利或许可，包括 Mozilla、Firefox 和 %1$s 名称或徽标的许可。有关信息请查阅<a href=\"%2$s\">此处</a>。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
 msgstr "%1$s 其他源代码以各类自由和开源<a href=\"%2$s\">许可证</a>开放。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
@@ -1309,13 +1263,8 @@ msgstr "%1$s 其他源代码以各类自由和开源<a href=\"%2$s\">许可证</
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s 还使用 Disconnect 公司提供的阻止列表，它是以 <a href=\"%2$s\">GNU 通用公共许可证 v3</a> "
-"提供的一个独立的作品，可在<a href=\"%3$s\">这里</a>找到。"
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s 还使用 Disconnect 公司提供的阻止列表，它是以 <a href=\"%2$s\">GNU 通用公共许可证 v3</a> 提供的一个独立的作品，可在<a href=\"%3$s\">这里</a>找到。"
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1500,9 +1449,7 @@ msgstr "想要开启搜索建议吗？"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
 msgstr "为获取搜索建议，%1$s 需将您在地址栏中输入的内容发送至您选择的搜索引擎。%2$s。"
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
@@ -1648,9 +1595,7 @@ msgstr "拦截潜在的危险与诈骗网站"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
 msgstr "拦截已被报告的诈骗、攻击性，或含有恶意软件、垃圾软件的网站。"
 
 #. Preference for exceptions tracking protection
@@ -1702,9 +1647,7 @@ msgstr "抱歉， %1$s 遇到问题并已崩溃。"
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
 msgstr "作为一款隐私浏览器，我们不会保存浏览记录，因此无法还原您先前的浏览状态。"
 
 #. Label for the button that closes the window
@@ -1737,10 +1680,9 @@ msgstr ""
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "启用"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
-
+msgstr "禁用"
