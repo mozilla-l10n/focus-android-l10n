@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 09:02+0000\n"
+"PO-Revision-Date: 2019-01-13 09:34+0000\n"
 "Last-Translator: Andreas Pettersson <az@kth.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
@@ -511,7 +511,7 @@ msgstr "Blockera annons-trackers"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Tar bort annonser som är utformade för att spåra besök på webbplatsen, även om du inte trycker på dem"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
@@ -536,7 +536,7 @@ msgstr "Blockera andra innehållstrackers"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Blockerar spårningsaktivitet, men kan orsaka att vissa webbplatser och sidor uppträder oväntat"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -575,10 +575,12 @@ msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Blockera alla kakor från tredje part\n"
+"(kan orsaka fel på webbplatser)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Blockera alla kakor (kommer att orsaka fel på webbplatser)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1103,7 +1105,7 @@ msgstr "Stärk din integritet"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Blockera innehåll som annonser och kod som följer dig på nätet och slöar ner dig. Slå på annonsblockering för att surfa snabbare utan irriterande annonser."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1156,12 +1158,12 @@ msgstr "Nästa"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s är redo att blockera annonser"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Ny funktion! Surfa snabbare genom att stoppa annonser och kod som följer dig på webben."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1420,7 +1422,7 @@ msgstr "Ny session"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Öppna länk i ny session"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1552,7 +1554,7 @@ msgstr "Stäng av tips på startskärmen"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Surfa snabbare genom att stoppa annonser och kod som följer dig på webben."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
