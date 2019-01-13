@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-13 09:34+0000\n"
-"Last-Translator: Andreas Pettersson <az@kth.se>\n"
+"PO-Revision-Date: 2019-01-13 11:23+0000\n"
+"Last-Translator: Anders Nilsson <anders@devode.se>\n"
 "Language-Team: sv_SE <LL@li.org>\n"
 "Language: sv_SE\n"
 "MIME-Version: 1.0\n"
@@ -517,7 +517,7 @@ msgstr "Tar bort annonser som är utformade för att spåra besök på webbplats
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Blockerar trackers som analyserar och mäter interaktioner som att trycka och bläddra"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Blockera sociala trackers"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Stoppar trackers relaterade till sociala medier inbäddade på webbplatser, inklusive knappar för att dela i sociala medier"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
