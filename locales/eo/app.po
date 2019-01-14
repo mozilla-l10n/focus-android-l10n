@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-14 19:11+0000\n"
+"PO-Revision-Date: 2019-01-14 19:32+0000\n"
 "Last-Translator: Eduardo Trápani <eduardo@esperanto.org.uy>\n"
 "Language-Team: eo <LL@li.org>\n"
 "Language: eo\n"
@@ -490,14 +490,14 @@ msgstr "Privateco"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Bloki reklamojn kaj aliajn ĝenojn"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Blokado de reklamoj kaj aliaj ĝenoj per la jenaj listoj de blokado: EasyList, EasyPrivacy, Fanboy's Annoyance kaj 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -564,21 +564,23 @@ msgstr "Jes"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Ne (permesi ĉiujn kuketojn)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Bloki nerektajn spurantajn kuketojn (rekomendita)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Bloki ĉiujn nerektajn kuketojn\n"
+"(tio povus misfunkciigi retejojn)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Bloki ĉiujn kuketojn (tio misfunkciigos retejojn)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1101,7 +1103,7 @@ msgstr "Plibonigi vian privatecon"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Bloki enhavon, ekzemple reklamojn kaj kodon kiuj sekvas vin tra la reto kaj malrapidigas vin. Ŝaltu blokadon de reklamoj por retumi pli rapide sen ĝenaj reklamoj."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1154,12 +1156,12 @@ msgstr "Sekva"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s pretas bloki reklamojn"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Nova trajto! Retumu pli rapide per blokado de reklamoj kaj kodo, kiuj sekvas vin tra la reto."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1418,7 +1420,7 @@ msgstr "Nova seanco"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Malfermi ligilon en nova seanco"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1550,12 +1552,12 @@ msgstr "Malŝalti konsilojn en la komenca ekrano"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Retumu pli rapide per blokado de reklamoj kaj kodo, kiuj sekvas vin tra la reto."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Bloki reklamojn"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1672,19 +1674,19 @@ msgstr "Sendi raporton pri paneo al Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Blokado de enhavo aktiva"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Blokado de enhavo malaktiva"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Aktivigi"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Malaktivigi"
