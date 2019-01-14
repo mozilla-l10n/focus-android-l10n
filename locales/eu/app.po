@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-14 10:35+0000\n"
+"PO-Revision-Date: 2019-01-14 10:43+0000\n"
 "Last-Translator: julenx <julenx@gmail.com>\n"
 "Language-Team: eu <LL@li.org>\n"
 "Language: eu\n"
@@ -509,13 +509,13 @@ msgstr "Blokeatu publizitatearen jarraipena"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Guneen bisiten jarraipena egiteko diseinatutako iragarkiak kentzen ditu, nahiz eta zuk hauetan sakatu ez"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Sakatzea eta korritzea bezalako interakzioak analizatu eta neurtzen dituzten jarraipen-elementuak blokeatzen ditu"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -525,7 +525,7 @@ msgstr "Blokeatu sare sozialetako jarraipena"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Webguneetan txertatutako eta sare sozialekin lotutako jarraipen-elementuak gelditzen ditu, sare sozialetako partekatze-botoiak barne"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -534,7 +534,7 @@ msgstr "Blokeatu bestelako edukien jarraipena"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Jardueraren jarraipena blokeatzen du baina gune eta orrietako portaera espero gabekoa izatea eragin lezake"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -1103,7 +1103,7 @@ msgstr "Indartu zure pribatutasuna"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Blokeatu iragarkiak eta webean zure jarraipena egiten duen eta mantsotzen zaituen kodea. Gaitu iragarkiak blokeatzea azkarrago nabigatzeko eragozpenak sortzen dituzten iragarkirik gabe."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1156,12 +1156,12 @@ msgstr "Hurrengoa"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s iragarkiak blokeatzeko prest dago"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Eginbide berria! Nabigatu azkarrago iragarkiak eta webean zure jarraipena egiten duen kodea blokeatuz."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1552,12 +1552,12 @@ msgstr "Desgaitu hasierako pantailako aholkuak"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Nabigatu azkarrago iragarkiak eta webean zure jarraipena egiten duen kodea blokeatuz."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Iragarkiak blokeatzea"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1674,12 +1674,12 @@ msgstr "Bidali hutsegite-txostena Mozillara"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Edukia blokeatzea gaituta dago"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Edukia blokeatzea desgaituta dago"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
