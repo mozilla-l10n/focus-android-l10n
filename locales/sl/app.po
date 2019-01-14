@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-14 08:15+0000\n"
+"PO-Revision-Date: 2019-01-14 08:24+0000\n"
 "Last-Translator: Rok Žerdin <rok.zerdin1990@gmail.com>\n"
 "Language-Team: sl <LL@li.org>\n"
 "Language: sl\n"
@@ -511,13 +511,13 @@ msgstr "Zavračaj sledilce oglasov"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Odstrani oglase, namenjene sledenju obiskov spletnih mest, tudi če ne tapnete nanje"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Zavrača sledilce, ki analizirajo in merijo dejanja, kot je pritiskanje in drsenje po strani"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -1105,7 +1105,7 @@ msgstr "Okrepite svojo zasebnost"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Zavračajte vsebino, kot so oglasi in koda, ki vas spremlja po spletu in upočasni brskanje. Vklopite zavračanje oglasov za hitrejše brskanje brez nadležnih oglasov."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1163,7 +1163,7 @@ msgstr "%1$s je pripravljen na zavračanje oglasov"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Nova možnost! Brskajte hitreje, tako da ustavite oglase in kodo, ki vas spremlja po spletu."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
