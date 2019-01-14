@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-13 21:33+0000\n"
+"PO-Revision-Date: 2019-01-14 05:35+0000\n"
 "Last-Translator: troels <troels.krainer.thomsen@gmail.com>\n"
 "Language-Team: da <LL@li.org>\n"
 "Language: da\n"
@@ -274,7 +274,7 @@ msgstr "Om %1$s, hjælp"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Blokering af annoncer"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -527,7 +527,7 @@ msgstr "Bloker sporing via sociale medier"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Stopper sporings-elementer fra sociale medier, der er indlejret på websteder, herunder delingsknapper"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -580,7 +580,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Bloker alle cookies (vil medføre at nogle websteder ikke virker)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1105,7 +1105,7 @@ msgstr "Styrk dit privatliv"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Bloker indhold som annoncer og kode, der følger dig rundt på nettet og sænker farten. Aktivér blokering af annoncer for at søge hurtigere uden irriterende annoncer."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1422,7 +1422,7 @@ msgstr "Ny session"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Åbn link i ny session"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1559,7 +1559,7 @@ msgstr "Surf hurtigere ved at stoppe annoncer og kode, der følger dig rundt på
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Blokering af annoncer"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1676,12 +1676,12 @@ msgstr "Send fejlrapport til Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Blokering af annoncer er aktiveret"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Blokering af indhold er deaktiveret"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
