@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-14 19:32+0000\n"
+"PO-Revision-Date: 2019-01-14 19:38+0000\n"
 "Last-Translator: Eduardo Trápani <eduardo@esperanto.org.uy>\n"
 "Language-Team: eo <LL@li.org>\n"
 "Language: eo\n"
@@ -511,13 +511,13 @@ msgstr "Bloki reklamajn spurilojn"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Forigo de reklamoj, kiuj povas spuri vin eĉ se vi ne tuŝetas ilin"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Forigo de spuriloj, kiuj analizas kaj mezuras interagojn kiel tuŝetojn kaj ŝovadon"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Bloki sociajn spurilojn"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Blokado de sociaj spuriloj, kiuj estas enmetitaj en retejoj. Tio inkluzivas la kundividajn butonojn."
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "Bloki spurilojn en aliaj enhavoj"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Blokado de spuranta agado, sed tio povas neatendite misfunkciigi kelkajn retejojn"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
