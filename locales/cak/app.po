@@ -2,23 +2,24 @@
 # Copyright (C) 2017 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2018-11-04 16:06+0000\n"
+"PO-Revision-Date: 2019-01-14 18:50+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
-"Language: cak\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: cak\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -226,26 +227,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s nuya' ronojel pan aq'a'.</p>\n"
 "<p>Tawokisaj achi'el jun ichina okik'amaya'l:\n"
 "  <ul>\n"
 "    <li>Tikanöx chuqa' tokisäx ri chokoy</li>\n"
-"    <li>Keq'at ojqanela' (o kek'ex taq cha'oj richin niya' q'ij chi ke ri"
-" ojqanela')</li>\n"
-"    <li>Tiyuj richin yeyuj el taq kaxlawey chuqa' runatab'al kanoxïk "
-"chuqa' okem pa k'amaya'l</li>\n"
+"    <li>Keq'at ojqanela' (o kek'ex taq cha'oj richin niya' q'ij chi ke ri ojqanela')</li>\n"
+"    <li>Tiyuj richin yeyuj el taq kaxlawey chuqa' runatab'al kanoxïk chuqa' okem pa k'amaya'l</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s Xsamajin ruma ri Mozilla. Ri taqel qataqanem ja ri niqayäk "
-"qak'u'x richin jun jaqäl chuqa' raxinäq k'amaya'l.<br/>\n"
+"<p>%1$s Xsamajin ruma ri Mozilla. Ri taqel qataqanem ja ri niqayäk qak'u'x richin jun jaqäl chuqa' raxinäq k'amaya'l.<br/>\n"
 "<a href=\"%2$s\">Tetamäx ch'aqa' chik</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -324,9 +320,7 @@ msgstr "Kechilab'ëx ri yekanöx"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr ""
-"%1$s xtutäq ri xtatz'ib'aj pa ri rukajtz'ik ochochib'äl chi re ri "
-"akanob'al"
+msgstr "%1$s xtutäq ri xtatz'ib'aj pa ri rukajtz'ik ochochib'äl chi re ri akanob'al"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -363,9 +357,7 @@ msgstr "Kichin Ütz taq ajk'amaya'l ruxaq"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
-"Titzij richin ruyonil nunojisaj naqaj chi re 450 ajowan taq URLs pa "
-"kikajtz'ik ochochib'äl."
+msgstr "Titzij richin ruyonil nunojisaj naqaj chi re 450 ajowan taq URLs pa kikajtz'ik ochochib'äl."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -503,9 +495,7 @@ msgstr ""
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
-msgid ""
-"Stops ads and other annoyances using block lists from Easylist, "
-"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
 msgstr ""
 
 msgctxt "preference_privacy_block_analytics"
@@ -525,9 +515,7 @@ msgstr ""
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
-msgid ""
-"Blocks trackers that analyze and measure interactions like tapping and "
-"scrolling"
+msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
 msgstr ""
 
 msgctxt "preference_privacy_block_social"
@@ -537,9 +525,7 @@ msgstr "Keq'at winaqil taq ojqanela'"
 #. Description for the toggle that Blocks social-media related trackers
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
-msgid ""
-"Stops social-media related trackers embedded on websites, including "
-"social share buttons"
+msgid "Stops social-media related trackers embedded on websites, including social share buttons"
 msgstr ""
 
 msgctxt "preference_privacy_block_content"
@@ -548,9 +534,7 @@ msgstr "Keq'at ch'aqa' chik ojqanela' rupam"
 
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
-msgid ""
-"Blocks tracking activity, but may cause some sites and pages to behave "
-"unexpectedly"
+msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
 msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
@@ -607,12 +591,8 @@ msgstr "Tawokisaj retal ruwi' aq'a' richin man niq'at ta chik ri chokoy"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
-"Ri retal ruwi' aq'a' nitikïr numeq'atij ri %1$s we jaqäl chik jun URL pa "
-"ri chokoy. Xtitzij ri metz'etel rub'anikil."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Ri retal ruwi' aq'a' nitikïr numeq'atij ri %1$s we jaqäl chik jun URL pa ri chokoy. Xtitzij ri metz'etel rub'anikil."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -628,9 +608,7 @@ msgstr "Ewan"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr ""
-"Ke'ewäx ri ajk'amaya'l taq ruxaq toq yejal taq chokoy chuqa' yeq'at "
-"chapoj taq ruwa."
+msgstr "Ke'ewäx ri ajk'amaya'l taq ruxaq toq yejal taq chokoy chuqa' yeq'at chapoj taq ruwa."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -658,9 +636,7 @@ msgstr "Tiq'at JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
-"Ri taq ruxaq yetikïr yesamäj aninäq, po chuqa' yetikïr yesamäj rik'in man"
-" etaman ta rub'anikil"
+msgstr "Ri taq ruxaq yetikïr yesamäj aninäq, po chuqa' yetikïr yesamäj rik'in man etaman ta rub'anikil"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -689,12 +665,8 @@ msgstr "Tetamäx ch'aqa' chik"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Ri Mozilla nutïj ruq'ij chi numöl ri niqajo' niqataluj chuqa' niqutzilaj "
-"%1$s k'atzinel chi qe qonojel."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Ri Mozilla nutïj ruq'ij chi numöl ri niqajo' niqataluj chuqa' niqutzilaj %1$s k'atzinel chi qe qonojel."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -781,9 +753,7 @@ msgstr "Titz'ib'äx rucholajem ri nikanöx"
 
 msgctxt "search_add_error_format"
 msgid "Check that search string matches Example format"
-msgstr ""
-"Tijikib'äx chi ri rucholajem ri nikanöx nuk'äm ri' rik'in ri rub'anikil "
-"tz'etb'äl"
+msgstr "Tijikib'äx chi ri rucholajem ri nikanöx nuk'äm ri' rik'in ri rub'anikil tz'etb'äl"
 
 #. Content description (not visible, for screen readers etc.): Clear text in
 #. URL bar
@@ -918,12 +888,8 @@ msgstr "Tikanöx jun chokoy ri nitikïr nujäq ximonel"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Majun chi ke ri taq chokoy k'o pan awokisaxel nitikïr nujäq re ximonel "
-"re'. Yatikïr yatel pa %1$s richin %2$s nitikïr jun."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Majun chi ke ri taq chokoy k'o pan awokisaxel nitikïr nujäq re ximonel re'. Yatikïr yatel pa %1$s richin %2$s nitikïr jun."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -948,9 +914,7 @@ msgstr "Tijaq"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Ri taq yakb'äl xeqasäx <b>man xkeyuj ta el</b> toq xtayüj ri %1$s "
-"natab'äl."
+msgstr "Ri taq yakb'äl xeqasäx <b>man xkeyuj ta el</b> toq xtayüj ri %1$s natab'äl."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -983,17 +947,13 @@ msgstr "Man tikirel ta nok"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Ri ruxaq k'amaya'l rik'in jub'a' man okel ta wakami o yalan "
-"tajin nokisäx. Tatojtob'ej chik pa jun ti mej</li> \n"
-"        <li>We man yatikïr ta nasamajij jujun taq ruxaq k'amaya'l, "
-"tanik'oj ri rutzij oyonib'äl okisaxel o ri Wi-Fi awokem.</li>\n"
+"        <li>Ri ruxaq k'amaya'l rik'in jub'a' man okel ta wakami o yalan tajin nokisäx. Tatojtob'ej chik pa jun ti mej</li> \n"
+"        <li>We man yatikïr ta nasamajij jujun taq ruxaq k'amaya'l, tanik'oj ri rutzij oyonib'äl okisaxel o ri Wi-Fi awokem.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -1010,16 +970,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Ke'anik'oj ri kochochib'al taq sachoj richin\n"
 "          <strong>ww</strong>.example.com pa ruk'exel\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>We man yatikïr ta ye'asamaj taq ruxaq, ke'anik'oj taq rutzij "
-"awokisaxel o ri Wi-Fi awokem.</li>\n"
+"        <li>We man yatikïr ta ye'asamaj taq ruxaq, ke'anik'oj taq rutzij awokisaxel o ri Wi-Fi awokem.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -1029,17 +987,13 @@ msgstr "Man nuk'äm ta ri' ri ochochib'äl"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Rochochib'al Ajk'amaya'l achi'el jantape' nitz'ib'äx achi'el "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Tajikib'a' chi tajin ye'awokisaj ri q'eq'el taq juch' (achi'el "
-"<strong>/</strong>).</li>\n"
+"  <li>Rochochib'al Ajk'amaya'l achi'el jantape' nitz'ib'äx achi'el <strong>http://www.example.com/</strong></li>\n"
+"  <li>Tajikib'a' chi tajin ye'awokisaj ri q'eq'el taq juch' (achi'el <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1049,13 +1003,11 @@ msgstr "Man tajin nrokisaj pa rub'eyal ri ruxaq"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Re k'ayewal re' nib'anatäj ruma echupun o exutun taq "
-"kaxlanwey.</li> \n"
+"  <li>Re k'ayewal re' nib'anatäj ruma echupun o exutun taq kaxlanwey.</li> \n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1065,13 +1017,11 @@ msgstr "Man xq'ax ta chi ütz ri ochochib'äl"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Rik'in jub'a' k'o chi nayäk jun chik kema' richin najäq re "
-"ochochib'äl re'.</li>\n"
+"  <li>Rik'in jub'a' k'o chi nayäk jun chik kema' richin najäq re ochochib'äl re'.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -1081,20 +1031,15 @@ msgstr "Xq'ate' ri ütz okem"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Rik'in jub'a' k'o jun k'ayewal rik'in ri runuk'ulem k'uxasamaj o "
-"rik'in jub'a' k'o najowan nik'exon ri k'uxasamaj.</li>\n"
-"  <li>We atokinäq chik pa re k'uxasamaj re' ojer kan, rik'in jub'a' xa "
-"jun jumej sachoj ruma ri' yatikïr natojtob'ej pa jun chik ti ramaj.</li>"
-"\n"
+"  <li>Rik'in jub'a' k'o jun k'ayewal rik'in ri runuk'ulem k'uxasamaj o rik'in jub'a' k'o najowan nik'exon ri k'uxasamaj.</li>\n"
+"  <li>We atokinäq chik pa re k'uxasamaj re' ojer kan, rik'in jub'a' xa jun jumej sachoj ruma ri' yatikïr natojtob'ej pa jun chik ti ramaj.</li>\n"
 "</ul>"
 
 msgctxt "error_generic_title"
@@ -1144,12 +1089,8 @@ msgstr "Tijaq ri ximonel pa jun k'ak'a' ruwi'"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Taq wachib'äl eyakon chuqa' ekomonin <b>man xke'elesäx ta</b> toq xtayüj "
-"runatab'al ri %1$s."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Taq wachib'äl eyakon chuqa' ekomonin <b>man xke'elesäx ta</b> toq xtayüj runatab'al ri %1$s."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1158,9 +1099,7 @@ msgstr "Tinimär ruchuq'a' ri awichinem"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
-msgid ""
-"Block content like ads and code that follow you around the web and slow "
-"you down. Turn on ad blocking to browse faster without annoying ads."
+msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -1170,9 +1109,7 @@ msgstr "Akanoxik, ab'ey"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "¿La jun wi ri nakanoj? Tacha' jun chik k'wab'äl kan k'o wi pa Runuk'ulem."
 
 #. First run tour (Shortcut): Title
@@ -1184,12 +1121,8 @@ msgstr "Tatz'aqatisaj jun ruchojokem ri rutikirib'al awäch"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Katzolin pa ri ajowel taq ruxaq k'amaya'l pa %1$s aninäq. Tacha' "
-"\"Titz'aqatisäx pa ri Ruwäch Tikirib'äl\" chupam ri %1$s cha'osamaj."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Katzolin pa ri ajowel taq ruxaq k'amaya'l pa %1$s aninäq. Tacha' \"Titz'aqatisäx pa ri Ruwäch Tikirib'äl\" chupam ri %1$s cha'osamaj."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1200,13 +1133,8 @@ msgstr "Tib'an chi ri ichinanem tok jun ruk'ulun na'oj"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Tib'an runuk'ulem %1$s achi'el ri okik'amaya'l k'o wi richin nawïl rutzil"
-" ri ichinan okem pa k'amaya'l toq ye'ajäq taq ruxaq k'amaya'l pa ch'aqa' "
-"chik taq chokoy."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Tib'an runuk'ulem %1$s achi'el ri okik'amaya'l k'o wi richin nawïl rutzil ri ichinan okem pa k'amaya'l toq ye'ajäq taq ruxaq k'amaya'l pa ch'aqa' chik taq chokoy."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1229,9 +1157,7 @@ msgstr ""
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
-msgid ""
-"New feature! Browse faster by stopping ads and code that follow you "
-"around the web."
+msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
 msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
@@ -1281,13 +1207,8 @@ msgstr "Ichinan okem pa k'amaya'l"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Ri taq rutzijol nikiya' q'ij chawe ye'ayüj el ri rumolojri'ïl %1$s rik'in"
-" jun chapoj. Man k'atzinel ta najäq ri chokoy chuqa' ri nusamajij ri "
-"awokik'amaya'l."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Ri taq rutzijol nikiya' q'ij chawe ye'ayüj el ri rumolojri'ïl %1$s rik'in jun chapoj. Man k'atzinel ta najäq ri chokoy chuqa' ri nusamajij ri awokik'amaya'l."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1306,24 +1227,15 @@ msgstr "Taqasaj Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s jun jamäl kema' chuqa' jaqäl b'itz'ib' nuk'un ruma Mozilla chuqa' "
-"ch'aqa' chik to'onela'."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s jun jamäl kema' chuqa' jaqäl b'itz'ib' nuk'un ruma Mozilla chuqa' ch'aqa' chik to'onela'."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s niya' pan aq'a' rik'in rojqanem ri <a href=\"%2$s\">Aj winäq Ya'oj "
-"Ruq'ij Mozilla</a> chuqa' ch'aqa' chik taq ya'öj q'ij kichin ch'aqa' chik"
-" taq jaqäl b'itz'ib'."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s niya' pan aq'a' rik'in rojqanem ri <a href=\"%2$s\">Aj winäq Ya'oj Ruq'ij Mozilla</a> chuqa' ch'aqa' chik taq ya'öj q'ij kichin ch'aqa' chik taq jaqäl b'itz'ib'."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1331,27 +1243,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Man nisuj taq kich'ojib'al chuqa' ya'oj q'ij chi ke ri etz'ib'an taq "
-"b'i'aj richin Mozilla Moloj ni xa ta chi ke ri taq ruch'akulal achi'el "
-"Mozilla, Firefox o %1$s taq b'i'aj o taq wachaj. Nawïl rutz'aqat na'oj <a"
-" href=\"%2$s\">wawe'</a>."
+"Man nisuj taq kich'ojib'al chuqa' ya'oj q'ij chi ke ri etz'ib'an taq b'i'aj richin Mozilla Moloj ni xa ta chi ke ri taq ruch'akulal achi'el Mozilla, Firefox o %1$s taq b'i'aj o taq wachaj. Nawïl "
+"rutz'aqat na'oj <a href=\"%2$s\">wawe'</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Rutz'aqat ruxe'el b'itz'ib' richin %1$s wachel kik'in ch'aqa' chik "
-"jalajöj sipan taq kema' chuqa' jaqäl b'itz'ib' <a href=\"%2$s\">taq ya'oj"
-" q'ij</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Rutz'aqat ruxe'el b'itz'ib' richin %1$s wachel kik'in ch'aqa' chik jalajöj sipan taq kema' chuqa' jaqäl b'itz'ib' <a href=\"%2$s\">taq ya'oj q'ij</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1359,14 +1262,10 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s chuqa' nrokisaj kicholonem tanaj ya'on ruma Disconnect, Inc. achi'el"
-" jachon chuqa' alaj ruk'aslem nimawuj ruma <a href=\"%2$s\">GNU General "
-"Public License v3</a>, chuqa' wachel <a href=\"%3$s\">wawe'</a>."
+"%1$s chuqa' nrokisaj kicholonem tanaj ya'on ruma Disconnect, Inc. achi'el jachon chuqa' alaj ruk'aslem nimawuj ruma <a href=\"%2$s\">GNU General Public License v3</a>, chuqa' wachel <a "
+"href=\"%3$s\">wawe'</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1551,12 +1450,8 @@ msgstr "¿La nawajo' ye'atzïj ri taq chilab'enïk richin yakanon?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
-"Richin nik'ul kichilab'exik achike nikanöx, %1$s k'o chi nutäq ri "
-"natz'ib'aj pa ri rajtz'ik ochochib'äl chi re ri kanob'äl xacha'. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Richin nik'ul kichilab'exik achike nikanöx, %1$s k'o chi nutäq ri natz'ib'aj pa ri rajtz'ik ochochib'äl chi re ri kanob'äl xacha'. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1673,8 +1568,7 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "¿La qitzij chi ruxaq?\n"
-" Allowlist nuchüp ri Chajinïk chuwäch Ojqanem pa ri taq ruxaq retaman "
-"ruwäch chuqa' ri e qitzij."
+" Allowlist nuchüp ri Chajinïk chuwäch Ojqanem pa ri taq ruxaq retaman ruwäch chuqa' ri e qitzij."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1706,12 +1600,8 @@ msgstr "Keq'at taq ruxaq nïm kitz'ilanem chuqa' q'olonela'"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
-msgstr ""
-"Keq'at taq ruxaq etaman chi yeq'eleb'en chuqa' yeq'olon, tz'ilanel ruxaq "
-"taq chokoy chuqa' itzel ruxaq taq solkema'."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
+msgstr "Keq'at taq ruxaq etaman chi yeq'eleb'en chuqa' yeq'olon, tz'ilanel ruxaq taq chokoy chuqa' itzel ruxaq taq solkema'."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1746,9 +1636,7 @@ msgstr "Kojakuyu', K'o qak'ayewal rik'in re ruwi' re'."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
-"Achi'el jun ichinan okik'amaya'l, majub'ey niqayäk chuqa' man yojtikïr ta"
-" niqatzolij re ruwi' re'."
+msgstr "Achi'el jun ichinan okik'amaya'l, majub'ey niqayäk chuqa' man yojtikïr ta niqatzolij re ruwi' re'."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1764,12 +1652,8 @@ msgstr "Kojakuyu'. %1$s xk'oje' jun ruk'ayewal chuqa' xsach."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
-msgstr ""
-"Achi'el jun ichinan okik'amaya'l, majub'ey niqayäk chuqa' man yojtikïr ta"
-" niqatzolij ri ruk'isib'äl awokem pa k'amaya'l."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgstr "Achi'el jun ichinan okik'amaya'l, majub'ey niqayäk chuqa' man yojtikïr ta niqatzolij ri ruk'isib'äl awokem pa k'amaya'l."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1801,10 +1685,9 @@ msgstr ""
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Titzij"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
-
+msgstr "Tichup"
