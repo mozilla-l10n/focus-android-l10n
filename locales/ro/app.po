@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-15 02:50+0000\n"
+"PO-Revision-Date: 2019-01-15 03:07+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -274,7 +274,7 @@ msgstr "Despre %1$s, ajutor"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Blocare de anunțuri"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -369,7 +369,7 @@ msgstr "Pentru site-uri pe care le adaugi"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Activează pentru completarea automată a site-urilor pe care le adaugi aici."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -490,14 +490,14 @@ msgstr "Confidențialitate"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Blochează anunțurile și alte neplăceri"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Blochează anunțurile și alte neplăceri folosind listele de blocări de la Easylist, EasyPrivacy, Fanboy’s Annoyance șu 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -511,13 +511,13 @@ msgstr "Blochează elementele de urmărire publicitare"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Elimină anunțurile concepute să urmărească vizitele pe site-uri, chiar dacă nu le atingi"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Blochează elementele de urmărire care analizează și măsoară interacțiuni precum atingerea și derularea"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Blochează elementele de urmărire ale rețelelor sociale"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Oprește elementele de urmărire care au legătură cu rețelele sociale, încorporate pe site-uri, inclusiv butoanele de distribuire"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "Blochează alte elemente de urmărire de conținut"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Blochează activitatea de urmărire, însă poate cauza ca unele site-uri și pagini să se comporte în mod neașteptat"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -568,17 +568,19 @@ msgstr "Nu (permite toate cookie-urile)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Blochează cookie-urile de urmărire de la terți (recomandat)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Blochează toate cookie-urile de la terți\n"
+"(poate împiedica funcționarea corectă a site-urilor web)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Blochează toate cookie-urile (va împiedica funcționarea corectă a site-urilor web)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1103,7 +1105,7 @@ msgstr "Consolidează-ți confidențialitatea"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Blochează conținutul precum anunțurile și codul care te urmăresc pe web și te încetinesc. Activează blocarea anunțurilor pentru a naviga mai repede, fără anunțuri enervante."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1156,12 +1158,12 @@ msgstr "Înainte"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s este pregătit să blocheze anunțurile"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Funcție nouă! Navighează mai repede oprind anunțurile și codul care te urmărește pe web."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1420,7 +1422,7 @@ msgstr "Sesiune nouă"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Deschide linkul într-o nouă sesiune"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1552,12 +1554,12 @@ msgstr "Dezactivează ponturile din ecranul de start"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Navighează mai repede oprind anunțurile și codul care te urmărește pe web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Blocare de anunțuri"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1674,19 +1676,19 @@ msgstr "Trimite un raport de defecțiune către Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Blocarea de conținut este activată"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Blocarea de conținut este dezactivată"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Activează"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Dezactivează"
