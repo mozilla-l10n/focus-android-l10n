@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-15 06:11+0000\n"
+"PO-Revision-Date: 2019-01-15 06:21+0000\n"
 "Last-Translator: Amin Mahmudian <amin.mahmudian@gmail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
 "Language: fa\n"
@@ -369,7 +369,7 @@ msgstr "برای وب‌ سایت هایی که شما اضافه می‌کنی�
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "برای تکمیل خودکار سایت‌هایی که این‌جا اضافه کردید، فعال کنید."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -511,7 +511,7 @@ msgstr "مسدود کردن ردیاب‌های تبلیغاتی"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "تبلیغاتی را حذف می‌کند که برای ردیابی بازدید‌های سایت‌هایی طراحی شده‌اند که حتی روی آن‌ها کلیک نکرده‌اید"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
@@ -536,7 +536,7 @@ msgstr "مسدود کردن سایر ردیاب‌های محتوا"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "فعالیت‌های ردیابی را مسدود می‌کند، اما ممکن است بعضی از سایت‌ها و صفحه‌ها به شکل غیر منتظره‌ای رفتار کنند"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
