@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-12 09:44+0000\n"
-"Last-Translator: goofy <goofy@babelzilla.org>\n"
+"PO-Revision-Date: 2019-01-13 22:56+0000\n"
+"Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: fr <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -497,7 +497,7 @@ msgstr "Bloquer les publicités et autres désagréments"
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Bloque les publicités et autres désagréments à l’aide de listes de blocage issues d’Easylist, EasyPrivacy, Fanboy’s Annoyance et de 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -517,7 +517,7 @@ msgstr "Supprime les publicités conçues pour suivre les visites sur les sites,
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Bloque les traqueurs qui analysent et mesurent les interactions telles qu’appuyer sur l’écran ou faire défiler la page"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Bloquer les traqueurs de réseaux sociaux"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Bloque les traqueurs liés aux réseaux sociaux intégrés aux sites web, y compris les boutons de partage"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "Bloquer les autres traqueurs de contenu"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Empêche le pistage, mais peut provoquer des problèmes sur certaines pages ou certains sites"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -564,21 +564,21 @@ msgstr "Oui"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Non (autoriser tous les cookies)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Bloquer les cookies tiers utilisés pour le pistage (recommandé)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
-msgstr ""
+msgstr "Bloquer tous les cookies tiers (peut empêcher des sites de fonctionner)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Bloquer tous les cookies (empêchera des sites de fonctionner)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -637,7 +637,7 @@ msgstr "Bloquer JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr "Les pages peuvent se charger plus rapidement, mais peuvent aussi se comporter de manière inattendue"
+msgstr "Les pages peuvent se charger plus rapidement, mais des problèmes peuvent apparaître"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -1098,6 +1098,7 @@ msgstr "Renforcez votre vie privée"
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"Bloquez le contenu tel que les annonces et le code qui vous pistent sur le Web et vous ralentissent. Activez le blocage des publicités pour naviguer plus rapidement et sans publicités gênantes."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1150,12 +1151,12 @@ msgstr "Suivant"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s est prêt à bloquer les publicités"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Nouvelle fonctionnalité : naviguez plus rapidement en bloquant les publicités et le code qui vous pistent sur le Web."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1414,7 +1415,7 @@ msgstr "Nouvelle session"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Ouvrir le lien dans une nouvelle session"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1546,12 +1547,12 @@ msgstr "Désactiver les conseils sur l’écran de démarrage"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Naviguez plus rapidement en bloquant les publicités et le code qui vous pistent sur le Web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Blocage des publicités"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1668,19 +1669,19 @@ msgstr "Envoyer un rapport de plantage à Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Le blocage de contenu est activé"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Le blocage de contenu est désactivé"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Activer"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Désactiver"
