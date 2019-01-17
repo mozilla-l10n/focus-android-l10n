@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-15 16:48+0000\n"
+"PO-Revision-Date: 2019-01-17 15:22+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -369,7 +369,7 @@ msgstr "สำหรับไซต์ที่คุณเพิ่ม"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "เปิดใช้งานเพื่อเติมไซต์ที่คุณเพิ่มไว้ที่นี่โดยอัตโนมัติ"
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -490,7 +490,7 @@ msgstr "ความเป็นส่วนตัว"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "ปิดกั้นโฆษณาและสิ่งรบกวนอื่น ๆ"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
@@ -517,7 +517,7 @@ msgstr ""
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "ปิดกั้นตัวติดตามที่วิเคราะห์และวัดกิจกรรมอย่างการแตะและการเลื่อน"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -536,7 +536,7 @@ msgstr "ปิดกั้นตัวติดตามของเนื้อ
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "ปิดกั้นกิจกรรมการติดตาม แต่อาจส่งผลให้ไซต์และหน้าบางส่วนทำงานอย่างไม่คาดคิด"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
