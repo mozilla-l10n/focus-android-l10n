@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-15 06:21+0000\n"
+"PO-Revision-Date: 2019-01-17 07:05+0000\n"
 "Last-Translator: Amin Mahmudian <amin.mahmudian@gmail.com>\n"
 "Language-Team: fa <LL@li.org>\n"
 "Language: fa\n"
@@ -497,7 +497,7 @@ msgstr "مسدود کردن تبلیغات و سایر مزاحمان"
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "با استفاده از لیست مسدودی Easylist، EasyPrivacy، Fanboy’s Annoyance و فیلتر تبلیغاتی همراه 777Guard تبلیغات و سایر مزاحمان را متوقف می‌کند"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -517,7 +517,7 @@ msgstr "تبلیغاتی را حذف می‌کند که برای ردیابی ب
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "ردیاب‌هایی که فعالیت‌هایی مانند کلیک کردن و پیمایش را تحلیل و اندازه‌گیری می‌کنند را مسدود می‌کند"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "مسدود کردن ردیاب‌های شبکه‌های اجتماعی
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "ردیاب‌های مرتبط با رسانه‌های اجتماعی که در وب‌سایت‌ها جاسازی شده‌اند، از جمله دکمه‌های به اشتراک‌گذاری اجتماعی را متوقف می‌کند"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -1103,7 +1103,7 @@ msgstr "قدرت حریم‌شخصی خود را افزایش دهید"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "محتوایی مانند تبلیغات و کد‌هایی در اطراف وب شما را دنبال و سرعتتان را کند می‌کنند را مسدود کنید. مسدود سازی تبلیغات را فعال نمایید تا بدون تبلیغات مزاحم، سریع‌تر مرور کنید."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
