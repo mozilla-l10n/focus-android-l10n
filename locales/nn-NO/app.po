@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-16 06:25+0000\n"
+"PO-Revision-Date: 2019-01-17 08:47+0000\n"
 "Last-Translator: Björn I. <bjorni.svindseth@yahoo.com>\n"
 "Language-Team: nn_NO <LL@li.org>\n"
 "Language: nn_NO\n"
@@ -369,7 +369,7 @@ msgstr "For nettsider du legg til"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Slå på for å autofullføre nettstadar du legg til her."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -490,7 +490,7 @@ msgstr "Personvern"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Blokker annonsar og andre irritasjonar"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
@@ -511,7 +511,7 @@ msgstr "Blokker reklamesporfølgjarar"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Tek bort annonsar som er utforma for å spore besøk på nettsida, sjølv om du ikkje trykkjer på dei"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
@@ -568,17 +568,19 @@ msgstr "Nei (tillat infokapslar)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Blokker sporingsinfokapslar frå tredjepart (tilrådd)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Bloker alle infokapslar frå tredjepart\n"
+"(kan føre til feil på nettsider)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Blokker alle infokapslar (vil føre til at enkelte nettsider ikkje verkar)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1417,7 +1419,7 @@ msgstr "Ny økt"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Opne lenke i ny økt"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1671,12 +1673,12 @@ msgstr "Send krasjrapport til Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Innhaldsblokkering er slått på"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Innhaldsblokkering er slått av"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
