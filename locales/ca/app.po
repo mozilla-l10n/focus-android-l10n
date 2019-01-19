@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-19 17:31+0000\n"
+"PO-Revision-Date: 2019-01-19 17:37+0000\n"
 "Last-Translator: Jordi Serratosa <jordis@softcatala.cat>\n"
 "Language-Team: ca <LL@li.org>\n"
 "Language: ca\n"
@@ -525,7 +525,7 @@ msgstr "Bloca els elements de seguiment social"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Atura els elements de seguiments relacionats amb les xarxes socials incrustats en llocs web, inclosos els botons per compartir en xarxes socials"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -1101,7 +1101,7 @@ msgstr "Potencieu la privadesa"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Bloca contingut com la publicitat i el codi que us fan el seguiment de la vostra navegació i l'alenteixen. Activeu el bloqueig de publicitat per navegar més ràpid i sense anuncis molestos."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
