@@ -2,22 +2,23 @@
 # Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2018-12-22 18:28+0000\n"
-"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
-"Language: fi\n"
+"PO-Revision-Date: 2019-01-20 12:13+0000\n"
+"Last-Translator: Ville Pohjanheimo <ville.pohjanheimo@gmail.com>\n"
 "Language-Team: fi <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=((((n == 1)) && ((0 == 0))) ? 0 : 1)\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -61,7 +62,7 @@ msgstr "Selaushistoria tyhjennetty."
 #. of a custom tab browsing session
 msgctxt "feedback_erase_custom_tab"
 msgid "Tab’s browsing history has been erased."
-msgstr ""
+msgstr "Välilehden selaushistoria on tyhjennetty."
 
 #. This label is shown below the URL bar as soon as the user enters text.
 #. Clicking the label will perform a search
@@ -142,7 +143,7 @@ msgstr "Seuraimia estetty"
 #. website.
 msgctxt "menu_trackers_blocked_subtitle"
 msgid "Turning this off may fix some site problems"
-msgstr ""
+msgstr "Tämän poistaminen käytöstä voi korjata joitain sivusto-ongelmia"
 
 #. Menu item: This is the label for turning off content blocking for the
 #. current website.
@@ -153,7 +154,7 @@ msgstr "Sisällön esto"
 #. This is the subtitle content blocking toggle
 msgctxt "menu_content_blocking_subtitle"
 msgid "Turn off to fix some sites"
-msgstr ""
+msgstr "Poista käytöstä korjataksesi joidenkin sivustojen ongelmia"
 
 #. This is a small text at the bottom of the menu shown in a "custom tab" for
 #. branding purposes.      See
@@ -209,7 +210,7 @@ msgstr "Tyhjennä selaushistoria"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "Tyhjennä ja avaa"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -227,12 +228,10 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s asettaa sinut ohjaimiin.</p>\n"
@@ -240,12 +239,10 @@ msgstr ""
 "  <ul>\n"
 "    <li>Hae ja selaa suoraan ohjelmassa</li>\n"
 "    <li>Estä seuranta (tai muokkaa  asetuksia salliaksesi sen)</li>\n"
-"    <li>Poista evästeet, haku ja selaushistoria napin painalluksella</li>"
-"\n"
+"    <li>Poista evästeet, haku ja selaushistoria napin painalluksella</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s on Mozillan kehittämä ohjelmisto. Tehtävämme on edesauttaa "
-"tervettä, avointa Internettiä.<br/>\n"
+"<p>%1$s on Mozillan kehittämä ohjelmisto. Tehtävämme on edesauttaa tervettä, avointa Internettiä.<br/>\n"
 "<a href=\"%2$s\">Lue lisää</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -277,7 +274,7 @@ msgstr "Tietoja: %1$s, ohje"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Mainosten esto"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -356,34 +353,34 @@ msgstr "Osoitteen automaattinen täydennys"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr ""
+msgstr "Suosituimmille sivustoille"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
+msgstr "Ota käyttöön täydentääksesi automaattisesti yli 450 suosittua verkko-osoitetta osoitepalkissa."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
 msgctxt "preference_switch_autocomplete_user_list"
 msgid "For Sites You Add"
-msgstr ""
+msgstr "Lisäämillesi sivustoille"
 
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Ota käyttöön täydentääksesi automaattisesti tänne lisäämäsi sivustot."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Muokkaa sivustoja"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
 msgctxt "preference_autocomplete_subitem_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Muokkaa sivustoja"
 
 #. Action at the bottom of the list of custom autocomplete URLs that will open
 #. a new screen to add a new URL to the list.
@@ -405,7 +402,7 @@ msgstr "Lisää mukautettu osoite"
 #. autocomplete list
 msgctxt "add_custom_autocomplete_label"
 msgid "Add link to autocomplete"
-msgstr ""
+msgstr "Lisää linkki automaattisesti täydennettäväksi"
 
 #. Preference category for settings about cookies and site data
 msgctxt "preference_category_cookies"
@@ -493,16 +490,14 @@ msgstr "Tietosuoja"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Estä mainokset ja muut häiriötekijät"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
-msgid ""
-"Stops ads and other annoyances using block lists from Easylist, "
-"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr "Estää mainokset ja muut häiriötekijät perustuen estolistoihin Easylist, EasyPrivacy, Fanboy’s Annoyance ja 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -516,15 +511,13 @@ msgstr "Estä mainosseuraimet"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Poistaa mainokset, joiden tarkoitus on seurata vierailujasi eri sivustoilla, vaikka et avaakaan mainoksia"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
-msgid ""
-"Blocks trackers that analyze and measure interactions like tapping and "
-"scrolling"
-msgstr ""
+msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
+msgstr "Estää seuraimet, jotka mittaavat ja analysoivat käyttäytymistäsi kuten hiiren valintoja ja sivuston selausta"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -533,10 +526,8 @@ msgstr "Estä sosiaalisen median seuraimet"
 #. Description for the toggle that Blocks social-media related trackers
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
-msgid ""
-"Stops social-media related trackers embedded on websites, including "
-"social share buttons"
-msgstr ""
+msgid "Stops social-media related trackers embedded on websites, including social share buttons"
+msgstr "Estää sosiaaliseen mediaan liittyvät ja sivustoille upotetut seuraimet mukaan lukien sosiaalisen median sisällön jakamispainikkeet"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -544,10 +535,8 @@ msgstr "Estä muut sisältöseuraimet"
 
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
-msgid ""
-"Blocks tracking activity, but may cause some sites and pages to behave "
-"unexpectedly"
-msgstr ""
+msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
+msgstr "Estää käyttäytymisen seurannan, mutta voi aiheuttaa joillain sivustoilla kummallista toiminnallisuutta"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -562,7 +551,7 @@ msgstr "Ei"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Estä vain kolmannen osapuolen seurantaevästeet"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -575,7 +564,7 @@ msgstr "Kyllä"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Ei (salli kaikki evästeet)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
@@ -603,12 +592,8 @@ msgstr "Avaa sovellus sormenjäljellä"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
-"Voit avata %1$s-selaimen sormenjäljelläsi, jos URL-osoite on jo avattu "
-"sovelluksessa. Häivetila kytketään päälle."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Voit avata %1$s-selaimen sormenjäljelläsi, jos URL-osoite on jo avattu sovelluksessa. Häivetila kytketään päälle."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -624,9 +609,7 @@ msgstr "Häivetila"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr ""
-"Piilota verkkosivut vaihdettaessa sovellusta ja estä kuvakaappausten "
-"ottaminen."
+msgstr "Piilota verkkosivut vaihdettaessa sovellusta ja estä kuvakaappausten ottaminen."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -683,12 +666,8 @@ msgstr "Lisätietoja"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla pyrkii keräämään vain tietoja, jotka ovat tarpeellisia %1$sen "
-"jakelun ja kehittämisen kannalta."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla pyrkii keräämään vain tietoja, jotka ovat tarpeellisia %1$sen jakelun ja kehittämisen kannalta."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -910,12 +889,8 @@ msgstr "Etsi sovellus, joka voi avata linkin"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Yksikään laitteesi sovelluksista ei voi avata tätä linkkiä. Voit jättää "
-"%1$sin etsiäksesi oikeaa sovellusta %2$ssta."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Yksikään laitteesi sovelluksista ei voi avata tätä linkkiä. Voit jättää %1$sin etsiäksesi oikeaa sovellusta %2$ssta."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -973,17 +948,13 @@ msgstr "Yhteyden muodostaminen epäonnistui"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan "
-"rasituksen alaisena. Yritä hetken kuluttua uudestaan.</li>\n"
-"        <li>Jos mitkään sivustot eivät toimi, tarkista laitteen "
-"datayhteyden tai langattoman verkkoyhteyden tila.</li>\n"
+"        <li>Sivusto voi olla väliaikaisesti saavuttamattomissa tai kovan rasituksen alaisena. Yritä hetken kuluttua uudestaan.</li>\n"
+"        <li>Jos mitkään sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkkoyhteyden tila.</li>\n"
 "      </ul>"
 
 msgctxt "error_timeout_title"
@@ -1000,16 +971,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Tarkista osoite kirjoitusvirheiden varalta: esim.\n"
 "          <strong>ww</strong>.mozilla.org oikean muodon,\n"
 "          <strong>www</strong>.mozilla.org, sijaan.</li>\n"
-"        <li>Jos muutkaan sivustot eivät toimi, tarkista laitteen "
-"datayhteyden tai langattoman verkon tila. </li>\n"
+"        <li>Jos muutkaan sivustot eivät toimi, tarkista laitteen datayhteyden tai langattoman verkon tila. </li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -1019,17 +988,13 @@ msgstr "Virheellinen osoite"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Verkkosivustojen osoitteet ovat yleensä muotoa "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Tarkista, että käytät kenoviivoja (eli "
-"<strong>/</strong>-merkkejä).</li>\n"
+"  <li>Verkkosivustojen osoitteet ovat yleensä muotoa <strong>http://www.example.com/</strong></li>\n"
+"  <li>Tarkista, että käytät kenoviivoja (eli <strong>/</strong>-merkkejä).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1039,13 +1004,11 @@ msgstr "Sivusto ei uudelleenohjaudu asianmukaisesti"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Tämän ongelman saattaa aiheuttaa evästeiden esto tai hyväksymättä "
-"jättäminen.</li>\n"
+"  <li>Tämän ongelman saattaa aiheuttaa evästeiden esto tai hyväksymättä jättäminen.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1055,8 +1018,7 @@ msgstr "Osoitetta ei ymmärretty"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
@@ -1070,11 +1032,9 @@ msgstr "Suojatun yhteyden muodostaminen epäonnistui"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
@@ -1132,12 +1092,8 @@ msgstr "Avaa linkki uuteen välilehteen"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Tallennettuja ja jaettuja kuvia <b>ei poisteta</b> kun %1$sen "
-"selaushistoria tyhjennetään."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Tallennettuja ja jaettuja kuvia <b>ei poisteta</b> kun %1$sen selaushistoria tyhjennetään."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1146,9 +1102,7 @@ msgstr "Tehosta yksityisyyttäsi"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
-msgid ""
-"Block content like ads and code that follow you around the web and slow "
-"you down. Turn on ad blocking to browse faster without annoying ads."
+msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -1158,9 +1112,7 @@ msgstr "Hakusi haluamallasi tavalla"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "Haetko jotain erilaista? Valitse asetuksista toinen oletushakukone."
 
 #. First run tour (Shortcut): Title
@@ -1172,12 +1124,8 @@ msgstr "Lisää linkki aloitusnäyttöön"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Avaa suosikkisivusi nopeasti %1$sissa. Valitse \"Lisää linkki "
-"aloitusnäyttöön\" %1$s -valikosta."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Avaa suosikkisivusi nopeasti %1$sissa. Valitse \"Lisää linkki aloitusnäyttöön\" %1$s -valikosta."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1188,12 +1136,8 @@ msgstr "Tee yksityisyydestä verkossa tapa"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Aseta %1$s oletusselaimeksesi ja hyödy yksityisestä selaamisesta kun "
-"avaat verkkosivuja muista sovelluksista."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Aseta %1$s oletusselaimeksesi ja hyödy yksityisestä selaamisesta kun avaat verkkosivuja muista sovelluksista."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1216,9 +1160,7 @@ msgstr ""
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
-msgid ""
-"New feature! Browse faster by stopping ads and code that follow you "
-"around the web."
+msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
 msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
@@ -1268,12 +1210,8 @@ msgstr "Yksityinen selausistunto"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Ilmoitusten avulla voit nollata %1$s istuntosi hipaisulla. Sinun ei "
-"tarvitse avata sovellusta nähdäksesi tiedot selaimestasi."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Ilmoitusten avulla voit nollata %1$s istuntosi hipaisulla. Sinun ei tarvitse avata sovellusta nähdäksesi tiedot selaimestasi."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1292,23 +1230,15 @@ msgstr "Lataa Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s on ilmainen, avoimen lähdekoodin ohjelmisto Mozillalta ja muilta "
-"avustajilta."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s on ilmainen, avoimen lähdekoodin ohjelmisto Mozillalta ja muilta avustajilta."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s on käytettävissäsi <a href=\"%2$s\">Mozilla Public License</a> ja "
-"muiden avoimen lähdekoodin lisenssien ehdoin."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s on käytettävissäsi <a href=\"%2$s\">Mozilla Public License</a> ja muiden avoimen lähdekoodin lisenssien ehdoin."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1316,26 +1246,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Sinulle ei anneta minkään muotoisia tavaramerkki- tai lisenssioikeuksia "
-"Mozilla-säätiön tai muun tahon tavaramerkkeihin, joihin lukeutuu Mozilla,"
-" Firefox tai %1$s -nimi tai -logo. Voit lukea tarkempia lisätietoja "
-"tavaramerkeistä <a href=\"%2$s\">täältä</a>."
+"Sinulle ei anneta minkään muotoisia tavaramerkki- tai lisenssioikeuksia Mozilla-säätiön tai muun tahon tavaramerkkeihin, joihin lukeutuu Mozilla, Firefox tai %1$s -nimi tai -logo. Voit lukea "
+"tarkempia lisätietoja tavaramerkeistä <a href=\"%2$s\">täältä</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Muita osia %1$sin lähdekoodista on saatavilla erinäisten vapaiden ja "
-"avointen lähdekoodin <a href=\"%2$s\">lisenssien</a> ehtojen mukaisesti."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Muita osia %1$sin lähdekoodista on saatavilla erinäisten vapaiden ja avointen lähdekoodin <a href=\"%2$s\">lisenssien</a> ehtojen mukaisesti."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1343,14 +1265,9 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s käyttää myös Disconnect, Inc.:n toimittamia estolistoja, jotka ovat "
-"erillisiä ja itsenäisiä <a href=\"%2$s\">GNU General Public License "
-"v3</a>-lisenssin mukaisia töitä ja ne ovat saatavilla <a "
+"%1$s käyttää myös Disconnect, Inc.:n toimittamia estolistoja, jotka ovat erillisiä ja itsenäisiä <a href=\"%2$s\">GNU General Public License v3</a>-lisenssin mukaisia töitä ja ne ovat saatavilla <a "
 "href=\"%3$s\">täältä</a>."
 
 #. Text shown in prompts for GeckoView
@@ -1536,12 +1453,8 @@ msgstr "Haluatko ottaa hakuehdotukset käyttöön?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
-"Hakuehdotusten saamiseksi %1$s-selaimen on lähetettävä osoitekenttään "
-"kirjoittamasi teksti valitsemallesi hakukoneelle. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Hakuehdotusten saamiseksi %1$s-selaimen on lähetettävä osoitekenttään kirjoittamasi teksti valitsemallesi hakukoneelle. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1587,9 +1500,7 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Pääsy yhdellä napautuksella sivustoille, joilla useimmiten vierailet%1$s "
-"Valikko > Lisää linkki aloitusnäyttöön"
+msgstr "Pääsy yhdellä napautuksella sivustoille, joilla useimmiten vierailet%1$s Valikko > Lisää linkki aloitusnäyttöön"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1631,9 +1542,7 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Haluatko mieluummin nähdä sivuston täyden työpöytäversion?%1$s Valikko > "
-"Sivuston työpöytäversio"
+msgstr "Haluatko mieluummin nähdä sivuston täyden työpöytäversion?%1$s Valikko > Sivuston työpöytäversio"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
@@ -1688,9 +1597,7 @@ msgstr ""
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
 msgstr ""
 
 #. Preference for exceptions tracking protection
@@ -1726,9 +1633,7 @@ msgstr "Valitettavasti tämän välilehden kanssa on ongelmia."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
-"Koska kyseessä on yksityinen selain, emme tallenna välilehtiä, eikä tätä "
-"välilehteä voi siksi palauttaa."
+msgstr "Koska kyseessä on yksityinen selain, emme tallenna välilehtiä, eikä tätä välilehteä voi siksi palauttaa."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1744,12 +1649,8 @@ msgstr "Valitettavasti %1$s kohtasi ongelman ja kaatui."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
-msgstr ""
-"Koska kyseessä on yksityinen selain, emme tallenna selausistuntoja, eikä "
-"viimeisintä istuntoa voi siksi palauttaa."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgstr "Koska kyseessä on yksityinen selain, emme tallenna selausistuntoja, eikä viimeisintä istuntoa voi siksi palauttaa."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1787,4 +1688,3 @@ msgstr ""
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
 msgstr ""
-
