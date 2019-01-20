@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-20 15:33+0000\n"
+"PO-Revision-Date: 2019-01-20 15:37+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: hsb <LL@li.org>\n"
 "Language: hsb\n"
@@ -1103,7 +1103,7 @@ msgstr "Zesylńće swoju priwatnosć"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr "Blokuje wobsah kaž wabjenje a kod, kotrež wam po webje slěduja a was borzdźa. Zmóžńće blokowanje, zo byšće bjez wobćežneho wabjenja spěšnišo přehladował."
+msgstr "Blokujće wobsah kaž wabjenje a kod, kotrejž wam po webje slědujetej a was borzdźitej. Zmóžńće blokowanje, zo byšće bjez wobćežneho wabjenja spěšnišo přehladował."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1161,7 +1161,7 @@ msgstr "%1$s je hotowy, wabjenje blokować"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Nowa funkcija! Blokujće wabjenje a kod, kotrejž wam po webje slědujetej, zo byšće spěšnišo přehladował."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1552,7 +1552,7 @@ msgstr "Pokiwy na starrtowej wobrazowce znjemóžnić"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Blokujće wabjenje a kod, kotrejž wam po webje slědujetej, zo byšće spěšnišo přehladował."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
