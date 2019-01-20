@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-20 07:52+0000\n"
+"PO-Revision-Date: 2019-01-20 08:05+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: id <LL@li.org>\n"
 "Language: id\n"
@@ -567,7 +567,7 @@ msgstr "Tidak (izinkan semua kuki)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Memblokir kuki pelacak pihak ketiga (disarankan)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
@@ -1153,7 +1153,7 @@ msgstr "Lanjutkan"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s siap untuk memblokir iklan"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
@@ -1417,7 +1417,7 @@ msgstr "Sesi Baru"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Buka Tautan di Sesi Baru"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1549,12 +1549,12 @@ msgstr "Nonaktifkan tips ini pada layar mulai"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Jelajahi lebih cepat dengan menghentikan iklan dan kode yang mengikuti Anda di web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Pemblokiran iklan"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1671,19 +1671,19 @@ msgstr "Kirim laporan kerusakan ke Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Pemblokiran Konten diaktifkan"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Pemblokiran Konten dinonaktifkan"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Aktifkan"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Nonaktifkan"
