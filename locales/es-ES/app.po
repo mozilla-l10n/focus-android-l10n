@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-20 18:50+0000\n"
+"PO-Revision-Date: 2019-01-20 19:05+0000\n"
 "Last-Translator: jlG <jlg.l10n.es@gmail.com>\n"
 "Language-Team: es_ES <LL@li.org>\n"
 "Language: es_ES\n"
@@ -369,7 +369,7 @@ msgstr "Para los sitios que añades"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Activar para completar automáticamente los sitios que añadas aquí."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -490,14 +490,14 @@ msgstr "Privacidad"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Bloquear anuncios y otras molestias"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Bloquea los anuncios y otras molestias usando listas de bloqueo de Easylist, EasyPrivacy, Fanboy's Annoyance y 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -511,13 +511,13 @@ msgstr "Bloquear rastreadores de publicidad"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Elimina los anuncios diseñados para rastrear las visitas al sitio, incluso si no pulsas sobre ellos"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Bloquea los rastreadores que analizan y miden interacciones como pulsar y desplazarse"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Bloquear rastreadores sociales"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Bloquea los rastreadores relacionados con redes sociales integrados en sitios web, incluidos los botones de compartir"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "Bloquear rastreadores de otros contenidos"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Bloquea la actividad de rastreo, pero puede provocar que algunos sitios y páginas se comporten de forma inesperada"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -564,21 +564,23 @@ msgstr "Sí"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "No (permitir todas las cookies)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Bloquear cookies de terceros usadas para rastrear (recomendado)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Bloquear todas las cookies de terceros\n"
+"(puede causar errores en los sitios web)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Bloquear todas las cookies (causará errores en los sitios web)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1103,7 +1105,7 @@ msgstr "Potencia tu privacidad"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Bloquea contenido como anuncios y código que te sigue por la web y frena tu velocidad. Activa el bloqueo de anuncios para navegar más rápido sin molestos anuncios."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1156,12 +1158,12 @@ msgstr "Siguiente"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s está listo para bloquear anuncios"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "¡Nueva característica! Navega más rápido bloqueando anuncios y código que te sigue por la web."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1420,7 +1422,7 @@ msgstr "Nueva sesión"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Abrir el enlace en una nueva sesión"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1552,12 +1554,12 @@ msgstr "Desactivar los consejos en la pantalla de inicio"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Navega más rápido bloqueando anuncios y código que te sigue por la web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Bloqueo de anuncios"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1674,19 +1676,19 @@ msgstr "Enviar informe de fallo a Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "El bloqueo de contenido está activado"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "El bloqueo de contenido está desactivado"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Activar"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Desactivar"
