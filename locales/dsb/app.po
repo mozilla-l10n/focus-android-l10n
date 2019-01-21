@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-21 18:12+0000\n"
+"PO-Revision-Date: 2019-01-21 18:27+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language-Team: dsb <LL@li.org>\n"
 "Language: dsb\n"
@@ -515,7 +515,7 @@ msgstr "Wótwónoźijo wabjenje, kótarež ma woglědam sedłow slědowaś, lěc
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Blokěrujo pśeslědowaki, kótarež interakcije kaž pótłusnjenjai a kulanje analyzěruju a wugódnośuju"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -525,7 +525,7 @@ msgstr "Socialne pśeslědowaki blokěrowaś"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Blokěrujo pśeslědowaki socialnych medijow, kótarež su we websedłach zasajźone, inkluziwnje tłocaški za źělenje w socialnych seśach"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -534,7 +534,7 @@ msgstr "Druge wopśimjeśowe pśeslědowaki blokěrowaś"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Blokěrujo slědowańsku aktiwitu, ale móžo zawinowaś, až se někotare sedła a boki na njewótcakanu wašnju zaźaržuju"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -562,21 +562,23 @@ msgstr "Jo"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Ně (wšykne cookieje dowóliś)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Slědujuce cookieje tśeśich póbitowarjow blokěrowaś (dopórucone)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Wšykne cookieje tśeśich blokěrowaś\n"
+"(móžo zawinowaś, až websedła wěcej njefunkcioněruju)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Wšykne cookieje blokěrowaś (móžo zawinowaś, až websedła wěcej njefunkcioněruju)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1101,7 +1103,7 @@ msgstr "Zmocniśo swóju priwatnosć"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Blokěrujśo wopśimjeśe kaž wabjenje a kod, kótarejž wam pó webje slědujotej a was późaržujotej. Zmóžniśo blokěrowanje, aby bźez wobuznego wabjenja malsnjej pśeglědował."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1154,12 +1156,12 @@ msgstr "Dalej"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s jo gótowy, wabjenje blokěrowaś"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Nowa funkcija! Blokěrujśo wabjenje a kod, kótarejž wam pó webje slědujotej, aby malsnjej pśeglědował."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1418,7 +1420,7 @@ msgstr "Nowe pósejźenje"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Wótkaz w nowem pósejźenju wócyniś"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1550,12 +1552,12 @@ msgstr "Tipy na startowej wobrazowce znjemóžniś"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Blokěrujśo wabjenje a kod, kótarejž wam pó webje slědujotej, aby malsnjej pśeglědował."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Blokěrowanje wabjenja"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1672,19 +1674,19 @@ msgstr "Mozilla rozpšawu wowalenja pósłaś"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Blokěrowanje wopśimjeśa jo zmóžnjone"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Blokěrowanje wopśimjeśa jo znjemóžnjone"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Zmóžniś"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Znjemóžniś"
