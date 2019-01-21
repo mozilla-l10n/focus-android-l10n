@@ -7,18 +7,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2018-11-03 10:37+0000\n"
+"PO-Revision-Date: 2019-01-21 18:12+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
-"Language: dsb\n"
 "Language-Team: dsb <LL@li.org>\n"
-"Plural-Forms: nplurals=4; plural=(((((0 == 0)) && (((n % 100) >= 3 && (n "
-"% 100) <= 4))) || (((0 % 100) >= 3 && (0 % 100) <= 4))) ? 2 : ((((0 == "
-"0)) && (((n % 100) == 1))) || (((0 % 100) == 1))) ? 0 : ((((0 == 0)) && "
-"(((n % 100) == 2))) || (((0 % 100) == 2))) ? 1 : 3)\n"
+"Language: dsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -228,25 +226,21 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p>%1$s dajo was kontrolu wobchowaś.</p>\n"
 "<p>Wužywajśo jen ako priwatny wobglědowak:\n"
 "  <ul>\n"
 "    <li>Pytajśo a pśeglědujśo direktnje w nałoženju</li>\n"
-"    <li>Blokěrujśo pśeslědowaki (abo aktualizěrujśo nastajenja, aby "
-"pśeslědowaki dowólił)</li>\n"
+"    <li>Blokěrujśo pśeslědowaki (abo aktualizěrujśo nastajenja, aby pśeslědowaki dowólił)</li>\n"
 "    <li>Lašujśo cookieje a pytańsku a pśeglědowańsku historiju</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s se wót Mozilla wuwija. Naša misija jo spěchowanje strowego, "
-"wótwórjonego interneta.<br/>\n"
+"<p>%1$s se wót Mozilla wuwija. Naša misija jo spěchowanje strowego, wótwórjonego interneta.<br/>\n"
 "<a href=\"%2$s\">Dalšne informacije</a></p>"
 
 #. Header for the Privacy and Security settings menu
@@ -278,7 +272,7 @@ msgstr "Wó %1$s, pomoc"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Blokěrowanje wabjenja"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -362,9 +356,7 @@ msgstr "Za nejlubše sedła"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
-"Zmóžniś, aby se wěcej ako 450 woblubowanych adresow w adresowem pólu "
-"wudopołniło."
+msgstr "Zmóžniś, aby se wěcej ako 450 woblubowanych adresow w adresowem pólu wudopołniło."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -375,7 +367,7 @@ msgstr "Za sedła, kótarež pśidawaśo"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Zmóžniś, aby se sedła awtomatiski aktualizěrowali, kótarež how pśidawaśo."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -496,16 +488,14 @@ msgstr "Priwatnosć"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Wabjenje a druge wobuze blokěrowaś"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
-msgid ""
-"Stops ads and other annoyances using block lists from Easylist, "
-"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr "Blokěrujo wabjenje a druge wobuze z blokěrowańskimi lisćinami wót Easylist, EasyPrivacy, Fanboy's Annoyance a 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -519,14 +509,12 @@ msgstr "Wabjeńske pśeslědowaki blokěrowaś"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Wótwónoźijo wabjenje, kótarež ma woglědam sedłow slědowaś, lěcrownož njejsćo je pótusnuł"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
-msgid ""
-"Blocks trackers that analyze and measure interactions like tapping and "
-"scrolling"
+msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
 msgstr ""
 
 msgctxt "preference_privacy_block_social"
@@ -536,9 +524,7 @@ msgstr "Socialne pśeslědowaki blokěrowaś"
 #. Description for the toggle that Blocks social-media related trackers
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
-msgid ""
-"Stops social-media related trackers embedded on websites, including "
-"social share buttons"
+msgid "Stops social-media related trackers embedded on websites, including social share buttons"
 msgstr ""
 
 msgctxt "preference_privacy_block_content"
@@ -547,9 +533,7 @@ msgstr "Druge wopśimjeśowe pśeslědowaki blokěrowaś"
 
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
-msgid ""
-"Blocks tracking activity, but may cause some sites and pages to behave "
-"unexpectedly"
+msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
 msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
@@ -606,12 +590,8 @@ msgstr "Wužywajśo palcowy wótśišć, aby nałoženje wótwórił"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
-"Waš palcowy wótśišć móž0 %1$s wówtwóriś, jolic URL jo južo w nałoženju "
-"wócynjony. Tarnowański modus se zašaltujo."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Waš palcowy wótśišć móž0 %1$s wówtwóriś, jolic URL jo južo w nałoženju wócynjony. Tarnowański modus se zašaltujo."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -655,9 +635,7 @@ msgstr "JavaScript blokěrowaś"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
-"Boki se malsnjej zacytaju, mógli se pak teke na njewócakowanu wašnju "
-"zaźaržaś"
+msgstr "Boki se malsnjej zacytaju, mógli se pak teke na njewócakowanu wašnju zaźaržaś"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -686,12 +664,8 @@ msgstr "Dalšne informacije"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla se procujo, jano informacije gromaźiś, z kótarymiž móžomy %1$s za"
-" kuždego póbitowaś a pólěpšyś."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla se procujo, jano informacije gromaźiś, z kótarymiž móžomy %1$s za kuždego póbitowaś a pólěpšyś."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -913,12 +887,8 @@ msgstr "Nałoženje pytaś, kótarež móžo wótkaz wócyniś"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Žedno z nałoženjow na wašom rěźe njamóžo toś ten wótkaz wócyniś. Móžośo "
-"%1$s spušćiś, aby %2$s za nałoženim pśepytował."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Žedno z nałoženjow na wašom rěźe njamóžo toś ten wótkaz wócyniś. Móžośo %1$s spušćiś, aby %2$s za nałoženim pśepytował."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -976,17 +946,13 @@ msgstr "Žeden zwisk móžny"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśěžone. "
-"Wopytajśo za mało wokognuśow hyšći raz.</li>\n"
-"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-"
-"zwisk wašogo mobilnego rěda.</li>\n"
+"        <li>Sedło njestoj snaź nachylu k dispoziciji abo jo pśeśěžone. Wopytajśo za mało wokognuśow hyšći raz.</li>\n"
+"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo datowy abo WLAN-zwisk wašogo mobilnego rěda.</li>\n"
 "        </ul>"
 
 msgctxt "error_timeout_title"
@@ -1003,16 +969,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Pśeglědajśo adresu za pisańskimi zmólkami ako\n"
 "          <strong>ww</strong>.example.com město\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda "
-"abo swój WLAN-zwisk.</li>\n"
+"        <li>Jolic njamóžośo boki zacytaś, pśeglědajśo daty swójogo rěda abo swój WLAN-zwisk.</li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -1022,17 +986,13 @@ msgstr "Adresa njejo płaśiwa"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Webadrese se zwětšego ako <strong>http://www.example.com/</strong> "
-"pišu.</li>\n"
-"  <li>Zawěsććo, až wužywaśo doprědka schylone nakósne smužki (t. gr. "
-"<strong>/</strong>).</li>\n"
+"  <li>Webadrese se zwětšego ako <strong>http://www.example.com/</strong> pišu.</li>\n"
+"  <li>Zawěsććo, až wužywaśo doprědka schylone nakósne smužki (t. gr. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1042,13 +1002,11 @@ msgstr "Bok pšawje njepósrědnja"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Toś ten problem zawinujo se wótergi pśez zmóžnjanje abo "
-"znjemóžnjanje ookiejow.</li>\n"
+"  <li>Toś ten problem zawinujo se wótergi pśez zmóžnjanje abo znjemóžnjanje ookiejow.</li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1058,13 +1016,11 @@ msgstr "Adresa njejo se zrozměła"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Musyśo snaź druge programy instalěrowaś, aby se toś ta adresa "
-"wócyniła.</li>\n"
+"  <li>Musyśo snaź druge programy instalěrowaś, aby se toś ta adresa wócyniła.</li>\n"
 "</ul>"
 
 msgctxt "error_sslhandshake_title"
@@ -1074,19 +1030,16 @@ msgstr "Wěsty zwisk njejo móžny"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
 "  <li>To by mógło problem z konfiguraciju serwera byś, abo by mógło byś,\n"
 "až něchten wopytujo serwer imitěrowaś.</li>\n"
-"  <li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła"
-" zmólka snaź\n"
+"  <li>Jolic sćo był ze serwerom w zachadnosći wuspěšnje zwězany, by mógła zmólka snaź\n"
 "nachylna byś a móžośo pózdźej hyšći raz wopytaś.</li>\n"
 "</ul>"
 
@@ -1137,12 +1090,8 @@ msgstr "Wótkaz w nowem rejtarku wócyniś"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Skłaźone a źělone wobraze <b>se njewulašuju</b>, gaž historiju %1$s "
-"lašujośo."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Skłaźone a źělone wobraze <b>se njewulašuju</b>, gaž historiju %1$s lašujośo."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1151,9 +1100,7 @@ msgstr "Zmocniśo swóju priwatnosć"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
-msgid ""
-"Block content like ads and code that follow you around the web and slow "
-"you down. Turn on ad blocking to browse faster without annoying ads."
+msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -1163,9 +1110,7 @@ msgstr "Wašo pytanje ako wy jo cośo"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
+msgid "Searching for something different? Choose another default search engine in Settings."
 msgstr "Pytaśo za něcym drugim? Wubjeŕśo drugu standardnu pytnicu w nastajenjach."
 
 #. First run tour (Shortcut): Title
@@ -1177,12 +1122,8 @@ msgstr "Pśidajśo swójej startowej wobrazowce tastowe skrotconki"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Wrośćo se malsnjej k swójim nejlubšym sedłam w %1$s. Wubjeŕśo jadnorje "
-"„Startowej wobrazowce pśidaś“ z menija %1$s."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Wrośćo se malsnjej k swójim nejlubšym sedłam w %1$s. Wubjeŕśo jadnorje „Startowej wobrazowce pśidaś“ z menija %1$s."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1193,12 +1134,8 @@ msgstr "Pśiwucćo se priwatnosć"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Nastajśo %1$s ako swój standardny wobglědowak a mějśo wužytk z priwatnego"
-" pśeglědowanja, gaž webboki z drugich nałoženjow wócynjaśo."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Nastajśo %1$s ako swój standardny wobglědowak a mějśo wužytk z priwatnego pśeglědowanja, gaž webboki z drugich nałoženjow wócynjaśo."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1221,9 +1158,7 @@ msgstr ""
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
-msgid ""
-"New feature! Browse faster by stopping ads and code that follow you "
-"around the web."
+msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
 msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
@@ -1273,12 +1208,8 @@ msgstr "Priwatne pósejźenje"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Powěźeńki wam zmóžnjaju, waše pósejźenje %1$s z dotyknjenim wulašowaś. "
-"Njetrjebaśo nałoženje wócyniś abo glědaś, což we wašom wobglědowaku běžy."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Powěźeńki wam zmóžnjaju, waše pósejźenje %1$s z dotyknjenim wulašowaś. Njetrjebaśo nałoženje wócyniś abo glědaś, což we wašom wobglědowaku běžy."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1297,23 +1228,15 @@ msgstr "Firefox ześěgnuś"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s jo dermotna software wótwórjonego žrědła wót Mozilla a drugich "
-"sobustatkujucych."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s jo dermotna software wótwórjonego žrědła wót Mozilla a drugich sobustatkujucych."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s so pód wuměnjenjami licence <a href=\"%2$s\">Mozilla Public "
-"License</a> a drugimi licencami wótwórjonego žrědła k dispoziciji staja."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s so pód wuměnjenjami licence <a href=\"%2$s\">Mozilla Public License</a> a drugimi licencami wótwórjonego žrědła k dispoziciji staja."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1321,25 +1244,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Njedaju wam žedne pšawa abo licence na wikowych markow załožby Mozilla "
-"Foundation abo tśeśich, inkluziwnje mjenja abo loga Mozilla, Firefox abo "
-"%1$s. Dalšne informacije namakajośo <a href=\"%2$s\">how</a>."
+"Njedaju wam žedne pšawa abo licence na wikowych markow załožby Mozilla Foundation abo tśeśich, inkluziwnje mjenja abo loga Mozilla, Firefox abo %1$s. Dalšne informacije namakajośo <a "
+"href=\"%2$s\">how</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Pśidatny žrědłowy kod za %1$s jo pód wšakich drugich lichych <a "
-"href=\"%2$s\">licencach</a> wótwórjonego žrědła k dispoziciji."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Pśidatny žrědłowy kod za %1$s jo pód wšakich drugich lichych <a href=\"%2$s\">licencach</a> wótwórjonego žrědła k dispoziciji."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1347,14 +1263,10 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
 msgstr ""
-"%1$s teke blokěrowańske lisćiny póbitowane wót Disconnect, Inc. ako "
-"separatne a njewótwisne źěła pód licencu <a href=\"%2$s\">General Public "
-"Licence v3</a> wužywa, kótarež su <a href=\"%3$s\">how</a> k dispoziciji."
+"%1$s teke blokěrowańske lisćiny póbitowane wót Disconnect, Inc. ako separatne a njewótwisne źěła pód licencu <a href=\"%2$s\">General Public Licence v3</a> wužywa, kótarež su <a "
+"href=\"%3$s\">how</a> k dispoziciji."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1539,12 +1451,8 @@ msgstr "Cośo pytańske naraźenja aktiwěrowaś?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
-"Aby pytańske naraźenja dostał, musyi %1$s wopśimjeśe, kótarež sćo zapódał"
-" do adresowego póla, na pytnicu słaś, kótaruž sćo wubrał. %2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Aby pytańske naraźenja dostał, musyi %1$s wopśimjeśe, kótarež sćo zapódał do adresowego póla, na pytnicu słaś, kótaruž sćo wubrał. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1590,9 +1498,7 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Pśistup k sedłam, ku kótarymž nejcesćej woglědujośo, z jadnym "
-"dotyknjenim%1$s Meni > Startowej wobrazowce pśidaś"
+msgstr "Pśistup k sedłam, ku kótarymž nejcesćej woglědujośo, z jadnym dotyknjenim%1$s Meni > Startowej wobrazowce pśidaś"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1615,8 +1521,7 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
-"URL za sedła, ku kótarymž se nejcesćej woglědujośo, awtomatiski "
-"wudopołniś\n"
+"URL za sedła, ku kótarymž se nejcesćej woglědujośo, awtomatiski wudopołniś\n"
 "Tłocćo dłujko na URL w adresowem pólu"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
@@ -1635,9 +1540,7 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Cośo lubjej dopołne desktopowe sedło wiźeś?%1$s Meni > Desktopowe sedło "
-"pominaś"
+msgstr "Cośo lubjej dopołne desktopowe sedło wiźeś?%1$s Meni > Desktopowe sedło pominaś"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
@@ -1662,8 +1565,7 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "Dowěry gódne sedło?\n"
-"Z dowóleńskeju lisćinje móžośo slědowański šćit za sedła, kótarež znajośo"
-" a kótarymž dowěriśo, znjemóžniś."
+"Z dowóleńskeju lisćinje móžośo slědowański šćit za sedła, kótarež znajośo a kótarymž dowěriśo, znjemóžniś."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1695,12 +1597,8 @@ msgstr "Ptencielnje tšašne a wobšudnikojske sedła blokěrowaś"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
-msgstr ""
-"Blokěrujśo wuzjawjone wobšudnikojske a napadowe sedła, škódne sedła a "
-"sedła z njewitaneju softwaru."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
+msgstr "Blokěrujśo wuzjawjone wobšudnikojske a napadowe sedła, škódne sedła a sedła z njewitaneju softwaru."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1735,9 +1633,7 @@ msgstr "Bóžko mamy problem z toś tym rejtarkom."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
-"Ako priwatny wobglědowak njeskładujomy nigda a njamóžomy toś ten rejtark "
-"wótnowiś."
+msgstr "Ako priwatny wobglědowak njeskładujomy nigda a njamóžomy toś ten rejtark wótnowiś."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1753,12 +1649,8 @@ msgstr "Bóžko %1$s jo měł problem a jo wowalił."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
-msgstr ""
-"Ako priwatny wobglědowak njeskładujomy nigda a njamóžomy wašo slědne "
-"pśeglědowańske pósejźenje wótnowiś."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
+msgstr "Ako priwatny wobglědowak njeskładujomy nigda a njamóžomy wašo slědne pśeglědowańske pósejźenje wótnowiś."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1796,4 +1688,3 @@ msgstr ""
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
 msgstr ""
-
