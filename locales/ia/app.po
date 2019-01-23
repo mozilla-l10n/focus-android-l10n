@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-21 16:04+0000\n"
+"PO-Revision-Date: 2019-01-23 10:52+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -370,7 +370,7 @@ msgstr "Pro le sitos que tu adde"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Activar pro auto-completar le sitos que tu adde ci."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -512,13 +512,13 @@ msgstr "Blocar le traciatores de publicitate"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Remove le avisos publicitari designate pro traciar visitas de sito mesmo si tu non tocca los"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Bloca le traciatores que analysa e mesura interactiones como toccos e rolamento"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
