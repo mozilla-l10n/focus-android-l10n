@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-23 10:52+0000\n"
+"PO-Revision-Date: 2019-01-23 11:22+0000\n"
 "Last-Translator: Melo46 <melo@carmu.com>\n"
 "Language-Team: ia <LL@li.org>\n"
 "\n"
@@ -528,7 +528,7 @@ msgstr "Blocar le traciatores social"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Stoppa le traciatores correlate al social-media integrate sur le sitos web e le buttones pro compartir social"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -576,10 +576,12 @@ msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Blocar tote le cookies de tertie-parte \n"
+"(pote facer collaber sitos web)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Blocar tote le cookies (facera collaber le sitos web)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1104,7 +1106,7 @@ msgstr "Reinfortia tu confidentialitate"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Bloca contento como avisos publicitari e codification que te seque circum le Web e te relenta. Activa le blocada del avisos publicitari pro navigar plus veloce sin enoiose avisos publicitari."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1157,12 +1159,12 @@ msgstr "Avante"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s es preste a blocar le avisos publicitari"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Nove functionalitate! Naviga plus veloce per stoppar le avisos publicitari e le codification que te seque circum le Web."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1551,7 +1553,7 @@ msgstr "Disactivar le suggestiones sur le pagina initial"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Naviga plus veloce per stoppar le avisos publicitari e le codification que te seque circum le Web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
