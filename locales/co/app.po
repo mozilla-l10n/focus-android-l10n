@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-24 19:06+0000\n"
+"PO-Revision-Date: 2019-01-24 19:20+0000\n"
 "Last-Translator: Patriccollu di Santa Maria è S <Patrick.Santa-Maria@laposte.net>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1107,6 +1107,8 @@ msgstr "Rinfurzate a vostra vita privata"
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"Bluccà u cuntenu cum’è e publicità è u codice chì voi seguitanu da tutti i scorni di u Web è chì vi facenu andà pianu pianu. Attivate u blucchime di publicità per navigà più in furia è senza "
+"publicità scomude."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1164,7 +1166,7 @@ msgstr "%1$s hè prontu à bluccà e publicità"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr "Nova funzione ! Navigà più in furia blucchendu è publicità è u codice chì voi seguitanu da tutti i scorni di u Web."
+msgstr "Nova funzione ! Navigà più in furia blucchendu e publicità è u codice chì voi seguitanu da tutti i scorni di u Web."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1555,7 +1557,7 @@ msgstr "Disattivà e minichichje nant’à u screnu d’avviu"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr "Navigà più in furia blucchendu è publicità è u codice chì voi seguitanu da tutti i scorni di u Web."
+msgstr "Navigà più in furia blucchendu e publicità è u codice chì voi seguitanu da tutti i scorni di u Web."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
