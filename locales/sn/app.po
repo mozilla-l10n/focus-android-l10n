@@ -2,23 +2,24 @@
 # Copyright (C) 2018 Mozilla
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2018-11-21 15:07+0000\n"
-"Last-Translator: tatalmondmush <tatalmondmush@gmail.com>\n"
-"Language: sn\n"
+"PO-Revision-Date: 2019-01-24 11:37+0000\n"
+"Last-Translator: Anesu Chiodza <anesuchiodza@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
-"Plural-Forms: nplurals=2; plural=(((n == 1)) ? 0 : 1)\n"
+"Language: sn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Generated-By: Babel 2.4.0\n"
+"X-Generator: Pontoon\n"
 
 #. #######################################################################################
 #. ## Put only strings into this file that should be translated. Move all
@@ -228,24 +229,20 @@ msgid ""
 "  <ul>\n"
 "    <li>Search and browse right in the app</li>\n"
 "    <li>Block trackers (or update settings to allow trackers)</li>\n"
-"    <li>Erase to delete cookies as well as search and browsing "
-"history</li>\n"
+"    <li>Erase to delete cookies as well as search and browsing history</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open "
-"Internet.<br/>\n"
+"<p>%1$s is produced by Mozilla. Our mission is to foster a healthy, open Internet.<br/>\n"
 "<a href=\"%2$s\">Learn more</a></p>"
 msgstr ""
 "<p> %1$s inokuisa mukutonga.</p>\n"
 "<p>Kushandise sevhisi yega yega: \n"
 "<ul><li>Tsvaga uye tenderera mberi pari purogiramu</li> \n"
-"    <li>Chengeta vateereri (kana kuti zvirongwa zvekugadzirisa kuti "
-"zvibvumire vateereri)</li>\n"
+"    <li>Chengeta vateereri (kana kuti zvirongwa zvekugadzirisa kuti zvibvumire vateereri)</li>\n"
 "    <li>Dzima kuti ubvise makuki pamwe nhoroondo yekutsvaga</li>\n"
 "  </ul>\n"
 "</p>\n"
-"<p>%1$s inobudiswa neMozilla. Chinangwa chedu ndechekusimudzira Indaneti,"
-" yakashama.<br/> <a href=\"%2$s\">Dzidza ZVIMWE</a></p>"
+"<p>%1$s inobudiswa neMozilla. Chinangwa chedu ndechekusimudzira Indaneti, yakashama.<br/> <a href=\"%2$s\">Dzidza ZVIMWE</a></p>"
 
 #. Header for the Privacy and Security settings menu
 msgctxt "preference_privacy_and_security_header"
@@ -276,7 +273,7 @@ msgstr "Nezvedu %1$s, rubatsiro"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Vhara Adhiveti"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -360,9 +357,7 @@ msgstr "Masaiti anoendwa zvakanyanya"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr ""
-"Batidza kuti otokombuliti iitike pamanzwi anosvika 450 akakurumbira URLs "
-"mu adhiresi bha."
+msgstr "Batidza kuti otokombuliti iitike pamanzwi anosvika 450 akakurumbira URLs mu adhiresi bha."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -373,7 +368,7 @@ msgstr "Pema Saitsi awa isa woga"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Batidza kuti ipedzise yoga kunyora mawebsite aunowedzera pano."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -494,16 +489,14 @@ msgstr "Vanza"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Chengetedza matangazo uye zvimwe zvinoshungurudza"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
-msgid ""
-"Stops ads and other annoyances using block lists from Easylist, "
-"EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
+msgstr "Anodzivisa matanho nezvimwe zvinoshungurudza vachishandisa block list kubva Easylist, EasyPrivacy, Kutsamwa kwa Fanboy, uye 777 Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -522,9 +515,7 @@ msgstr ""
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
-msgid ""
-"Blocks trackers that analyze and measure interactions like tapping and "
-"scrolling"
+msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
 msgstr ""
 
 msgctxt "preference_privacy_block_social"
@@ -534,9 +525,7 @@ msgstr "Vharira tunotsvaka twehupenyu"
 #. Description for the toggle that Blocks social-media related trackers
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
-msgid ""
-"Stops social-media related trackers embedded on websites, including "
-"social share buttons"
+msgid "Stops social-media related trackers embedded on websites, including social share buttons"
 msgstr ""
 
 msgctxt "preference_privacy_block_content"
@@ -545,9 +534,7 @@ msgstr "Vharira vamwe vateereri vezvinhu"
 
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
-msgid ""
-"Blocks tracking activity, but may cause some sites and pages to behave "
-"unexpectedly"
+msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
 msgstr ""
 
 msgctxt "preference_privacy_category_cookies"
@@ -604,12 +591,8 @@ msgstr "Shandisa munwe kuvhura app"
 #. %1$s will be replaced by the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_security_biometric_summary"
-msgid ""
-"Your fingerprint can unlock %1$s if a URL is already opened in the app. "
-"Stealth will be turned on."
-msgstr ""
-"Mifananidzo yako yeminwe inogona kuzarura %1$s kana URL isati yavhurwa "
-"mu-app. Simba richashandurwa."
+msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
+msgstr "Mifananidzo yako yeminwe inogona kuzarura %1$s kana URL isati yavhurwa mu-app. Simba richashandurwa."
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -625,9 +608,7 @@ msgstr "Hauchaoneke"
 #. other displays.
 msgctxt "preference_privacy_stealth_summary"
 msgid "Hide webpages when switching apps and block taking screenshots."
-msgstr ""
-"Viga mapepa epakombiyuta paunoshandura mapurogiramu uye udzivise kutora "
-"masikirini shoti."
+msgstr "Viga mapepa epakombiyuta paunoshandura mapurogiramu uye udzivise kutora masikirini shoti."
 
 msgctxt "preference_category_security"
 msgid "Security"
@@ -655,9 +636,7 @@ msgstr "Vhara JavaScript"
 #. may not work correctly when JavaScript is disabled
 msgctxt "preference_performance_block_javascript_summary"
 msgid "Pages may load faster, but may also behave unexpectedly"
-msgstr ""
-"Mapeji anogona kuvhura nokukurumidza, asi anogonawo kutanga kuita "
-"zvisingatarisirwe"
+msgstr "Mapeji anogona kuvhura nokukurumidza, asi anogonawo kutanga kuita zvisingatarisirwe"
 
 #. This preference does not set Focus as the default browser but instead links
 #. to Android's      "default apps" settings screen or if not supported by this
@@ -686,12 +665,8 @@ msgstr "Dzidza zvimwe"
 #. %1$s will be replaced with the name of the app (e.g. Firefox Focus)
 #, c-format
 msgctxt "preference_mozilla_telemetry_summary2"
-msgid ""
-"Mozilla strives to collect only what we need to provide and improve %1$s "
-"for everyone."
-msgstr ""
-"Mozilla inoedza kuunganidza chete zvatinoda kupa nekuvandudza %1$s kune "
-"munhu wose."
+msgid "Mozilla strives to collect only what we need to provide and improve %1$s for everyone."
+msgstr "Mozilla inoedza kuunganidza chete zvatinoda kupa nekuvandudza %1$s kune munhu wose."
 
 #. In-app link (in settings) to Focus privacy notice.
 msgctxt "preference_privacy_notice"
@@ -913,12 +888,8 @@ msgstr "Tsvaga app inokwanisa kuvhura link"
 #. Google Play).
 #, c-format
 msgctxt "external_app_prompt_no_app"
-msgid ""
-"None of the apps on your device are able to open this link. You can leave"
-" %1$s to search %2$s for an app that can."
-msgstr ""
-"Tashaiwa app mufoni yako inokwanisa kuvhura link. Unokwanisa kusiya %1$s "
-"kuti ugotsaga %2$s kune app inozvikwanisa."
+msgid "None of the apps on your device are able to open this link. You can leave %1$s to search %2$s for an app that can."
+msgstr "Tashaiwa app mufoni yako inokwanisa kuvhura link. Unokwanisa kusiya %1$s kuti ugotsaga %2$s kune app inozvikwanisa."
 
 #. This label is shown above a list of apps that can be used to open a given
 #. link
@@ -943,9 +914,7 @@ msgstr "Vhura"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr ""
-"Zvawatora painternet <b>zvichange zvichiripo</b> pauchatsvaira %1$s "
-"nhorondo."
+msgstr "Zvawatora painternet <b>zvichange zvichiripo</b> pauchatsvaira %1$s nhorondo."
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -978,18 +947,13 @@ msgstr "Tatadza kubatirana"
 msgctxt "error_connectionfailure_message"
 msgid ""
 "<ul>\n"
-"        <li>The site could be temporarily unavailable or too busy. Try "
-"again in a few moments.</li>\n"
-"        <li>If you are unable to load any pages, check your mobile "
-"device’s data or Wi-Fi connection.</li>\n"
+"        <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>\n"
+"        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
-"        <li> Nzvimbo iyi inogona kunge isipo kwekanguva kana "
-"yakabatikana. Edza zvakare munguva shomanana. </li>\n"
-"        <li> Kana usingakwanisi kutakura mapeji chero ipi zvayo, "
-"chengetedza dhepfenyuro yemagetsi yako kana kuti Wi-Fi connection. </ li>"
-"\n"
+"        <li> Nzvimbo iyi inogona kunge isipo kwekanguva kana yakabatikana. Edza zvakare munguva shomanana. </li>\n"
+"        <li> Kana usingakwanisi kutakura mapeji chero ipi zvayo, chengetedza dhepfenyuro yemagetsi yako kana kuti Wi-Fi connection. </ li>\n"
 "      </ ul>"
 
 msgctxt "error_timeout_title"
@@ -1006,16 +970,14 @@ msgid ""
 "        <li>Check the address for typing errors such as\n"
 "          <strong>ww</strong>.example.com instead of\n"
 "          <strong>www</strong>.example.com</li>\n"
-"        <li>If you are unable to load any pages, check your device’s data"
-" or Wi-Fi connection.</li>\n"
+"        <li>If you are unable to load any pages, check your device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
 "<ul>\n"
 "        <li>Tarisa kero yekunyora zvikanganiso zvakadai se\n"
 "          <strong> ww </strong> .example.com panzvimbo ye\n"
 "          <strong> www </strong> .example.com </li>\n"
-"        <li> Kana usingakwanisi kutakura mapeji chero ipi zvayo, chengeta"
-" dhidhi yako yedhidhiyo kana Wi-Fi connection. </li>\n"
+"        <li> Kana usingakwanisi kutakura mapeji chero ipi zvayo, chengeta dhidhi yako yedhidhiyo kana Wi-Fi connection. </li>\n"
 "      </ul>"
 
 msgctxt "error_malformedURI_title"
@@ -1025,17 +987,13 @@ msgstr "Kero haisi yakakodzera"
 msgctxt "error_malformedURI_message"
 msgid ""
 "<ul>\n"
-"  <li>Web addresses are usually written like "
-"<strong>http://www.example.com/</strong></li>\n"
-"  <li>Make sure that you’re using forward slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Web addresses are usually written like <strong>http://www.example.com/</strong></li>\n"
+"  <li>Make sure that you’re using forward slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Kero kero dzeWebhu dzinowanzonyorwa se <strong> "
-"http://www.example.com/</strong></li>\n"
-"  <li>Iva nechokwadi chokuti uri kushandisa mberi slashes (i.e. "
-"<strong>/</strong>).</li>\n"
+"  <li>Kero kero dzeWebhu dzinowanzonyorwa se <strong> http://www.example.com/</strong></li>\n"
+"  <li>Iva nechokwadi chokuti uri kushandisa mberi slashes (i.e. <strong>/</strong>).</li>\n"
 "</ul>"
 
 msgctxt "error_redirectLoop_title"
@@ -1045,13 +1003,11 @@ msgstr "Peji haisi kutungamira zvakanaka"
 msgctxt "error_redirectLoop_message"
 msgid ""
 "<ul>\n"
-"  <li>This problem can sometimes be caused by disabling or refusing to "
-"accept cookies.</li>\n"
+"  <li>This problem can sometimes be caused by disabling or refusing to accept cookies.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Iyi dambudziko dzimwe nguva inokonzerwa nekudzivisa kana kuramba "
-"kubvuma makuki </li>\n"
+"  <li>Iyi dambudziko dzimwe nguva inokonzerwa nekudzivisa kana kuramba kubvuma makuki </li>\n"
 "</ul>"
 
 msgctxt "error_unsupportedprotocol_title"
@@ -1061,12 +1017,9 @@ msgstr "Kero yacho yakanga isinganzwisisiki"
 msgctxt "error_unsupportedprotocol_message"
 msgid ""
 "<ul>\n"
-"  <li>You might need to install other software to open this address.</li>"
-"\n"
+"  <li>You might need to install other software to open this address.</li>\n"
 "</ul>"
-msgstr ""
-"<ul> <li>Unofanira kuisa imwe software kuti ukwanise kuvhura adhiresi "
-"iyi.</li></ul>"
+msgstr "<ul> <li>Unofanira kuisa imwe software kuti ukwanise kuvhura adhiresi iyi.</li></ul>"
 
 msgctxt "error_sslhandshake_title"
 msgid "Secure connection failed"
@@ -1075,20 +1028,16 @@ msgstr "Tatadza kuvhura zvakachengetedzeka"
 msgctxt "error_sslhandshake_message"
 msgid ""
 "<ul>\n"
-"  <li>This could be a problem with the server’s configuration, or it "
-"could be\n"
+"  <li>This could be a problem with the server’s configuration, or it could be\n"
 "someone trying to impersonate the server.</li>\n"
-"  <li>If you have connected to this server successfully in the past, the "
-"error may\n"
+"  <li>If you have connected to this server successfully in the past, the error may\n"
 "be temporary, and you can try again later.</li>\n"
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li> Izvi zvinogona kuva dambudziko nekugadziriswa kwevhavha, kana "
-"zvingave\n"
+"  <li> Izvi zvinogona kuva dambudziko nekugadziriswa kwevhavha, kana zvingave\n"
 "mumwe munhu achiedza kutevedzera sevha. </li>\n"
-"  <li> Kana wakabatana neiyo server kubudirira munguva yakapfuura, "
-"kukanganisa kunogona\n"
+"  <li> Kana wakabatana neiyo server kubudirira munguva yakapfuura, kukanganisa kunogona\n"
 "iva kwenguva duku, uye iwe unogona zvakare zvakare gare gare. </li>\n"
 "</ul>"
 
@@ -1139,12 +1088,8 @@ msgstr "Vhura link mu tebhu nyowani"
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
 #. Focus).
 msgctxt "contextmenu_image_warning"
-msgid ""
-"Saved and shared images <b>will not be deleted</b> when you erase %1$s "
-"history."
-msgstr ""
-"Mifananidzo yakachengetwa <b>neyakagoverwa haibviswe</b> paunodzima %1$s "
-"nhoroondo."
+msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
+msgstr "Mifananidzo yakachengetwa <b>neyakagoverwa haibviswe</b> paunodzima %1$s nhoroondo."
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
@@ -1153,9 +1098,7 @@ msgstr "Shandisa simba rako rechivande"
 
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
-msgid ""
-"Block content like ads and code that follow you around the web and slow "
-"you down. Turn on ad blocking to browse faster without annoying ads."
+msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
 
 #. First run tour (Search): Title
@@ -1165,12 +1108,8 @@ msgstr "Kutsvaga kwako, inzira yako"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
-msgid ""
-"Searching for something different? Choose another default search engine "
-"in Settings."
-msgstr ""
-"Kutsvaka chimwe chinhu chakasiyana? Sarudza imwe shandiso yekutsvaga "
-"injini muZvirevo."
+msgid "Searching for something different? Choose another default search engine in Settings."
+msgstr "Kutsvaka chimwe chinhu chakasiyana? Sarudza imwe shandiso yekutsvaga injini muZvirevo."
 
 #. First run tour (Shortcut): Title
 msgctxt "firstrun_shortcut_title"
@@ -1181,12 +1120,8 @@ msgstr "Wedzera zvidzitiro pamba peimba yako"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_shortcut_text"
-msgid ""
-"Return to your favorite sites in %1$s quickly. Just select \"Add to Home "
-"screen\" from the %1$s menu."
-msgstr ""
-"Dzokera kunzvimbo dzako dzaunoda mu %1$s nokukurumidza. Ingosarudza "
-"\"Wedzera Pamba peji\" kubva ku %1$s menyu."
+msgid "Return to your favorite sites in %1$s quickly. Just select \"Add to Home screen\" from the %1$s menu."
+msgstr "Dzokera kunzvimbo dzako dzaunoda mu %1$s nokukurumidza. Ingosarudza \"Wedzera Pamba peji\" kubva ku %1$s menyu."
 
 #. First run tour (Privacy): Title
 msgctxt "firstrun_privacy_title"
@@ -1197,12 +1132,8 @@ msgstr "Ita kuchengeteka kwako chive chijairire"
 #. app (e.g. Firefox Focus)
 #, c-format
 msgctxt "firstrun_privacy_text"
-msgid ""
-"Set %1$s as your default browser and get the benefits of private browsing"
-" when you open webpages from other apps."
-msgstr ""
-"Ita %1$s sechitsvaga chako chekutsvaga uye uwane mararamiro ehupfumi "
-"hwepachivande paunotanga mapepa ewebhu kubva kune mamwe maitiro."
+msgid "Set %1$s as your default browser and get the benefits of private browsing when you open webpages from other apps."
+msgstr "Ita %1$s sechitsvaga chako chekutsvaga uye uwane mararamiro ehupfumi hwepachivande paunotanga mapepa ewebhu kubva kune mamwe maitiro."
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
@@ -1225,9 +1156,7 @@ msgstr ""
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
-msgid ""
-"New feature! Browse faster by stopping ads and code that follow you "
-"around the web."
+msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
 msgstr ""
 
 #. Indicator that no trackers are being blocked because content blocking is
@@ -1277,13 +1206,8 @@ msgstr "Sesheni yekutsvaga pachivande"
 #. https://github.com/mozilla-mobile/focus-android/issues/863#issuecomment-324105723
 #, c-format
 msgctxt "notification_browsing_session_channel_description"
-msgid ""
-"Notifications let you erase your %1$s session with a tap. You don’t need "
-"to open the app or see what’s running in your browser."
-msgstr ""
-"Izaziso dzinokubvumira kuti usasase %1$s svondo yako nepombi. Iwe "
-"haufaniri kuzarura purogiramu yacho kana kuona kuti chii chiri kushanda "
-"mu browser yako."
+msgid "Notifications let you erase your %1$s session with a tap. You don’t need to open the app or see what’s running in your browser."
+msgstr "Izaziso dzinokubvumira kuti usasase %1$s svondo yako nepombi. Iwe haufaniri kuzarura purogiramu yacho kana kuona kuti chii chiri kushanda mu browser yako."
 
 #. Label for a button in the "tabs tray" to erase the browsing history (closes
 #. all tabs and removes associated data).
@@ -1302,23 +1226,15 @@ msgstr "Dounirodha Firefox"
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
-msgid ""
-"%1$s is free and open source software made by Mozilla and other "
-"contributors."
-msgstr ""
-"%1$s yakasununguka uye yakasununguka purogiramu software yakagadzirwa "
-"naMozilla nevamwe vanobatsira."
+msgid "%1$s is free and open source software made by Mozilla and other contributors."
+msgstr "%1$s yakasununguka uye yakasununguka purogiramu software yakagadzirwa naMozilla nevamwe vanobatsira."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
-msgid ""
-"%1$s is made available to you under the terms of the <a "
-"href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr ""
-"%1$s inowanikwa kwauri pasi pemagariro e <a href=\"%2$s\">Mozilla Public "
-"License </a> uye mamwe mavhesi emvura akazaruka."
+msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
+msgstr "%1$s inowanikwa kwauri pasi pemagariro e <a href=\"%2$s\">Mozilla Public License </a> uye mamwe mavhesi emvura akazaruka."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1326,26 +1242,18 @@ msgstr ""
 #. https://www.mozilla.org/foundation/trademarks/policy/)
 msgctxt "your_rights_content3"
 msgid ""
-"You are not granted any rights or licenses to the trademarks of the "
-"Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s "
-"names or logos. Additional information may be found <a "
+"You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Iwe hauna kupa kodzero chero ipi zvayo kana malayisenzi kune zvikwangwani"
-" zveMozilla Foundation kana chero sangano, kusanganisira maMozilla, "
-"Firefox kana %1$s mazita kana malogo. Zvimwe zvinowanikwa zvinogona "
-"kuwanikwa <a href=\"%2$s\">pano</a>."
+"Iwe hauna kupa kodzero chero ipi zvayo kana malayisenzi kune zvikwangwani zveMozilla Foundation kana chero sangano, kusanganisira maMozilla, Firefox kana %1$s mazita kana malogo. Zvimwe zvinowanikwa"
+" zvinogona kuwanikwa <a href=\"%2$s\">pano</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
-msgid ""
-"Additional source code for %1$s is available under various other free and"
-" open source <a href=\"%2$s\">licenses</a>."
-msgstr ""
-"Zvimwe zvinyorwa zvekushandisa kwe %1$s zvinowanikwa pasi pemamwe marudzi"
-" akasiyana uye akasununguka kubva kune <a href=\"%2$s\">zvibvumirano</a>."
+msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
+msgstr "Zvimwe zvinyorwa zvekushandisa kwe %1$s zvinowanikwa pasi pemamwe marudzi akasiyana uye akasununguka kubva kune <a href=\"%2$s\">zvibvumirano</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1353,14 +1261,8 @@ msgstr ""
 #. tracking protection wiki page (e.g.
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
-msgid ""
-"%1$s also uses blocklists provided by Disconnect, Inc. as separate and "
-"independent works under the <a href=\"%2$s\">GNU General Public License "
-"v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr ""
-"%1$s inoshandisa mabhiilopu anopiwa neDisconnect, Inc. sezvikamu "
-"zvakasiyana uye zvakazvimirira pasi pe <a href=\"%2$s\"> GNU General "
-"Public License v3 </a>, uye iripo <a href = \"%3$s \">pano</a>."
+msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
+msgstr "%1$s inoshandisa mabhiilopu anopiwa neDisconnect, Inc. sezvikamu zvakasiyana uye zvakazvimirira pasi pe <a href=\"%2$s\"> GNU General Public License v3 </a>, uye iripo <a href = \"%3$s \">pano</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
@@ -1545,13 +1447,8 @@ msgstr "Ungada kubatidza betsero yekutsvaga here?"
 #. string: "enable_search_suggestion_subtitle_learnmore"
 #, c-format
 msgctxt "enable_search_suggestion_subtitle"
-msgid ""
-"To get search suggestions, %1$s needs to send what you type in the "
-"address bar to the search engine you’ve chosen. %2$s."
-msgstr ""
-"Kuti uwane betsero yekutsvaga, %1$s inoda kutumira zvawanyora kune "
-"chikamu chinonyorwa mashoko ekutsvaga kuinjini yekutsvaga yawasarudza. "
-"%2$s."
+msgid "To get search suggestions, %1$s needs to send what you type in the address bar to the search engine you’ve chosen. %2$s."
+msgstr "Kuti uwane betsero yekutsvaga, %1$s inoda kutumira zvawanyora kune chikamu chinonyorwa mashoko ekutsvaga kuinjini yekutsvaga yawasarudza. %2$s."
 
 #. String to be placed inside the string: enable_search_suggestion_subtitle,
 #. which will be a "Learn More" link.
@@ -1597,9 +1494,7 @@ msgstr ""
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr ""
-"Iva one-tap-access kune masayiti ako anoshandisa%1$s Menyu > Wedzera "
-"kusikirini rekutanga"
+msgstr "Iva one-tap-access kune masayiti ako anoshandisa%1$s Menyu > Wedzera kusikirini rekutanga"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1641,9 +1536,7 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr ""
-"Pane kuti uone yakazara desktop site?%1$s Menyu > Kumbira nzvimbo ye "
-"desktop"
+msgstr "Pane kuti uone yakazara desktop site?%1$s Menyu > Kumbira nzvimbo ye desktop"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
@@ -1668,8 +1561,7 @@ msgid ""
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
 "Nzvimbo yakatendwa?\n"
-" Chibvumirano chinodzivisa Kuchengetedzwa Kwekuchengetedza kwemasayithi "
-"ounoziva uye kuvimba."
+" Chibvumirano chinodzivisa Kuchengetedzwa Kwekuchengetedza kwemasayithi ounoziva uye kuvimba."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1701,12 +1593,8 @@ msgstr "Chengetedza nzvimbo dzingangove dzine ngozi uye dzinonyengedza"
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
-msgid ""
-"Block reported deceptive and attack sites, malware sites, and unwanted "
-"software sites."
-msgstr ""
-"Vharira nzvimbo dzinonyengedza kunze uye dzekurwisa, nzvimbo dzisina "
-"kuwanikwa, uye dzisina kuwanikwa software."
+msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
+msgstr "Vharira nzvimbo dzinonyengedza kunze uye dzekurwisa, nzvimbo dzisina kuwanikwa, uye dzisina kuwanikwa software."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
@@ -1741,9 +1629,7 @@ msgstr "Ruregerero. Taita dambudziko ne tebhu iri."
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
-"Sekuchengetedzwa kwepachivande, hatina kumbochengetedza uye hatigoni "
-"kudzorera tabu iyi."
+msgstr "Sekuchengetedzwa kwepachivande, hatina kumbochengetedza uye hatigoni kudzorera tabu iyi."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1759,9 +1645,7 @@ msgstr "Ndine hurombo. %1$s yakanga ine dambudziko uye yakaparara."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
-msgid ""
-"As a private browser, we never save and cannot restore your last browsing"
-" session."
+msgid "As a private browser, we never save and cannot restore your last browsing session."
 msgstr "Se bhurauza repachivande, hatitombo chengete zvawanga uchiita paindaneti."
 
 #. Label for the button that closes the window
@@ -1800,4 +1684,3 @@ msgstr ""
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
 msgstr ""
-
