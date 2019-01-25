@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-21 13:55+0000\n"
+"PO-Revision-Date: 2019-01-25 16:46+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -274,7 +274,7 @@ msgstr "%1$s hakkında, yardım"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Reklam engelleme"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
@@ -321,7 +321,7 @@ msgstr "Arama önerilerini göster"
 #, c-format
 msgctxt "preference_show_search_suggestions_summary"
 msgid "%1$s will send what you type in the address bar to your search engine"
-msgstr "%1$s, adres çubuğuna yazdıklarını arama motorunuza gönderecektir"
+msgstr "%1$s, adres çubuğuna yazdıklarınızı arama motorunuza gönderecektir"
 
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
@@ -369,7 +369,7 @@ msgstr "Eklediğim sitelerde"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Buraya eklediğiniz siteleri otomatik tamamlamak için etkinleştirin."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -517,7 +517,7 @@ msgstr ""
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Dokunma ve kaydırma gibi eylemlerinizi analiz eden ve ölçen takipçileri engeller"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Sosyal takipçileri engelle"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Web sitelerini gömülü sosyal medya takipçilerini durdurur (Sosyal paylaşım düğmeleri dahil)"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -564,21 +564,23 @@ msgstr "Evet"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Hayır (Tüm çerezlere izin ver)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Üçüncü taraf takipçi çerezlerini engelle (Önerilir)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Tüm üçüncü taraf çerezlerini engelle\n"
+"(Bazı sitelerin bozulmasına neden olabilir)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Tüm çerezleri engelle (Web sitelerinin bozulmasına neden olur)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1548,7 +1550,7 @@ msgstr "Başlangıç ​​ekranında ipuçlarını kapat"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Sizi takip eden reklamları ve kodları engelleyerek web’de daha hızlı gezinebilirsiniz."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
@@ -1670,19 +1672,19 @@ msgstr "Çökme raporunu Mozilla’ya gönder"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "İçerik engelleme açık"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "İçerik engelleme kapalı"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Aç"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Kapat"
