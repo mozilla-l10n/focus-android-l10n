@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-26 22:51+0000\n"
+"PO-Revision-Date: 2019-01-26 22:54+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -1557,7 +1557,7 @@ msgstr "Tichup ri taq chilab'enïk pa ri tikirib'äl ruwäch"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Anin katok pa k'amaya'l toq ye'aq'ät taq eltzijol chuqa' taq b'itz'ib' yatkojqaj pan ajk'amaya'l."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
@@ -1679,12 +1679,12 @@ msgstr "Titaq rutzijol sachoj chi re Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Tzijïl ri Ruq'atik Rupam"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Chupül ri Ruq'atik Rupam"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
