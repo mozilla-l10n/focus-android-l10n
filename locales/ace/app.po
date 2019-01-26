@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-20 17:34+0000\n"
-"Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
+"PO-Revision-Date: 2019-01-26 19:41+0000\n"
+"Last-Translator: haszalfin <haszalfin@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
 "Language: ace\n"
@@ -211,7 +211,7 @@ msgstr "Sampôh riwayat browsing"
 #. recommends a maximum length of 10 characters.
 msgctxt "shortcut_erase_and_open_short_label"
 msgid "Erase & open"
-msgstr ""
+msgstr "Sampôh & Peuhah"
 
 #. This is the label of an action we offer when the user selects text in other
 #. third-party apps.          Clicking this action will launch Focus and
@@ -365,7 +365,7 @@ msgstr ""
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
 msgid "Manage sites"
-msgstr ""
+msgstr "Neuatô mandum situih"
 
 #. Item in autocomplete settings that will open a new preference screen for
 #. adding and removing URLs to the user-defined list
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "search_add_manually_save"
 msgid "Save"
-msgstr ""
+msgstr "Kubah"
 
 #. Example of search engine url
 #, c-format, python-format
@@ -799,7 +799,7 @@ msgstr ""
 #. menu button.
 msgctxt "content_description_menu"
 msgid "More options"
-msgstr ""
+msgstr "Peuniléh lom"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button used     on home screen
@@ -930,11 +930,11 @@ msgstr ""
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Cuba lom"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
-msgstr ""
+msgstr "H'an jeuët ta hubông"
 
 msgctxt "error_connectionfailure_message"
 msgid ""
@@ -1046,12 +1046,12 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_save"
 msgid "Save image"
-msgstr ""
+msgstr "Kubah gamba"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_new_tab"
 msgid "Open link in new tab"
-msgstr ""
+msgstr "Peuhah ret layeu barô"
 
 #. This is a warning shown in the browser's context menu (when long pressing
 #. an image). %1$s will be replaced with the long name of the app (e.g. Firefox
@@ -1106,15 +1106,15 @@ msgstr ""
 
 msgctxt "firstrun_close_button"
 msgid "OK, got it!"
-msgstr ""
+msgstr "Nyan bèrèh that...!"
 
 msgctxt "firstrun_skip_button"
 msgid "Skip"
-msgstr ""
+msgstr "Lingkeuë"
 
 msgctxt "firstrun_next_button"
 msgid "Next"
-msgstr ""
+msgstr "Lom"
 
 #. Title for intro card shown to users after updating. %1$s will be replaced
 #. with the name of the app (e.g. Firefox Focus)
@@ -1242,7 +1242,7 @@ msgstr ""
 
 msgctxt "gv_prompt_clear"
 msgid "Clear"
-msgstr ""
+msgstr "Peugléh"
 
 #. Text shown in Security Information Popup
 #. Text to denote secure or insecure connection
@@ -1272,7 +1272,7 @@ msgstr ""
 #. Label for the Find in page button
 msgctxt "find_in_page"
 msgid "Find in Page"
-msgstr ""
+msgstr "Mita lam ôn nyoe"
 
 #. Watermark/Hint for the find in page input field
 msgctxt "find_in_page_input"
@@ -1426,7 +1426,7 @@ msgstr "Meurunoë lom"
 #. Label used for the "NO button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_no"
 msgid "No"
-msgstr ""
+msgstr "Bèk"
 
 #. Label used for the "YES button" for the prompt to enable search suggestions
 msgctxt "enable_search_suggestions_yes"
