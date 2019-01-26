@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-26 22:32+0000\n"
+"PO-Revision-Date: 2019-01-26 22:51+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -563,21 +563,23 @@ msgstr "Ja'"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Mani (tiya' q'ij chi ke rononel taq kuki)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Keq'at taq kikuki kojqanela' aj rox winäq (chilab'en)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Keq'at ronojel ri taq kikuki aj rox winäq\n"
+"(nitikïr yerutz'ük taq sachoj pa ajk'amaya'l ruxaq)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Keq'at ronojel ri taq kuki (xkerutz'ük taq sachoj pa ri ajk'amaya'l ruxaq)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1101,6 +1103,8 @@ msgstr "Tinimär ruchuq'a' ri awichinem"
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"Ke'aq'ata' taq rupam achi'el taq eltzijol chuqa' ri b'itz'ib' yatrojqaj pa ajk'amaya'l chuqa' nuqasaj ranin. Tatzija' ri kiq'atik taq eltzijol richin anin yatok pa k'amaya'l akuchi' majun itzel chi "
+"eltzijol."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1153,12 +1157,12 @@ msgstr "Jun chik"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s yeruq'ät yan qa ri taq eltzijol"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "¡K'ak'a' rub'anikil! Anin katok pa k'amaya'l toq ye'aq'ät taq eltzijol chuqa' taq b'itz'ib' yatkojqaj pan ajk'amaya'l."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
