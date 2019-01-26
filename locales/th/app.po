@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-17 15:22+0000\n"
+"PO-Revision-Date: 2019-01-26 18:30+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -497,7 +497,7 @@ msgstr "ปิดกั้นโฆษณาและสิ่งรบกวน
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "หยุดโฆษณาและสิ่งรบกวนอื่น ๆ โดยใช้รายการปิดกั้นจาก Easylist, EasyPrivacy, Fanboy’s Annoyance และ 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -527,7 +527,7 @@ msgstr "ปิดกั้นตัวติดตามทางสังคม
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "หยุดตัวติดตามที่เกี่ยวข้องกับสื่อสังคมที่ฝังอยู่ในเว็บไซต์ รวมถึงปุ่มแบ่งปันทางสังคม"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
