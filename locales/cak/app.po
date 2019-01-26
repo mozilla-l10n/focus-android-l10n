@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-16 20:47+0000\n"
+"PO-Revision-Date: 2019-01-26 22:32+0000\n"
 "Last-Translator: Juan Sián <ajtzibsyan@yahoo.com>\n"
 "Language-Team: cak <LL@li.org>\n"
 "\n"
@@ -516,7 +516,7 @@ msgstr "Ke'ayuju' ri taq eltzijol enuk'un richin yekanöx taq kitz'etoj ruxaq k'
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Ke'aq'ata' ri taq ojqanela' yenik'on chuqa' yekipäj ri taq ch'owen achi'el pitz'oj chuqa' q'axanem"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -526,7 +526,7 @@ msgstr "Keq'at winaqil taq ojqanela'"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Yekiq'ät ri taq ojqanela' kiximon ki' kik'in ri winaqel taq k'amab'ey e k'o pa ajk'amaya'l  taq ruxaq, achi'el ri taq kipitz'oj tikomonïx pa winaqel taq k'amab'ey."
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -535,7 +535,7 @@ msgstr "Keq'at ch'aqa' chik ojqanela' rupam"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Taq'ata' taq rusamaj q'atoj, po rik'in jub'a' nub'än chi jujun taq ruxaq k'amaya'l chuqa' taq ruxaq man pa rub'eyal ta xkesamäj."
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
