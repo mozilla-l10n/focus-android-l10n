@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-15 13:07+0000\n"
+"PO-Revision-Date: 2019-01-27 07:44+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -564,7 +564,7 @@ msgstr "हो"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "नाही (सर्व कुकीजना परवानगी द्या)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
@@ -1155,7 +1155,7 @@ msgstr "पुढे"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "जाहिराती अवरोधित करण्यासाठी %1$s तयार आहे"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
@@ -1419,7 +1419,7 @@ msgstr "नवीन सत्र"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "नवीन सत्रात दुवा उघडा"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1556,7 +1556,7 @@ msgstr ""
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "जाहिरात अवरोधन"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1593,7 +1593,7 @@ msgstr "आपले ब्राउझिंग सुरक्षित अस
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "संभाव्य धोकादायक आणि भ्रामक साइट अवरोधित करा"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
@@ -1604,32 +1604,32 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "अपवाद"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "आपण या साइटसाठी मजकूर अवरोधित करणे निष्क्रिय केले आहे."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
 msgid "Remove"
-msgstr ""
+msgstr "काढून टाका"
 
 #. Button to remove all websites from the exception list
 msgctxt "preference_exceptions_remove_all_button_label"
 msgid "Remove all websites"
-msgstr ""
+msgstr "सर्व साईट्स काढून टाका"
 
 #. Title for the tab crash report screen
 msgctxt "tab_crash_report_title"
 msgid "Tab Crashed"
-msgstr ""
+msgstr "टॅब क्रॅश झाला"
 
 #. Headline for the tab crash report screen
 msgctxt "tab_crash_report_headline"
 msgid "Sorry. We’re having a problem with this tab."
-msgstr ""
+msgstr "क्षमा करा. आम्हाला या टॅबमध्ये समस्या येत आहे."
 
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
