@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-29 06:50+0000\n"
+"PO-Revision-Date: 2019-01-29 06:56+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -1634,7 +1634,7 @@ msgstr "क्षमा करा. आम्हाला या टॅबमध�
 #. Subtitle for the tab crash report screen
 msgctxt "tab_crash_report_description"
 msgid "As a private browser, we never save and cannot restore this tab."
-msgstr ""
+msgstr "एक खाजगी ब्राउझर म्हणून, आम्ही टॅब कधीही जतन किंवा पुनर्संचयित करू शकत नाही."
 
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
@@ -1646,12 +1646,12 @@ msgstr "टॅब बंद करा"
 #, c-format
 msgctxt "fatal_crash_report_title"
 msgid "Sorry. %1$s had a problem and crashed."
-msgstr ""
+msgstr "क्षमस्व. %1$s मध्ये समस्या येऊन बंद पडला आहे."
 
 #. Description for the fatal crash report window
 msgctxt "fatal_crash_report_description"
 msgid "As a private browser, we never save and cannot restore your last browsing session."
-msgstr ""
+msgstr "एक खाजगी ब्राउझर म्हणून, आम्ही ब्राउझिंग सत्र कधीही जतन किंवा पुनर्संचयित करू शकत नाही."
 
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
@@ -1673,12 +1673,12 @@ msgstr "Mozilla ला क्रॅश अहवाल पाठवा"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "मजकूर अवरोधित करणे सक्रिय केले आहे"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "मजकूर अवरोधित करणे निष्क्रिय केले आहे"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
