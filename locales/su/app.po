@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-29 08:44+0000\n"
+"PO-Revision-Date: 2019-01-29 10:04+0000\n"
 "Last-Translator: kumincir <ia.adnan@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -537,7 +537,7 @@ msgstr "Peungpeuk palacak kontén séjén"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Meungpeuk kagiatan ngalacak, tapi bisa ngabalukarkeun paripolah sababaraha loka jadi teu bener"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -565,21 +565,23 @@ msgstr "Okéh"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Ulah (idinan kuki)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Peungpeuk kuki palacak pihak katilu (disarankeun)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Peungpeuk sakur kuki pihak katilu\n"
+"(bisa ngabalukarkeun loka jadi beulah)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Peungpeuk kabéh kuki (bisa ngabalukarkeun loka jadi beulah)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1103,6 +1105,7 @@ msgstr "Bedaskeun salindungan anjeun"
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"Peungpeuk kontén sarupaning iklan jeung sandi anu nunuturkeun anjeun ngalanglang raramat sarta matak laun. Hurungkeun peungpeuk iklan ngarah ngalanglang jadi leuwih gancang tanpa kaganggu ku iklan."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1155,12 +1158,12 @@ msgstr "Tuluy"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s geus siap meungpeuk iklan"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Fitur anyar! Ngalanglang leuwih gancang ku ngeureunan iklan jeung kode anu nunuturkeun anjeun ngalanglang raramat."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1419,7 +1422,7 @@ msgstr "Rintakan Anyar"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Buka Tutumbu dina Rintakan Anyar"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1551,12 +1554,12 @@ msgstr "Pareuman tips dina layar mimiti"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Ngalanglang leuwih gancang ku ngeureunan iklan jeung kode anu nunuturkeun anjeun ngalanglang raramat."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Meungpeuk iklan"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1673,19 +1676,19 @@ msgstr "Kirim laporan nu ruksak ka Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Meungpeuk kontén dihurungkeun"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Meungpeuk kontén dipareuman"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Hurungkeun"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Pareuman"
