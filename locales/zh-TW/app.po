@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-29 13:04+0000\n"
+"PO-Revision-Date: 2019-01-29 13:17+0000\n"
 "Last-Translator: Pin-guang Chen <petercpg@mail.moztw.org>\n"
 "Language-Team: zh_Hant_TW <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -1227,7 +1227,7 @@ msgstr "您並未被授權使用 Mozilla 基金會或任何相關部門的商標
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "%1$s 其他的原始碼則使用其他自由與開放原始碼的<a href=\"%2$s\">授權條款</a>提供。"
+msgstr "%1$s 其他部分的原始碼，則使用各種不同的自由與開放原始碼<a href=\"%2$s\">授權條款</a>提供。"
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
