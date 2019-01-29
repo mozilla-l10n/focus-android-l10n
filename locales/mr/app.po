@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-27 07:44+0000\n"
+"PO-Revision-Date: 2019-01-29 06:50+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -1639,7 +1639,7 @@ msgstr ""
 #. Label for button to close the tab
 msgctxt "tab_crash_report_close_tab_button_label"
 msgid "Close Tab"
-msgstr ""
+msgstr "टॅब बंद करा"
 
 #. Title for the fatal crash report window         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
@@ -1656,19 +1656,19 @@ msgstr ""
 #. Label for the button that closes the window
 msgctxt "fatal_crash_report_close_button_label"
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 #. Label for the button to restart Firefox         %1$s will be replaced by
 #. the app name (e.g. Firefox Focus)
 #, c-format
 msgctxt "fatal_crash_report_restart_firefox_label"
 msgid "Restart %1$s"
-msgstr ""
+msgstr "%1$s पुन्हा सुरू करा"
 
 #. Label for the checkbox to send the tab crash report to Mozilla
 msgctxt "crash_report_send_crash_label"
 msgid "Send crash report to Mozilla"
-msgstr ""
+msgstr "Mozilla ला क्रॅश अहवाल पाठवा"
 
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
@@ -1683,9 +1683,9 @@ msgstr ""
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "सक्रिय करा"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "निष्क्रिय करा"
