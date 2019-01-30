@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-30 05:30+0000\n"
+"PO-Revision-Date: 2019-01-30 05:38+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -497,7 +497,7 @@ msgstr "जाहिराती आणि इतर त्रास अवर�
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Easylist, EasyPrivacy, Fanboy’s Annoyance, आणि 777Guard Mobile Ad Filter वरील अडवणूक यादी वापरून जाहिरात व इतर त्रास थांबवते"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -527,7 +527,7 @@ msgstr "सामाजिक ट्रॅकर अवरोधित करा
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "सोशल शेअर बटन सह, संकेतस्थळावर बसवलेल्या सोशल मीडिया संबंधित ट्रॅकरलाही थांबवते"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "इतर मजकूर ट्रॅकर्स अवरोधित
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "ट्रॅकिंग प्रक्रिया थांबवते पण काही साईट आणि पृष्ठ अनपेक्षित वर्तणूक करतील"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -1104,7 +1104,7 @@ msgstr "आपली गोपनीयता वाढवा"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "वेबवर आपला मागोवा घेणाऱ्या जाहिराती आणि कोड जे आपली गती मंद करतात त्यांना अडवा. त्रासदायक जाहिरातींशिवाय जलद ब्राउझ करण्यासाठी जाहिरात अवरोधित करणे चालू करा."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
