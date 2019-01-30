@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-29 07:21+0000\n"
+"PO-Revision-Date: 2019-01-30 05:30+0000\n"
 "Last-Translator: narendrapetkar <n.v.petkar@gmail.com>\n"
 "Language-Team: mr <LL@li.org>\n"
 "Language: mr\n"
@@ -511,13 +511,13 @@ msgstr "जाहिरात मागोवा यंत्रणा अवर
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "आपण टॅप न करताही साइट भेटींचा मागोवा घेण्यासाठी बनवलेल्या जाहिराती काढून टाकते"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "टॅपिंग आणि स्क्रोलिंगसारख्या परस्परसंवादाचे विश्लेषण व मोजमाप जे ट्रॅकर करतात त्यांना अडवा"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -1162,7 +1162,7 @@ msgstr "जाहिराती अवरोधित करण्यासा�
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "नवीन सुविधा! वेबवर आपला मागोवा घेणाऱ्या जाहिराती आणि कोड थांबवून जलद ब्राउझ करा."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1553,7 +1553,7 @@ msgstr "आरंभ पटलावर सूचना बंद करा"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "वेबवर आपला मागोवा घेणाऱ्या जाहिराती आणि कोड थांबवून जलद ब्राउझ करा."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
@@ -1601,7 +1601,7 @@ msgstr "संभाव्य धोकादायक आणि भ्राम
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "बनावट व आक्रमण साइट, मालवेअर आणि अवांछित सॉफ्टवेअर साइट अवरोधित करा."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
