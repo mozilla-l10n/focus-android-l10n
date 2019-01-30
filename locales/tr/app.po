@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-25 16:46+0000\n"
+"PO-Revision-Date: 2019-01-30 17:12+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: tr <LL@li.org>\n"
 "Language: tr\n"
@@ -490,14 +490,14 @@ msgstr "Gizlilik"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Reklamları ve diğer sıkıntı kaynaklarını engelleyin"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Easylist, EasyPrivacy, Fanboy’s Annoyance ve 777Guard Mobile Ad Filter engelleme listelerini kullanarak reklamları ve diğer sıkıntı kaynaklarını durdurur"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -511,7 +511,7 @@ msgstr "Reklam takipçilerini engelle"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Reklamlara dokunmadığınız halde site ziyaretlerinizi izlemek için tasarlanmış reklamları kaldırır"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
@@ -536,7 +536,7 @@ msgstr "Diğer içerik takipçilerini engelle"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Takipçileri engeller ama bazı sitelerin ve sayfaların beklenmedik şekilde davranmasına neden olabilir"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -1101,7 +1101,7 @@ msgstr "Gizliliğini güçlendir"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Web’de sizi takip eden ve gezintinizi yavaşlatan reklamları ve kodları engelleyebilirsiniz. Sinir bozucu reklamlar olmadan, daha hızlı gezinmek için reklam engellemeyi açın."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
