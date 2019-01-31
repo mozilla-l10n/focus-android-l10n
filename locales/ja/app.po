@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-22 14:43+0000\n"
+"PO-Revision-Date: 2019-01-31 12:06+0000\n"
 "Last-Translator: marsf <chimantaea_mirabilis@yahoo.co.jp>\n"
 "Language-Team: ja <LL@li.org>\n"
 "Language: ja\n"
@@ -1161,7 +1161,7 @@ msgstr "%1$s が広告をブロックできます"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "新機能！ ウェブであなたを追跡する広告やコードを停止することによりブラウジングを速くします。"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1548,7 +1548,7 @@ msgstr "スタート画面上のヒント表示をオフにする"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "ウェブであなたを追跡する広告やコードを停止することによりブラウジングを速くします。"
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
