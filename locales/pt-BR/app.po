@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-01 10:47+0000\n"
+"PO-Revision-Date: 2019-02-01 11:06+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -869,7 +869,7 @@ msgstr "Seus direitos"
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr "Abrir link em um outro app"
+msgstr "Abrir link em outro app"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -1493,14 +1493,14 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
-"O site está se comportando de maneira inesperada?\n"
-" Tente desativar a proteção de rastreamento"
+"O site está se comportando diferente do esperado?\n"
+" Tente desativar a proteção contra rastreamento"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
 msgctxt "tip_add_to_homescreen"
 msgid "Get one-tap access to sites you use most%1$s Menu > Add to Home screen"
-msgstr "Acessar com apenas um toque os sites que você mais usa%1$s Menu > Adicionar à tela inicial"
+msgstr "Acesse com apenas um toque os sites que você mais usa%1$s Menu > Adicionar à tela inicial"
 
 #. Tip displayed on home view explaining how to make Focus the default browser
 #. Argument 1 is the app name (Firefox Focus/Firefox Klar/etc).     The new
@@ -1523,8 +1523,8 @@ msgid ""
 "Autocomplete URLs for sites you use most\n"
 " Long-press any URL in the address bar"
 msgstr ""
-"Autocompletar as URLs para os sites que você mais usa\n"
-" Pressione continuamente qualquer URL na barra de endereços"
+"Complete automaticamente URLs de sites que você mais usa\n"
+" Mantenha o dedo sobre qualquer URL na barra de endereços"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 #. The new line here must be kept as the second half of the string is clickable
@@ -1534,8 +1534,8 @@ msgid ""
 "Open a link in a new tab\n"
 " Long-press any link on a page"
 msgstr ""
-"Abrir um link numa nova aba\n"
-" Pressione continuamente qualquer link numa página"
+"Abra um link numa nova aba\n"
+" Mantenha o dedo sobre qualquer link numa página"
 
 #. Tip displayed on home view explaining how to request the desktop version of
 #. a website.      Argument 1 will be replaced with a line break in the
