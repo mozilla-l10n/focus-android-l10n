@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-15 03:07+0000\n"
+"PO-Revision-Date: 2019-02-02 17:56+0000\n"
 "Last-Translator: Cristian Silaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: ro <LL@li.org>\n"
 "Language: ro\n"
@@ -1293,7 +1293,7 @@ msgstr "Conexiune securizată"
 
 msgctxt "security_popup_insecure_connection"
 msgid "Insecure Connection"
-msgstr "Conexiune nesigură"
+msgstr "Conexiune nesecurizată"
 
 #. %1$s will be replaced with organization that granted the SSL certificate
 #, c-format
