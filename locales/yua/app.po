@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-07 20:04+0000\n"
+"PO-Revision-Date: 2019-02-07 20:18+0000\n"
 "Last-Translator: josedlujan <josedlujan@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -552,7 +552,7 @@ msgstr "Ma’"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_tracker_cookies_option"
 msgid "Block 3rd-party tracker cookies only"
-msgstr ""
+msgstr "Ma' meyajta'al chen le cookies ku tsaypachtik óoxililo'ob"
 
 msgctxt "preference_privacy_should_block_cookies_third_party_only_option"
 msgid "Block 3rd-party cookies only"
@@ -569,7 +569,7 @@ msgstr ""
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Ma' meyajta'al chen le cookies ku tsaypachtik óoxililo'ob"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
@@ -585,7 +585,7 @@ msgstr ""
 #. session's data was not erased by the user.
 msgctxt "preference_security_biometric"
 msgid "Use fingerprint to unlock app"
-msgstr ""
+msgstr "Beelankij a Ts’áalk’ab uti’al u páajtal a meyajtik le kúuchila'"
 
 #. Preference Summary: Biometrics (iris scan, fingerprint, or facial scan) can
 #. be used to unlock Focus if the app had a URL         open when the app was
@@ -594,7 +594,7 @@ msgstr ""
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr ""
+msgstr "A ts'áalk'abe' je'el u béetik u meyaj %1$s  wa junp'éel URL jeba'anil ich le kúuchilo'. Yáan u t'áabaj le ku payt'aano'"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -614,7 +614,7 @@ msgstr "Ta’akbesa’al le tseel ju’unob web ken u káajal u k’exel biilali
 
 msgctxt "preference_category_security"
 msgid "Security"
-msgstr ""
+msgstr "kana'antbil"
 
 msgctxt "preference_category_performance"
 msgid "Performance"
@@ -815,7 +815,7 @@ msgstr "Jejelas tu’uxil"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "U ba'il ku je'ik jejelas kúuchilo'ob ich web"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -827,7 +827,7 @@ msgstr "Xeen toj táanil"
 #. website
 msgctxt "content_description_reload"
 msgid "Reload website"
-msgstr "Ka’a chuupuk le tseelil webe’"
+msgstr ""
 
 #. Content description (not visible, for screen readers etc.): Navigate back
 #. (browsing history)
@@ -953,6 +953,10 @@ msgid ""
 "        <li>If you are unable to load any pages, check your mobile device’s data or Wi-Fi connection.</li>\n"
 "      </ul>"
 msgstr ""
+"<ul>\n"
+"<li>Le tseel weba’ ma’ u je’ebej tumen mina’an u nuupankil le súutuka’ wa jach chuup. Je’eb tu ka’aten ich jun súutuk.</li>\n"
+"<li>Wa ma’ u beytal a je’ik mix junp’éel u tseel webe’, ilawil wa a núukulila’ yáanti’ u páajtalil u yokoj ich internet.</li>\n"
+"</ul>"
 
 msgctxt "error_timeout_title"
 msgid "The connection timed out"
