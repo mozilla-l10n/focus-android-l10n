@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-07 10:11+0000\n"
+"PO-Revision-Date: 2019-02-07 10:14+0000\n"
 "Last-Translator: Hariom Panchal <hariompanchal6647@hotmail.com>\n"
 "Language-Team: gu_IN <LL@li.org>\n"
 "Language: gu_IN\n"
@@ -1105,7 +1105,7 @@ msgstr "તમારી ગોપનીયતા વધારો"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "વેબ પર તમને અનુસરતા જાહેરાતો અને કોડ જેવી સામગ્રીને અવરોધિત કરો અને તમને ધીમું કરો. ત્રાસદાયક જાહેરાતો વિના ઝડપથી બ્રાઉઝ કરવા માટે જાહેરાત અવરોધિત કરવાનું ચાલુ કરો."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1158,12 +1158,12 @@ msgstr "આગળ"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "જાહેરાતોને અવરોધિત કરવા માટે %1$s તૈયાર છે"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "નવું લક્ષણ! વેબ પર તમને અનુસરતા જાહેરાતો અને કોડને અટકાવીને વધુ ઝડપથી બ્રાઉઝ કરો."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1422,7 +1422,7 @@ msgstr "નવું સત્ર"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "નવા સત્રમાં લિંક ખોલો"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1554,12 +1554,12 @@ msgstr "પ્રારંભ સ્ક્રીન પર ટિપ્પણી
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "વેબ પર તમને અનુસરતા જાહેરાતો અને કોડને અટકાવીને વધુ ઝડપથી બ્રાઉઝ કરો."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "જાહેરાત અવરોધિત"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1676,19 +1676,19 @@ msgstr "Mozilla પર ક્રેશ રિપોર્ટ મોકલો"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "સામગ્રી અવરોધિત કરવું સક્ષમ છે"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "સામગ્રી અવરોધિત કરવું અક્ષમ છે"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "સક્રિય"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "નિષ્ક્રિય"
