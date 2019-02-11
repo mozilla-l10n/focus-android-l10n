@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-11 08:30+0000\n"
+"PO-Revision-Date: 2019-02-11 08:42+0000\n"
 "Last-Translator: Håvar Henriksen <havar@firefox.no>\n"
 "Language-Team: nb_NO <LL@li.org>\n"
 "Language: nb_NO\n"
@@ -511,13 +511,13 @@ msgstr "Blokker reklamesporere"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Tar bort annonser som er utformet for å spore besøk på nettstedet, selv om du ikke trykker på dem"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Blokkerer sporings-element, som analyserer og måler interaksjoner som trykk og rulling"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -527,7 +527,7 @@ msgstr "Blokker sosiale media-sporere"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Stopper sporings-element fra sosiale medier innebygd på nettsteder, inklusive knapper for å dele på sosiale medier"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -536,7 +536,7 @@ msgstr "Blokker andre innholdssporere"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Blokkerer sporingsaktivitet, men kan forårsake at noen nettsteder og -sider opptrer uventet"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -1103,7 +1103,7 @@ msgstr "Styrk personvernet ditt"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Blokker innhold som annonser og kode som følger deg på nettet og senker farten. Slå på annonseblokkering for å surfe raskere uten irriterende annonser."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1156,12 +1156,12 @@ msgstr "Neste"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s er klar til å blokkere annonser"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Ny funksjon! Surf hurtigere ved å stoppe annonser og kode, som følger deg rundt på nettet."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
