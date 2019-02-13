@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-24 23:40+0000\n"
+"PO-Revision-Date: 2019-02-13 15:31+0000\n"
 "Last-Translator: Bald3mar <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -368,7 +368,7 @@ msgstr "Sitio chikau"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Ndatu'un takua chikavau sitio."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -1153,7 +1153,7 @@ msgstr "Nuu"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s ma kuncheu anuncios"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
@@ -1413,7 +1413,7 @@ msgstr "Kitsaa tuku"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Kuna enlace tsi sesión tsaa."
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
