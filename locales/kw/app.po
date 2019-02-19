@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-21 09:28+0000\n"
+"PO-Revision-Date: 2019-02-19 07:15+0000\n"
 "Last-Translator: Nicky Rowe <nicky@kernowlingo.com>\n"
 "Language-Team: kw <LL@li.org>\n"
 "Language: kw\n"
@@ -1233,14 +1233,14 @@ msgstr "Iskarga Firefox"
 #. name of the app (e.g. Firefox Focus)
 msgctxt "your_rights_content1"
 msgid "%1$s is free and open source software made by Mozilla and other contributors."
-msgstr "%1$s yw medhelweyth pennfenten ygor ha heb kost, gwrys gans Mozilla ha kevriysi erel."
+msgstr "%1$s yw medhelweyth penfenten egor heb cost, gwrez gen Mozilla ha kevriyji erel."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the MPL (e.g. https://www.mozilla.org/en-US/MPL/)
 msgctxt "your_rights_content2"
 msgid "%1$s is made available to you under the terms of the <a href=\"%2$s\">Mozilla Public License</a> and other open source licenses."
-msgstr "Dyllys yw %1$s dhywgh yn-dann dermys <a href=\"%2$s\">Leshyans Poblek Mozilla</a> ha leshyansow pennfenten ygor erel."
+msgstr "Dyllys yw %1$s dhewgh dadn termys <a href=\"%2$s\">Leshyans Poblek Mozilla</a> ha leshyanzow penfenten egor erel."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1251,15 +1251,15 @@ msgid ""
 "You are not granted any rights or licenses to the trademarks of the Mozilla Foundation or any party, including the Mozilla, Firefox or %1$s names or logos. Additional information may be found <a "
 "href=\"%2$s\">here</a>."
 msgstr ""
-"Nyns eus grontyes dhywgh gwiryow po leshyansow vyth dhe verkyansow kenwerth an Fondyans Mozilla po dhe neb parti aral, y'ga mysk henwyn hag arwodhyow Mozilla, Firefox po %1$s. Y hyllir kavos kedhlow"
-" keworransel <a href=\"%2$s\">omma</a>."
+"Nag euz grontyes dhewgh gwiryow po leshyanzow veth dhe verkyanzow kenwerth an Fondyans Mozilla po dhe neb parti aral, y'ga mesk henwyn hag arwòdhyow Mozilla, Firefox po %1$s. Y hellyr cavòs kedhlow "
+"keworanzel <a href=\"%2$s\">obma</a>."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
 #. linking to the list of licenses used by the dependencies.
 msgctxt "your_rights_content4"
 msgid "Additional source code for %1$s is available under various other free and open source <a href=\"%2$s\">licenses</a>."
-msgstr "Kavadow yw kod pennfenten keworransel rag %1$s yn-dann <a href=\"%2$s\">leshyansow</a> pennfenten ygor ha heb kost erel."
+msgstr "Cavadow yw cod penfenten keworanzel rag %1$s dadn <a href=\"%2$s\">leshyanzow</a> penfenten egor erel heb cost."
 
 #. Text shown in the "Your rights" screen.     %1$s will be replaced with the
 #. name of the app (e.g. Firefox Focus)     %2$s will be replaced with a URL
@@ -1268,7 +1268,7 @@ msgstr "Kavadow yw kod pennfenten keworransel rag %1$s yn-dann <a href=\"%2$s\">
 #. https://wiki.mozilla.org/Security/Tracking_protection#Lists)
 msgctxt "your_rights_content5"
 msgid "%1$s also uses blocklists provided by Disconnect, Inc. as separate and independent works under the <a href=\"%2$s\">GNU General Public License v3</a>, and available <a href=\"%3$s\">here</a>."
-msgstr "%1$s a wra usya rolyow lettya provies gans Disconnect, Inc. avel gweyth diberthys hag anserghek yn-dann an <a href=\"%2$s\">Leshyans Poblek Ollgemmyn GNU v3</a>, kavadow <a href=\"%3$s\">omma</a>."
+msgstr "%1$s a wra ûsya rolyow letya provies gen Disconnect, Inc. avel gweyth diberthys hag anserhek dadn an <a href=\"%2$s\">Leshyans Poblek Olgebmyn GNU v3</a>, cavadow <a href=\"%3$s\">obma</a>."
 
 #. Text shown in prompts for GeckoView
 msgctxt "gv_prompt_username_hint"
