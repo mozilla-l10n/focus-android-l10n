@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-13 15:31+0000\n"
+"PO-Revision-Date: 2019-02-24 03:25+0000\n"
 "Last-Translator: Bald3mar <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -567,13 +567,15 @@ msgstr "No(ma kunu ntii kookies)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Kasi cookies ña inkana"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Kasi ntii kookies\n"
+"(ma kuna vai kue página web)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
@@ -1539,7 +1541,7 @@ msgstr "¿A kunu kuncheu sitio nu escritorio?%1$s Menú > Kaka sitio de escritor
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
 msgid "Turn off tips on the start screen"
-msgstr ""
+msgstr "Ndava tu'un kana nu pantalla tu kitsau"
 
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
@@ -1572,7 +1574,7 @@ msgstr "Sama"
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
 msgid "Switch to link in new tab immediately"
-msgstr ""
+msgstr "Sama iin enlace nu xikua tsaa"
 
 #. Preference for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1584,7 +1586,7 @@ msgstr "Kitsaà Ntukú"
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_title"
 msgid "Block potentially dangerous and deceptive sites"
-msgstr ""
+msgstr "Kasi sitio ña stavi tsi ña va'a"
 
 #. Preference summary for safe browsing which when enabled, blocks dangerous
 #. or deceptive webpages that may include phishing or malware
@@ -1600,7 +1602,7 @@ msgstr "Excepciones"
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
 msgid "You have disabled Content Blocking for these websites."
-msgstr ""
+msgstr "Ndavu bloqueo ña contenido nu sitio."
 
 #. Menu item to remove existing exceptions.
 msgctxt "preference_exceptions_menu_remove"
