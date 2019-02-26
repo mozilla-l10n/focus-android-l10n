@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-30 19:06+0000\n"
-"Last-Translator: Anshita Laddha <laddha.anshita@gmail.com>\n"
+"PO-Revision-Date: 2019-02-26 05:13+0000\n"
+"Last-Translator: Mahtab Alam <mahtab.ceh@gmail.com>\n"
 "Language-Team: hi_IN <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -1103,6 +1103,8 @@ msgstr "अपनी गोपनीयता को बढ़ाएँ"
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"विज्ञापन तथा कोड जैसे सामग्रियों को ब्लॉक अवरुद्ध करें जो वेब पर आपका पीछा करते हैं और आपको धीमा कर देते हैं। कष्टप्रद विज्ञापनों के बिना तेजी से ब्राउज करने के लिए विज्ञापन अवरुद्ध की सुविधा चालू "
+"करें।"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1160,7 +1162,7 @@ msgstr "%1$s विज्ञापनों को अवरुद्ध कर�
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "नई विशेषता! विज्ञापन तथा कोड जो वेब पर आपका पीछा करते हैं उन्हें रोक कर तेजी से ब्राउज करें।"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1551,7 +1553,7 @@ msgstr "प्रारंभ स्क्रीन पर सलाह बं�
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "विज्ञापन तथा कोड जो वेब पर आपका पीछा करते हैं उन्हें रोक कर तेजी से ब्राउज करें।"
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
