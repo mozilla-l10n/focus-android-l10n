@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-27 13:41+0000\n"
+"PO-Revision-Date: 2019-02-27 14:13+0000\n"
 "Last-Translator: Artem Polivanchuk <artem@mozilla.org.ua>\n"
 "Language-Team: uk <LL@li.org>\n"
 "Language: uk\n"
@@ -564,21 +564,23 @@ msgstr "Так"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "Ні (дозволити всі куки)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "Блокувати сторонні куки стеження (рекомендовано)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"Блокувати всі сторонні куки\n"
+"(може пошкодити роботу веб-сайтів)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "Блокувати всі куки (пошкоджуватиме роботу веб-сайтів)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1103,7 +1105,7 @@ msgstr "Прокачайте вашу приватність"
 #. First run tour (Default browser): Text.
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
-msgstr ""
+msgstr "Блокуйте вміст, як-от реклама і код, що переслідують вас в Інтернеті і сповільнюють вашу роботу. Увімкніть блокування для пришвидшення перегляду без надокучливої реклами."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1156,12 +1158,12 @@ msgstr "Далі"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "%1$s готовий блокувати рекламу"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "Нова функція! Пришвидште перегляд, зупиняючи рекламу і код, що стежить за вами в Інтернеті."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1420,7 +1422,7 @@ msgstr "Новий сеанс"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Відкривайте посилання в новому сеансі"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1552,12 +1554,12 @@ msgstr "Вимкнути поради у домівці"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Пришвидште перегляд, зупиняючи рекламу і код, що стежить за вами в Інтернеті."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "Блокування реклами"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1674,19 +1676,19 @@ msgstr "Надіслати звіт про збій в Mozilla"
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Блокування вмісту увімкнено"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Блокування вмісту вимкнено"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "Увімкнути"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "Вимкнути"
