@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-05 13:21+0000\n"
+"PO-Revision-Date: 2019-03-05 14:20+0000\n"
 "Last-Translator: La Min Ko (လမင်းကို) <lminko.lmk@gmail.com>\n"
 "Language-Team: my <LL@li.org>\n"
 "Language: my\n"
@@ -1104,6 +1104,8 @@ msgstr "ကိုယ်ရေးကာကွယ်မှုကို တို�
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"ကြော်ငြာများနှင့် ဝဘ်ကြည့်ရှုနေစဉ် နောက်ယောင်ခံလိုက်သော၊ စွမ်းရည်ကို နှေးစေသော ကုဒ်များကဲ့သို့ အကြောင်းအရာများကို တားဆီးပါ။ ပိုမိုမြန်ဆန်စွာ အသုံးပြုနိုင်ရန်နှင့် ကြော်ငြာများနှောက်ယှက်ခြင်းမှု "
+"ကင်းဝေးစေရန် ကြော်ငြာတားဆီးခြင်းကို ဖွင့်ပါ။"
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
@@ -1161,7 +1163,7 @@ msgstr "%1$s သည် ကြော်ငြာများကို တား�
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "လုပ်ဆောင်ချက် အသစ်။ ကြည့်ရှုနေစဉ် နောက်ယောင်ခံလိုက်သော ကြော်ငြာများနှင့် ကုဒ်များကို ပိတ်ပြီး ပိုမိုမြန်ဆန်စွာ အသုံးပြုပါ။"
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1420,7 +1422,7 @@ msgstr "Session အသစ်"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "ကြည့်ရှုခြင်းအသစ်တွင် ဖွင့်ပါ"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1552,12 +1554,12 @@ msgstr "စတင်အသုံးရန် မျက်နှာပြင်�
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "ကြည့်ရှုနေစဉ် နောက်ယောင်ခံလိုက်သော ကြော်ငြာများနှင့် ကုဒ်များကို ပိတ်ပြီး ပိုမိုမြန်ဆန်စွာ အသုံးပြုပါ။"
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "ကြော်ငြာတားဆီးခြင်း"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1674,19 +1676,19 @@ msgstr "Mozillaသို့ ပျက်စီးမှုအစီရင်ခ�
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "Content Blocking ကို ဖွင့်ထားသည်"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "Content Blocking ကို ပိတ်ထားသည်"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "ဖွင့်ရန်"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "ပိတ်ရန်"
