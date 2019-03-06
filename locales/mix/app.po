@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-24 03:25+0000\n"
+"PO-Revision-Date: 2019-03-06 01:41+0000\n"
 "Last-Translator: Bald3mar <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -496,7 +496,7 @@ msgstr "Kasi anuncios tsi ña va'a"
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Kasi anuncios tsi tu'un vaa nu lista ña bloqueo Easylist, EasyPrivacy, Fanboy's Annoyance y 777Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -510,13 +510,13 @@ msgstr "Kasi ña ndukuyo"
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Stoó anuncios vaá ta ncheu kue sitio"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
 msgctxt "preference_privacy_block_analytics_new_summary"
 msgid "Blocks trackers that analyze and measure interactions like tapping and scrolling"
-msgstr ""
+msgstr "Tsasi kue rastreadores ña nchee'e nchi ña katavu"
 
 msgctxt "preference_privacy_block_social"
 msgid "Block social trackers"
@@ -526,7 +526,7 @@ msgstr "Kasi ña ndukuyo"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Tsasia kue rastreadores ña nche'e kue redes sociales inka nu sitios web, tana boton ña stucha nu redes sociales"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -535,7 +535,7 @@ msgstr "Kasi ña ndukuyo inka tsio"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Tsasia ña sau, cha ku sai na ma sachu'un vaá kue sitio tsi páginas"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
