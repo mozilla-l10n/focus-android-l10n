@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-14 10:40+0000\n"
+"PO-Revision-Date: 2019-03-14 11:06+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -859,7 +859,7 @@ msgstr ""
 
 msgctxt "external_app_prompt_title"
 msgid "Open link in another app"
-msgstr ""
+msgstr "Bukak pranala ing aplikasi liya"
 
 #. This string is shown when the user has clicked a link that needs to be
 #. opened in a different app.          Argument 2 is the external app name,
@@ -912,7 +912,7 @@ msgstr ""
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr ""
+msgstr "Undhuh Berkas"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -931,7 +931,7 @@ msgstr ""
 
 msgctxt "errorpage_refresh"
 msgid "Try Again"
-msgstr ""
+msgstr "Coba Manèh"
 
 msgctxt "error_connectionfailure_title"
 msgid "Unable to connect"
@@ -951,7 +951,7 @@ msgstr ""
 
 msgctxt "error_hostLookup_title"
 msgid "Server not found"
-msgstr ""
+msgstr "Paladèn ora ketemu"
 
 msgctxt "error_hostLookup_message"
 msgid ""
@@ -965,7 +965,7 @@ msgstr ""
 
 msgctxt "error_malformedURI_title"
 msgid "The address isn’t valid"
-msgstr ""
+msgstr "Alamat ora absah"
 
 msgctxt "error_malformedURI_message"
 msgid ""
@@ -1022,7 +1022,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_open_in_app"
 msgid "Open with app"
-msgstr ""
+msgstr "Bukak karo aplikasi"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
@@ -1074,7 +1074,7 @@ msgstr ""
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
 msgid "Your search, your way"
-msgstr ""
+msgstr "Golèkanmu, caramu"
 
 #. First run tour (Search): Text
 msgctxt "firstrun_search_text"
@@ -1139,7 +1139,7 @@ msgstr "-"
 #. (shown in the confirmation dialog).
 msgctxt "dialog_addtohomescreen_action_add"
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #. Label of the action that will close the dialog and not add anything to the
 #. home screen (shown in the confirmation dialog).
