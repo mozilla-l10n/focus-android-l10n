@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-14 03:52+0000\n"
+"PO-Revision-Date: 2019-03-14 04:47+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -244,14 +244,14 @@ msgstr "Privasi & Kaamanan"
 #. Preference summary for settings related to privacy and security
 msgctxt "preference_privacy_and_security_summary"
 msgid "Tracking, cookies, data choices"
-msgstr ""
+msgstr "Palacakan, kuki, pilihan dhata"
 
 #. Preference category description for settings related to search, set default
 #. and autocomplete are settings a user can find and change inside the "search"
 #. settings screen
 msgctxt "preference_search_summary"
 msgid "Set default, autocomplete"
-msgstr ""
+msgstr "Nyetèl setandar, nglengkapi kanthi otomatis"
 
 #. Preference category description for settings screen for settings related to
 #. Mozilla
@@ -265,12 +265,12 @@ msgstr "Ngenani %1$s, pitulung"
 #. Preference category for ad blocking
 msgctxt "preference_category_ad_blocking"
 msgid "Ad Blocking"
-msgstr ""
+msgstr "Pamblokiran Iklan"
 
 #. Preference category for ad blocking and tracking protection settings
 msgctxt "preference_category_tracking_protection"
 msgid "Tracking Protection"
-msgstr ""
+msgstr "Palindhungan saka Palacakan"
 
 #. Preference category for settings related to controlling web content
 msgctxt "preference_category_web_content"
@@ -296,7 +296,7 @@ msgstr ""
 #. Preference category for settings about sending usage data
 msgctxt "preference_category_data_collection_use"
 msgid "Data Collection & Use"
-msgstr ""
+msgstr "Pangimpunan & Piguna Dhata"
 
 msgctxt "preference_category_search"
 msgid "Search"
@@ -317,7 +317,7 @@ msgstr ""
 #. This label is shown below the name of the default search engine in settings
 msgctxt "preference_search_engine_default"
 msgid "Default"
-msgstr ""
+msgstr "Setandar"
 
 #. This label is shown above the currently selected search engine in settings
 msgctxt "preference_search_engine_label"
