@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-14 11:06+0000\n"
+"PO-Revision-Date: 2019-03-14 12:02+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -1338,13 +1338,13 @@ msgstr ""
 #. URL
 msgctxt "custom_tab_copy_url_action"
 msgid "URL copied"
-msgstr ""
+msgstr "URL diturun"
 
 #. Description of what a user may find in the Advanced Setting category, used
 #. for debugging
 msgctxt "preference_advanced_summary"
 msgid "Developer tools"
-msgstr ""
+msgstr "Piranti pangembang"
 
 #. Title of Advanced Setting category
 msgctxt "preference_category_advanced"
@@ -1361,7 +1361,7 @@ msgstr ""
 #, c-format
 msgctxt "biometric_auth_title"
 msgid "Unlock %1$s"
-msgstr ""
+msgstr "Sogok %1$s"
 
 #. Description for the fingerprint authentication dialog box that is shown to
 #. the user when opening the app
@@ -1382,7 +1382,7 @@ msgstr "Sèsi Anyar"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "Bukak Pranala ing Sési Anyar"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
