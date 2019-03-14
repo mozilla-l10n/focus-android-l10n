@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-14 10:14+0000\n"
+"PO-Revision-Date: 2019-03-14 10:16+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -776,13 +776,13 @@ msgstr "Busak riwayat dlajahan"
 #, c-format
 msgctxt "content_description_tab_counter"
 msgid "Tabs open: %1$s"
-msgstr ""
+msgstr "Tab kabukak: %1$s"
 
 #. Content description (not visible, for screen readers etc.): Lock icon
 #. showed in the URL bar for      https pages..
 msgctxt "content_description_lock"
 msgid "Secure connection"
-msgstr ""
+msgstr "Sambungan aman"
 
 #. This text is not visible. Instead it will be read by the accessibility
 #. service once we start      loading a website
@@ -794,7 +794,7 @@ msgstr "Ngamot"
 #. service once we      finished loading a website
 msgctxt "accessibility_announcement_loading_finished"
 msgid "Website loaded"
-msgstr ""
+msgstr "Situs wèb kamot"
 
 #. Content description (not visible, for screen readers etc.): "Three dot"
 #. menu button.
