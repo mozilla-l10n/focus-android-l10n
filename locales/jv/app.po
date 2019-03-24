@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-14 12:02+0000\n"
+"PO-Revision-Date: 2019-03-24 08:19+0000\n"
 "Last-Translator: Ringgo <armen.ringgo@yahoo.de>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -75,7 +75,7 @@ msgstr "Golèk %1$s"
 #. Menu item: Share the currently visible page
 msgctxt "menu_share"
 msgid "Share…"
-msgstr "Dumké…"
+msgstr "Dum…"
 
 #. Menu item: Report an issue on the current site
 msgctxt "menu_report_site_issue"
@@ -170,7 +170,7 @@ msgstr "Disokong déning %1$s"
 #. contacts) when          sharing an URL.
 msgctxt "share_dialog_title"
 msgid "Share via"
-msgstr "Dumké liwat"
+msgstr "Dum lumantar"
 
 #. While a browsing session is active (in the foreground or background) we
 #. will show a notification          so that the user doesn't forget about the
@@ -344,7 +344,7 @@ msgstr "Nglengkapi URL kanthi Otomatis"
 #. default list
 msgctxt "preference_switch_autocomplete_topsites"
 msgid "For Top sites"
-msgstr "Kanggo Situs Top"
+msgstr "Kanggo Situs Ndhuwur"
 
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
@@ -1027,7 +1027,7 @@ msgstr "Bukak karo aplikasi"
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_share"
 msgid "Share link"
-msgstr "Dumké pranala"
+msgstr "Dum pranala"
 
 #. Label used in the contextmenu shown when long-pressing on a link
 msgctxt "contextmenu_link_copy"
@@ -1037,7 +1037,7 @@ msgstr ""
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_share"
 msgid "Share image"
-msgstr "Dumké gambar"
+msgstr "Dum gambar"
 
 #. Label used in the contextmenu shown when long-pressing on an image
 msgctxt "contextmenu_image_copy"
