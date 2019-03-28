@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-28 03:11+0000\n"
+"PO-Revision-Date: 2019-03-28 03:19+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -568,17 +568,19 @@ msgstr "ਨਹੀਂ (ਸਾਰੇ ਕੂਕੀਜ਼ ਨੂੰ ਇਜਾਜ਼�
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "ਤੀਜੀ ਧਿਰ ਟਰੈਕਰ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ (ਸਿਫਾਰਸ਼ੀ)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
 "Block all third-party cookies \n"
 "(may cause websites to break)"
 msgstr ""
+"ਸਾਰੇ ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ\n"
+"(ਵੈੱਬਸਾਈਟ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੀਆਂ)"
 
 msgctxt "preference_privacy_block_cookies_yes"
 msgid "Block all cookies (will cause websites to break)"
-msgstr ""
+msgstr "ਸਾਰੇ ਕੂਕੀਜ਼ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਓ (ਵੈੱਬਸਾਈਟਾਂ ਕੰਮ ਨਾ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋਵੇਗਾ)"
 
 #. Preference Title: Biometrics can be used to unlock Focus if the previous
 #. session's data was not erased by the user.
@@ -1393,7 +1395,7 @@ msgstr "ਨਵਾਂ ਸ਼ੈਸ਼ਨ"
 #. cleared, and the shared link is opened.
 msgctxt "biometric_auth_open_link_new_session"
 msgid "Open Link in New Session"
-msgstr ""
+msgstr "ਲਿੰਕ ਨਵੇਂ ਸ਼ੈਸ਼ਨ ਵਿੱਚ ਖੋਲ੍ਹੋ"
 
 #. Description for the fingerprint authentication image. Used for
 #. accessibility purposes.
@@ -1529,7 +1531,7 @@ msgstr ""
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
 msgid "Ad blocking"
-msgstr ""
+msgstr "ਇਸ਼ਤਿਹਾਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ"
 
 #. Tip displayed on the home view explaining how to use the Allowlist feature.
 #. "Allowlist" is a replacement for the word whitelist.
@@ -1646,19 +1648,19 @@ msgstr "ਨਸ਼ਟ ਹੋਣ ਰਿਪੋਰਟਾਂ ਮੋਜ਼ੀਲਾ ਨੂ�
 #. Pop-up message to inform users they have enabled content blocking
 msgctxt "content_blocking_enabled_snackbar_message"
 msgid "Content Blocking is enabled"
-msgstr ""
+msgstr "ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਸਮਰੱਥ ਹੈ"
 
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr ""
+msgstr "ਸਮੱਗਰੀ ਪਾਬੰਦੀ ਅਸਮਰੱਥ ਹੈ"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr ""
+msgstr "ਸਮਰੱਥ ਕਰੋ"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr ""
+msgstr "ਅਸਮਰੱਥ ਕਰੋ"
