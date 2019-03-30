@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-31 16:34+0000\n"
+"PO-Revision-Date: 2019-03-30 19:46+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: th <LL@li.org>\n"
 "Language: th\n"
@@ -136,7 +136,7 @@ msgstr "สิทธิของคุณ"
 #. current website          doesn't work correctly with blocked content.
 msgctxt "menu_trackers_blocked_title"
 msgid "Trackers blocked"
-msgstr "ตัวติดตามที่ถูกปิดกั้น"
+msgstr "ตัวติดตามที่ปิดกั้น"
 
 #. Menu item: This is the subtitle for the Trackers blocked menu entry that
 #. shows how many     trackers have been blocked for the currently loaded
@@ -593,7 +593,7 @@ msgstr "ใช้ลายนิ้วมือเพื่อปลดล็อ
 #, c-format
 msgctxt "preference_security_biometric_summary"
 msgid "Your fingerprint can unlock %1$s if a URL is already opened in the app. Stealth will be turned on."
-msgstr "ลายนิ้วมือของคุณสามารถปลดล็อค %1$s หาก URL ถูกเปิดอยู่แล้วในแอป การพรางตัวจะถูกเปิด"
+msgstr "ลายนิ้วมือของคุณสามารถปลดล็อค %1$s หากเปิด URL อยู่แล้วในแอป จะเปิดการพรางตัว"
 
 #. Preference Title: Secure Mode is a setting that prevents the app's content
 #. to show up in the "recent apps" screen          and prevents the user from
@@ -852,7 +852,7 @@ msgstr "กลับไปที่แอปก่อนหน้า"
 #. of trackers blocked for the current session
 msgctxt "content_description_trackers_blocked"
 msgid "Number of trackers blocked"
-msgstr "จำนวนตัวติดตามที่ถูกปิดกั้น"
+msgstr "จำนวนตัวติดตามที่ปิดกั้น"
 
 #. Content description (not visible, for screen readers etc.): This is the
 #. description for the switch in the menu that temporarily disables/enables
@@ -915,7 +915,7 @@ msgstr "เปิด"
 #. Focus).
 msgctxt "download_dialog_warning"
 msgid "Downloaded files <b>will not be deleted</b> when you erase %1$s history."
-msgstr "ไฟล์ที่ดาวน์โหลด<b>จะไม่ถูกลบ</b>เมื่อคุณล้างประวัติของ %1$s"
+msgstr "<b>จะไม่ลบ</b>ไฟล์ที่ดาวน์โหลดเมื่อคุณล้างประวัติของ %1$s"
 
 #. Title of download dialogue
 msgctxt "download_dialog_title"
@@ -1089,7 +1089,7 @@ msgstr "เปิดลิงก์ในแท็บใหม่"
 #. Focus).
 msgctxt "contextmenu_image_warning"
 msgid "Saved and shared images <b>will not be deleted</b> when you erase %1$s history."
-msgstr "ภาพที่บันทึกไว้และแบ่งปัน<b>จะไม่ถูกลบ</b>เมื่อคุณล้างประวัติของ %1$s"
+msgstr "<b>จะไม่ลบ</b>ภาพที่บันทึกไว้และแบ่งปันเมื่อคุณล้างประวัติของ %1$s"
 
 #. First run tour (Default browser): Title
 msgctxt "firstrun_defaultbrowser_title"
