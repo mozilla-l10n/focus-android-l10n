@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-04-04 06:36+0000\n"
+"PO-Revision-Date: 2019-04-04 12:51+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -563,11 +563,11 @@ msgstr "हौं"
 #. New four options for Cookie blocking
 msgctxt "preference_privacy_block_cookies_no"
 msgid "No (allow all cookies)"
-msgstr ""
+msgstr "नैय (सब कुकीज़ के अनुमति दिजियै)"
 
 msgctxt "preference_privacy_block_cookies_third_party_tracker"
 msgid "Block third-party trackers cookies (recommended)"
-msgstr ""
+msgstr "3र्ड पार्टी ट्रैकर कूकीज ब्लौक करियै (अनुशंसित)"
 
 msgctxt "preference_privacy_block_cookies_third_party_only"
 msgid ""
@@ -630,7 +630,7 @@ msgstr "आइकन अथवा छवि गुम हुए सकै छै
 
 msgctxt "preference_performance_block_javascript"
 msgid "Block JavaScript"
-msgstr " JavaScript ब्लौक करियै"
+msgstr "JavaScript ब्लौक करियै"
 
 #. This text is shown below setting for disabling JavaScript. Some websites
 #. may not work correctly when JavaScript is disabled
@@ -813,7 +813,7 @@ msgstr "अधिक विकल्प"
 #. menu button used     on home screen
 msgctxt "indicator_content_description_menu"
 msgid "More options button"
-msgstr ""
+msgstr "अधिक विकल्प बटन"
 
 #. Content description (not visible, for screen readers etc.): Navigate
 #. forward (browsing history)
@@ -1142,7 +1142,7 @@ msgstr "अगिला"
 #, c-format
 msgctxt "block_ads_card_title"
 msgid "%1$s is ready to block ads"
-msgstr ""
+msgstr "विज्ञापन ब्लॉक खातिर %1$s तैयार छकै"
 
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
@@ -1563,7 +1563,7 @@ msgstr "नया टैब खुलल"
 #. Label for the button in the snackbar that switches to the newly opened tab
 msgctxt "open_new_tab_snackbar"
 msgid "Switch"
-msgstr ""
+msgstr "बदलियै"
 
 #. Preference for switching to a new tab immediately after opening
 msgctxt "preference_open_new_tab"
@@ -1574,7 +1574,7 @@ msgstr ""
 #. deceptive webpages that may include phishing or malware
 msgctxt "preference_category_safe_browsing"
 msgid "Safe Browsing"
-msgstr ""
+msgstr "सुरक्षित ब्राउजिंग"
 
 #. Preference title for safe browsing which when enabled, blocks dangerous or
 #. deceptive webpages that may include phishing or malware
@@ -1591,7 +1591,7 @@ msgstr ""
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
 msgid "Exceptions"
-msgstr ""
+msgstr "अपवाद"
 
 #. Description for the exceptions preference screen
 msgctxt "preference_exceptions_description"
