@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-04-05 06:04+0000\n"
+"PO-Revision-Date: 2019-04-05 06:15+0000\n"
 "Last-Translator: Kumar Ritu Raj. <kumarrituraj2000@gmail.com>\n"
 "Language-Team: anp <LL@li.org>\n"
 "\n"
@@ -357,7 +357,7 @@ msgstr "सर्वोच्च साइट्स खातिर"
 #. Summary for the toggle to enable autocomplete for the topsites list
 msgctxt "preference_autocomplete_topsite_summary"
 msgid "Enable to autocomplete more than 450 popular URLs in the address bar."
-msgstr "एड्रेस बार में 450 से अधिक लोकप्रिय URLs पर स्वत: पूर्णता लेली सक्षम करू."
+msgstr "एड्रेस बार में 450 से अधिक लोकप्रिय URLs पर स्वत: पूर्णता लेली सक्रिय करू."
 
 #. Title of "switch" preference that enables/disables autocomplete for the
 #. user-defined list
@@ -1665,14 +1665,14 @@ msgstr "सामग्री अवरोधन सक्रिय छेकै
 #. Pop-up message to inform users they have disabled content blocking
 msgctxt "content_blocking_disabled_snackbar_message"
 msgid "Content Blocking is disabled"
-msgstr "सामग्री अवरोधन अक्रिय छेकै"
+msgstr "सामग्री अवरोधन निष्क्रिय छेकै"
 
 #. Snackbar action button that users can press to enable content blocking
 msgctxt "content_blocking_snackbar_enable_action"
 msgid "Enable"
-msgstr "सक्षम"
+msgstr "सक्रिय"
 
 #. Snackbar action button that users can press to disable content blocking
 msgctxt "content_blocking_snackbar_disable_action"
 msgid "Disable"
-msgstr "अक्षम"
+msgstr "निष्क्रिय"
