@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-27 11:26+0000\n"
+"PO-Revision-Date: 2019-04-07 10:34+0000\n"
 "Last-Translator: Quentí <quentinantonin@free.fr>\n"
 "Language-Team: oc <LL@li.org>\n"
 "\n"
@@ -370,7 +370,7 @@ msgstr "Pels sites qu’apondètz"
 #. Summary for the toggle to enable autocomplete for the user-defined list
 msgctxt "preference_autocomplete_user_list_description"
 msgid "Enable to autocomplete sites you add here."
-msgstr ""
+msgstr "Activar per completar automaticament los sites qu’apondètz aquí."
 
 #. Preference category: Manage (user-defined) sites
 msgctxt "preference_category_autocomplete_manage_sites"
@@ -491,14 +491,14 @@ msgstr "Vida privada"
 
 msgctxt "preference_privacy_ads_block_ads"
 msgid "Block ads and other annoyances"
-msgstr ""
+msgstr "Blocar las publicitats e autres desplasers"
 
 #. Description for the toggle to block ads and some other annoyances on the
 #. web.         Do not translate: "Easylist", "EasyPrivacy", "Fanboy's
 #. Annoyance" or "777Guard Mobile Ad Filter"
 msgctxt "preference_privacy_ads_block_ads_summary"
 msgid "Stops ads and other annoyances using block lists from Easylist, EasyPrivacy, Fanboy’s Annoyance, and 777Guard Mobile Ad Filter"
-msgstr ""
+msgstr "Bloca las publicitats e autres desplasers detectats per las listas de blocatge Easylist, EasyPrivacy, Fanboy's Annoyance e 777 Guard Mobile Ad Filter"
 
 msgctxt "preference_privacy_block_analytics"
 msgid "Block analytic trackers"
@@ -512,7 +512,7 @@ msgstr "Blocar los traçadors publicitaris "
 #. are designed to track your visiting behavior
 msgctxt "preference_privacy_block_ads_new_summary"
 msgid "Removes ads designed to track site visits even if you don’t tap them"
-msgstr ""
+msgstr "Lèva las publicitats concebudas per seguir las visitas suls sites encara que toquetz pas los ligams"
 
 #. Description for the toggle that Blocks trackers (scripts) that are designed
 #. to analyze and measure user interaction
@@ -528,7 +528,7 @@ msgstr "Blocar los traçadors de malhums socials"
 #. (scripts), including the ones that embed share buttons
 msgctxt "preference_privacy_block_social_new_summary"
 msgid "Stops social-media related trackers embedded on websites, including social share buttons"
-msgstr ""
+msgstr "Bloca los traçadors ligats als malhums socials integrats als sites web, incluses los botons de partatge"
 
 msgctxt "preference_privacy_block_content"
 msgid "Block other content trackers"
@@ -537,7 +537,7 @@ msgstr "Blocar los autres traçadors de contengut"
 #. Description for the toggle that blocks other trackers
 msgctxt "preference_privacy_block_content_new_summary"
 msgid "Blocks tracking activity, but may cause some sites and pages to behave unexpectedly"
-msgstr ""
+msgstr "Bloca l’activitat de seguiment, as pòt empachar unes sites e paginas de foncionar corrèctament"
 
 msgctxt "preference_privacy_category_cookies"
 msgid "Block cookies"
@@ -1105,6 +1105,7 @@ msgstr "Refortissètz vòstra vida privada"
 msgctxt "firstrun_defaultbrowser_text_new"
 msgid "Block content like ads and code that follow you around the web and slow you down. Turn on ad blocking to browse faster without annoying ads."
 msgstr ""
+"Bloca lo contengut tal coma las publicitats e lo còdi que vos pistan sul web e vos alentisson. Activatz lo blocatge de las publicitats per navegar mai rapidament e sens cap de publicitats dolentas."
 
 #. First run tour (Search): Title
 msgctxt "firstrun_search_title"
