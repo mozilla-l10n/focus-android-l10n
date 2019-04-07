@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-06 01:41+0000\n"
+"PO-Revision-Date: 2019-04-07 04:05+0000\n"
 "Last-Translator: Bald3mar <baldemarls@gmail.com>\n"
 "Language-Team: mix <LL@li.org>\n"
 "\n"
@@ -1160,7 +1160,7 @@ msgstr "%1$s ma kuncheu anuncios"
 #. Description for intro card shown to users after updating.
 msgctxt "block_ads_card_description"
 msgid "New feature! Browse faster by stopping ads and code that follow you around the web."
-msgstr ""
+msgstr "¡Ña tsa'a! Kuche'e ña kunu ta tsasia anuncio tsi código inka nu."
 
 #. Indicator that no trackers are being blocked because content blocking is
 #. disabled; normally shows the number of blocked trackers
@@ -1488,6 +1488,8 @@ msgid ""
 "Site behaving unexpectedly?\n"
 " Try turning off Tracking Protection"
 msgstr ""
+"¿Kue va'a sahu'un sitio?\n"
+" Kunchee desactivar Protección de Rastreo"
 
 #. Tip displayed on home view explaining how to add sites to homescreen
 #. Argument 1 will be replaced with a line break in the application.
@@ -1546,7 +1548,7 @@ msgstr "Ndava tu'un kana nu pantalla tu kitsau"
 #. Tip displayed on home view explaining ad blocking
 msgctxt "tip_block_ads"
 msgid "Browse faster by stopping ads and code that follows you around the web."
-msgstr ""
+msgstr "Kuche'e ña kunu ta tsasia anuncio tsi código inka nu."
 
 #. Title for a switch that enables or disables ads
 msgctxt "block_ads_title"
@@ -1560,6 +1562,8 @@ msgid ""
 "Trusted site?\n"
 " Allowlist disables Tracking Protection for sites you know and trust."
 msgstr ""
+"¿Sitio va'á?\n"
+" Allowlist stasia protección ña sitio kue tsinu."
 
 #. Label for the snackbar when a user opens a new tab
 msgctxt "new_tab_opened_snackbar"
@@ -1592,7 +1596,7 @@ msgstr "Kasi sitio ña stavi tsi ña va'a"
 #. or deceptive webpages that may include phishing or malware
 msgctxt "preference_safe_browsing_summary"
 msgid "Block reported deceptive and attack sites, malware sites, and unwanted software sites."
-msgstr ""
+msgstr "Kasi sitio va'a, sitios ña malware tsi sitio nu inka software ña kue kunu."
 
 #. Preference for exceptions tracking protection
 msgctxt "preference_exceptions"
