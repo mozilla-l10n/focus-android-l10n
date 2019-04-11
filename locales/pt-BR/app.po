@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-02-08 23:47+0000\n"
+"PO-Revision-Date: 2019-04-11 21:15+0000\n"
 "Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
 "Language-Team: pt_BR <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -438,7 +438,7 @@ msgstr "URL a adicionar"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "Cole ou digite o URL"
+msgstr "Cole ou digite a URL"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
@@ -455,7 +455,7 @@ msgstr "Exemplo: example.com"
 #. added.
 msgctxt "preference_autocomplete_add_confirmation"
 msgid "New custom URL added."
-msgstr "Novo URL personalizado adicionado."
+msgstr "Nova URL personalizada adicionada."
 
 #. Menu item to remove existing autocomplete URLs.
 msgctxt "preference_autocomplete_menu_remove"
@@ -1306,7 +1306,7 @@ msgstr "Segurança do site"
 
 msgctxt "preference_autocomplete_duplicate_url_error"
 msgid "URL already exists"
-msgstr "O URL já existe"
+msgstr "A URL já existe"
 
 #. Label for the Find in page button
 msgctxt "find_in_page"
