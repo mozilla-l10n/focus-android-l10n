@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-01-13 13:57+0000\n"
-"Last-Translator: Alexander Slovesnik <unghost@mozilla-russia.org>\n"
+"PO-Revision-Date: 2019-04-26 19:38+0000\n"
+"Last-Translator: Victor Bychek <a@bychek.ru>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1041,7 +1041,7 @@ msgid ""
 "</ul>"
 msgstr ""
 "<ul>\n"
-"  <li>Это может быть проблемой с конфигурацией сервера или же кто-то пытается подменить нужный вам сервер другим.</li>\n"
+"  <li>Это может быть вызвано неправильной настройкой сервера или же кто-то пытается подменить нужный вам сервер другим.</li>\n"
 "  <li>Если в прошлом вы успешно соединялись с этим сервером, то, возможно, эта ошибка является временной. Попробуйте зайти позже.</li>\n"
 "</ul>"
 
@@ -1392,7 +1392,7 @@ msgstr "Дополнительно"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr "Удалённая отладка через USB/Wi-Fi"
+msgstr "Удалённая отладка по USB/Wi-Fi"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
