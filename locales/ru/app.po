@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-04-26 19:38+0000\n"
+"PO-Revision-Date: 2019-05-05 11:01+0000\n"
 "Last-Translator: Victor Bychek <a@bychek.ru>\n"
 "Language-Team: ru <LL@li.org>\n"
 "Language: ru\n"
@@ -1370,7 +1370,7 @@ msgstr "Пароль"
 #. Checkbox menu item text to request desktop site
 msgctxt "preference_performance_request_desktop_site"
 msgid "Request desktop site"
-msgstr "Полная версия сайта"
+msgstr "Версия для ПК"
 
 #. Displayed after a user long presses on the URL in a custom tab to copy the
 #. URL
@@ -1542,7 +1542,7 @@ msgstr ""
 #. application.
 msgctxt "tip_request_desktop"
 msgid "Rather see the full desktop site?%1$s Menu > Request desktop site"
-msgstr "Хотите увидеть полную версию сайта?%1$s Меню > Полная версия сайта"
+msgstr "Хотите увидеть версию сайта для ПК?%1$s Меню > Версия для ПК"
 
 #. Tip displayed on home view explaining how to add a custom autocomplete URL
 msgctxt "tip_disable_tips2"
