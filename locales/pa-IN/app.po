@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-11 13:52-0800\n"
-"PO-Revision-Date: 2019-03-28 03:19+0000\n"
+"PO-Revision-Date: 2019-05-08 14:06+0000\n"
 "Last-Translator: Aman Alam <amanpreet.alam@gmail.com>\n"
 "Language-Team: pa_Guru_IN <LL@li.org>\n"
 "Language: pa_IN\n"
@@ -427,7 +427,7 @@ msgstr "ਹੋਰ ਸਿੱਖੋ"
 #. Preference summary: Custom (user-defined) autocomplete URLs.
 msgctxt "preference_autocomplete_custom_summary"
 msgid "Add and manage custom autocomplete URLs."
-msgstr "ਕਸਟਮ ਸਵੈਪੂਰਾ URL ਜੋੜੋ ਅਤੇ ਪ੍ਰਬੰਧਿਤ ਕਰੋ।"
+msgstr "ਕਸਟਮ ਸਵੈਪੂਰਾ URL ਜੋੜੋ ਅਤੇ ਬੰਦੋਬਸਤ ਕਰੋ।"
 
 #. Label for the "custom autocomplete URL" input field
 msgctxt "preference_autocomplete_add_title"
@@ -438,18 +438,18 @@ msgstr "ਜੋੜਨ ਲਈ URL"
 #. field is empty.
 msgctxt "preference_autocomplete_add_hint"
 msgid "Paste or enter URL"
-msgstr "URL ਪੇਸਟ ਕਰੋ ਜਾਂ ਦਾਖਲ ਕਰੋ"
+msgstr "URL ਚੇਪੋ ਜਾਂ ਦਿਓ"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
 msgctxt "preference_autocomplete_add_example2"
 msgid "Example: mozilla.org"
-msgstr "ਉਦਾਹਰਨ: mozilla.org"
+msgstr "ਜਿਵੇਂ: mozilla.org"
 
 #. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
-msgstr "ਉਦਾਹਰਨ: example.com"
+msgstr "ਜਿਵੇਂ: example.com"
 
 #. Confirmation "snackbar" shown after a new custom autocomplete URL has been
 #. added.
@@ -922,7 +922,7 @@ msgstr "ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਫਾਈਲਾਂ <b> ਮਿ�
 #. Title of download dialogue
 msgctxt "download_dialog_title"
 msgid "Download File"
-msgstr "ਫਾਈਲ ਡਾਊਨਲੋਡ ਕੀਤੀ"
+msgstr "ਫਾਇਲ ਡਾਊਨਲੋਡ ਕਰੋ"
 
 #. Option in download dialogue to cancel a download
 msgctxt "download_dialog_action_cancel"
@@ -1367,7 +1367,7 @@ msgstr "ਤਕਨੀਕੀ"
 #. Preference to enable remote debugging of the app via USB or Wi-Fi
 msgctxt "preference_remote_debugging"
 msgid "Remote debugging via USB/Wi-Fi"
-msgstr "USB//Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ"
+msgstr "USB/Wi-Fi ਰਾਹੀਂ ਰਿਮੋਟ ਡੀਬੱਗ ਕਰਨਾ"
 
 #. Title for the fingerprint authentication dialog box that is shown to the
 #. user when opening the app.      %1$s is replaced with the app name
